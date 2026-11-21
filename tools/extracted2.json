@@ -1,0 +1,3282 @@
+{
+ "behavioral-health": {
+  "category": "health-science",
+  "name": "Behavioral Health",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/BH-26-27.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Behavioral Health allows members to gain knowledge and skills surrounding psychology, the mind, mental health, and substance use disorders. This competitive event consists of a written test. In the event of a tie, the tiebreaker essay will be judged. It aims to inspire members to learn about and promote mental health resilience and how to support those in recovery, their families, and the health community.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Substance Abuse and Mental Health Services Administration (SAMHSA) website",
+    "sub": []
+   },
+   {
+    "t": "Cacioppo, John and Laura Freber. Discovering Psychology. Cengage Learning, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "National Alliance on Mental Illness (NAMI) website The following additional resource is available at HOSA Webinars: SAMHSA - Behavioral Health Pathways",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Behavioral Health Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "The Mind - 25%",
+    "sub": [
+     "Biological",
+     "Sensation",
+     "Perception",
+     "Consciousness",
+     "Motivation",
+     "Emotion",
+     "Learning",
+     "Memory"
+    ]
+   },
+   {
+    "t": "Psychology and Behavioral Health Disorders, Treatments, Therapies & Services - 25%",
+    "sub": [
+     "Autism",
+     "ADHD",
+     "Schizophrenia",
+     "Bipolar",
+     "Depression",
+     "Anxiety",
+     "OCD",
+     "PTSD",
+     "Personality Disorders",
+     "Dissociative Disorders",
+     "Eating Disorders"
+    ]
+   },
+   {
+    "t": "Prevention, Identification, Recovery, and Management of Substance Abuse and Mental Illness - 25%",
+    "sub": []
+   },
+   {
+    "t": "Wellness, Stress, Coping -15%",
+    "sub": []
+   },
+   {
+    "t": "Workforce/Careers and Laws, Regulations and Guidelines - 5%",
+    "sub": []
+   },
+   {
+    "t": "History and Health Systems Integration - 5%",
+    "sub": []
+   }
+  ]
+ },
+ "biomedical-equipment-technician": {
+  "category": "health-science",
+  "name": "Biomedical Equipment Technician",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/09/BET-26-27-Sept09.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "The Biomedical Equipment Technician event aims to inspire members to learn more about Biomedical Equipment Technicians (BMETs) who ensure the functionality and safety of medical, imaging, and dental devices, including patient monitors, dental handpieces, surgical robots, ventilators, vacuum pumps, and imaging systems. This competitive event consists of a written test with a tiebreaker essay question. Through this event, competitors will learn how BMETs troubleshoot, maintain equipment, and ensure compliance within healthcare safety standards. BMETs combine technical expertise in electronics and mechanics with problem-solving skills to ensure medical devices operate reliably. They also communicate effectively with healthcare staff to provide training and support, contributing directly to patient care quality.",
+  "references": [
+   {
+    "t": "The two online courses below are used in the development of the test questions:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "There is a single sign-up/login to access both courses: https://hosa-cbet.talentlms.com/plus/",
+    "sub": [
+     "AAMI BMET 101 – AAMI Training",
+     "Medical Equipment Technician (MET) 100 Series HOSA - College of Biomedical Equipment Training"
+    ]
+   },
+   {
+    "t": "Completing these courses will enable HOSA members to sit for the AAMI Certified Associate of Biomedical Technology (CABT) Certification at a reduced HOSA student rate.",
+    "sub": []
+   },
+   {
+    "t": "Completion of these courses also provides a quality pre-apprenticeship pathway into the national registered Apprenticeship programs of both AAMI and American Healthcare Apprenticeship programs.",
+    "sub": []
+   },
+   {
+    "t": "Additional Optional Resources for both competitors and HOSA advisors:",
+    "sub": [
+     "ACI AAMI Credentials Institute Certification Candidate Handbook - Provides information about AAMI HTM certifications",
+     "HTM in a Box - Promoting the Healthcare Technology Management Field"
+    ]
+   },
+   {
+    "t": "All information about these resources and opportunities for HOSA members can be found on the Landing Page.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for Biomedical Equipment Technician is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Anatomy & Physiology - 10%",
+    "sub": []
+   },
+   {
+    "t": "Medical Devices as Related to Public Safety - 22%",
+    "sub": []
+   },
+   {
+    "t": "Safety in Healthcare - 16%",
+    "sub": []
+   },
+   {
+    "t": "Fundamentals in Electricity and Electronics - 14%",
+    "sub": []
+   },
+   {
+    "t": "Reasoning – 24%",
+    "sub": []
+   },
+   {
+    "t": "Healthcare IT - 14%",
+    "sub": []
+   }
+  ]
+ },
+ "dental-terminology": {
+  "category": "health-science",
+  "name": "Dental Terminology",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/DT-26-27-.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Dental terminology allows members to gain knowledge and skills regarding language common to all dental careers and specialties. This competitive event consists of a written test. In the event of a tie, the tiebreaker questions will be judged. It inspires members to learn about dental terminology, physiology, and pathophysiology.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Kindle, Calista and Dofka. Charline M. Dental Terminology. Cengage Learning. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Nelson, Stanley J. Wheeler’s Dental Anatomy, Physiology and Occlusion, Elsevier. Latest edition",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Dental Terminology Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Comprehensive Dental Care and Dental Specialties - 30%",
+    "sub": [
+     "General Dentistry",
+     "Oral and Maxillofacial Surgery",
+     "Cosmetic Dentistry",
+     "Pediatric Dentistry",
+     "Prosthodontics",
+     "Endodontics, Orthodontics, & Periodontics",
+     "Implant Dentistry",
+     "Dental office laboratory and equipment"
+    ]
+   },
+   {
+    "t": "Dental Instruments - 10%",
+    "sub": []
+   },
+   {
+    "t": "Pharmacology & Pain Management - 10%",
+    "sub": []
+   },
+   {
+    "t": "Emergency Care - 10%",
+    "sub": []
+   },
+   {
+    "t": "Tooth Restorations - 10%",
+    "sub": []
+   },
+   {
+    "t": "Head and Neck Anatomy - 10%",
+    "sub": []
+   },
+   {
+    "t": "Radiography - 10%",
+    "sub": []
+   },
+   {
+    "t": "Dental Laboratory Materials and Procedures - 10%",
+    "sub": []
+   }
+  ]
+ },
+ "health-informatics": {
+  "category": "health-science",
+  "name": "Health Informatics",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/HI-26-27-FINAL-1-2.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "The Health Informatics test will assess knowledge and skills related to health information systems, analysis of healthcare data and information, and clinical research processes. This competitive event consists of a written test. In the event of a tie, the essay will be judged to break the tie. It aims to inspire members to learn more about this field.",
+  "references": [
+   {
+    "t": "The references below are used in developing the test questions:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Zhou & Clack. Introduction to Healthcare Informatics. AHIMA Press. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "White, Susan. A Practical Approach to Analyzing Healthcare Data. AHIMA Press. Latest edition.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Health Informatics Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "History, Careers, and Roles - 8%",
+    "sub": []
+   },
+   {
+    "t": "Information Systems in Healthcare - 12%",
+    "sub": []
+   },
+   {
+    "t": "Data Analytics - 28%",
+    "sub": []
+   },
+   {
+    "t": "Data Integrity and Quality - 8%",
+    "sub": []
+   },
+   {
+    "t": "Data Governance - 12%",
+    "sub": []
+   },
+   {
+    "t": "Health Information Privacy & Security - 12%",
+    "sub": []
+   },
+   {
+    "t": "Ethics - 4%",
+    "sub": []
+   },
+   {
+    "t": "Research Study and Design - 12%",
+    "sub": []
+   },
+   {
+    "t": "Emerging Technologies - 4% The test will include case studies, clinical trials, and EHRs. It will assess knowledge and skills related to analyzing background data and information, data entry and retrieval, and risk measures and calculations. A series of multiple-choice questions related to the data will be included. At the International Leadership Conference, HOSA will provide basic handheld calculators (no graphing calculators) for addition, subtraction, division, multiplication, and square root calculations. Personal calculators are NOT allowed.",
+    "sub": []
+   }
+  ]
+ },
+ "healthcare-administration": {
+  "category": "health-science",
+  "name": "Healthcare Administration",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/HCA-26-27-FINAL-1.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Healthcare Administration allows members to gain knowledge and skills regarding managing healthcare. This competitive event consists of a written test with a tiebreaker essay question. It aims to inspire members to learn about and prepare for a role in healthcare administration.",
+  "references": [
+   {
+    "t": "The references below will be used in the development of the test questions:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Burns, Bradley, Weiner. Shortell & Kaluzny’s Health Care Management: Organization Design and Behavior. Cengage. Latest Edition.",
+    "sub": []
+   },
+   {
+    "t": "Buchbinder, Sharon B. Introduction to Health Care Management. Jones & Bartlett Learning. Latest Edition.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Healthcare Administration is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Globalization of Health Care Delivery Systems and Challenges - 10%",
+    "sub": []
+   },
+   {
+    "t": "Leadership & Management Framework - 10%",
+    "sub": []
+   },
+   {
+    "t": "Organization Design & Coordination - 10%",
+    "sub": []
+   },
+   {
+    "t": "Motivating People and Conflict Management - 10%",
+    "sub": []
+   },
+   {
+    "t": "Teams & Team Effectiveness -10%",
+    "sub": []
+   },
+   {
+    "t": "Communication - 10%",
+    "sub": []
+   },
+   {
+    "t": "Improving Quality - 10%",
+    "sub": []
+   },
+   {
+    "t": "Strategy & Achieving Mission - 10%",
+    "sub": []
+   },
+   {
+    "t": "Health Policy & Regulation - 10%",
+    "sub": []
+   },
+   {
+    "t": "Consumerism & Ethics - 10%",
+    "sub": []
+   }
+  ]
+ },
+ "human-growth-development": {
+  "category": "health-science",
+  "name": "Human Growth and Development",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/HGD-26-27.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Human Growth & Development allows members to gain knowledge and skills regarding biophysical, mental/cognitive, social, and emotional development throughout the human lifespan. This competitive event consists of a written test. In the event of a tie, the essay will be judged to break the tie. It aims to inspire members to learn more about growth and development across the lifespan.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Polan, Elaine and Daphne Taylor. Journey Across the Lifespan: Human Development and Health Promotion. F.A. Davis, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Simmers, L., Simmers-Nartker, Simmers-Kobelak, S, .K., Morris, L. DHO: Health Science. Cengage Learning, Latest edition",
+    "sub": []
+   },
+   {
+    "t": "Kato, Sharleen L. Lifespan Development. Goodheart-Willcox Publisher, Latest edition.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Human Growth and Development Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Government, Cultural, and Family Influences - 20%",
+    "sub": []
+   },
+   {
+    "t": "Theories of Development - 16%",
+    "sub": []
+   },
+   {
+    "t": "Prenatal and Infancy - 12%",
+    "sub": []
+   },
+   {
+    "t": "Childhood and Adolescence - 22%",
+    "sub": []
+   },
+   {
+    "t": "Adulthood - 15%",
+    "sub": []
+   },
+   {
+    "t": "Geriatrics, End of Life, and Grief - 15%",
+    "sub": []
+   }
+  ]
+ },
+ "medical-law-ethics": {
+  "category": "health-science",
+  "name": "Medical Law and Ethics",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/MLE-26-27.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Medical Law & Ethics allows members to gain knowledge and skills regarding U.S. medical law, ethics, and bioethics. This competitive event consists of a written test. In the event of a tie, the essay will be judged to break the tie. It aims to inspire members to learn about ethical and legal terms and how to analyze, synthesize, and evaluate information related to this field.",
+  "references": [
+   {
+    "t": "The below references are used in the development of the test questions.",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Tamparo, Carol D. Medical Law, Ethics, & Bioethics for the Health Professions. F.A. Davis, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Fremgen, Bonnie. Healthcare Law and Ethics. Pearson, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Ritter, Lois and Donald Graham. Medical Law & Professional Ethics. Goodheart-Willcox, Latest edition.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Medical Law & Ethics Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "The Basics: Medical Law, Ethics and Bioethics - 5%",
+    "sub": []
+   },
+   {
+    "t": "The Legal Environment - 35%",
+    "sub": [
+     "State and Federal Regulations; Consent",
+     "The Legal System; Professional Liability",
+     "Law for Health Professionals; Public Duty"
+    ]
+   },
+   {
+    "t": "The Health Care Environment - 35%",
+    "sub": [
+     "Physician-Patient Relationships",
+     "Medical Malpractice",
+     "Medical Records",
+     "Workplace Law and Ethics",
+     "Cultural Perspective",
+     "Patient Confidentiality",
+     "Employment Practices"
+    ]
+   },
+   {
+    "t": "Bioethical Issues - 25%",
+    "sub": [
+     "Ethical and Bioethical Issues in Medicine",
+     "Allocation of Scarce Resources",
+     "Genetic Engineering",
+     "Reproductive Issues",
+     "End-of-Life Issues"
+    ]
+   }
+  ]
+ },
+ "medical-math": {
+  "category": "health-science",
+  "name": "Medical Math",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/10/MM-26-27-Updated-10.17.pdf",
+  "round1": "50 Q test (90 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Medical Math allows members to gain the knowledge and skills required to identify, solve, and apply mathematical principles. This competitive event consists of a written test. In the event of a tie, the tie-breaker questions will be judged to break the tie. It aims to inspire members to learn about the integration of mathematics in health care, including temperature, weights, and measures used in the health community.",
+  "references": [
+   {
+    "t": "The references below are used in developing the test questions:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Simmers, L., Simmers-Nartker, K., Simmers-Kobelak, S., Morris, L. DHO: Health Science. Cengage Learning, Latest edition",
+    "sub": []
+   },
+   {
+    "t": "Craig, Gloria P., Dosage Calculations Made Easy. Wolters Kluwer, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Rewald,M. Lorang, B. and Schramm, G. Pharmacy Calculations: An Introduction for Pharmacy Technicians. Latest edition. (Use this HOSA student promo code at checkout for a discount on this ASHP resource: ASHPxHOSA)",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Medical Math Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Mathematical essentials - 5%",
+    "sub": []
+   },
+   {
+    "t": "Measurement and conversion problems - 30%",
+    "sub": []
+   },
+   {
+    "t": "Drug dosages and intravenous solutions - 35%",
+    "sub": []
+   },
+   {
+    "t": "Dilutions, solutions, and concentrations - 30% At the International Leadership Conference, HOSA will provide basic handheld calculators (no graphing calculators) for addition, subtraction, division, multiplication, and square root calculations. Personal calculators are NOT allowed. Abbreviations will be used in the written problems. In addition, the test will use standard medical abbreviations as designated in the Simmers DHO: Health Science reference. At least half of the computation and calculation problems involve conversions. The medical math “Reference Materials Summary” included in these guidelines (page 4) will be used as the official reference for the test for uniformity. Competitors may NOT use this summary page or any conversion chart or resource during the test.",
+    "sub": []
+   }
+  ]
+ },
+ "medical-reading": {
+  "category": "health-science",
+  "name": "Medical Reading",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/MR-26-27.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Medical Reading allows Secondary and Postsecondary/Collegiate members to improve their reading comprehension and understanding of particular topics related to leadership development and the health community. This competitive event shall be a written test of information and knowledge gained from reading the selected books for the current year. Competitors will apply, analyze, synthesize, and/or evaluate the reading material in a multiple-choice test. This event aims to inspire members to be proactive future health professionals and apply the knowledge gained from reading medical and leadership books.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Crisis Averted; The Hidden Science of Fighting Outbreaks by Caitlin Rivers",
+    "sub": []
+   },
+   {
+    "t": "Everything is Tuberculosis: The History and Persistence of Our Deadliest Infection by John Green",
+    "sub": []
+   },
+   {
+    "t": "Fragmented: A Doctor's Quest to Piece Together American Healthcare by Ilana Yurkiewicz MD",
+    "sub": []
+   },
+   {
+    "t": "The Next Patient: The Incredible World of Emergency Medicine by Dr. J. Thomas Grant",
+    "sub": []
+   },
+   {
+    "t": "Grit: The Power of Passion and Perseverance by Angela Duckworth",
+    "sub": []
+   }
+  ],
+  "testplan": []
+ },
+ "medical-spelling": {
+  "category": "health-science",
+  "name": "Medical Spelling",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/MS-26-27-FINAL-1.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Medical Spelling allows HOSA members to gain knowledge and skills regarding the definitions and spelling of medical terms. This competitive event consists of two rounds: Round One is a written, multiple-choice test, and Round Two is a “spelldown” in which competitors spell terms in front of judges. This event aims to inspire members to become skilled in medical spelling.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and spelling lists:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Taber's Cyclopedic Medical Dictionary. Edited by Donald Venes and Clayton L. Thomas, M.D F.A. Davis Company, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Taber’s Audio Glossary, F.A. Davis Company, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Purchasing the dictionary will also give HOSA members access to the audio online glossary, which can be used by Chartered Associations/ILC for competition and by competitors to practice.",
+    "sub": []
+   }
+  ],
+  "testplan": []
+ },
+ "medical-terminology": {
+  "category": "health-science",
+  "name": "Medical Terminology",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/MT-26-27.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Medical Terminology allows members to gain knowledge and skills regarding prefixes, suffixes, word roots, anatomy, physiology, pathophysiology, and occupations related to the health field. This competitive event consists of a written test with tiebreaker questions and aims to inspire members to learn about terms used in health professions and specialties.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Ehrlich, Ann. Medical Terminology for Health Professions. Cengage Learning. Latest Edition.",
+    "sub": []
+   },
+   {
+    "t": "Taber's Cyclopedic Medical Dictionary. Edited by Donald Venes and Clayton L. Thomas, M.D. F.A. Davis Company, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Stanhope and Turnbull. Introduction to Medical Terminology. Goodheart-Willcox. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Dean Vaughn's Medical Terminology by Body Systems, Peterson's Publishing, Latest Release (Online version). The following additional resource is available at HOSA Webinars: G-W Publisher - Medical Terminology",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Medical Terminology Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Roots, Prefixes, Suffixes, and Combining Forms - 45%",
+    "sub": []
+   },
+   {
+    "t": "Overview of Body - 5%",
+    "sub": []
+   },
+   {
+    "t": "Skeletal - 5%",
+    "sub": []
+   },
+   {
+    "t": "Muscular - 5%",
+    "sub": []
+   },
+   {
+    "t": "Respiratory - 5%",
+    "sub": []
+   },
+   {
+    "t": "Digestive - 5%",
+    "sub": []
+   },
+   {
+    "t": "Cardiovascular & Lymphatic – 5%",
+    "sub": []
+   },
+   {
+    "t": "Nervous/Special Senses - 5%",
+    "sub": []
+   },
+   {
+    "t": "Endocrine - 5%",
+    "sub": []
+   },
+   {
+    "t": "Reproductive - 5%",
+    "sub": []
+   },
+   {
+    "t": "Integumentary - 5%",
+    "sub": []
+   },
+   {
+    "t": "Urinary - 5%",
+    "sub": []
+   }
+  ]
+ },
+ "nutrition": {
+  "category": "health-science",
+  "name": "Nutrition",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/Nut-26-27.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Nutrition allows HOSA members to explore and learn about the relationship between nutrition and wellness and assess knowledge common in this health field. This competitive event consists of a written test. In the event of a tie, the essay will be judged to break the tie. It aims to inspire members to become proactive future health professionals by applying and analyzing information related to nutrition and health.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Roth, Ruth. Nutrition and Diet Therapy. Cengage Learning. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "West, Dorothy. Nutrition and Wellness for Life. Goodheart-Willcox. Latest edition.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Nutrition test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Carbohydrates, fats and proteins - 15%",
+    "sub": []
+   },
+   {
+    "t": "Vitamins & minerals - 15%",
+    "sub": []
+   },
+   {
+    "t": "Water (Fluid & electrolyte balance) - 10%",
+    "sub": []
+   },
+   {
+    "t": "Nutrition through the life span - 15%",
+    "sub": []
+   },
+   {
+    "t": "Digestion, absorption, and metabolism - 10%",
+    "sub": []
+   },
+   {
+    "t": "Cultural patterns and food habits - 5%",
+    "sub": []
+   },
+   {
+    "t": "Food-related illnesses, intolerances, and allergies - 10%",
+    "sub": []
+   },
+   {
+    "t": "Medical nutrition therapy - 20%",
+    "sub": [
+     "Diabetes",
+     "Renal Disease",
+     "Clients with special needs",
+     "Cardiovascular disease",
+     "Gastrointestinal disease",
+     "Cancer"
+    ]
+   }
+  ]
+ },
+ "pathophysiology": {
+  "category": "health-science",
+  "name": "Pathophysiology",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/Patho-26-27-FINAL-1.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Pathophysiology allows members to gain knowledge and skills regarding pathophysiology concepts. This competitive event consists of a written test. In the event of a tie, the essay will be judged to break the tie. This event aims to inspire members to learn about the anatomy and physiology of human diseases impacting the health community.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "iCEV Pathophysiology and Anatomy and Physiology Courses (See special landing page for pricing)",
+    "sub": []
+   },
+   {
+    "t": "Frazier. Essentials of Human Diseases and Conditions. Elsevier, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Zelman, Mark; Raymond, Jill; Holdaway, Paul; Dafnis, Elaine; Mulvihill, Mary Lou. Human Diseases A Systemic Approach. Pearson. Latest edition.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Pathophysiology Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Disease Process & Terminology (includes cancer & neoplasms) - 12%",
+    "sub": []
+   },
+   {
+    "t": "Body Systems",
+    "sub": [
+     "Integumentary - 8%",
+     "Musculoskeletal - 10%",
+     "Circulatory & Lymphatic - 12%",
+     "Respiratory - 8%",
+     "Digestive - 12%",
+     "Endocrine - 8%",
+     "Nervous & Senses - 10%",
+     "Reproductive - 6%",
+     "Urinary - 6%",
+     "Mental Disorders - 8%"
+    ]
+   }
+  ]
+ },
+ "pharmacology": {
+  "category": "health-science",
+  "name": "Pharmacology",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/Pharm-26-27.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Pharmacology provides HOSA members with the opportunity to gain knowledge and skills regarding the area of healthcare concerned with drug uses, effects, and modes of action. This competitive event consists of a written test. In the event of a tie, the essay will be judged to break the tie. It aims to inspire members to learn about drugs' actions on the body, proper administration, and adaptations for different patients and conditions.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Moini, Jahangir. The Pharmacy Technician: A Comprehensive Approach. Cengage Learning, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Ford, Susan and Sally Roach. Introductory Clinical Pharmacology. Wolters Kluwer, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Dean Vaughn's Pharmacology by Body System online: https://deanvaughn.com/pharmacology-hosa/",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Pharmacology Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Basic Concepts in Pharmacology - 15%",
+    "sub": []
+   },
+   {
+    "t": "Ethical and Legal Responsibilities - 10%",
+    "sub": []
+   },
+   {
+    "t": "Pediatrics and Geriatrics Adaptations - 10%",
+    "sub": []
+   },
+   {
+    "t": "Drug Names, Classifications, Actions, and Interactions - 30%",
+    "sub": []
+   },
+   {
+    "t": "Drug Administration - 20%",
+    "sub": []
+   },
+   {
+    "t": "Drug Measurement, Dosage, Conversions - 10%",
+    "sub": []
+   },
+   {
+    "t": "Technologies in Pharmacology - 5%",
+    "sub": []
+   },
+   {
+    "t": "(Safety will be integrated throughout the test plan) At the International Leadership Conference, HOSA will provide basic handheld calculators (no graphing calculators) for addition, subtraction, division, multiplication, and square root calculations. Personal calculators are NOT allowed.",
+    "sub": []
+   }
+  ]
+ },
+ "world-health-disparities": {
+  "category": "health-science",
+  "name": "World Health and Disparities",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/WHD-26-27.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "World Health and Disparities allows members to gain knowledge and skills regarding world health and disparities. This competitive event consists of a written test. In the event of a tie, the essay will be judged to break the tie. The event aims to increase competence in understanding world health and identifying and overcoming health disparities.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions. Content is posted as of September 1, 2026:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Barr, Donald A. Health Disparities in the US. Johns Hopkins University Press, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Our World in Data website",
+    "sub": []
+   },
+   {
+    "t": "National Institute of Minority Health & Disparities: https://www.nimhd.nih.gov/",
+    "sub": []
+   },
+   {
+    "t": "World Health Organization. Health Equity: https://www.who.int/health-topics/health-equity#tab=tab_1 (Fact Sheets and Questions & Answers sections)",
+    "sub": []
+   },
+   {
+    "t": "Selected featured topics of the KFF Independent Source for Health Policy Research website, including Health Policy 101, Employer Health Benefits Survey, Health System Tracker, Global Health Policy, Health Costs, Racial Equality and Health Policy and the Uninsured and State Health Facts: https://www.kff.org/policy-research/ (see test plan).",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the World Health and Disparities Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "What is Health - 20%",
+    "sub": []
+   },
+   {
+    "t": "Health Disparities & Diversity - 40%",
+    "sub": []
+   },
+   {
+    "t": "Disparities in Treatment & Medical Decisions - 20%",
+    "sub": []
+   },
+   {
+    "t": "Reducing Health Disparities - 20%",
+    "sub": []
+   }
+  ]
+ },
+ "biotechnology": {
+  "category": "health-professions",
+  "name": "Biotechnology",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/BT-26-27-FINAL-.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Biotechnology allows members to gain the knowledge and skills required for a laboratory setting using biotechnology. This competitive event consists of two rounds. Round One is a written, multiple-choice test, and the top-scoring competitors will advance to Round Two for the skills assessment. This event aims to inspire members to learn more about biotechnology careers.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets. Bio-Rad has provided additional resources to support competitors in event preparation below.",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Brown, J. Kirk. Biotechnology A Laboratory Skills Course. Bio-Rad. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Starr and Taggart. Biology: The Unity and Diversity of Life AP. National Geographic Learning. Cengage. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Biotechnology Careers",
+    "sub": []
+   },
+   {
+    "t": "Bio-Rad Resources",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for Biotechnology is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Biotechnology industry practices and careers - 4%",
+    "sub": []
+   },
+   {
+    "t": "Biotechnology in health - 4%",
+    "sub": []
+   },
+   {
+    "t": "Governmental regulation of biotechnology - 4%",
+    "sub": []
+   },
+   {
+    "t": "Basic laboratory skills - 14%",
+    "sub": [
+     "PPE",
+     "Preparing solutions (calculations, use of balance and other equipment)",
+     "Pipetting"
+    ]
+   },
+   {
+    "t": "Microbiology and cell culture - 12%",
+    "sub": []
+   },
+   {
+    "t": "DNA structure and analysis - 14%",
+    "sub": []
+   },
+   {
+    "t": "Bacterial transformation - 10%",
+    "sub": []
+   },
+   {
+    "t": "Polymerase chain reaction (PCR) - 14%",
+    "sub": []
+   },
+   {
+    "t": "Protein structure, function, and analysis - 14%",
+    "sub": []
+   },
+   {
+    "t": "Immunological applications - 10%",
+    "sub": []
+   }
+  ]
+ },
+ "clinical-lab-science": {
+  "category": "health-professions",
+  "name": "Clinical Lab Science",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/CLS_MLS-26-27-FINAL-2-1.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Clinical Laboratory Science (Medical Laboratory Scientist) provides members with the opportunity to gain the knowledge and skills required for a traditional laboratory setting. This competitive event consists of two rounds. Round One is a written, multiple-choice test, and the top-scoring competitors advance to Round Two for the skills assessment. This event aims to inspire members to learn more about clinical/medical laboratory careers.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Estridge and Reynolds. Basic Clinical Laboratory Techniques. Cengage Learning. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Simmers, L., Simmers-Nartker, K., Simmers-Kobelak, S. & Morris, L. DHO: Health Science, Cengage Learning, Latest edition. (Skills only)",
+    "sub": []
+   },
+   {
+    "t": "OneLabREACH",
+    "sub": [
+     "Fundamentals of Bloodborne Pathogens",
+     "Fundamentals of Laboratory Safety",
+     "Fundamentals of Personal Protective Equipment (PPE) in Clinical Laboratories",
+     "Routine Microscopy Procedures"
+    ]
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for CLS/MLS is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Clinical Lab Professions - 8%",
+    "sub": []
+   },
+   {
+    "t": "Biological Safety - 12%",
+    "sub": []
+   },
+   {
+    "t": "Laboratory Math - 6%",
+    "sub": []
+   },
+   {
+    "t": "Hematology & Hemostasis - 14%",
+    "sub": []
+   },
+   {
+    "t": "Immunology - 16%",
+    "sub": []
+   },
+   {
+    "t": "Urinalysis - 8%",
+    "sub": []
+   },
+   {
+    "t": "Clinical Chemistry - 14%",
+    "sub": []
+   },
+   {
+    "t": "Clinical Microbiology - 14%",
+    "sub": []
+   },
+   {
+    "t": "Parasitology - 8%",
+    "sub": []
+   }
+  ]
+ },
+ "clinical-nursing": {
+  "category": "health-professions",
+  "name": "Clinical Nursing",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/CN-26-27-FINAL-2-1.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Clinical Nursing provides members with the opportunity to gain the knowledge and skills required in the nursing field. This competitive event consists of two rounds. Round One will be a written, multiple-choice test and top-scoring competitors will advance to Round Two for the skills assessment. This event aims to inspire members to use critical thinking skills and be equipped with insight to treat patients in a clinical setting.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Perry and Potter. Clinical Nursing Skills and Techniques. Elsevier Science/Mosby, Inc., Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Rosdahl and Kowalski. Textbook of Basic Nursing. Wolters Kluwer, Latest edition.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for Clinical Nursing is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Basic Care - 20%",
+    "sub": []
+   },
+   {
+    "t": "Clinical Care Through the Life Span - 20% ○Maternal / Newborn ○Pediatrics ○Adulthood and Gerontology ○Mental Health ○Home Care, Extended Care, Rehabilitation, Hospice",
+    "sub": []
+   },
+   {
+    "t": "Clinical Care for Systems Diseases and Disorders - 60% ○Structure and Function ○Signs and Symptoms ○Nursing Assessment and Diagnosis ○Pharmacology and Medication Management ○Nutrition, Fluid and Electrolyte Balance ○Medical and Surgical Treatments",
+    "sub": []
+   }
+  ]
+ },
+ "clinical-specialty": {
+  "category": "health-professions",
+  "name": "Clinical Specialty",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/10/CS-26-27-Oct-26.pdf",
+  "round1": "Portfolio (pre-judged)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Clinical Specialty allows members to gain knowledge and skills about a health career of their choosing. This competitive event consists of three items: developing a career portfolio, a video demonstration of a selected skill common to the chosen health career, and a live presentation to the judges. This event aims to inspire members to learn more about a health-related career and become skilled future health professionals.",
+  "references": [],
+  "testplan": []
+ },
+ "dental-science": {
+  "category": "health-professions",
+  "name": "Dental Science",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/10/DS-26-27-Update.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Dental Science allows members to gain knowledge and skills required for dental careers. This competitive event consists of two rounds. Round One is a written, multiple-choice test, and the top-scoring competitors will advance to Round Two for the skills assessment. This event aims to inspire members to learn more about careers in the dental field.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Boyd, Linda. Dental Instruments: A Pocket Guide. Saunders, latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Robinson, Debbie S. Modern Dental Assisting. Elsevier, latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Simmers, L., Simmers-Narker, K., Simmers-Kobelak, S., Morris L. DHO: Health Science. Cengage Learning, Latest edition. (SKILLS ONLY)",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for Dental Science is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "The Dental Team, Dental Specialties, and History - 10%",
+    "sub": []
+   },
+   {
+    "t": "DENTAL Anatomy and Physiology - 10%",
+    "sub": []
+   },
+   {
+    "t": "Dental Pathology - 10%",
+    "sub": []
+   },
+   {
+    "t": "Tooth Morphology - 10%",
+    "sub": []
+   },
+   {
+    "t": "Infection Control / Occupational Health and Safety - 10%",
+    "sub": []
+   },
+   {
+    "t": "Chairside Assisting/Instruments (Including Restorative and Laboratory Materials) - 30%",
+    "sub": []
+   },
+   {
+    "t": "Radiology - 10%",
+    "sub": []
+   },
+   {
+    "t": "Medical Emergencies in the Dental Office - 10%",
+    "sub": []
+   }
+  ]
+ },
+ "family-medicine-physician": {
+  "category": "health-professions",
+  "name": "Family Medicine Physician",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/FMP-26-27-.pdf",
+  "round1": "Research, Interview &",
+  "team": "Solo Event: 1 competitor",
+  "summary": "The Family Medicine Physician competitive event allows HOSA members to gain knowledge about this career path through interviews, research, and a peer presentation. Competitors will conduct interviews to learn more about family medicine and share their findings with their peers through a presentation. Competitors will present their peer presentations to judges, showcasing what they have learned. This event aims to inspire members to learn about the dynamic field of Family Medicine and ensure patients from every community, everywhere, have access to a family physician.",
+  "references": [
+   {
+    "t": "2. The recommended reading/viewing for this event can be accessed at this summary landing page:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Additionally, competitors may find it helpful to view Start With Why (especially to address Learning Objective “e.”)",
+    "sub": []
+   }
+  ],
+  "testplan": []
+ },
+ "genetics": {
+  "category": "health-professions",
+  "name": "Genetics",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/11/Gen-26-27-11.17-1.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Genetics provides HOSA Members the opportunity to gain the knowledge and skills required for a laboratory setting and to explore genetics-related careers. This competitive event consists of two rounds. Round One is a written, multiple-choice test, and the top-scoring competitors will advance to Round Two for the skills assessment. This event aims to inspire members to learn more about the careers available.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Carolina® Genetics: A Guidebook for the HOSA Genetics Written Test Digital Copy",
+    "sub": []
+   },
+   {
+    "t": "Carolina® Genetics: A Guidebook for the HOSA Genetics Written Test Printed Version The following references are used in skill development: Skill                                    References Skill I: DNA Extraction                  Strawberry DNA Extraction Video and Handout Skill II: Perform Gene                   Bacterial Conjugation: Transfer with Asexually                      ● Carolina® Genetics: A Guidebook for the HOSA Reproducing Organism                             Genetics Written Test Digital Copy (page 19) (E.Coli)                                     ● Sterile Technique",
+    "sub": []
+   },
+   {
+    "t": "Streaking for Isolation",
+    "sub": []
+   },
+   {
+    "t": "Suggested preparation: Lab Skills: Aseptic Technique Bacterial Transduction:",
+    "sub": []
+   },
+   {
+    "t": "Carolina® Genetics: A Guidebook for the HOSA Genetics Written Test Digital Copy (page 17-18)",
+    "sub": []
+   },
+   {
+    "t": "Sterile Technique",
+    "sub": []
+   },
+   {
+    "t": "Suggested preparation: Lab Skills: Serial Dilution Skill III: Perform Test                  Drosophila: Genetic Cross with Sexually                  ● Carolina® Genetics: A Guidebook for the HOSA Reproducing Model                               Genetics Written Test Digital Copy (pages 89-111) Organism                                     ● Drosophila Care Guide and Videos",
+    "sub": []
+   },
+   {
+    "t": "Introductory Genetics With Drosophila Wisconsin Fast Plants:",
+    "sub": []
+   },
+   {
+    "t": "Carolina® Genetics: A Guidebook for the HOSA Genetics Written Test Digital Copy (pages 84-88)",
+    "sub": []
+   },
+   {
+    "t": "Wisconsin Fast Plants Care Guide and Videos",
+    "sub": []
+   },
+   {
+    "t": "Wisconsin Fast Plants Video Playlist",
+    "sub": []
+   },
+   {
+    "t": "Wisconsin Fast Plants Skill IV: Genetic Cross                  Carolina® Genetics: A Guidebook for the HOSA Genetics Results Interpretation                   Written Test Digital Copy (pages 25-48) Skill V: Validate Mode of                Carolina® Genetics: A Guidebook for the HOSA Genetics Inheritance Using Chi-                   Written Test Digital Copy (pages 67-75) Square Test",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for Genetics is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Reproduction, Mitosis and Meiosis- 20%",
+    "sub": []
+   },
+   {
+    "t": "Classical Genetics- 20%",
+    "sub": []
+   },
+   {
+    "t": "Chromosomal Inheritance- 10%",
+    "sub": []
+   },
+   {
+    "t": "Experimental Design and Model Organisms- 15%",
+    "sub": []
+   },
+   {
+    "t": "Molecular Genetics- 15 %",
+    "sub": []
+   },
+   {
+    "t": "Population Genetics- 10%",
+    "sub": []
+   },
+   {
+    "t": "Modern Applications and Careers in Genetics- 10%",
+    "sub": []
+   }
+  ]
+ },
+ "home-health-aide": {
+  "category": "health-professions",
+  "name": "Home Health Aide",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/HHA-26-27-.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Home Health Aide allows members to gain the knowledge and skills required for supporting patients in their homes. This competitive event consists of two rounds. Round one is a written, multiple-choice test, and the top-scoring competitors will advance to Round Two for the skills assessment. This event aims to inspire members to be proactive future health professionals and equip them to serve patients in a home health setting.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Balduzzi, Suzann. Homemaker Home Health Aide. Cengage Learning. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Leahy, Fuzy, & Grafe. Providing Home Care: A Textbook for Home Health Aides. Hartman Publishing, Inc. Latest edition.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for Home Health Aide is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Responsibilities and Legal/Ethical Issues - 10%",
+    "sub": []
+   },
+   {
+    "t": "Effective Communication - 6%",
+    "sub": []
+   },
+   {
+    "t": "Infection Control and Safety - 10%",
+    "sub": []
+   },
+   {
+    "t": "Body Systems and Common Disorders - 40%",
+    "sub": []
+   },
+   {
+    "t": "Caring for Special Populations - 24%",
+    "sub": []
+   },
+   {
+    "t": "Basic Healthcare Skills - 10%",
+    "sub": []
+   }
+  ]
+ },
+ "medical-assisting": {
+  "category": "health-professions",
+  "name": "Medical Assisting",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/09/MA-26-27-9.29.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Medical Assisting provides members with the opportunity to gain the knowledge and skills required to assist in administrative and clinical tasks. This competitive event consists of two rounds. Round One is a written, multiple-choice test, and the top-scoring competitors advance to Round Two for the skills assessment. This event aims to inspire members to become allied health professionals who respond and assist efficiently in clinical settings.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Blesi, Wise, and Kelley-Arney. Medical Assisting: Administrative and Clinical Competencies. Cengage Learning. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Simmers, L., Simmers-Narker, K., Simmers-Kobelak, S., Morris L. DHO: Health Science. Cengage Learning, Latest edition. (SKILLS ONLY)",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for Medical Assisting is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Professionalism - 4%",
+    "sub": []
+   },
+   {
+    "t": "Communication Skills - 6%",
+    "sub": []
+   },
+   {
+    "t": "Anatomy & Physiology and Medical Terminology - 10%",
+    "sub": []
+   },
+   {
+    "t": "Legal and Ethical Issues - 10%",
+    "sub": []
+   },
+   {
+    "t": "Office Procedures - 10%",
+    "sub": []
+   },
+   {
+    "t": "Health Insurance and Coding - 10%",
+    "sub": []
+   },
+   {
+    "t": "Infection Control - 10%",
+    "sub": []
+   },
+   {
+    "t": "Collecting and Processing Specimens - 10%",
+    "sub": []
+   },
+   {
+    "t": "Diagnostic Testing - 10%",
+    "sub": []
+   },
+   {
+    "t": "Clinical Procedures and Equipment - 10%",
+    "sub": []
+   },
+   {
+    "t": "Physical Examinations - 10%",
+    "sub": []
+   }
+  ]
+ },
+ "nursing-assisting": {
+  "category": "health-professions",
+  "name": "Nursing Assisting",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/09/NA-26-27-9.29.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Nursing Assisting allows members to gain knowledge and skills required for patient care in medical settings. This competitive event consists of two rounds. Round One is a written, multiple-choice test, and the top-scoring competitors will advance to Round Two for the skills assessment. This event aims to inspire members to learn more about the nursing field and how to provide quality care.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Dugan, Diana L. Nursing Assisting A Foundation in Caregiving. Hartman Publishing, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Roe, Sue. The Nursing Assistant: Essentials of Holistic Care. The Goodheart-Wilcox Company, Inc., Latest edition.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for Nursing Assisting is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Nursing Assistant Roles and Responsibilities - 6%",
+    "sub": []
+   },
+   {
+    "t": "Anatomy and Physiology - 20%",
+    "sub": []
+   },
+   {
+    "t": "Infection Control/Safety - 14%",
+    "sub": []
+   },
+   {
+    "t": "Communication/Culture - 10%",
+    "sub": []
+   },
+   {
+    "t": "Providing and Reporting Care - 30%",
+    "sub": []
+   },
+   {
+    "t": "Disabilities and Disorders - 20%",
+    "sub": []
+   }
+  ]
+ },
+ "occupational-therapy": {
+  "category": "health-professions",
+  "name": "Occupational Therapy",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/09/OT-26-27-9.22.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "The occupational therapy event enables members to acquire the knowledge and skills employed by occupational therapy professionals. This competitive event consists of two rounds. Round One is a written, multiple-choice test, and the top-scoring competitors will advance to Round Two for the skills assessment. This event aims to inspire members to learn more about careers in the occupational therapy field.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "O’Brien and Conners. Introduction to Occupational Therapy. Mosby. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Atchison and DIrette. Conditions in Occupational Therapy: Effect on Occupational Performan Wolters Kluwer. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Hall, Cheryl A. Occupational Therapy Toolkit. www.ottoolkit.com/hosa (SKILLS ONLY) The following additional resource is available at HOSA Webinars: Why Choose OT? - Career in Occupational Therapy.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for Occupational Therapy is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Profession of OT - 10%",
+    "sub": []
+   },
+   {
+    "t": "Occupational Therapy Models of Practice - 10%",
+    "sub": []
+   },
+   {
+    "t": "Activity Analysis and Occupation-based Activities - 10%",
+    "sub": []
+   },
+   {
+    "t": "Occupational Therapy for Physical Conditions - 20%",
+    "sub": []
+   },
+   {
+    "t": "Occupational Therapy for Wellness and Mental Health - 20%",
+    "sub": []
+   },
+   {
+    "t": "Occupational Therapy Across the Lifespan: Children, Adults, Older Adults - 20%",
+    "sub": []
+   },
+   {
+    "t": "Ethical and Safety Considerations - 10%",
+    "sub": []
+   }
+  ]
+ },
+ "patient-care-technician": {
+  "category": "health-professions",
+  "name": "Patient Care Technician",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/09/PCT-26-27-FINAL-1.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Patient Care Technician allows members to gain the knowledge and skills required for patient care in medical settings. This competitive event consists of two rounds. Round One is a written, multiple-choice test, and the top-scoring competitors advance to Round Two for the skills assessment. This event aims to inspire members to learn more about the field and how to provide quality patient care.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "National Healthcareer Association PCT SKILLS BUILDER PLUS an online learning resource that provides students with an interactive learning experience focused on the knowledge and skills needed to be a Patient Care Technician.NHA is offering HOSA members a 10% discount on individual purchases and group discounts by contacting an NHA sales representative. Visit the competition landing page HERE.",
+    "sub": []
+   },
+   {
+    "t": "National Healthcareer Association Certified Patient Care Technician/Assistant (CPCT/A) Online Study Guide NHA’s online study guide helps learners prepare for the Certified Patient Care Technician exam.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for Patient Care Technician is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Patient Care - 44%",
+    "sub": []
+   },
+   {
+    "t": "Compliance, Safety, & Professional Responsibility - 20%",
+    "sub": []
+   },
+   {
+    "t": "Infection Control - 12%",
+    "sub": []
+   },
+   {
+    "t": "Phlebotomy - 14%",
+    "sub": []
+   },
+   {
+    "t": "EKG - 10%",
+    "sub": []
+   }
+  ]
+ },
+ "personal-care": {
+  "category": "health-professions",
+  "name": "Personal Care",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/09/PC-26-27-FINAL-2.pdf",
+  "round1": "Skill Assessment",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Personal Care allows members to gain the knowledge and skills required for patient care in medical settings. This competitive event consists of a skills assessment and aims to inspire members to learn more about the field of nursing and how to provide quality care. This event is specifically for HOSA members classified under IDEA.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Dugan, Diana L. Nursing Assisting A Foundation in Caregiving. Hartman Publishing, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Roe, Sue. The Nursing Assistant: Essentials of Holistic Care. The Goodheart-Wilcox Company, Inc., Latest edition.",
+    "sub": []
+   }
+  ],
+  "testplan": []
+ },
+ "pharmacy-science": {
+  "category": "health-professions",
+  "name": "Pharmacy Science",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/10/Rx-26-27-Update.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Pharmacy Science enables members to acquire the knowledge and skills necessary for careers in pharmacy. This competitive event consists of two rounds. Round One is a written, multiple-choice test, and the top-scoring competitors advance to Round Two for the skills assessment. This event aims to inspire members to learn more about the field of pharmacy, including careers and practices.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets. (Use this HOSA student promo code at checkout for a discount on the ASHP resources below: ASHPxHOSA)",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Bachenheimer and Phillips. Manual for Pharmacy Technician, ashp. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Stuhan, Mary Ann. Understanding Pharmacology for Pharmacy Technicians. ashp. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "https://www.drugs.com/article/prescription-abbreviations.html The following references are used in the development of the skill rating sheets only.",
+    "sub": []
+   },
+   {
+    "t": "Moini, Jahangir. The Pharmacy Technician: A Comprehensive Approach. Cengage Learning, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "American Academy of Allergy, Asthma, and Immunology. (Symptoms and Diagnosis tab) (as posted as of September 1, 2026).",
+    "sub": []
+   },
+   {
+    "t": "nationwidechildrens.org (as posted as of September 1, 2026). The following additional resource is available at HOSA Webinars: ASHP - The Pharmacy Files.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for Pharmacy Science is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Pharmacy Practice History & Practice Settings - 4%",
+    "sub": []
+   },
+   {
+    "t": "Pharmacy Law & Ethics and Safety & Infection Control - 10%",
+    "sub": []
+   },
+   {
+    "t": "Pharmacy Terminology & Abbreviations - 10%",
+    "sub": []
+   },
+   {
+    "t": "Dosage Formulations & Administration Routes - 10%",
+    "sub": []
+   },
+   {
+    "t": "Sterile and Non-Sterile Compounding - 10%",
+    "sub": []
+   },
+   {
+    "t": "Concentration & Dilutions - 10%",
+    "sub": []
+   },
+   {
+    "t": "Disorders & Treatments - 46%",
+    "sub": []
+   }
+  ]
+ },
+ "phlebotomy": {
+  "category": "health-professions",
+  "name": "Phlebotomy",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/09/PHL-26-27-9.29.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "The phlebotomy event allows members to gain the knowledge and skills required in phlebotomy. This competitive event consists of two rounds. Round One will be a written, multiple-choice test and top-scoring competitors will advance to Round Two for the skills assessment. This event aims to inspire members to use critical thinking skills and be equipped with insight to treat patients in a clinical setting.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets. AMT has developed numerous resources to support competitors in competition preparation.",
+    "sub": []
+   },
+   {
+    "t": "Visit https://americanmedtech.org/HOSA for more information.",
+    "sub": []
+   },
+   {
+    "t": "Booth, Kathryn and Lillian Mundt. Phlebotomy: A Competency Based Approach. McGraw Hill, latest edition",
+    "sub": []
+   },
+   {
+    "t": "McCall, Ruth. Phlebotomy Essentials. Jones & Bartlett Learning, latest edition.",
+    "sub": []
+   },
+   {
+    "t": "AMT Resources The following additional resource is available at HOSA Webinars: AMT-More Than Just Needles, AMT- Why Certify? AMT - Phlebotomy Competition, and AMT- HOSA Webinar- Phlebotomy.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for Phlebotomy is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Obtaining Blood Samples (including which tubes are used for specific tests) - 42%",
+    "sub": []
+   },
+   {
+    "t": "Specimen Collection & Processing - 16%",
+    "sub": []
+   },
+   {
+    "t": "Time Management & Assignment Organization - 8%",
+    "sub": []
+   },
+   {
+    "t": "Professional Communications - 4%",
+    "sub": []
+   },
+   {
+    "t": "Clerical Skills & Duties - 4%",
+    "sub": []
+   },
+   {
+    "t": "Safety Standards & Procedures - 10%",
+    "sub": []
+   },
+   {
+    "t": "Legal, Ethical, & Professional Considerations - 8%",
+    "sub": []
+   },
+   {
+    "t": "Terminology, Anatomy, & Physiology - 8%",
+    "sub": []
+   }
+  ]
+ },
+ "physical-therapy": {
+  "category": "health-professions",
+  "name": "Physical Therapy",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/10/PT-26-27-9.30-1.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Physical therapy as a profession helps people improve movement, reduce pain, restore function, and enhance their quality of life through evidence-based care and education. This competitive event consists of two rounds. Round One is a written, multiple-choice test and top-scoring competitors advance to Round Two for the skills assessment. This event aims to inspire HOSA members to learn more about the concepts and techniques of physical therapy.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets: APTA has provided additional resources to support competitors in competition preparation.",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Simmers, L., Simmers-Narker, K. & Simmers-Kobelak, S, and Morris L. DHO: Health Science, Cengage Learning, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Pierson and Fairchild. Principles and Techniques of Patient Care. Elsevier, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Pagliarulo, Michael A. Introduction to Physical Therapy. Elsevier. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "https://www.apta.org/PTMovesMe (skill videos are available near the end of the page) The following additional resource is available at HOSA Webinars: APTA - Physical Therapy Moves Me",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for Physical Therapy is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Profession of PT - 14%",
+    "sub": []
+   },
+   {
+    "t": "Legal and Ethical Considerations - 10%",
+    "sub": []
+   },
+   {
+    "t": "Physical Therapy for Musculoskeletal Conditions - 16%",
+    "sub": []
+   },
+   {
+    "t": "Physical Therapy for Neuromuscular Conditions - 16%",
+    "sub": []
+   },
+   {
+    "t": "Physical Therapy for Cardiopulmonary Conditions - 14%",
+    "sub": []
+   },
+   {
+    "t": "Physical Therapy for Integumentary Conditions - 14%",
+    "sub": []
+   },
+   {
+    "t": "Physical Therapy for Pediatrics and Older Adults - 16%",
+    "sub": []
+   }
+  ]
+ },
+ "physician-assistant": {
+  "category": "health-professions",
+  "name": "Physician Assistant – Medical Case Challenge",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/PA-26-27-FINAL-1-1.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Team Event: 2 competitors",
+  "summary": "The Physician Assistant (PA) competitive event allows HOSA members to gain knowledge and assessment techniques needed for a career in the PA profession. This event consists of two rounds, and each team consists of two people. Round One will consist of a written multiple-choice test, and the score will be used to determine which teams qualify for Round Two. In Round Two teams will review case documentation to determine a diagnosis and develop an appropriate treatment plan for the patient.",
+  "references": [
+   {
+    "t": "Papadakis, Rabow, McQuaid, Nadler, and Price. Current Medical Diagnosis & Treatment 2026. McGraw Hill. Latest Edition.",
+    "sub": []
+   },
+   {
+    "t": "MedlinePlus",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for Medical Case Challenge is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Disease Process & Terminology (includes cancer & neoplasms)- 10%",
+    "sub": []
+   },
+   {
+    "t": "Body Systems:",
+    "sub": [
+     "Integumentary - 4%",
+     "Musculoskeletal - 6%",
+     "Circulatory & Lymphatic - 10%",
+     "Respiratory - 6%",
+     "Digestive - 10%",
+     "Endocrine - 6%",
+     "Nervous & Senses - 8%",
+     "Reproductive - 4%",
+     "Urinary - 4%",
+     "Mental Disorders - 6%"
+    ]
+   },
+   {
+    "t": "Patient Assessment- 12%",
+    "sub": []
+   },
+   {
+    "t": "Diagnosis- 14%",
+    "sub": []
+   }
+  ]
+ },
+ "respiratory-therapy": {
+  "category": "health-professions",
+  "name": "Respiratory Therapy",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/10/RT-26-27-10.8.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "The respiratory therapy event allows individuals to gain the knowledge and skills required in respiratory therapy.. This competitive event consists of two rounds. Round One is a written, multiple-choice test and top-scoring competitors advance to Round Two for the skills assessment. This event aims to inspire HOSA members to learn more about respiratory careers, use critical thinking skills, and become allied health professionals who can respond and assist efficiently in clinical settings.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Stoller, J., Heuer, A., Chatburn, R., Mireles-Cabodevila, E., & Vines, D. Egan's Fundamentals of Respiratory Care. Elsevier. Latest edition",
+    "sub": []
+   },
+   {
+    "t": "Simmers, L., Simmers-Nartker, K., Simmers-Kobelak, S. & Morris, L. DHO: Health Science, Cengage Learning, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "American Association for Respiratory Care",
+    "sub": []
+   },
+   {
+    "t": "Early Connection: Defining Respiratory Therapy Pathways Webinar",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for Respiratory Therapy is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Foundations of Respiratory Care- 20%",
+    "sub": []
+   },
+   {
+    "t": "Applied anatomy & Physiology- 10 %",
+    "sub": []
+   },
+   {
+    "t": "Assessment of Respiratory Disorder- 20%",
+    "sub": []
+   },
+   {
+    "t": "Cardiopulmonary Diseases- 20%",
+    "sub": []
+   },
+   {
+    "t": "Basic Therapeutics- 20%",
+    "sub": []
+   },
+   {
+    "t": "Patient Education and Long-Term Care- 10%",
+    "sub": []
+   }
+  ]
+ },
+ "sports-medicine": {
+  "category": "health-professions",
+  "name": "Sports Medicine",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/SM-26-27-FINAL.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Sports Medicine provides members with the opportunity to gain the knowledge and skills required for patient care in a sports medicine setting. This competitive event consists of two rounds. Round One is a written, multiple-choice test, and the top-scoring competitors advance to Round Two for the skills assessment. This event aims to inspire members to learn more about injury prevention, therapeutic intervention, and immediate care.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Beam, Joel W. Orthopedic Taping, Wrapping, Bracing, and Padding. F.A. Davis, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "France, Bob. Introduction to Sports Medicine and Athletic Training. Cengage, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Prentice, William E. The Role of the Athletic Trainer in Sports Medicine: An Introduction for the Secondary School Student, McGraw Hill, Latest edition",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The written test for Sport Medicine is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Injury / Illness Prevention and Wellness Promotion - 30%",
+    "sub": []
+   },
+   {
+    "t": "Examination, Evaluation, and Assessment - 30%",
+    "sub": []
+   },
+   {
+    "t": "Immediate and Emergency Care - 16%",
+    "sub": []
+   },
+   {
+    "t": "Therapeutic Intervention - 16%",
+    "sub": []
+   },
+   {
+    "t": "Healthcare Administration and Professional Responsibilities - 8%",
+    "sub": []
+   }
+  ]
+ },
+ "surgical-technologist": {
+  "category": "health-professions",
+  "name": "Surgical Technologist",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/ST-26-27-FINAL-1-1.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "The Surgical Technologist event allows members to gain essential knowledge and skills required for the field of Surgical Technology. This competitive event consists of two rounds. Competitors will take a written test for Round One. Top-scoring competitors will advance to Round Two for a clinical skills assessment. This event aims to inspire members to learn more about Surgical Technologist careers, enhance critical thinking skills, and prepare to become allied health professionals capable of effectively assisting in surgical settings.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Association of Surgical Technologists. Surgical Technology for the Surgical Technologists: A Positive Care Approach. Cengage Learning. Latest edition. (Rd1 Test will focus on Chapters 1, 4, 7, 10, 11, and 16)",
+    "sub": []
+   },
+   {
+    "t": "Renee Nemitz. Surgical Instrumentation: An Interactive Approach. Saunders. Latest edition.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Surgical Technologist is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Profession of CST- 10%",
+    "sub": []
+   },
+   {
+    "t": "Physical Environment and Safety Standards- 10%",
+    "sub": []
+   },
+   {
+    "t": "Surgical Asepsis and Sterility- 20%",
+    "sub": []
+   },
+   {
+    "t": "Instrumentation, Equipment, and Supplies- 30%",
+    "sub": []
+   },
+   {
+    "t": "Hemostasis, Wound Healing, and Wound Closure- 10%",
+    "sub": []
+   },
+   {
+    "t": "Surgical Anatomy & Physiology- 20%",
+    "sub": []
+   }
+  ]
+ },
+ "veterinary-science": {
+  "category": "health-professions",
+  "name": "Veterinary Science",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/11/VS-26-27-Nov-8.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Veterinary Science allows members to gain the knowledge and skills required for diagnosing and treating animals. This competitive event consists of two rounds. Round One is a written, multiple-choice test, and the top-scoring competitors advance to Round Two for the skills assessment. This event aims to inspire members to learn more about the field of veterinary care.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Lawhead, James, and Baker. Introduction to Veterinary Science. Cengage Learning. Latest Edition.",
+    "sub": []
+   },
+   {
+    "t": "American Red Cross Pet First Aid App",
+    "sub": []
+   },
+   {
+    "t": "References for Companion Animal Breeds/Species Identification: (as posted as of Sept. 1, 2026)",
+    "sub": []
+   },
+   {
+    "t": "Dogs = American Kennel Club - www.akc.org",
+    "sub": []
+   },
+   {
+    "t": "Cats = The Cat Fanciers’ Association - www.cfa.org The following additional resource is available at HOSA Webinars: AAVMC - Journey to Veterinary School and AAVMC Vet Pathways",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "Includes both Large and Small Animals The written test for Veterinary Science is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Anatomy and Physiology - 24%",
+    "sub": []
+   },
+   {
+    "t": "Basic Nutrients - 10%",
+    "sub": []
+   },
+   {
+    "t": "Animal Behavior -6%",
+    "sub": []
+   },
+   {
+    "t": "Diseases/Disease Prevention - 14%",
+    "sub": []
+   },
+   {
+    "t": "Zoonoses - 6%",
+    "sub": []
+   },
+   {
+    "t": "Clinical Practice - 10%",
+    "sub": []
+   },
+   {
+    "t": "Emergency Care/First Aid - 12%",
+    "sub": []
+   },
+   {
+    "t": "Principles of Surgery - 12%",
+    "sub": []
+   },
+   {
+    "t": "Ethical, Legal, and Safety -6%",
+    "sub": []
+   }
+  ]
+ },
+ "cert-skills": {
+  "category": "emergency-preparedness",
+  "name": "CERT Skills",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/CERT-26-27-FINAL-1.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Team Event: 2 competitors per team",
+  "summary": "CERT Skills allows members to gain knowledge and skills required for disaster preparedness and response. This competitive event consists of two rounds, and each team consists of two (2) people. Round One is a written, 50 multiple-choice question test, and the top-scoring teams will advance to Round Two for the skills assessment. This event aims to inspire members to be proactive future health professionals who respond efficiently to complex community hazards in the absence of emergency services.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "CERT Online Training Course IS 317 (as posted as of September 2026): https://training.fema.gov/is/courseoverview.aspx?code=IS-317.a&lang=en",
+    "sub": []
+   },
+   {
+    "t": "CERT Training Materials (as posted as of September 2026): Community Emergency Response Team Training Participant Manual",
+    "sub": []
+   },
+   {
+    "t": "First Aid for Severe Trauma (FAST). American Red Cross. Red Cross Store",
+    "sub": []
+   },
+   {
+    "t": "SALT Mass Casualty Triage Online Training Program. National Disaster Life Support Foundation.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for CERT SKills is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Disaster Preparedness - 15%",
+    "sub": []
+   },
+   {
+    "t": "CERT Organization - 5%",
+    "sub": []
+   },
+   {
+    "t": "Life Threatening Interventions and SALT Triage - 30%",
+    "sub": []
+   },
+   {
+    "t": "Medical Operations - 20%",
+    "sub": []
+   },
+   {
+    "t": "Disaster Psychology - 5%",
+    "sub": []
+   },
+   {
+    "t": "Fire Safety - 5%",
+    "sub": []
+   },
+   {
+    "t": "Light Search and Rescue Operations - 15%",
+    "sub": []
+   },
+   {
+    "t": "Terrorism - 5%",
+    "sub": []
+   }
+  ]
+ },
+ "cpr-first-aid": {
+  "category": "emergency-preparedness",
+  "name": "CPR/First Aid",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/10/CPR_FA-26-27-FINAL-update.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Team Event: 2 competitors per team",
+  "summary": "CPR/First Aid enables members to acquire essential skills and knowledge required for team-based first aid and basic life support. This competitive event consists of two rounds, with each team comprising two people. Round One is a written exam with 50 multiple-choice questions, and teams with the highest scores proceed to Round Two, which involves a skills assessment. The goal of this event is to encourage members to become proactive future health professionals who are capable of administering life-saving measures.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "American Red Cross. Basic Life Support. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "American Red Cross. First Aid/CPR/AED. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "American Heart Association. Basic Life Support. Latest edition",
+    "sub": []
+   },
+   {
+    "t": "American Heart Association. Heartsaver First Aid. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Simmers, L., Simmers-Nartker, K,. Simmers-Kobelak, S., & Morris, L. DHO: Health Science, Cengage Learning, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "American Heart International",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for CPR / First Aid is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Basic Life Support - 40%",
+    "sub": [
+     "General Concepts",
+     "BLS/CPR for Adults, Children and Infants",
+     "AED for Adults, Children and Infants",
+     "CPR with Advanced Airway",
+     "Mouth-to-Mouth/Rescue Breathing",
+     "Relief of Choking"
+    ]
+   },
+   {
+    "t": "First Aid - 60%",
+    "sub": [
+     "Basic",
+     "Medical Emergencies",
+     "Injury Emergencies",
+     "Environmental Emergencies"
+    ]
+   }
+  ]
+ },
+ "emergency-medical-technician": {
+  "category": "emergency-preparedness",
+  "name": "Emergency Medical Technician",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/10/EMT-26-27-Update.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Team Event: 2 competitors per team",
+  "summary": "Emergency Medical Technician allows HOSA members to gain the knowledge and skills required for emergency medical care. This competitive event consists of two rounds, and each team consists of two (2) people. Round One is a written, 50-question multiple-choice test, and the top-scoring teams will advance to Round Two for the skills assessment. The primary goal of this event is to motivate members to pursue careers as proactive healthcare professionals, equipping them with resilience, physical strength, and adept problem-solving abilities necessary for delivering immediate emergency care.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Emergency Care and Transportation of the Sick and Injured. Series Editor: Andrew N. Pollak, MD, FAAOS. Published by Jones & Bartlett Learning. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "American Heart Association. BLS Provider Manual. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Limmer, Daniel and Michael F. O’Keefe. Emergency Care. Published by Prentice Hall, a “Brady” book, Latest edition.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for Emergency Medical Technician is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Patient Assessment - 20%",
+    "sub": []
+   },
+   {
+    "t": "Basic Life Support - 20%",
+    "sub": []
+   },
+   {
+    "t": "Trauma - 16%",
+    "sub": []
+   },
+   {
+    "t": "Medical Emergencies - 14%",
+    "sub": []
+   },
+   {
+    "t": "Pediatrics and Childbirth - 16%",
+    "sub": []
+   },
+   {
+    "t": "Environmental Emergencies - 10%",
+    "sub": []
+   },
+   {
+    "t": "Special Situations - 4%",
+    "sub": []
+   }
+  ]
+ },
+ "epidemiology": {
+  "category": "emergency-preparedness",
+  "name": "Epidemiology",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/09/EPI-26-27-9.29.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Epidemiology allows members to gain knowledge about health and disease in populations. This competitive event consists of a written exam of concepts related to the study of epidemiology. In the event of a tie, the essay will be judged to break the tie. Competitors must recognize, identify, define, interpret, and apply these concepts in a multiple-choice test. The event aims to motivate members to become proactive future health professionals, enhancing their scientific literacy and offering valuable insights into careers in public health.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions. Content is posted as of September 1, 2026:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "PH 101 Series",
+    "sub": []
+   },
+   {
+    "t": "ActivEpi",
+    "sub": []
+   },
+   {
+    "t": "Environmental Medicine Education Resources",
+    "sub": []
+   },
+   {
+    "t": "CDC: Morbidity and Mortality Weekly Report",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Epidemiology Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Introduction to Epidemiology: (30%) ○Basic concept ○Types of case studies ○Measuring health and disease ○Causation ○Surveillance",
+    "sub": []
+   },
+   {
+    "t": "World and Government Response to Infectious Diseases (20%) ○WHO Infectious Diseases ○CDC Activities ○Government Responses",
+    "sub": []
+   },
+   {
+    "t": "CDC: Morbidity and Mortality Weekly Report (50%) ○Case studies, investigations, surveillance summaries, scientific information recommendations",
+    "sub": []
+   }
+  ]
+ },
+ "life-support-skills": {
+  "category": "emergency-preparedness",
+  "name": "Life Support Skills",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/09/LSS-26-27-Update-9.30.pdf",
+  "round1": "Skill Assessment",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Life Support Skills allows HOSA members to gain knowledge and skills required for basic life support. This competitive event consists of evaluating members' performance through a skills assessment. This event aims to inspire members to be proactive future health professionals and be equipped with the skills to provide immediate, life-saving actions in the absence of emergency services. This event is specifically for HOSA members who are classified under IDEA.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the skill rating sheets:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "American Red Cross. Basic Life Support. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "American Red Cross. First Aid/CPR/AED. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "American Heart Association. BLS Provider Manual. Latest Edition.",
+    "sub": []
+   },
+   {
+    "t": "American Heart Association. Heartsaver First Aid. Latest Edition.",
+    "sub": []
+   },
+   {
+    "t": "Simmers, L., Simmers-Nartker, K., Simmers-Kobelak, S., & Morris, L. DHO: Health Science, Cengage Learning, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "American Heart International",
+    "sub": []
+   }
+  ],
+  "testplan": []
+ },
+ "mental-health-promotion": {
+  "category": "emergency-preparedness",
+  "name": "Mental Health Promotion",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/10/MHP-26-27-Update-Oct-2026.pdf",
+  "round1": "Digital Social Media",
+  "team": "Team Event: 2-6 competitors per team",
+  "summary": "The Mental Health Promotion event provides HOSA members with an introduction to mental health topics with a grounding in prevention. The event is built on the understanding that “mental health IS health” and that we must think about taking car e of our mental health just as we do our physical health. This competitive event consists of a team of 2 to 6 members. Teams will create and publish a social media campaign for their peers centered on building and promoting protective factors around a selected mental health topic. This social media campaign will be pre-judged digitally prior to ILC. Teams will present their social media campaign and process to a panel of judges at ILC. This event aims to provide information on how to support someone struggling with their mental health and to inspire future health professionals to promote the importance of mental health in their schools and communities.",
+  "references": [
+   {
+    "t": "The following are suggested event resources:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "CVS Health Mental Health and Well-being",
+    "sub": []
+   },
+   {
+    "t": "Substance Abuse and Mental Health Services Administration website i. Risk Factors",
+    "sub": []
+   },
+   {
+    "t": "Jed Foundation",
+    "sub": []
+   },
+   {
+    "t": "Surgeon General’s Advisory: Protecting Youth Mental Health",
+    "sub": []
+   },
+   {
+    "t": "Mental Health.gov",
+    "sub": []
+   },
+   {
+    "t": "Be There Certification",
+    "sub": []
+   },
+   {
+    "t": "School and Campus Health",
+    "sub": []
+   }
+  ],
+  "testplan": []
+ },
+ "mrc-partnership": {
+  "category": "emergency-preparedness",
+  "name": "MRC Partnership",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/MRC-26-27.pdf",
+  "round1": "Digital: Portfolio",
+  "team": "Team Event: 2-6 competitors per team",
+  "summary": "MRC Partnership provides members with the opportunity to gain knowledge and skills required to initiate and maintain a partnership with their local/state Medical Reserve Corps units. This competitive event is designed for students to demonstrate the spirit and mission of both the MRC and HOSA in joint partnership activities. Each team consists of 2 to 6 competitors and teams will prepare a portfolio highlighting partnership activities that improve public health, increase emergency response capabilities, and strengthen the resiliency of local communities. This event aims to inspire members to engage with the Medical Reserve Corps and to learn more about community-based groups committed to strengthening public health.",
+  "references": [
+   {
+    "t": "The following are suggested event resources:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "MRC Website",
+    "sub": []
+   },
+   {
+    "t": "Youth Engagement Toolkit (HOSA Website)",
+    "sub": []
+   },
+   {
+    "t": "National Health Security Strategy",
+    "sub": []
+   },
+   {
+    "t": "Surgeon General’s Priorities",
+    "sub": []
+   },
+   {
+    "t": "Disaster Risk Reduction",
+    "sub": []
+   },
+   {
+    "t": "Youth and Emergency Planning (FEMA)",
+    "sub": []
+   },
+   {
+    "t": "ASPR Strategic Plan",
+    "sub": []
+   }
+  ],
+  "testplan": []
+ },
+ "public-health": {
+  "category": "emergency-preparedness",
+  "name": "Public Health",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/09/PH-26-27-9.5-FINAL.pdf",
+  "round1": "Trailer Video (pre-judged)",
+  "team": "Team Event: 2-6 competitors per team",
+  "summary": "Public Health allows HOSA members to develop an effective, dynamic, and creative presentation informing the public about a significant public health issue. The team consists of 2-6 members. The event consists of two rounds. In Round One, the team creates a video “trailer” of their presentation with the goal of convincing a panel of judges of the need to view their full Round Two presentation. The video trailer should “wow” the judges. The highest-scoring teams will advance to Round Two, where a panel of judges will view the entire in-person presentation. The panel of judges for each round may be different, so bring your “A” game to both rounds.",
+  "references": [
+   {
+    "t": "For more information on the 2026-2027 topic, visit:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Health and Human Services - Health Misinformation",
+    "sub": []
+   },
+   {
+    "t": "Johns Hopkins Center for Health Equity - Pandemic of Misinformation",
+    "sub": []
+   },
+   {
+    "t": "WHO - Combatting Misinformation Online For more information about Public Health, in general, teams are encouraged to visit:",
+    "sub": []
+   },
+   {
+    "t": "U.S. Public Health Service",
+    "sub": []
+   },
+   {
+    "t": "American Public Health Association",
+    "sub": []
+   }
+  ],
+  "testplan": []
+ },
+ "extemporaneous-writing-health-policy": {
+  "category": "leadership",
+  "name": "Extemporaneous Writing – Health Policy",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/EWHP-26-27-FINAL-1.pdf",
+  "round1": "Written policy letter in 60",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Extemporaneous Writing—Health Policy allows HOSA members to gain the knowledge and skills to write an effective letter to a policymaker. On the day of the competition, competitors will receive a secret topic that outlines a relevant health policy or issue with supporting details. Competitors will draft their letters in 60 minutes to submit to judges. This event aims to inspire members to learn more about current health policy and feel empowered to make a difference by voicing their opinions on important health topics to applicable decision-makers to effect change.",
+  "references": [],
+  "testplan": []
+ },
+ "health-career-photography": {
+  "category": "leadership",
+  "name": "Health Career Photography",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/HCPhoto-26-27-8.16-FINAL.pdf",
+  "round1": "Digital upload of portfolio",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Health Career Photography provides HOSA members with the opportunity to gain knowledge about different health careers and analyze them through the medium of digital photography. Competitors will photograph three different health professionals performing an aspect of their job, edit the photos using computer software technology as needed, provide a written description of the career, and then present their three printed pictures to a panel of judges. This event aims to inspire members to use photography as a means to explore health careers.",
+  "references": [],
+  "testplan": []
+ },
+ "healthy-living": {
+  "category": "leadership",
+  "name": "Healthy Living",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/Healthy-Living-26-27.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: one competitor",
+  "summary": "Healthy Living provides HOSA members the opportunity to gain the knowledge and skills required to understand healthy living and its impact on health throughout the lifespan. This competitive event consists of two rounds. Round One is a written, multiple-choice test, and the top-scoring competitors will advance to Round Two for a presentation. In addition, each competitor will focus on one personal healthy living goal and document their efforts in a personalized portfolio. This event aims to inspire members to learn more about health literacy topics and to develop healthy habits for a lifetime.",
+  "references": [
+   {
+    "t": "NASM has created a course specifically for HOSA members and is designated specifically for this competition. The course follows the test plan listed below and includes a combination of PDFs, articles, videos and blogs.",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Access Selected Units of the HOSA Healthy Living Course created by NASM (see test plan below).",
+    "sub": []
+   },
+   {
+    "t": "The following additional resource is available at HOSA Webinars: NASM - Health and Wellness Careers.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Healthy Living Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Nutrition- 25%",
+    "sub": []
+   },
+   {
+    "t": "Physical Activity- 25%",
+    "sub": []
+   },
+   {
+    "t": "Mental Health- 10%",
+    "sub": []
+   },
+   {
+    "t": "Wellness through the Lifespan- 20%",
+    "sub": []
+   },
+   {
+    "t": "Disease Prevention- 20%",
+    "sub": []
+   }
+  ]
+ },
+ "interviewing-skills": {
+  "category": "leadership",
+  "name": "Interviewing Skills",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/Interview-Skills-26-27.pdf",
+  "round1": "Digital upload of Resume",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Interviewing Skills allows HOSA members to gain the knowledge and skills required to successfully apply and interview for employment and internship opportunities (for college, medical school, professional career, etc.). This competitive event requires competitors to prepare a personal statement and resume and then participate in a mock job interview with judges. This event aims to inspire members to learn more about applying and interviewing for health-related positions and experiences. This event is specifically for HOSA members who are classified under IDEA.",
+  "references": [],
+  "testplan": []
+ },
+ "job-seeking-skills": {
+  "category": "leadership",
+  "name": "Job Seeking Skills",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/Job-Seeking-26-27.pdf",
+  "round1": "Digital upload of Resume",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Job Seeking Skills allows HOSA members to gain the knowledge and skills required to apply and interview for employment and internship opportunities (for college, medical school, professional career, etc.). This competitive event requires competitors to prepare a personal statement and resume and then participate in a mock job interview with judges. This event aims to inspire members to learn more about applying and interviewing for health-related positions and experiences.",
+  "references": [],
+  "testplan": []
+ },
+ "organizational-leadership": {
+  "category": "leadership",
+  "name": "Organizational Leadership",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/Org.-Leadership-26-27.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Solo Event: one competitor",
+  "summary": "The purpose of the event is two-fold: 1) To assist Chartered Associations with selecting their Voting Delegates if a method does not already exist and 2) To encourage HOSA members to develop and apply their knowledge of the HOSA organization and Parliamentary Procedure to represent their Chartered Associations at the International Leadership Conference as an official Voting Delegate.",
+  "references": [
+   {
+    "t": "The references below are used to develop the test questions:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "HOSA Handbook, Sections A, B, and C",
+    "sub": []
+   },
+   {
+    "t": "HOSA Website",
+    "sub": []
+   },
+   {
+    "t": "Robert's Rules of Order Newly Revised in Brief 3rd Edition.",
+    "sub": []
+   },
+   {
+    "t": "First Fifty Years 1976-2026 HOSA Publication.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Organizational Leadership Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Voting Delegate Role and Responsibilities- 24%",
+    "sub": []
+   },
+   {
+    "t": "Parliamentary Procedure- 24%",
+    "sub": []
+   },
+   {
+    "t": "HOSA Inc.- 16%",
+    "sub": []
+   },
+   {
+    "t": "Organizational Structure of HOSA- 12%",
+    "sub": []
+   },
+   {
+    "t": "History of HOSA- 12%",
+    "sub": []
+   },
+   {
+    "t": "Positions and Responsibilities of the Executive Council- 8%",
+    "sub": []
+   },
+   {
+    "t": "Membership- 4%",
+    "sub": []
+   }
+  ]
+ },
+ "prepared-speaking": {
+  "category": "leadership",
+  "name": "Prepared Speaking",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/Prepared-Speaking-26-27.pdf",
+  "round1": "5 minute Speech",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Prepared Speaking allows HOSA members to improve their knowledge and skills surrounding effective oral communication. This competitive event requires competitors to develop a speech about a selected national topic. The topic for the year aligns with the HOSA membership theme, which is announced at the conclusion of the previous annual International Leadership Conference.",
+  "references": [
+   {
+    "t": "eDynamic Learning has provided an online public speaking course at a significant discount to HOSA members. This resource is applicable to numerous events with a speaking and presentation component. https://www.edynamiclearning.com/hosa/",
+    "sub": [],
+    "intro": true
+   }
+  ],
+  "testplan": []
+ },
+ "researched-persuasive-writing-speaking": {
+  "category": "leadership",
+  "name": "Researched Persuasive Writing and Speaking",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/RPWS-26-27.pdf",
+  "round1": "Digital upload of research",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Researched Persuasive Writing and Speaking allows HOSA members to gain the knowledge and skills required to research a health issue, prepare written documentation supporting a thesis, and present information orally. This competitive event requires competitors to develop a speech and written paper, either for or against the provided annual health topic.",
+  "references": [],
+  "testplan": []
+ },
+ "speaking-skills": {
+  "category": "leadership",
+  "name": "Speaking Skills",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/Speaking-Skills-26-27.pdf",
+  "round1": "Speech (5 minutes)",
+  "team": "Solo Event: 1 competitor",
+  "summary": "Speaking Skills allows HOSA members to improve their knowledge and skills surrounding effective oral communication. This competitive event requires competitors to develop a speech about a selected national topic. The topic for the year aligns to the HOSA membership theme, which is announced at the conclusion of the International Leadership Conference every year. This event is specifically for HOSA members classified under IDEA.",
+  "references": [
+   {
+    "t": "eDynamic Learning has provided an online public speaking course at a significant discount to HOSA members. This resource is applicable to numerous events with a speaking and presentation component. https://www.edynamiclearning.com/hosa/",
+    "sub": [],
+    "intro": true
+   }
+  ],
+  "testplan": []
+ },
+ "biomedical-debate": {
+  "category": "teamwork",
+  "name": "Biomedical Debate",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/11/BD-26-27-Revised-11.2.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Team Event: 3-4 competitors per team",
+  "summary": "Biomedical Debate allows members to use debate as a platform for researching the pros and cons of a biomedical issue and showcasing what has been learned. This competitive event consists of two rounds, and each team consists of 3-4 people. Round One is a written test containing questions about the annual biomedical topic. The teams with the highest average score from the test will qualify for the Round Two debate(s). This event aims to inspire members to be proactive future healt h professionals by researching a given health topic, evaluating, discussing, and thinking critically about the issue, and refining verbal communication skills surrounding a complex biomedical issue. The annual debate topic will be selected yearly and announced in HOSA publications.",
+  "references": [
+   {
+    "t": "Competitors are encouraged to learn as much as they can about the annual topic. All test questions will be developed from the following references:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Levy, Becky. Breaking the Age Code: How Your Beliefs About Aging Determine How Long and Well You Live. William Morrow. Latest Edition.",
+    "sub": []
+   },
+   {
+    "t": "Bognar, Greg and Iwao Hirose. The Ethics of Health Care Rationing. Routledge Taylor & Francis Group. Latest Edition.",
+    "sub": []
+   },
+   {
+    "t": "The shared ethical framework to allocate scarce medical resources: a lesson from COVID-19 https://www.sciencedirect.com/science/article/pii/S0140673623008127",
+    "sub": []
+   },
+   {
+    "t": "Navigating Healthcare Ethics: Resource Allocation & Fairness Explained https://residencyadvisor.com/resources/medical-ethics-law/ethics-resource-allocation-gets- what-healthcare",
+    "sub": []
+   },
+   {
+    "t": "For centuries, humanity marked time chronologically. Today, that measure is rapidly being challenged, particularly when it comes to longevity. https://www.gesda.global/radar- spotlight-longevity-science-crosses-clinical-threshold/",
+    "sub": []
+   }
+  ],
+  "testplan": []
+ },
+ "community-awareness": {
+  "category": "teamwork",
+  "name": "Community Awareness",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/Community-Awareness-26-27.pdf",
+  "round1": "Portfolio (pre-judged)",
+  "team": "Team Event: 2-6 competitors per team",
+  "summary": "Community Awareness provides HOSA members with the opportunity to educate their own community about one health and/or safety-related issue of local, state, and/or national interest. Teams of 2-6 members plan a local community campaign surrounding a selected topic that will impact their community as a whole. Teams develop a portfolio that documents and explains this community campaign and activities. The team presents their community campaign to a panel of judges, using the portfolio to document their accomplishments. This event aims to inspire members to be proactive future health professionals and promote local community awareness of health-related issues.",
+  "references": [],
+  "testplan": []
+ },
+ "creative-problem-solving": {
+  "category": "teamwork",
+  "name": "Creative Problem Solving",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/CPS-26-27-8.31_Final.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Team Event: 2-6 competitors per team",
+  "summary": "Creative Problem Solving allows members to analyze the problem-solving process and work as a team to apply their problem-solving skills in creating a solution to a hypothetical health or HOSA-related problem. This competitive event consists of two rounds, and each team consists of 2–6 people. Round One will consist of a written test, and the score will be used to qualify the team for Round Two. In Round Two, teams will be given a potential problem related to HOSA, the health community, or a specific health issue and have 15 minutes to analyze the problem. At the end of the preparation time, teams will have 10 minutes to present their solution to a panel of judges. This event aims to inspire members to be proactive future health professionals and utilize higher order thinking to solve complex challenges.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions.",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "McShane, Steven & Von Glinow, Mary. Organizational Behavior. McGraw Hill. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Adair, John. Decision Making & Problem Solving: Break Through Barriers and Banish Uncertainty a Work (Creating Success, 8). Kogan Page. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Sternad, Dietmar. Solve It! Econcise Publishing. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Thinknetic. Critical Thinking & Logic Mastery 3 Books in 1. Latest edition.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Creative Problem Solving Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Critical & Effective Thinking - 26%",
+    "sub": []
+   },
+   {
+    "t": "Problem Solving Strategies & Skills - 24%",
+    "sub": []
+   },
+   {
+    "t": "Clarification of Problems & Generating Ideas - 10%",
+    "sub": []
+   },
+   {
+    "t": "Examining Constraints/Developing Alternatives - 20%",
+    "sub": []
+   },
+   {
+    "t": "Components of Logic - 20%",
+    "sub": []
+   }
+  ]
+ },
+ "forensic-science": {
+  "category": "teamwork",
+  "name": "Forensic Science",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/Forensic-Science-26-27.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Team Event: 2 competitors per team",
+  "summary": "Forensic Science allows HOSA members to work as a team to apply their knowledge and skills in creating a solution to a forensic science-related problem. This competitive event consists of two rounds, and each team consists of two (2) people. Round One is a written test that evaluates the team’s understanding of forensic science. The test score from Round One will be used to qualify the team for Round Two. In Round Two, teams will be given a case study to analyze, including physical evidence and written information such as police reports and an autopsy. Teams may have time to view a “crime scene” and/or review resources to write their conclusions with supporting evidence. This event aims to inspire members to be proactive future health professionals and critically examine elements of a forensic case.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions.",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Bertino, A., Bertino. P. (Latest Ed) Forensic Science Fundamentals. National Geographic Learning/South-Western Cengage Learning.",
+    "sub": []
+   },
+   {
+    "t": "Bell, S. (Latest Ed). Forensic Science. Taylor & Francis Group/CRC Press. Optional References: Competitors should have a strong background in Medical Terminology, Anatomy and Physiology, and Pathophysiology in order to best respond to the Round Two case study. The following resources are recommended study materials to assist competitors with these subjects. Round One test questions are NOT taken from these resources:",
+    "sub": []
+   },
+   {
+    "t": "Simmers, L., Simmers-Nartker, K., Simmers-Kobelak, S, and Morris, L. DHO: Health Science. Cengage Learning, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Ehrlich, Ann. Medical Terminology for Health Professions, Cengage Learning. Latest Edition.",
+    "sub": []
+   },
+   {
+    "t": "Frazier. Essentials of Human Diseases and Conditions. Elsevier, Latest edition.",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Forensic Science Test is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Forensic History and Careers - 10%",
+    "sub": []
+   },
+   {
+    "t": "Crime Scene and Death Investigation - 20%",
+    "sub": []
+   },
+   {
+    "t": "Forensic Toxicology and Pharmacology - 20%",
+    "sub": []
+   },
+   {
+    "t": "Forensic Anthropology - 10%",
+    "sub": []
+   },
+   {
+    "t": "Forensic Entomology - 10%",
+    "sub": []
+   },
+   {
+    "t": "Identification of Blood, Bloodstains, Biological Fluids and Stains - 10%",
+    "sub": []
+   },
+   {
+    "t": "Techniques of DNA Analysis - 10%",
+    "sub": []
+   },
+   {
+    "t": "Forensic Psychology and Psychiatry - 10%",
+    "sub": []
+   }
+  ]
+ },
+ "health-career-display": {
+  "category": "teamwork",
+  "name": "Health Career Display",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/Health-Career-Display-26-27.pdf",
+  "round1": "Digital outline & picture of",
+  "team": "Team Event: 2 competitors per team",
+  "summary": "Health Career Display allows members to research a career of interest, create a display board of associated career materials, and improve their presentation skills by communicating the career information to others. This competitive event consists of two rounds, and each team consists of two people. Round One is judging the plan/outline for the Health Career Display board. The top-scoring teams will advance to Round Two for the presentation. This event aims to inspire members to become future health professionals by exciting them about a career of their choosing.",
+  "references": [
+   {
+    "t": "be used for the Round One outline and Round Two presentation. 2. The career must be a HEALTH career. For example, careers such as firefighter, flight attendant, and special education teachers are not classified as health careers. 3. For a sample list of health careers, visit the National Consortium for Health Science Education and Explore Health Careers websites. Please review carefully to ensure your selected career meets the above criteria.",
+    "sub": [],
+    "intro": true
+   }
+  ],
+  "testplan": []
+ },
+ "health-education": {
+  "category": "teamwork",
+  "name": "Health Education",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/11/HE-26-27-FINAL.pdf",
+  "round1": "Portfolio pre-judged",
+  "team": "Team Event: 2-6 competitors per team",
+  "summary": "Health Education provides members with the opportunity to gain knowledge and skills required to select a health-related concept or instructional objective, then prepare a lesson for a targeted group of learners, provide instruction, and evaluate results. This competitive event consists of a portfolio and presentation to judges and each team consists of 2-6 members. This event aims to inspire members to be proactive future health professionals by educating others on health-related concepts.",
+  "references": [],
+  "testplan": []
+ },
+ "hosa-bowl": {
+  "category": "teamwork",
+  "name": "HOSA Bowl",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/HOSA-Bowl-26-27.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Team Event: 4 competitors per team",
+  "summary": "HOSA Bowl allows members to gain knowledge and skills on various topics and situations in health, current health topics, HOSA, and parliamentary procedure. This competitive event consists of two rounds, and each team consists of exactly four (4) members. Round One is a written test. Top-scoring teams advance to Round Two and compete by responding appropriately to items presented by a moderator in a “buzzer style” round. These items may be in the form of questions, incomplete statements, and/or definitions and may be multi-answer items. Winners will be determined by a series of elimination rounds as described in the event tournament bracket. This event aims to inspire members to be proactive future health professionals and motivate them to participate in teams while learning about health, HOSA, current health topics, and parliamentary procedure topics.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions and buzzer round.",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Simmers, L., Simmers-Nartker, K., Simmers-Kobelak, S., Morris, L. DHO: Health Science. Cengage Learning, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Scott, A., Bell, T. Body Structures and Functions. Cengage Learning. Latest Edition.",
+    "sub": []
+   },
+   {
+    "t": "Taber's Cyclopedic Medical Dictionary, Edited by Donald Venes, M.D., F.A. Davis Company. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "NIH Medline Plus Magazine: Publications (current school year editions).",
+    "sub": []
+   },
+   {
+    "t": "Robert's Rules of Order Newly Revised In Brief, Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "HOSA website: Content from the HOSA website, including HOSA publications, HOSA Handbook, HOSA and HOSA, Inc. Bylaws, Policy and Procedures Manuals, current edition of the ILC Guide (published in February each year) and editions of the HOSA E-Magazine for the current school year.",
+    "sub": []
+   },
+   {
+    "t": "First Fifty Years 1976-2026 HOSA Publication.",
+    "sub": []
+   },
+   {
+    "t": "Stanhope and Turnbull. Introduction to Medical Terminology. Goodheart-Willcox. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "https://www.cnn.com/health",
+    "sub": []
+   },
+   {
+    "t": "https://www.nbcnews.com/health",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for both the written test and Rounds 2–6 of HOSA Bowl is:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "HOSA Related Knowledge- 12%",
+    "sub": []
+   },
+   {
+    "t": "Parliamentary Procedure- 12%",
+    "sub": []
+   },
+   {
+    "t": "Anatomy and Physiology: 12%",
+    "sub": []
+   },
+   {
+    "t": "Medical Terminology: 12%",
+    "sub": []
+   },
+   {
+    "t": "Current Health Topics- 12%",
+    "sub": []
+   },
+   {
+    "t": "The remaining categories would comprise 40%:",
+    "sub": [
+     "History of Medicine",
+     "Healthcare Systems",
+     "Health Careers",
+     "Legal and Ethical Practices",
+     "Nutrition",
+     "Safety",
+     "Infection Control",
+     "Math Conversions"
+    ]
+   }
+  ]
+ },
+ "medical-innovation": {
+  "category": "teamwork",
+  "name": "Medical Innovation",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/09/MI-26-27-9.25.pdf",
+  "round1": "Digital outline pre-judged",
+  "team": "Team Event: 2-4 competitors per team",
+  "summary": "Medical Innovation provides HOSA members with the opportunity to gain knowledge and skills required to impact the future of health and/or the delivery of healthcare through the development of a new medical innovation.This competitive event consists of two rounds, and each team consists of 2-4 people. In Round One, judges will evaluate the medical innovation plan/ outline and the top scoring teams will advance to Round Two the oral presentation. This event aims to inspire members to be proactive future health professionals by sharing their unique medical innovation and outcomes with others.",
+  "references": [
+   {
+    "t": "Websites that may provide useful information are:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Johnson and Johnson Innovation Lab",
+    "sub": []
+   },
+   {
+    "t": "Cleveland Clinic",
+    "sub": []
+   },
+   {
+    "t": "Deloitte",
+    "sub": []
+   }
+  ],
+  "testplan": []
+ },
+ "parliamentary-procedure": {
+  "category": "teamwork",
+  "name": "Parliamentary Procedure",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/Parli-Pro-26-27.pdf",
+  "round1": "50 Q test (60 minutes)",
+  "team": "Team Event: 5-8 competitors per team",
+  "summary": "Parliamentary Procedure allows HOSA members to gain the knowledge and skills required to conduct a simulated business meeting by using parliamentary procedure. This competitive event consists of two rounds. Teams shall be composed of five (5) to eight (8) members with identified offices or representatives thereof (i.e., president, treasurer, committee chairman, member, etc.). Round One is a written test, and the top-scoring teams will advance to Round Two to conduct a demonstration meeting on a secret topic. The demonstrated meeting should show the participant’s knowledge of parliamentary procedure and should follow the agenda given. The secret topic will include four subsidiary and privileged motions commonly used during a business meeting. This event aims to inspire members to be proactive future health professionals by learning the importance of cooperation, fair decision-making, and competitive performance.",
+  "references": [
+   {
+    "t": "The references below are used in the development of the test questions.",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Robert's Rules of Order, Newly Revised. De Capo Press. Latest edition",
+    "sub": []
+   },
+   {
+    "t": "Robert's Rules of Order Newly Revised In Brief. Latest edition.",
+    "sub": []
+   },
+   {
+    "t": "Study Questions for NAP Membership Exam, National Association of Parliamentarians.",
+    "sub": []
+   },
+   {
+    "t": "The National Association of Parliamentarians has two resources available to support HOSA teams wanting to prepare for this event. https://napuniversity.com; https://www.parliamentarians.org/education",
+    "sub": []
+   }
+  ],
+  "testplan": [
+   {
+    "t": "The test plan for the Parliamentary Procedure Test is the National Association of Parliamentarians- 100%",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "Why Have Rules",
+    "sub": []
+   },
+   {
+    "t": "What Happens at a Meeting?",
+    "sub": []
+   },
+   {
+    "t": "Handling Motions",
+    "sub": []
+   },
+   {
+    "t": "Debate",
+    "sub": []
+   },
+   {
+    "t": "Amendments",
+    "sub": []
+   },
+   {
+    "t": "Postponing and Referring to a Committee",
+    "sub": []
+   },
+   {
+    "t": "How a group Can Change Its Mind",
+    "sub": []
+   },
+   {
+    "t": "Voting and Elections",
+    "sub": []
+   },
+   {
+    "t": "Bylaws and Other Rules and How to Use Them",
+    "sub": []
+   },
+   {
+    "t": "How Rules are Enforced and Suspended",
+    "sub": []
+   },
+   {
+    "t": "Table of Rules",
+    "sub": []
+   },
+   {
+    "t": "Officers, Committee Chairman, or Member",
+    "sub": []
+   }
+  ]
+ },
+ "public-service-announcement": {
+  "category": "teamwork",
+  "name": "Public Service Announcement",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/10/PSA-26-27-10.6.pdf",
+  "round1": "PSA video pre-judged",
+  "team": "Team Event: 2-6 competitors per team",
+  "summary": "Public Service Announcement (PSA) allows members to use technology to produce a video public service announcement informing the community about a significant health issue. This competitive event consists of two rounds, and each team consists of 2-6 people. All teams will show their PSA to a panel of judges and give a presentation about their creative process. This event aims to inspire members to be proactive future health professionals by producing a PSA to promote a health service organization, bring awareness to a health situation, or educate the public at large regarding health and well-being.",
+  "references": [
+   {
+    "t": "Resources from Hilarity for Charity:",
+    "sub": [],
+    "intro": true
+   },
+   {
+    "t": "https://www.wearehfc.org",
+    "sub": []
+   },
+   {
+    "t": "https://www.wearehfc.org/5-brain-health-habits",
+    "sub": []
+   },
+   {
+    "t": "https://hfcuniverse.learnworlds.com Additional Helpful Resources: **Please be sure to distinguish between Hilarity for Charity (HFC) and other organizations. While you are encouraged to use a variety of resources, each organization has its own mission, programs, and branding, and should be credited accurately.",
+    "sub": []
+   },
+   {
+    "t": "Decade of Healthy Aging - WHO",
+    "sub": []
+   },
+   {
+    "t": "https://www.alzheimers.gov/life-with-dementia/can-i-prevent-dementia",
+    "sub": []
+   },
+   {
+    "t": "https://www.nhs.uk/conditions/dementia/about-dementia/prevention/",
+    "sub": []
+   },
+   {
+    "t": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/dementia/dementia-prev ention-reduce-your-risk",
+    "sub": []
+   },
+   {
+    "t": "https://stanfordhealthcare.org/medical-conditions/brain-and-nerves/dementia/prevention.ht ml",
+    "sub": []
+   },
+   {
+    "t": "Reducing Risks for Dementia - CDC",
+    "sub": []
+   },
+   {
+    "t": "https://www.brightfocus.org/alzheimers/brain-health",
+    "sub": []
+   },
+   {
+    "t": "https://thebraindocs.com/",
+    "sub": []
+   },
+   {
+    "t": "https://stayingsharp.aarp.org/about/brain-health/the-science/",
+    "sub": []
+   },
+   {
+    "t": "https://www.aarp.org/health/brain-health/global-council-on-brain-health/",
+    "sub": []
+   },
+   {
+    "t": "https://healthybrains.org/",
+    "sub": []
+   },
+   {
+    "t": "Early Life Risk Factors -Alzheimer’s Association",
+    "sub": []
+   },
+   {
+    "t": "Alzheimer's Modifiable Risk Factors -Sharp Brains Additional Optional Opportunities:",
+    "sub": []
+   },
+   {
+    "t": "HOSA members may be interested in starting a YMAA Chapter (Youth Movement Against Alzheimer’s) as part of Hilarity for Charity programming. More information can be found at: https://www.wearehfc.org/ymaa",
+    "sub": []
+   },
+   {
+    "t": "HOSA members may also be interested in becoming a certified brain health leader through HFC’s peer education training program. More information can be found at: https://wearehfc.org/youth/#become-a-brain-health-leader",
+    "sub": []
+   },
+   {
+    "t": "Hilarity for Charity also has an incredible scholarship opportunity called the Humans of Dementia Scholarship. This scholarship is open to high school and college scholars who have been impacted in some way by Alzheimer’s disease. This scholarship focuses on storytelling as a tool to drive awareness and inspire change about Alzheimer’s. For more information on how to apply, click HERE.",
+    "sub": []
+   }
+  ],
+  "testplan": []
+ },
+ "research-poster": {
+  "category": "teamwork",
+  "name": "Research Poster",
+  "pdf": "https://hosa.org/wp-content/uploads/2026/08/Research-Poster-26-27.pdf",
+  "round1": "Digital upload of poster,",
+  "team": "Team Event: 2-4 competitors per team",
+  "summary": "Research Poster allows HOSA members to think critically about a health-related issue in their community, pose a research question surrounding the chosen topic, and conduct their own research on that topic. Each team will consist of 2-4 members, and they will develop a poster showcasing their findings. Round One will be an upload of their research poster which will be pre-judged virtually. The top teams from Round One will advance to Round Two where they will present their research to a panel of judges. Teams will be required to display their posters at ILC.",
+  "references": [],
+  "testplan": []
+ }
+}

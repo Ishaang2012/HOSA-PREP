@@ -1,0 +1,64 @@
+health-science|behavioral-health|Behavioral Health|2026/08/BH-26-27.pdf
+health-science|biomedical-equipment-technician|Biomedical Equipment Technician|2026/09/BET-26-27-Sept09.pdf
+health-science|dental-terminology|Dental Terminology|2026/08/DT-26-27-.pdf
+health-science|health-informatics|Health Informatics|2026/08/HI-26-27-FINAL-1-2.pdf
+health-science|healthcare-administration|Healthcare Administration|2026/08/HCA-26-27-FINAL-1.pdf
+health-science|human-growth-development|Human Growth and Development|2026/08/HGD-26-27.pdf
+health-science|medical-law-ethics|Medical Law and Ethics|2026/08/MLE-26-27.pdf
+health-science|medical-math|Medical Math|2026/10/MM-26-27-Updated-10.17.pdf
+health-science|medical-reading|Medical Reading|2026/08/MR-26-27.pdf
+health-science|medical-spelling|Medical Spelling|2026/08/MS-26-27-FINAL-1.pdf
+health-science|medical-terminology|Medical Terminology|2026/08/MT-26-27.pdf
+health-science|nutrition|Nutrition|2026/08/Nut-26-27.pdf
+health-science|pathophysiology|Pathophysiology|2026/08/Patho-26-27-FINAL-1.pdf
+health-science|pharmacology|Pharmacology|2026/08/Pharm-26-27.pdf
+health-science|world-health-disparities|World Health and Disparities|2026/08/WHD-26-27.pdf
+health-professions|biotechnology|Biotechnology|2026/08/BT-26-27-FINAL-.pdf
+health-professions|clinical-lab-science|Clinical Lab Science|2026/08/CLS_MLS-26-27-FINAL-2-1.pdf
+health-professions|clinical-nursing|Clinical Nursing|2026/08/CN-26-27-FINAL-2-1.pdf
+health-professions|clinical-specialty|Clinical Specialty|2026/10/CS-26-27-Oct-26.pdf
+health-professions|dental-science|Dental Science|2026/10/DS-26-27-Update.pdf
+health-professions|family-medicine-physician|Family Medicine Physician|2026/08/FMP-26-27-.pdf
+health-professions|genetics|Genetics|2026/11/Gen-26-27-11.17-1.pdf
+health-professions|home-health-aide|Home Health Aide|2026/08/HHA-26-27-.pdf
+health-professions|medical-assisting|Medical Assisting|2026/09/MA-26-27-9.29.pdf
+health-professions|nursing-assisting|Nursing Assisting|2026/09/NA-26-27-9.29.pdf
+health-professions|occupational-therapy|Occupational Therapy|2026/09/OT-26-27-9.22.pdf
+health-professions|patient-care-technician|Patient Care Technician|2026/09/PCT-26-27-FINAL-1.pdf
+health-professions|personal-care|Personal Care|2026/09/PC-26-27-FINAL-2.pdf
+health-professions|pharmacy-science|Pharmacy Science|2026/10/Rx-26-27-Update.pdf
+health-professions|phlebotomy|Phlebotomy|2026/09/PHL-26-27-9.29.pdf
+health-professions|physical-therapy|Physical Therapy|2026/10/PT-26-27-9.30-1.pdf
+health-professions|physician-assistant|Physician Assistant – Medical Case Challenge|2026/08/PA-26-27-FINAL-1-1.pdf
+health-professions|respiratory-therapy|Respiratory Therapy|2026/10/RT-26-27-10.8.pdf
+health-professions|sports-medicine|Sports Medicine|2026/08/SM-26-27-FINAL.pdf
+health-professions|surgical-technologist|Surgical Technologist|2026/08/ST-26-27-FINAL-1-1.pdf
+health-professions|veterinary-science|Veterinary Science|2026/11/VS-26-27-Nov-8.pdf
+emergency-preparedness|cert-skills|CERT Skills|2026/08/CERT-26-27-FINAL-1.pdf
+emergency-preparedness|cpr-first-aid|CPR/First Aid|2026/10/CPR_FA-26-27-FINAL-update.pdf
+emergency-preparedness|emergency-medical-technician|Emergency Medical Technician|2026/10/EMT-26-27-Update.pdf
+emergency-preparedness|epidemiology|Epidemiology|2026/09/EPI-26-27-9.29.pdf
+emergency-preparedness|life-support-skills|Life Support Skills|2026/09/LSS-26-27-Update-9.30.pdf
+emergency-preparedness|mental-health-promotion|Mental Health Promotion|2026/10/MHP-26-27-Update-Oct-2026.pdf
+emergency-preparedness|mrc-partnership|MRC Partnership|2026/08/MRC-26-27.pdf
+emergency-preparedness|public-health|Public Health|2026/09/PH-26-27-9.5-FINAL.pdf
+leadership|extemporaneous-writing-health-policy|Extemporaneous Writing – Health Policy|2026/08/EWHP-26-27-FINAL-1.pdf
+leadership|health-career-photography|Health Career Photography|2026/08/HCPhoto-26-27-8.16-FINAL.pdf
+leadership|healthy-living|Healthy Living|2026/08/Healthy-Living-26-27.pdf
+leadership|interviewing-skills|Interviewing Skills|2026/08/Interview-Skills-26-27.pdf
+leadership|job-seeking-skills|Job Seeking Skills|2026/08/Job-Seeking-26-27.pdf
+leadership|organizational-leadership|Organizational Leadership|2026/08/Org.-Leadership-26-27.pdf
+leadership|prepared-speaking|Prepared Speaking|2026/08/Prepared-Speaking-26-27.pdf
+leadership|researched-persuasive-writing-speaking|Researched Persuasive Writing and Speaking|2026/08/RPWS-26-27.pdf
+leadership|speaking-skills|Speaking Skills|2026/08/Speaking-Skills-26-27.pdf
+teamwork|biomedical-debate|Biomedical Debate|2026/11/BD-26-27-Revised-11.2.pdf
+teamwork|community-awareness|Community Awareness|2026/08/Community-Awareness-26-27.pdf
+teamwork|creative-problem-solving|Creative Problem Solving|2026/08/CPS-26-27-8.31_Final.pdf
+teamwork|forensic-science|Forensic Science|2026/08/Forensic-Science-26-27.pdf
+teamwork|health-career-display|Health Career Display|2026/08/Health-Career-Display-26-27.pdf
+teamwork|health-education|Health Education|2026/11/HE-26-27-FINAL.pdf
+teamwork|hosa-bowl|HOSA Bowl|2026/08/HOSA-Bowl-26-27.pdf
+teamwork|medical-innovation|Medical Innovation|2026/09/MI-26-27-9.25.pdf
+teamwork|parliamentary-procedure|Parliamentary Procedure|2026/08/Parli-Pro-26-27.pdf
+teamwork|public-service-announcement|Public Service Announcement|2026/10/PSA-26-27-10.6.pdf
+teamwork|research-poster|Research Poster|2026/08/Research-Poster-26-27.pdf
