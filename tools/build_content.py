@@ -34,7 +34,7 @@ def build_level(rows, ev, topics, seed, level):
     n = ev["testQuestions"]
     assert len(rows) == n, f"{level}: {len(rows)} questions, need {n}"
     plan = {r["topic"]: r["pct"] for r in ev["testPlan"]}
-    if all(p is not None for p in plan.values()):
+    if plan and all(p is not None for p in plan.values()):
         for code, name in topics.items():
             assert name in plan, f"topic {name!r} is not in the official test plan"
             have = sum(1 for r in rows if r[0] == code)
