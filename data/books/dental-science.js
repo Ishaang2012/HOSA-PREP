@@ -2,6 +2,281 @@
 window.CONTENT = window.CONTENT || {};
 window.CONTENT["dental-science"] = window.CONTENT["dental-science"] || {};
 window.CONTENT["dental-science"].summaries = {
+ "0": [
+  {
+   "number": 1,
+   "title": "Basic Dental Instruments",
+   "summary": [
+    "The basic setup is the mouth mirror (indirect vision, retraction, light reflection), explorer (detects caries and calculus; e.g., shepherd's hook #23), cotton pliers (transfer small items), and periodontal probe (measures pocket depth in millimeters)."
+   ],
+   "keyPoints": [
+    "Mouth mirror: vision, retraction, light",
+    "Explorer detects caries",
+    "Cotton pliers transfer items",
+    "Probe measures pockets"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Enamel-Cutting Instruments",
+   "summary": [
+    "Hand cutting instruments shape cavity preparations: enamel hatchets, hoes, chisels (straight, Wedelstaedt, binangle), gingival margin trimmers (bevel gingival margins), and spoon excavators (remove soft decay)."
+   ],
+   "keyPoints": [
+    "Spoon excavator removes decay",
+    "Gingival margin trimmer",
+    "Hoe and hatchet",
+    "Chisels plane enamel"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Local Anesthesia and Nitrous Oxide Sedation",
+   "summary": [
+    "The aspirating syringe has a harpoon to engage the cartridge's rubber stopper so the operator can aspirate to avoid injecting into a vessel. Needles are 25, 27, or 30 gauge (higher number = thinner), short or long (long for nerve blocks). Nitrous oxide is delivered with a nasal hood; tanks are blue (N2O) and green (O2)."
+   ],
+   "keyPoints": [
+    "Aspirating syringe with harpoon",
+    "Higher gauge = thinner",
+    "Long needles for blocks",
+    "N2O blue, O2 green"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Evacuation Devices, Air/Water Syringe Tip, and Dental Unit",
+   "summary": [
+    "The high-volume evacuator (HVE) removes large amounts of fluid and debris; the saliva ejector removes small amounts. The air/water syringe delivers air, water, or spray. The dental unit includes the chair, operating light, and delivery system."
+   ],
+   "keyPoints": [
+    "HVE for large volumes",
+    "Saliva ejector for small amounts",
+    "Air/water syringe",
+    "Dental unit"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Dental Handpieces",
+   "summary": [
+    "High-speed handpieces (up to about 400,000 rpm) cut enamel with water coolant. Low-speed handpieces (up to about 30,000 rpm) take attachments such as the contra-angle and prophy angle for polishing and caries removal. Lab handpieces finish appliances. Handpieces are heat-sterilized."
+   ],
+   "keyPoints": [
+    "High-speed cuts enamel",
+    "Low-speed polishes",
+    "Prophy angle",
+    "Sterilize handpieces"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Burs and Rotary Attachments for Handpieces",
+   "summary": [
+    "Burs have a shank, neck, and head. Shapes include round (opening and decay removal), inverted cone (undercuts), pear, straight and tapered fissure (cavity walls). Diamonds cut and finish; finishing burs smooth restorations. Other rotary attachments include mandrels, discs, stones, and rubber cups."
+   ],
+   "keyPoints": [
+    "Round bur removes decay",
+    "Inverted cone makes undercuts",
+    "Fissure burs shape walls",
+    "Diamonds and finishing burs"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Dental Dam Instruments",
+   "summary": [
+    "Dental dam setup includes the dam material, punch (makes holes), clamps (anchor on a tooth), clamp forceps (place clamps), frame (holds dam), and lubricant and floss ligature. The dam isolates teeth and protects the airway."
+   ],
+   "keyPoints": [
+    "Punch makes holes",
+    "Clamp forceps place clamp",
+    "Frame holds dam",
+    "Isolation and safety"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Amalgam Restorative Instruments",
+   "summary": [
+    "Amalgam instruments include the amalgamator (mixes capsules), amalgam carrier (transports), condensers (pack amalgam), burnishers (smooth), carvers (discoid-cleoid, Hollenback, interproximal) and the articulating paper holder to check occlusion. The Tofflemire retainer, matrix band, and wedges form missing walls."
+   ],
+   "keyPoints": [
+    "Carrier transports",
+    "Condenser packs",
+    "Carvers shape anatomy",
+    "Tofflemire and wedges"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Composite Restorative Instruments",
+   "summary": [
+    "Composite instruments are often plastic or coated to avoid discoloring: composite placement instruments, the curing light (blue light), shade guide, clear matrix strips, and finishing strips and discs."
+   ],
+   "keyPoints": [
+    "Curing light",
+    "Shade guide",
+    "Clear matrix strips",
+    "Non-metal placement instruments"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Fixed Prosthodontics Restorative Instruments",
+   "summary": [
+    "Crown and bridge instruments include retraction cord and packing instruments, impression trays and guns for elastomeric materials, crown and bridge scissors, crown removers, and bite registration materials."
+   ],
+   "keyPoints": [
+    "Retraction cord packer",
+    "Impression gun",
+    "Crown and bridge scissors",
+    "Crown remover"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Endodontic Instruments",
+   "summary": [
+    "Endodontic instruments include endodontic explorers, spoon excavators, broaches (remove pulp), files (K-type and Hedstrom), rotary NiTi files, rubber stops (mark length), apex locators, paper points (dry canals), gutta-percha points, and spreaders and pluggers (condense gutta-percha)."
+   ],
+   "keyPoints": [
+    "Broach removes pulp",
+    "Files shape canals",
+    "Paper points dry canals",
+    "Gutta-percha fills"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Hygiene Instruments",
+   "summary": [
+    "Hygiene instruments include sickle scalers (supragingival calculus), curettes (universal and Gracey; subgingival), periodontal probes, explorers, and ultrasonic scalers. Curettes have rounded toes; sickles have pointed tips."
+   ],
+   "keyPoints": [
+    "Sickle scaler: supragingival",
+    "Curettes: subgingival",
+    "Gracey curettes are area-specific",
+    "Ultrasonic scaler"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Preventive and Sealant Instruments and Whitening Trays",
+   "summary": [
+    "Prevention tools include fluoride trays, varnish applicators, sealant materials and applicators, etchant, curing light, and custom whitening trays."
+   ],
+   "keyPoints": [
+    "Fluoride trays and varnish",
+    "Sealant applicator",
+    "Etchant",
+    "Whitening trays"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Orthodontic Instruments",
+   "summary": [
+    "Orthodontic instruments include band pushers and seaters, separating pliers, bracket placement tweezers, ligature tying and cutting instruments, distal end cutters (cut archwires), bird beak and three-prong pliers, and debonding pliers."
+   ],
+   "keyPoints": [
+    "Separating pliers",
+    "Bracket tweezers",
+    "Distal end cutter",
+    "Bird beak pliers"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Universal Surgical Instruments",
+   "summary": [
+    "Universal surgical instruments include scalpels (blades #11, #12, #15), hemostats (clamp vessels and hold items), needle holders, surgical scissors, tissue retractors, and surgical curettes."
+   ],
+   "keyPoints": [
+    "Scalpel blades",
+    "Hemostat clamps",
+    "Needle holder",
+    "Retractors"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Periodontal Instruments and Periodontal Surgical Instruments",
+   "summary": [
+    "Periodontal instruments include probes (measure pocket depth), furcation probes (Nabers), periodontal files, pocket markers, periodontal knives (Kirkland, Orban), and surgical instruments for flap surgery and grafts."
+   ],
+   "keyPoints": [
+    "Nabers probe for furcations",
+    "Pocket marker",
+    "Kirkland and Orban knives",
+    "Flap surgery"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Oral Surgery Extraction Instruments and Dental Implants",
+   "summary": [
+    "Extraction instruments include periosteal elevators (lift tissue), elevators (loosen teeth), extraction forceps (specific to maxillary or mandibular teeth), rongeurs (trim bone), bone files, and surgical curettes. Implant kits include drills, implant fixtures, and abutments."
+   ],
+   "keyPoints": [
+    "Elevators loosen teeth",
+    "Forceps remove teeth",
+    "Rongeurs trim bone",
+    "Implant kits"
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Sterilization and Protective Equipment",
+   "summary": [
+    "Sterilization equipment includes ultrasonic cleaners, instrument cassettes, sterilization pouches with indicators, autoclaves, and biological monitors (spore tests). PPE includes gloves, masks, eyewear, face shields, and gowns."
+   ],
+   "keyPoints": [
+    "Ultrasonic cleaner",
+    "Autoclave",
+    "Spore testing",
+    "PPE"
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Dental Materials Equipment",
+   "summary": [
+    "Equipment for dental materials includes mixing pads and glass slabs, cement spatulas, alginate bowls and spatulas, impression trays, model trimmers, vibrators for pouring models, and vacuum formers for trays."
+   ],
+   "keyPoints": [
+    "Glass slab for zinc phosphate",
+    "Alginate bowl and spatula",
+    "Model trimmer",
+    "Vacuum former"
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Dental Imaging and Diagnostic Equipment",
+   "summary": [
+    "Imaging equipment includes the X-ray unit, digital sensors and phosphor plates, receptor holders (XCP), panoramic and CBCT machines, lead aprons with thyroid collars, and intraoral cameras. Diagnostic tools include electric pulp testers and caries detection devices."
+   ],
+   "keyPoints": [
+    "XCP holders",
+    "Digital sensors",
+    "Lead apron with thyroid collar",
+    "Pulp tester"
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Patient Assessment and Emergency Equipment",
+   "summary": [
+    "Assessment equipment includes blood pressure cuffs, stethoscopes, thermometers, and pulse oximeters. Emergency equipment includes oxygen, the AED, bag-valve mask, and the emergency drug kit (epinephrine, nitroglycerin, glucose)."
+   ],
+   "keyPoints": [
+    "BP cuff and stethoscope",
+    "Pulse oximeter",
+    "AED and oxygen",
+    "Emergency drug kit"
+   ]
+  }
+ ],
  "1": [
   {
    "number": 1,
@@ -838,6 +1113,827 @@ window.CONTENT["dental-science"].summaries = {
  ]
 };
 window.CONTENT["dental-science"].quizzes = {
+ "0": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Which needle gauge is thinnest?",
+     "options": [
+      "30",
+      "20",
+      "25",
+      "27"
+     ],
+     "answer": 0,
+     "explanation": "Higher number = thinner.",
+     "chapter": 3
+    },
+    {
+     "q": "Which instrument is used to detect caries and calculus?",
+     "options": [
+      "Spoon excavator",
+      "Mouth mirror",
+      "Explorer",
+      "Cotton pliers"
+     ],
+     "answer": 2,
+     "explanation": "Example: shepherd's hook.",
+     "chapter": 1
+    },
+    {
+     "q": "Hoes, hatchets, and chisels are:",
+     "options": [
+      "Rotary instruments",
+      "Hand cutting instruments",
+      "Restorative instruments",
+      "Surgical instruments"
+     ],
+     "answer": 1,
+     "explanation": "Shape cavity preparations.",
+     "chapter": 2
+    },
+    {
+     "q": "The harpoon on an anesthetic syringe allows:",
+     "options": [
+      "Bending the needle",
+      "Aspiration",
+      "Faster injection",
+      "Loading two cartridges"
+     ],
+     "answer": 1,
+     "explanation": "Checks for blood vessel entry.",
+     "chapter": 3
+    },
+    {
+     "q": "Nitrous oxide tanks are colored:",
+     "options": [
+      "Green",
+      "Yellow",
+      "Gray",
+      "Blue"
+     ],
+     "answer": 3,
+     "explanation": "Oxygen tanks are green in the U.S.",
+     "chapter": 3
+    },
+    {
+     "q": "A periodontal probe measures:",
+     "options": [
+      "Pocket depth in millimeters",
+      "Tooth color",
+      "Bite force",
+      "Root length"
+     ],
+     "answer": 0,
+     "explanation": "Marked in mm.",
+     "chapter": 1
+    },
+    {
+     "q": "Functions of the mouth mirror include indirect vision, retraction, and:",
+     "options": [
+      "Polishing",
+      "Removing decay",
+      "Light reflection",
+      "Cutting enamel"
+     ],
+     "answer": 2,
+     "explanation": "It reflects light onto the area.",
+     "chapter": 1
+    },
+    {
+     "q": "The instrument that bevels gingival margins is the:",
+     "options": [
+      "Condenser",
+      "Explorer",
+      "Enamel hatchet",
+      "Gingival margin trimmer"
+     ],
+     "answer": 3,
+     "explanation": "Used in Class II preps.",
+     "chapter": 2
+    },
+    {
+     "q": "Soft decay is removed with a:",
+     "options": [
+      "Spoon excavator",
+      "Hoe",
+      "Chisel",
+      "Explorer"
+     ],
+     "answer": 0,
+     "explanation": "Spoon-shaped blade.",
+     "chapter": 2
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "The saliva ejector removes:",
+     "options": [
+      "Large debris",
+      "Amalgam scraps",
+      "Tooth fragments",
+      "Small amounts of fluid"
+     ],
+     "answer": 3,
+     "explanation": "Low-volume suction.",
+     "chapter": 4
+    },
+    {
+     "q": "A high-speed handpiece is used to:",
+     "options": [
+      "Mix amalgam",
+      "Polish teeth",
+      "Cut enamel",
+      "Take impressions"
+     ],
+     "answer": 2,
+     "explanation": "With water coolant.",
+     "chapter": 5
+    },
+    {
+     "q": "The air/water syringe can deliver air, water, or:",
+     "options": [
+      "Fluoride",
+      "Spray",
+      "Etchant",
+      "Anesthetic"
+     ],
+     "answer": 1,
+     "explanation": "A combination.",
+     "chapter": 4
+    },
+    {
+     "q": "The part of the bur that fits into the handpiece is the:",
+     "options": [
+      "Head",
+      "Blade",
+      "Neck",
+      "Shank"
+     ],
+     "answer": 3,
+     "explanation": "Head does the cutting.",
+     "chapter": 6
+    },
+    {
+     "q": "A round bur is often used to:",
+     "options": [
+      "Open the tooth and remove decay",
+      "Cut archwires",
+      "Make undercuts",
+      "Polish composites"
+     ],
+     "answer": 0,
+     "explanation": "Common first bur.",
+     "chapter": 6
+    },
+    {
+     "q": "An inverted cone bur is used to:",
+     "options": [
+      "Create undercuts",
+      "Polish",
+      "Remove calculus",
+      "Clean canals"
+     ],
+     "answer": 0,
+     "explanation": "Helps retain restorations.",
+     "chapter": 6
+    },
+    {
+     "q": "After each patient, handpieces should be:",
+     "options": [
+      "Rinsed",
+      "Heat-sterilized",
+      "Wiped only",
+      "Left as is"
+     ],
+     "answer": 1,
+     "explanation": "Internal contamination.",
+     "chapter": 5
+    },
+    {
+     "q": "A prophy angle attaches to a:",
+     "options": [
+      "Air syringe",
+      "High-speed handpiece",
+      "Low-speed handpiece",
+      "HVE"
+     ],
+     "answer": 2,
+     "explanation": "For polishing.",
+     "chapter": 5
+    },
+    {
+     "q": "The device that removes large amounts of fluid and debris is the:",
+     "options": [
+      "High-volume evacuator",
+      "Ultrasonic scaler",
+      "Air/water syringe",
+      "Saliva ejector"
+     ],
+     "answer": 0,
+     "explanation": "HVE.",
+     "chapter": 4
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "The instrument that carries amalgam to the tooth is the:",
+     "options": [
+      "Explorer",
+      "Matrix",
+      "Condenser",
+      "Amalgam carrier"
+     ],
+     "answer": 3,
+     "explanation": "Dispenses into the prep.",
+     "chapter": 8
+    },
+    {
+     "q": "Holes in the dental dam are made with a:",
+     "options": [
+      "Frame",
+      "Scissors",
+      "Dental dam punch",
+      "Clamp forceps"
+     ],
+     "answer": 2,
+     "explanation": "Sized to the teeth.",
+     "chapter": 7
+    },
+    {
+     "q": "Anterior composites use a:",
+     "options": [
+      "Metal wedge only",
+      "Dental dam punch",
+      "Tofflemire band",
+      "Clear matrix strip"
+     ],
+     "answer": 3,
+     "explanation": "Lets light through.",
+     "chapter": 9
+    },
+    {
+     "q": "Amalgam is packed into the preparation with a:",
+     "options": [
+      "Carver",
+      "Condenser",
+      "Carrier",
+      "Burnisher"
+     ],
+     "answer": 1,
+     "explanation": "Compacts the material.",
+     "chapter": 8
+    },
+    {
+     "q": "Anatomy is shaped into amalgam with a:",
+     "options": [
+      "Carver",
+      "Carrier",
+      "Condenser",
+      "Probe"
+     ],
+     "answer": 0,
+     "explanation": "Like the discoid-cleoid.",
+     "chapter": 8
+    },
+    {
+     "q": "The dental dam frame:",
+     "options": [
+      "Holds the dam taut",
+      "Punches holes",
+      "Anchors on a tooth",
+      "Lubricates the dam"
+     ],
+     "answer": 0,
+     "explanation": "Keeps it out of the way.",
+     "chapter": 7
+    },
+    {
+     "q": "Dental dam clamps are placed with:",
+     "options": [
+      "Clamp forceps",
+      "Fingers only",
+      "Cotton pliers",
+      "Hemostats"
+     ],
+     "answer": 0,
+     "explanation": "Spread the clamp.",
+     "chapter": 7
+    },
+    {
+     "q": "Tooth color is matched using a:",
+     "options": [
+      "Explorer",
+      "Shade guide",
+      "Matrix band",
+      "Probe"
+     ],
+     "answer": 1,
+     "explanation": "Compare under natural light.",
+     "chapter": 9
+    },
+    {
+     "q": "Composite restorations are hardened with a:",
+     "options": [
+      "Autoclave",
+      "Amalgamator",
+      "Curing light",
+      "Bunsen burner"
+     ],
+     "answer": 2,
+     "explanation": "Blue light.",
+     "chapter": 9
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "Canals are dried with:",
+     "options": [
+      "Paper points",
+      "Cotton pellets only",
+      "Air syringe only",
+      "Files"
+     ],
+     "answer": 0,
+     "explanation": "Absorbent.",
+     "chapter": 11
+    },
+    {
+     "q": "Curettes differ from sickle scalers by having a:",
+     "options": [
+      "Pointed tip",
+      "Flat blade",
+      "Rounded toe",
+      "Hook"
+     ],
+     "answer": 2,
+     "explanation": "Safer below the gumline.",
+     "chapter": 12
+    },
+    {
+     "q": "Temporary crowns are trimmed with:",
+     "options": [
+      "Bone files",
+      "Explorers",
+      "Hemostats",
+      "Crown and bridge scissors"
+     ],
+     "answer": 3,
+     "explanation": "Curved blades.",
+     "chapter": 10
+    },
+    {
+     "q": "Pulp tissue is removed from the canal with a:",
+     "options": [
+      "Spreader",
+      "Paper point",
+      "Gutta-percha",
+      "Broach"
+     ],
+     "answer": 3,
+     "explanation": "Barbed instrument.",
+     "chapter": 11
+    },
+    {
+     "q": "Rubber stops on endodontic files mark the:",
+     "options": [
+      "Working length",
+      "File brand",
+      "Tooth color",
+      "Patient name"
+     ],
+     "answer": 0,
+     "explanation": "Prevent over-instrumentation.",
+     "chapter": 11
+    },
+    {
+     "q": "A sickle scaler removes:",
+     "options": [
+      "Supragingival calculus",
+      "Stains only",
+      "Decay",
+      "Subgingival calculus only"
+     ],
+     "answer": 0,
+     "explanation": "Pointed tip.",
+     "chapter": 12
+    },
+    {
+     "q": "Elastomeric impression material is often dispensed with an:",
+     "options": [
+      "Syringe for anesthetic",
+      "Amalgam carrier",
+      "Impression gun (extruder)",
+      "HVE"
+     ],
+     "answer": 2,
+     "explanation": "Mixing tips.",
+     "chapter": 10
+    },
+    {
+     "q": "Before a crown impression, gingival tissue is retracted with:",
+     "options": [
+      "A matrix",
+      "Retraction cord",
+      "Cotton rolls",
+      "A wedge"
+     ],
+     "answer": 1,
+     "explanation": "Packed with a cord packer.",
+     "chapter": 10
+    },
+    {
+     "q": "Gracey curettes are:",
+     "options": [
+      "Used for fillings",
+      "Area-specific",
+      "Used for impressions",
+      "Universal for all areas"
+     ],
+     "answer": 1,
+     "explanation": "Designed for specific teeth/surfaces.",
+     "chapter": 12
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "Custom trays for home bleaching are:",
+     "options": [
+      "Fluoride trays only",
+      "Impression trays",
+      "Whitening trays",
+      "Matrix bands"
+     ],
+     "answer": 2,
+     "explanation": "Hold whitening gel.",
+     "chapter": 13
+    },
+    {
+     "q": "Orthodontic separators are placed with:",
+     "options": [
+      "Distal end cutters",
+      "Bird beak pliers",
+      "Hemostats",
+      "Separating pliers"
+     ],
+     "answer": 3,
+     "explanation": "Create space for bands.",
+     "chapter": 14
+    },
+    {
+     "q": "A hemostat is used to:",
+     "options": [
+      "Pack amalgam",
+      "Clamp vessels and hold items",
+      "Measure pockets",
+      "Cut tissue"
+     ],
+     "answer": 1,
+     "explanation": "Locking handles.",
+     "chapter": 15
+    },
+    {
+     "q": "Fluoride varnish is applied with a:",
+     "options": [
+      "Brush applicator",
+      "Scalpel",
+      "Condenser",
+      "Explorer"
+     ],
+     "answer": 0,
+     "explanation": "Painted on teeth.",
+     "chapter": 13
+    },
+    {
+     "q": "Tissue is incised with a:",
+     "options": [
+      "Scalpel",
+      "Hemostat",
+      "Probe",
+      "Retractor"
+     ],
+     "answer": 0,
+     "explanation": "Blades like #15.",
+     "chapter": 15
+    },
+    {
+     "q": "Excess archwire is cut with a:",
+     "options": [
+      "Distal end cutter",
+      "Bracket tweezers",
+      "Band pusher",
+      "Ligature director"
+     ],
+     "answer": 0,
+     "explanation": "Holds the cut piece.",
+     "chapter": 14
+    },
+    {
+     "q": "Brackets are positioned with:",
+     "options": [
+      "Forceps",
+      "Bracket placement tweezers",
+      "Hemostats",
+      "Cotton pliers"
+     ],
+     "answer": 1,
+     "explanation": "Precise placement.",
+     "chapter": 14
+    },
+    {
+     "q": "Sutures are placed using a:",
+     "options": [
+      "Spoon excavator",
+      "Explorer",
+      "Hemostat only",
+      "Needle holder"
+     ],
+     "answer": 3,
+     "explanation": "Grips the needle.",
+     "chapter": 15
+    },
+    {
+     "q": "Before placing sealants, enamel is prepared with:",
+     "options": [
+      "Amalgam",
+      "Fluoride",
+      "Etchant",
+      "Bleach"
+     ],
+     "answer": 2,
+     "explanation": "Phosphoric acid.",
+     "chapter": 13
+    }
+   ]
+  },
+  {
+   "chapters": [
+    16,
+    17,
+    18
+   ],
+   "questions": [
+    {
+     "q": "Bone is trimmed with:",
+     "options": [
+      "Rongeurs",
+      "Explorers",
+      "Elevators",
+      "Probes"
+     ],
+     "answer": 0,
+     "explanation": "Cutting jaws.",
+     "chapter": 17
+    },
+    {
+     "q": "Furcation involvement is measured with a:",
+     "options": [
+      "Explorer",
+      "Nabers probe",
+      "Hemostat",
+      "Sickle scaler"
+     ],
+     "answer": 1,
+     "explanation": "Curved probe.",
+     "chapter": 16
+    },
+    {
+     "q": "The most common sterilizer in dental offices is the:",
+     "options": [
+      "Autoclave",
+      "Dry heat oven",
+      "UV light",
+      "Chemical bath"
+     ],
+     "answer": 0,
+     "explanation": "Steam under pressure.",
+     "chapter": 18
+    },
+    {
+     "q": "The instrument that lifts gum and periosteum from bone is the:",
+     "options": [
+      "Periosteal elevator",
+      "Bone file",
+      "Forceps",
+      "Scalpel"
+     ],
+     "answer": 0,
+     "explanation": "Reflects tissue.",
+     "chapter": 17
+    },
+    {
+     "q": "Instruments are cleaned before sterilization in an:",
+     "options": [
+      "Amalgamator",
+      "Curing light",
+      "Autoclave",
+      "Ultrasonic cleaner"
+     ],
+     "answer": 3,
+     "explanation": "Removes debris.",
+     "chapter": 18
+    },
+    {
+     "q": "A pocket marker is used to:",
+     "options": [
+      "Bend wires",
+      "Carve amalgam",
+      "Mark pocket depths on tissue",
+      "Pack cord"
+     ],
+     "answer": 2,
+     "explanation": "Before gingivectomy.",
+     "chapter": 16
+    },
+    {
+     "q": "Sterilizer effectiveness is confirmed by:",
+     "options": [
+      "Temperature guess",
+      "Spore tests (biological monitoring)",
+      "Visual inspection",
+      "Color strips only"
+     ],
+     "answer": 1,
+     "explanation": "Weekly.",
+     "chapter": 18
+    },
+    {
+     "q": "Periodontal knives such as Kirkland and Orban are used in:",
+     "options": [
+      "Orthodontics",
+      "Root canals",
+      "Gingival surgery",
+      "Amalgam fillings"
+     ],
+     "answer": 2,
+     "explanation": "Gingivectomy.",
+     "chapter": 16
+    },
+    {
+     "q": "Teeth are loosened before extraction with:",
+     "options": [
+      "Hemostats",
+      "Forceps",
+      "Rongeurs",
+      "Elevators"
+     ],
+     "answer": 3,
+     "explanation": "Forceps then remove them.",
+     "chapter": 17
+    }
+   ]
+  },
+  {
+   "chapters": [
+    19,
+    20,
+    21
+   ],
+   "questions": [
+    {
+     "q": "Patients wear a lead apron and:",
+     "options": [
+      "Gloves",
+      "Thyroid collar",
+      "Mask",
+      "Goggles only"
+     ],
+     "answer": 1,
+     "explanation": "Protects the thyroid.",
+     "chapter": 20
+    },
+    {
+     "q": "Alginate is mixed in a:",
+     "options": [
+      "Metal cup",
+      "Glass slab",
+      "Paper cup",
+      "Flexible rubber bowl"
+     ],
+     "answer": 3,
+     "explanation": "With a wide spatula.",
+     "chapter": 19
+    },
+    {
+     "q": "Oxygen saturation is measured with a:",
+     "options": [
+      "Pulse oximeter",
+      "Stethoscope",
+      "Sphygmomanometer",
+      "Thermometer"
+     ],
+     "answer": 0,
+     "explanation": "SpO2.",
+     "chapter": 21
+    },
+    {
+     "q": "Zinc phosphate cement is mixed on a cool:",
+     "options": [
+      "Metal tray",
+      "Paper pad",
+      "Glass slab",
+      "Rubber bowl"
+     ],
+     "answer": 2,
+     "explanation": "Controls the exothermic reaction.",
+     "chapter": 19
+    },
+    {
+     "q": "Receptor holders that help with paralleling technique are:",
+     "options": [
+      "Tongue depressors",
+      "Bite blocks only",
+      "XCP instruments",
+      "Hemostats"
+     ],
+     "answer": 2,
+     "explanation": "Extension cone paralleling.",
+     "chapter": 20
+    },
+    {
+     "q": "For cardiac arrest, the office should have an:",
+     "options": [
+      "AED",
+      "Amalgamator",
+      "Curing light",
+      "Autoclave"
+     ],
+     "answer": 0,
+     "explanation": "Automated external defibrillator.",
+     "chapter": 21
+    },
+    {
+     "q": "An electric pulp tester checks:",
+     "options": [
+      "Bite force",
+      "Gum health",
+      "Tooth color",
+      "Tooth vitality"
+     ],
+     "answer": 3,
+     "explanation": "Nerve response.",
+     "chapter": 20
+    },
+    {
+     "q": "Model bases are shaped with a:",
+     "options": [
+      "Vibrator",
+      "Model trimmer",
+      "Lathe",
+      "Vacuum former"
+     ],
+     "answer": 1,
+     "explanation": "Grinding wheel.",
+     "chapter": 19
+    },
+    {
+     "q": "Blood pressure is measured with a cuff and a:",
+     "options": [
+      "Stethoscope",
+      "Probe",
+      "Explorer",
+      "Pulse oximeter"
+     ],
+     "answer": 0,
+     "explanation": "Sphygmomanometer and stethoscope.",
+     "chapter": 21
+    }
+   ]
+  }
+ ],
  "1": [
   {
    "chapters": [
@@ -3414,6 +4510,12 @@ window.CONTENT["dental-science"].quizzes = {
  ]
 };
 window.CONTENT["dental-science"].bookInfo = {
+ "0": {
+  "edition": "9th edition",
+  "source": "Elsevier table of contents",
+  "chapters": 21,
+  "unit": "Chapter"
+ },
  "1": {
   "edition": "15th edition",
   "source": "Elsevier table of contents",

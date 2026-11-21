@@ -372,6 +372,229 @@ window.CONTENT["surgical-technologist"].summaries = {
     "Bone wax controls bone bleeding"
    ]
   }
+ ],
+ "1": [
+  {
+   "number": 1,
+   "title": "Introduction to Surgical Instruments",
+   "summary": [
+    "Instruments are made mostly of stainless steel (some titanium or tungsten carbide). Parts include the jaws/tips, box lock, shanks, ratchets, and finger rings. Instrument categories are cutting/dissecting, grasping/holding, clamping/occluding, retracting/exposing, dilating, suctioning, and probing. Many are named for their inventors."
+   ],
+   "keyPoints": [
+    "Stainless steel",
+    "Box lock, ratchet, finger rings",
+    "Instrument categories",
+    "Named after inventors"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Basic Sterilization",
+   "summary": [
+    "Instruments are cleaned (manual and ultrasonic), inspected, assembled, packaged, and sterilized. Methods include steam (most common), ethylene oxide, hydrogen peroxide gas plasma, and immediate-use steam sterilization. Chemical indicators show exposure; biological indicators confirm sterility. Instruments are opened with ratchets unlocked during sterilization."
+   ],
+   "keyPoints": [
+    "Clean before sterilizing",
+    "Steam most common",
+    "Biological indicators confirm sterility",
+    "Open box locks"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Basic Instruments",
+   "summary": [
+    "A basic set includes scalpel handles (#3 holds blades #10, #11, #15; #4 holds #20-series), scissors (Mayo for heavy tissue and sutures; Metzenbaum for delicate tissue), forceps (Adson, DeBakey, Russian), hemostats (Kelly, mosquito, Crile), needle holders, towel clips, and retractors (Army-Navy, Richardson, Weitlaner)."
+   ],
+   "keyPoints": [
+    "#3 handle: #10, #11, #15 blades",
+    "Mayo vs. Metzenbaum scissors",
+    "Kelly and mosquito hemostats",
+    "Army-Navy retractor"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "General Instruments",
+   "summary": [
+    "General surgery sets include Allis (grasp tissue), Babcock (atraumatic for bowel), Kocher/Ochsner (heavy tissue with teeth), Balfour (self-retaining abdominal retractor), Deaver, malleable retractors, Yankauer (tonsil suction), and Poole suction (abdominal)."
+   ],
+   "keyPoints": [
+    "Allis grasps tissue",
+    "Babcock is atraumatic",
+    "Balfour self-retaining",
+    "Yankauer and Poole suction"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Laparoscopic Instruments",
+   "summary": [
+    "Minimally invasive surgery uses trocars (ports), a Veress needle (creates pneumoperitoneum with CO2), laparoscopes (often 0° or 30°), graspers, scissors, clip appliers, and electrosurgical tools. Benefits include smaller incisions and faster recovery."
+   ],
+   "keyPoints": [
+    "Veress needle → CO2",
+    "Trocars",
+    "0° and 30° scopes",
+    "Faster recovery"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Robotic Instruments",
+   "summary": [
+    "Robotic-assisted surgery uses a surgeon console, patient-side cart, and instrument arms with wristed instruments for precise movement. Instruments have limited lives and need special cleaning."
+   ],
+   "keyPoints": [
+    "Surgeon console",
+    "Wristed instruments",
+    "Limited instrument life",
+    "Precision"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Obstetrics and Gynecologic Instruments",
+   "summary": [
+    "OB/GYN instruments include the weighted vaginal speculum, Graves speculum, tenaculum (grasps cervix), uterine sounds (measure uterine depth), dilators (Hegar, Pratt), curettes, Heaney clamps, and instruments for cesarean section."
+   ],
+   "keyPoints": [
+    "Tenaculum grasps cervix",
+    "Uterine sound measures depth",
+    "Hegar dilators",
+    "Heaney clamps"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Genitourinary Instruments",
+   "summary": [
+    "GU instruments include cystoscopes, urethral sounds and dilators, catheters, kidney stone forceps (Randall), and Satinsky and Mayo instruments for open procedures."
+   ],
+   "keyPoints": [
+    "Cystoscope",
+    "Urethral dilators",
+    "Randall stone forceps",
+    "Catheters"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Ophthalmic Instruments",
+   "summary": [
+    "Eye instruments are very small and delicate: lid speculum, castroviejo needle holders and calipers, fine forceps, micro scissors, and phaco handpieces for cataract surgery. They're handled with great care."
+   ],
+   "keyPoints": [
+    "Lid speculum",
+    "Castroviejo instruments",
+    "Phacoemulsification",
+    "Delicate handling"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Otorhinolaryngology Instruments",
+   "summary": [
+    "ENT instruments include nasal speculums, ear specula, myringotomy knives, tonsil instruments (tonsil snare, Hurd dissector, tonsil hemostats), adenoid curettes, and mouth gags (Crowe-Davis, McIvor)."
+   ],
+   "keyPoints": [
+    "Myringotomy knife",
+    "Tonsil snare",
+    "Crowe-Davis mouth gag",
+    "Nasal speculum"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Oral Instruments",
+   "summary": [
+    "Oral surgery instruments include molt mouth gags, periosteal elevators, dental elevators, extraction forceps, rongeurs, and bone files."
+   ],
+   "keyPoints": [
+    "Molt mouth gag",
+    "Dental elevators",
+    "Extraction forceps",
+    "Rongeurs"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Plastic and Reconstructive Instruments",
+   "summary": [
+    "Plastic surgery uses fine instruments: skin hooks, Senn retractors, Adson forceps, Webster needle holders, iris scissors, and dermatomes (harvest skin grafts)."
+   ],
+   "keyPoints": [
+    "Skin hooks",
+    "Senn retractor",
+    "Dermatome for skin grafts",
+    "Fine instruments"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Orthopedic Instruments",
+   "summary": [
+    "Orthopedic instruments include bone hooks, bone-holding forceps (Lane, Lowman), periosteal elevators, rongeurs, osteotomes and mallets, curettes, power drills and saws, and implants such as plates, screws, and rods."
+   ],
+   "keyPoints": [
+    "Osteotome and mallet",
+    "Bone-holding forceps",
+    "Power drills and saws",
+    "Plates and screws"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Neurosurgical Instruments",
+   "summary": [
+    "Neurosurgery uses cranial drills (perforators), Kerrison and Leksell rongeurs, Penfield dissectors, bipolar electrosurgery, brain retractors, and Frazier suction tips."
+   ],
+   "keyPoints": [
+    "Kerrison rongeur",
+    "Penfield dissector",
+    "Frazier suction",
+    "Cranial drills"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Cardiovascular Thoracic Instruments",
+   "summary": [
+    "Cardiothoracic instruments include rib spreaders (Finochietto), sternal saws, vascular clamps (DeBakey, Satinsky), Potts scissors, and bulldog clamps. Vascular clamps are atraumatic to protect vessels."
+   ],
+   "keyPoints": [
+    "Finochietto rib spreader",
+    "Sternal saw",
+    "DeBakey vascular clamps",
+    "Bulldog clamps"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Basic Operating Room Supplies and Equipment",
+   "summary": [
+    "OR supplies include sutures and needles, sponges (lap sponges, Raytec), drains, dressings, electrosurgical units (ESU), suction, and staplers. Counts of sponges, sharps, and instruments prevent retained items."
+   ],
+   "keyPoints": [
+    "Sponge and sharps counts",
+    "Electrosurgical unit",
+    "Sutures and needles",
+    "Drains"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Surgical Setups",
+   "summary": [
+    "Setting up the sterile field includes organizing the back table and Mayo stand in a standard order, performing counts, and anticipating the surgeon's needs for each procedure."
+   ],
+   "keyPoints": [
+    "Back table setup",
+    "Mayo stand",
+    "Counts",
+    "Anticipate needs"
+   ]
+  }
  ]
 };
 window.CONTENT["surgical-technologist"].quizzes = {
@@ -1524,6 +1747,709 @@ window.CONTENT["surgical-technologist"].quizzes = {
     }
    ]
   }
+ ],
+ "1": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Before sterilization, ratcheted instruments should be:",
+     "options": [
+      "Oiled heavily",
+      "Opened (unlocked)",
+      "Closed tightly",
+      "Taped shut"
+     ],
+     "answer": 1,
+     "explanation": "Steam must reach all surfaces.",
+     "chapter": 2
+    },
+    {
+     "q": "Most surgical instruments are made of:",
+     "options": [
+      "Copper",
+      "Aluminum",
+      "Stainless steel",
+      "Plastic"
+     ],
+     "answer": 2,
+     "explanation": "Durable and corrosion resistant.",
+     "chapter": 1
+    },
+    {
+     "q": "Instruments that hold tissue aside are:",
+     "options": [
+      "Retractors",
+      "Clamps",
+      "Scissors",
+      "Probes"
+     ],
+     "answer": 0,
+     "explanation": "Retracting/exposing.",
+     "chapter": 1
+    },
+    {
+     "q": "The most common sterilization method is:",
+     "options": [
+      "Steam",
+      "Alcohol soak",
+      "Boiling",
+      "Ethylene oxide"
+     ],
+     "answer": 0,
+     "explanation": "Autoclave.",
+     "chapter": 2
+    },
+    {
+     "q": "A #15 blade fits on a:",
+     "options": [
+      "#4 handle",
+      "#7 handle only",
+      "Needle holder",
+      "#3 knife handle"
+     ],
+     "answer": 3,
+     "explanation": "#4 holds #20-series blades.",
+     "chapter": 3
+    },
+    {
+     "q": "Sterility is confirmed by:",
+     "options": [
+      "Package look",
+      "Tape color",
+      "Biological indicators",
+      "Chemical indicators"
+     ],
+     "answer": 2,
+     "explanation": "Spore tests.",
+     "chapter": 2
+    },
+    {
+     "q": "The joint where an instrument's two halves connect is the:",
+     "options": [
+      "Box lock",
+      "Ratchet",
+      "Finger ring",
+      "Shank"
+     ],
+     "answer": 0,
+     "explanation": "Inspect for debris.",
+     "chapter": 1
+    },
+    {
+     "q": "Which scissors are for delicate tissue?",
+     "options": [
+      "Wire cutters",
+      "Metzenbaum",
+      "Bandage scissors",
+      "Mayo"
+     ],
+     "answer": 1,
+     "explanation": "Mayo cut heavy tissue and sutures.",
+     "chapter": 3
+    },
+    {
+     "q": "A small, delicate hemostat is a:",
+     "options": [
+      "Babcock",
+      "Allis",
+      "Kocher",
+      "Mosquito"
+     ],
+     "answer": 3,
+     "explanation": "For small vessels.",
+     "chapter": 3
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "Ports through which laparoscopic instruments pass are:",
+     "options": [
+      "Speculums",
+      "Retractors",
+      "Trocars",
+      "Drains"
+     ],
+     "answer": 2,
+     "explanation": "Different sizes.",
+     "chapter": 5
+    },
+    {
+     "q": "A self-retaining abdominal retractor is the:",
+     "options": [
+      "Senn",
+      "Army-Navy",
+      "Deaver",
+      "Balfour"
+     ],
+     "answer": 3,
+     "explanation": "Holds the abdomen open.",
+     "chapter": 4
+    },
+    {
+     "q": "A suction tip often used in the mouth and throat is the:",
+     "options": [
+      "Veress",
+      "Yankauer",
+      "Poole",
+      "Frazier"
+     ],
+     "answer": 1,
+     "explanation": "Tonsil suction.",
+     "chapter": 4
+    },
+    {
+     "q": "Robotic instruments often have:",
+     "options": [
+      "Unlimited lives",
+      "No cleaning needs",
+      "No moving parts",
+      "A limited number of uses"
+     ],
+     "answer": 3,
+     "explanation": "Tracked by the system.",
+     "chapter": 6
+    },
+    {
+     "q": "The needle used to create pneumoperitoneum is the:",
+     "options": [
+      "Veress needle",
+      "Hypodermic needle",
+      "Trocar",
+      "Keith needle"
+     ],
+     "answer": 0,
+     "explanation": "Insufflates CO2.",
+     "chapter": 5
+    },
+    {
+     "q": "A key benefit of robotic instruments is:",
+     "options": [
+      "Wristed, precise movement",
+      "Larger incisions",
+      "Less accuracy",
+      "Longer recovery"
+     ],
+     "answer": 0,
+     "explanation": "Mimics the wrist.",
+     "chapter": 6
+    },
+    {
+     "q": "In robotic surgery, the surgeon controls the instruments from a:",
+     "options": [
+      "Console",
+      "Mayo stand",
+      "Scrub sink",
+      "Back table"
+     ],
+     "answer": 0,
+     "explanation": "Away from the patient.",
+     "chapter": 6
+    },
+    {
+     "q": "An atraumatic clamp used to grasp bowel is the:",
+     "options": [
+      "Towel clip",
+      "Babcock",
+      "Allis",
+      "Kocher"
+     ],
+     "answer": 1,
+     "explanation": "Smooth, rounded jaws.",
+     "chapter": 4
+    },
+    {
+     "q": "The gas used to inflate the abdomen in laparoscopy is:",
+     "options": [
+      "Oxygen",
+      "Helium",
+      "Carbon dioxide",
+      "Nitrogen"
+     ],
+     "answer": 2,
+     "explanation": "Absorbed quickly.",
+     "chapter": 5
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "Cataracts are often removed with:",
+     "options": [
+      "Rongeurs",
+      "Osteotomes",
+      "Phacoemulsification",
+      "Staplers"
+     ],
+     "answer": 2,
+     "explanation": "Ultrasonic breakup of the lens.",
+     "chapter": 9
+    },
+    {
+     "q": "Uterine depth is measured with a:",
+     "options": [
+      "Uterine sound",
+      "Hegar dilator",
+      "Tenaculum",
+      "Curette"
+     ],
+     "answer": 0,
+     "explanation": "Graduated markings.",
+     "chapter": 7
+    },
+    {
+     "q": "Hegar and Pratt instruments are:",
+     "options": [
+      "Clamps",
+      "Scissors",
+      "Retractors",
+      "Dilators"
+     ],
+     "answer": 3,
+     "explanation": "Dilate the cervix.",
+     "chapter": 7
+    },
+    {
+     "q": "Kidney stones are removed in open surgery with:",
+     "options": [
+      "Kelly clamps",
+      "Allis clamps",
+      "Randall stone forceps",
+      "Babcock clamps"
+     ],
+     "answer": 2,
+     "explanation": "Curved jaws.",
+     "chapter": 8
+    },
+    {
+     "q": "Eyelids are held open during eye surgery with a:",
+     "options": [
+      "Lid speculum",
+      "Senn retractor",
+      "Army-Navy",
+      "Weitlaner"
+     ],
+     "answer": 0,
+     "explanation": "Spring-loaded.",
+     "chapter": 9
+    },
+    {
+     "q": "Ophthalmic instruments must be handled:",
+     "options": [
+      "With great care",
+      "Without inspection",
+      "Roughly",
+      "In heavy trays stacked"
+     ],
+     "answer": 0,
+     "explanation": "Tiny and delicate.",
+     "chapter": 9
+    },
+    {
+     "q": "Urethral strictures may be widened with:",
+     "options": [
+      "Osteotomes",
+      "Urethral dilators (sounds)",
+      "Rib spreaders",
+      "Bone hooks"
+     ],
+     "answer": 1,
+     "explanation": "Graduated sizes.",
+     "chapter": 8
+    },
+    {
+     "q": "The bladder is viewed with a:",
+     "options": [
+      "Otoscope",
+      "Bronchoscope",
+      "Laparoscope",
+      "Cystoscope"
+     ],
+     "answer": 3,
+     "explanation": "Through the urethra.",
+     "chapter": 8
+    },
+    {
+     "q": "The instrument that grasps the cervix is the:",
+     "options": [
+      "Speculum",
+      "Tenaculum",
+      "Dilator",
+      "Sound"
+     ],
+     "answer": 1,
+     "explanation": "Has sharp tips.",
+     "chapter": 7
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "A mouth gag used in oral surgery is the:",
+     "options": [
+      "Molt",
+      "Crowe-Davis",
+      "Weitlaner",
+      "Balfour"
+     ],
+     "answer": 0,
+     "explanation": "Ratcheted side gag.",
+     "chapter": 11
+    },
+    {
+     "q": "A small handheld retractor with a rake end is the:",
+     "options": [
+      "Richardson",
+      "Deaver",
+      "Balfour",
+      "Senn retractor"
+     ],
+     "answer": 3,
+     "explanation": "Double-ended.",
+     "chapter": 12
+    },
+    {
+     "q": "A mouth gag used for tonsillectomy is the:",
+     "options": [
+      "Molt",
+      "Finochietto",
+      "Crowe-Davis",
+      "Balfour"
+     ],
+     "answer": 2,
+     "explanation": "Holds mouth open and tongue down.",
+     "chapter": 10
+    },
+    {
+     "q": "Rough bone edges are smoothed with a:",
+     "options": [
+      "Osteotome",
+      "Bone file",
+      "Curette",
+      "Elevator"
+     ],
+     "answer": 1,
+     "explanation": "After extractions.",
+     "chapter": 11
+    },
+    {
+     "q": "A dermatome is used to:",
+     "options": [
+      "Cut bone",
+      "Retract tissue",
+      "Clamp vessels",
+      "Harvest skin grafts"
+     ],
+     "answer": 3,
+     "explanation": "Takes thin skin layers.",
+     "chapter": 12
+    },
+    {
+     "q": "Small, sharp hooks used to retract skin edges are:",
+     "options": [
+      "Bone hooks",
+      "Towel clips",
+      "Skin hooks",
+      "Allis clamps"
+     ],
+     "answer": 2,
+     "explanation": "Fine retraction.",
+     "chapter": 12
+    },
+    {
+     "q": "Teeth are luxated with:",
+     "options": [
+      "Rongeurs",
+      "Elevators",
+      "Bone files",
+      "Hemostats"
+     ],
+     "answer": 1,
+     "explanation": "Before forceps.",
+     "chapter": 11
+    },
+    {
+     "q": "The nose is examined with a:",
+     "options": [
+      "Nasal speculum",
+      "Otoscope only",
+      "Laryngoscope",
+      "Sound"
+     ],
+     "answer": 0,
+     "explanation": "Spreads nostrils.",
+     "chapter": 10
+    },
+    {
+     "q": "A small incision in the eardrum is made with a:",
+     "options": [
+      "Myringotomy knife",
+      "Kerrison",
+      "Scalpel #20",
+      "Osteotome"
+     ],
+     "answer": 0,
+     "explanation": "To place tubes.",
+     "chapter": 10
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "Vascular clamps are designed to be:",
+     "options": [
+      "Atraumatic",
+      "Disposable only",
+      "Sharp-toothed",
+      "Heavy crushing"
+     ],
+     "answer": 0,
+     "explanation": "Protect vessels.",
+     "chapter": 15
+    },
+    {
+     "q": "Fractures are often fixed with plates and:",
+     "options": [
+      "Sutures only",
+      "Glue only",
+      "Screws",
+      "Staples only"
+     ],
+     "answer": 2,
+     "explanation": "Internal fixation.",
+     "chapter": 13
+    },
+    {
+     "q": "Fractured bone ends are held with:",
+     "options": [
+      "Bone-holding forceps",
+      "Skin hooks",
+      "Mosquitoes",
+      "Babcocks"
+     ],
+     "answer": 0,
+     "explanation": "Like Lane or Lowman.",
+     "chapter": 13
+    },
+    {
+     "q": "A rongeur used in spine surgery to remove bone is the:",
+     "options": [
+      "Leksell only",
+      "Babcock",
+      "Kerrison",
+      "Allis"
+     ],
+     "answer": 2,
+     "explanation": "Bites lamina.",
+     "chapter": 14
+    },
+    {
+     "q": "A suction tip commonly used in neurosurgery is the:",
+     "options": [
+      "Frazier",
+      "Poole",
+      "Yankauer",
+      "Veress"
+     ],
+     "answer": 0,
+     "explanation": "Fine, angled.",
+     "chapter": 14
+    },
+    {
+     "q": "Small spring clamps for vessels are:",
+     "options": [
+      "Towel clips",
+      "Kochers",
+      "Allis clamps",
+      "Bulldog clamps"
+     ],
+     "answer": 3,
+     "explanation": "Temporary occlusion.",
+     "chapter": 15
+    },
+    {
+     "q": "Ribs are spread apart with a:",
+     "options": [
+      "Army-Navy",
+      "Finochietto retractor",
+      "Weitlaner",
+      "Balfour"
+     ],
+     "answer": 1,
+     "explanation": "Thoracotomy.",
+     "chapter": 15
+    },
+    {
+     "q": "A dissector often used in neurosurgery is the:",
+     "options": [
+      "Mayo",
+      "Penfield",
+      "Balfour",
+      "Kocher"
+     ],
+     "answer": 1,
+     "explanation": "Numbered 1–5.",
+     "chapter": 14
+    },
+    {
+     "q": "Bone is cut or shaped with an osteotome and:",
+     "options": [
+      "Scalpel",
+      "Needle holder",
+      "Hemostat",
+      "Mallet"
+     ],
+     "answer": 3,
+     "explanation": "Struck to cut.",
+     "chapter": 13
+    }
+   ]
+  },
+  {
+   "chapters": [
+    16,
+    17
+   ],
+   "questions": [
+    {
+     "q": "Sutures attached to needles without an eye are:",
+     "options": [
+      "Eyed",
+      "Swaged (atraumatic)",
+      "French-eye only",
+      "Free ties"
+     ],
+     "answer": 1,
+     "explanation": "Less tissue damage.",
+     "chapter": 16
+    },
+    {
+     "q": "The back table is organized:",
+     "options": [
+      "In a standard, consistent order",
+      "Randomly",
+      "By price",
+      "By color only"
+     ],
+     "answer": 0,
+     "explanation": "Speeds counts and setup.",
+     "chapter": 17
+    },
+    {
+     "q": "Counts of sponges, sharps, and instruments prevent:",
+     "options": [
+      "Delays",
+      "Bleeding",
+      "Retained surgical items",
+      "Infection only"
+     ],
+     "answer": 2,
+     "explanation": "Done before, during, and after.",
+     "chapter": 16
+    },
+    {
+     "q": "The device that cuts and coagulates tissue with electric current is the:",
+     "options": [
+      "Suction",
+      "Electrosurgical unit",
+      "Dermatome",
+      "Stapler"
+     ],
+     "answer": 1,
+     "explanation": "ESU or Bovie.",
+     "chapter": 16
+    },
+    {
+     "q": "A good surgical technologist tries to:",
+     "options": [
+      "Wait to be asked every time",
+      "Rearrange randomly",
+      "Anticipate the surgeon's needs",
+      "Leave the field"
+     ],
+     "answer": 2,
+     "explanation": "Know the procedure.",
+     "chapter": 17
+    },
+    {
+     "q": "Counts are performed:",
+     "options": [
+      "Never",
+      "Only if requested",
+      "Only at the end",
+      "Before, during, and at closure"
+     ],
+     "answer": 3,
+     "explanation": "Required by policy.",
+     "chapter": 17
+    },
+    {
+     "q": "The small tray placed over the patient for frequently used instruments is the:",
+     "options": [
+      "Mayo stand",
+      "Back table",
+      "Kick bucket",
+      "Ring stand"
+     ],
+     "answer": 0,
+     "explanation": "Within easy reach.",
+     "chapter": 17
+    },
+    {
+     "q": "Tubes placed to remove fluid from a wound are:",
+     "options": [
+      "Drains",
+      "Sponges",
+      "Sutures",
+      "Staples"
+     ],
+     "answer": 0,
+     "explanation": "Like Jackson-Pratt.",
+     "chapter": 16
+    },
+    {
+     "q": "Large abdominal sponges are called:",
+     "options": [
+      "Peanuts",
+      "Raytec 4x4s",
+      "Cotton balls",
+      "Lap sponges"
+     ],
+     "answer": 3,
+     "explanation": "Laparotomy sponges.",
+     "chapter": 16
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["surgical-technologist"].bookInfo = {
@@ -1531,6 +2457,12 @@ window.CONTENT["surgical-technologist"].bookInfo = {
   "edition": "6th edition",
   "source": "Cengage table of contents",
   "chapters": 26,
+  "unit": "Chapter"
+ },
+ "1": {
+  "edition": "5th edition",
+  "source": "Elsevier table of contents",
+  "chapters": 17,
   "unit": "Chapter"
  }
 };

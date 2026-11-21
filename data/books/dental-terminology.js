@@ -283,6 +283,229 @@ window.CONTENT["dental-terminology"].summaries = {
     "HIPAA protects patient information"
    ]
   }
+ ],
+ "1": [
+  {
+   "number": 1,
+   "title": "Introduction to Dental Anatomy",
+   "summary": [
+    "Dental anatomy covers tooth form, terms, and numbering. Teeth have a crown (covered by enamel) and root (covered by cementum), meeting at the cementoenamel junction (CEJ). Surfaces are mesial, distal, facial (labial/buccal), lingual, and occlusal or incisal. The Universal system numbers permanent teeth 1–32 starting with the maxillary right third molar. Crowns are divided into thirds."
+   ],
+   "keyPoints": [
+    "Crown, root, CEJ",
+    "Tooth surfaces",
+    "Universal 1–32",
+    "Thirds of the crown"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Development and Eruption of the Teeth",
+   "summary": [
+    "Teeth form from the dental lamina through bud, cap, and bell stages. Calcification, eruption, and root completion follow a schedule. Primary teeth begin erupting around 6 months (mandibular central incisors first); the first permanent molar erupts around age 6."
+   ],
+   "keyPoints": [
+    "Bud, cap, bell",
+    "Primary eruption ~6 months",
+    "First permanent molar ~6 years",
+    "Root completion after eruption"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "The Primary (Deciduous) Teeth",
+   "summary": [
+    "There are 20 primary teeth (incisors, canines, molars; no premolars). They have thinner enamel, larger pulps, whiter color, constricted cervical areas, and flared, thin roots that make room for permanent tooth buds. Primary teeth guide permanent teeth into position."
+   ],
+   "keyPoints": [
+    "20 teeth, no premolars",
+    "Thin enamel, large pulps",
+    "Flared roots",
+    "Space maintainers"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Forensics, Comparative Anatomy, Geometries, and Form and Function",
+   "summary": [
+    "Dental anatomy helps identify people (forensic odontology) through dental records and bite marks. Comparative anatomy contrasts human teeth with other animals. Crown outlines follow geometric shapes (triangles, trapezoids, rhomboids) that relate to function."
+   ],
+   "keyPoints": [
+    "Forensic identification",
+    "Comparative anatomy",
+    "Geometric crown outlines",
+    "Form follows function"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Orofacial Complex: Form and Function",
+   "summary": [
+    "Teeth work with the jaws, TMJ, muscles, tongue, and lips for chewing, speech, and swallowing. Contours such as contact areas, embrasures, and height of contour protect the gingiva and direct food."
+   ],
+   "keyPoints": [
+    "Contact areas",
+    "Embrasures",
+    "Height of contour",
+    "Chewing, speech, swallowing"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "The Permanent Maxillary Incisors",
+   "summary": [
+    "The maxillary central incisor is the widest anterior tooth, with a single conical root and lingual fossa, marginal ridges, and cingulum. The lateral incisor is smaller and more variable (may be peg-shaped or missing)."
+   ],
+   "keyPoints": [
+    "Central: widest anterior",
+    "Lateral: most variable",
+    "Cingulum and lingual fossa",
+    "Single root"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "The Permanent Mandibular Incisors",
+   "summary": [
+    "Mandibular incisors are the smallest permanent teeth, with narrow, symmetrical crowns (central) and roots that are flattened mesiodistally. The central incisor is usually the first permanent tooth to erupt with the first molar."
+   ],
+   "keyPoints": [
+    "Smallest teeth",
+    "Symmetrical central",
+    "Flattened roots",
+    "Erupt early"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "The Permanent Canines, Maxillary and Mandibular",
+   "summary": [
+    "Canines are the cornerstones of the arch with a single cusp. The maxillary canine has the longest root of any tooth. Canines guide the jaw in lateral movements (canine guidance)."
+   ],
+   "keyPoints": [
+    "Longest root: maxillary canine",
+    "Cornerstones of arch",
+    "Single cusp",
+    "Canine guidance"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "The Permanent Maxillary Premolars",
+   "summary": [
+    "Maxillary premolars have two cusps (buccal and lingual). The maxillary first premolar usually has two roots (buccal and lingual) and a mesial crown concavity; the second premolar has one root and more equal cusps."
+   ],
+   "keyPoints": [
+    "First premolar: two roots",
+    "Mesial concavity",
+    "Two cusps",
+    "Second premolar: one root"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "The Permanent Mandibular Premolars",
+   "summary": [
+    "The mandibular first premolar has a large buccal cusp and small lingual cusp (resembles a canine). The second premolar may have two or three cusps (Y-, U-, or H-shaped groove patterns). Both usually have one root."
+   ],
+   "keyPoints": [
+    "First premolar resembles canine",
+    "Second: 2 or 3 cusps",
+    "Y, U, H patterns",
+    "Single root"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "The Permanent Maxillary Molars",
+   "summary": [
+    "Maxillary molars have three roots (mesiobuccal, distobuccal, palatal; the palatal is longest). The first molar has four cusps plus often a cusp of Carabelli and an oblique ridge. Second and third molars are smaller and more variable."
+   ],
+   "keyPoints": [
+    "Three roots",
+    "Palatal root longest",
+    "Cusp of Carabelli",
+    "Oblique ridge"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "The Permanent Mandibular Molars",
+   "summary": [
+    "Mandibular molars have two roots (mesial and distal). The first molar has five cusps (three buccal, two lingual); the second molar has four. Third molars are most variable and often impacted."
+   ],
+   "keyPoints": [
+    "Two roots",
+    "First molar: five cusps",
+    "Second molar: four cusps",
+    "Third molars often impacted"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Pulp Chambers and Canals",
+   "summary": [
+    "The pulp chamber in the crown continues as root canals to the apical foramen. Pulp horns extend under cusps. Pulp size shrinks with age as secondary dentin forms. Knowledge of canal anatomy (e.g., the mesiobuccal root of maxillary molars often has two canals) guides endodontics."
+   ],
+   "keyPoints": [
+    "Pulp horns under cusps",
+    "Pulp shrinks with age",
+    "Apical foramen",
+    "MB root may have 2 canals"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Dento-Osseous Structures, Blood Vessels and Nerves",
+   "summary": [
+    "Teeth sit in alveolar bone supported by the periodontal ligament. Blood supply comes from the maxillary artery (alveolar branches). Nerve supply is from the trigeminal nerve: maxillary teeth from superior alveolar nerves, mandibular teeth from the inferior alveolar nerve."
+   ],
+   "keyPoints": [
+    "Alveolar bone and PDL",
+    "Maxillary artery",
+    "Superior alveolar nerves",
+    "Inferior alveolar nerve"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "The Temporomandibular Joints, Teeth, and Muscles and Their Functions",
+   "summary": [
+    "The TMJ connects the mandibular condyle to the temporal bone with an articular disc. It allows rotation (hinge) and translation (gliding). Muscles of mastication include the masseter, temporalis, medial pterygoid (close) and lateral pterygoid (opens and protrudes)."
+   ],
+   "keyPoints": [
+    "Condyle and articular disc",
+    "Rotation and translation",
+    "Lateral pterygoid opens",
+    "Masseter closes"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Occlusion",
+   "summary": [
+    "Occlusion is how teeth contact. Centric occlusion is maximum intercuspation; centric relation is the jaw position with condyles seated. Angle's classification: Class I (normal molar relation), Class II (mandible back), Class III (mandible forward). Overbite is vertical overlap; overjet is horizontal overlap."
+   ],
+   "keyPoints": [
+    "Centric occlusion vs. relation",
+    "Angle's Classes I–III",
+    "Overbite = vertical",
+    "Overjet = horizontal"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Clinical Applications of Dental Anatomy, Physiology and Occlusion",
+   "summary": [
+    "Dental anatomy guides restorations, crowns, and orthodontics. Restorations must recreate proper contours, contacts, and occlusion to protect the gingiva and function well."
+   ],
+   "keyPoints": [
+    "Restore proper contours",
+    "Contacts protect gingiva",
+    "Occlusion in restorations",
+    "Clinical relevance"
+   ]
+  }
  ]
 };
 window.CONTENT["dental-terminology"].quizzes = {
@@ -1177,6 +1400,709 @@ window.CONTENT["dental-terminology"].quizzes = {
     }
    ]
   }
+ ],
+ "1": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Tooth development stages include bud, cap, and:",
+     "options": [
+      "Bell",
+      "Root",
+      "Crown",
+      "Pulp"
+     ],
+     "answer": 0,
+     "explanation": "Then apposition and maturation.",
+     "chapter": 2
+    },
+    {
+     "q": "The primary dentition has how many teeth?",
+     "options": [
+      "20",
+      "28",
+      "24",
+      "32"
+     ],
+     "answer": 0,
+     "explanation": "No premolars.",
+     "chapter": 3
+    },
+    {
+     "q": "The first permanent molar erupts around age:",
+     "options": [
+      "6",
+      "12",
+      "2",
+      "18"
+     ],
+     "answer": 0,
+     "explanation": "'Six-year molar.'",
+     "chapter": 2
+    },
+    {
+     "q": "The tooth surface facing the tongue is:",
+     "options": [
+      "Distal",
+      "Facial",
+      "Lingual",
+      "Mesial"
+     ],
+     "answer": 2,
+     "explanation": "Facial faces the lips or cheeks.",
+     "chapter": 1
+    },
+    {
+     "q": "Compared to permanent teeth, primary teeth have:",
+     "options": [
+      "Thicker enamel",
+      "Smaller pulps",
+      "Longer roots",
+      "Larger pulps and thinner enamel"
+     ],
+     "answer": 3,
+     "explanation": "Decay spreads faster.",
+     "chapter": 3
+    },
+    {
+     "q": "The first primary teeth to erupt are usually the:",
+     "options": [
+      "Maxillary canines",
+      "First molars",
+      "Mandibular central incisors",
+      "Second molars"
+     ],
+     "answer": 2,
+     "explanation": "Around 6 months.",
+     "chapter": 2
+    },
+    {
+     "q": "The line where enamel meets cementum is the:",
+     "options": [
+      "Cingulum",
+      "Cementoenamel junction",
+      "Apex",
+      "Furcation"
+     ],
+     "answer": 1,
+     "explanation": "CEJ.",
+     "chapter": 1
+    },
+    {
+     "q": "In the Universal system, tooth #1 is the:",
+     "options": [
+      "Mandibular right third molar",
+      "Maxillary right third molar",
+      "Maxillary right central",
+      "Maxillary left third molar"
+     ],
+     "answer": 1,
+     "explanation": "Numbering goes around clockwise.",
+     "chapter": 1
+    },
+    {
+     "q": "Primary molar roots are flared to make room for:",
+     "options": [
+      "Blood vessels",
+      "Nerves",
+      "Bone",
+      "Permanent tooth buds"
+     ],
+     "answer": 3,
+     "explanation": "Premolars develop between them.",
+     "chapter": 3
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "Posterior crowns from the proximal view are shaped like:",
+     "options": [
+      "Trapezoids or rhomboids",
+      "Circles",
+      "Triangles",
+      "Stars"
+     ],
+     "answer": 0,
+     "explanation": "Suited for grinding.",
+     "chapter": 4
+    },
+    {
+     "q": "Using teeth to identify people is:",
+     "options": [
+      "Periodontics",
+      "Endodontics",
+      "Orthodontics",
+      "Forensic odontology"
+     ],
+     "answer": 3,
+     "explanation": "Dental records and bite marks.",
+     "chapter": 4
+    },
+    {
+     "q": "The spaces next to contact areas are:",
+     "options": [
+      "Ridges",
+      "Fossae",
+      "Embrasures",
+      "Grooves"
+     ],
+     "answer": 2,
+     "explanation": "Allow food to escape.",
+     "chapter": 5
+    },
+    {
+     "q": "From the proximal view, anterior crowns are shaped like:",
+     "options": [
+      "Hexagons",
+      "Circles",
+      "Triangles (wedges)",
+      "Squares"
+     ],
+     "answer": 2,
+     "explanation": "Suited for cutting.",
+     "chapter": 4
+    },
+    {
+     "q": "Proper contact areas help:",
+     "options": [
+      "Protect the gingiva from food",
+      "Lengthen roots",
+      "Whiten teeth",
+      "Prevent eruption"
+     ],
+     "answer": 0,
+     "explanation": "Prevent food impaction.",
+     "chapter": 5
+    },
+    {
+     "q": "The bulge on the lingual cervical third of anterior teeth is the:",
+     "options": [
+      "Cingulum",
+      "Fossa",
+      "Marginal ridge",
+      "Cusp"
+     ],
+     "answer": 0,
+     "explanation": "Lingual surface feature.",
+     "chapter": 6
+    },
+    {
+     "q": "The most variable incisor, sometimes peg-shaped, is the:",
+     "options": [
+      "Mandibular central",
+      "Maxillary central",
+      "Mandibular lateral",
+      "Maxillary lateral incisor"
+     ],
+     "answer": 3,
+     "explanation": "May be missing.",
+     "chapter": 6
+    },
+    {
+     "q": "The greatest bulge of a tooth surface is the:",
+     "options": [
+      "Cingulum",
+      "Height of contour",
+      "Apex",
+      "Marginal ridge"
+     ],
+     "answer": 1,
+     "explanation": "Protects the gingiva.",
+     "chapter": 5
+    },
+    {
+     "q": "The widest anterior tooth is the:",
+     "options": [
+      "Maxillary lateral incisor",
+      "Maxillary central incisor",
+      "Mandibular central incisor",
+      "Mandibular canine"
+     ],
+     "answer": 1,
+     "explanation": "Mesiodistally.",
+     "chapter": 6
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "The maxillary first premolar usually has:",
+     "options": [
+      "Two roots",
+      "Three roots",
+      "One root",
+      "Four roots"
+     ],
+     "answer": 0,
+     "explanation": "Buccal and lingual.",
+     "chapter": 9
+    },
+    {
+     "q": "The smallest permanent teeth are the:",
+     "options": [
+      "Premolars",
+      "Maxillary incisors",
+      "Canines",
+      "Mandibular incisors"
+     ],
+     "answer": 3,
+     "explanation": "Especially the central.",
+     "chapter": 7
+    },
+    {
+     "q": "The most symmetrical incisor is the:",
+     "options": [
+      "Maxillary central",
+      "Mandibular lateral",
+      "Mandibular central incisor",
+      "Maxillary lateral"
+     ],
+     "answer": 2,
+     "explanation": "Mesial and distal halves alike.",
+     "chapter": 7
+    },
+    {
+     "q": "A depression on the mesial crown of the maxillary first premolar is the:",
+     "options": [
+      "Mesial concavity",
+      "Cingulum",
+      "Cusp of Carabelli",
+      "Oblique ridge"
+     ],
+     "answer": 0,
+     "explanation": "Hard to restore.",
+     "chapter": 9
+    },
+    {
+     "q": "During side-to-side movement, canines often guide the jaw. This is:",
+     "options": [
+      "Group function",
+      "Canine guidance",
+      "Overjet",
+      "Centric relation"
+     ],
+     "answer": 1,
+     "explanation": "Protects posterior teeth.",
+     "chapter": 8
+    },
+    {
+     "q": "The tooth with the longest root is the:",
+     "options": [
+      "Maxillary canine",
+      "Maxillary central",
+      "Mandibular canine",
+      "Mandibular first molar"
+     ],
+     "answer": 0,
+     "explanation": "Very stable.",
+     "chapter": 8
+    },
+    {
+     "q": "Maxillary premolars typically have how many cusps?",
+     "options": [
+      "One",
+      "Three",
+      "Two",
+      "Five"
+     ],
+     "answer": 2,
+     "explanation": "Buccal and lingual.",
+     "chapter": 9
+    },
+    {
+     "q": "Mandibular incisor roots are flattened:",
+     "options": [
+      "Faciolingually",
+      "Mesiodistally",
+      "Occlusally",
+      "Not at all"
+     ],
+     "answer": 1,
+     "explanation": "Narrow side to side.",
+     "chapter": 7
+    },
+    {
+     "q": "Canines are called the:",
+     "options": [
+      "Grinding teeth",
+      "Baby teeth",
+      "Wisdom teeth",
+      "Cornerstones of the arch"
+     ],
+     "answer": 3,
+     "explanation": "At the arch corners.",
+     "chapter": 8
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "The mandibular first premolar resembles a:",
+     "options": [
+      "Canine",
+      "Incisor",
+      "Primary tooth",
+      "Molar"
+     ],
+     "answer": 0,
+     "explanation": "Large buccal cusp.",
+     "chapter": 10
+    },
+    {
+     "q": "Mandibular premolars usually have:",
+     "options": [
+      "No roots",
+      "Two roots",
+      "One root",
+      "Three roots"
+     ],
+     "answer": 2,
+     "explanation": "Single conical root.",
+     "chapter": 10
+    },
+    {
+     "q": "An extra cusp on the lingual of the maxillary first molar is the:",
+     "options": [
+      "Cingulum",
+      "Cusp of Carabelli",
+      "Oblique ridge",
+      "Tubercle of Zuckerkandl"
+     ],
+     "answer": 1,
+     "explanation": "Fifth cusp.",
+     "chapter": 11
+    },
+    {
+     "q": "The mandibular second premolar may have groove patterns described as:",
+     "options": [
+      "X, O",
+      "A, B, C",
+      "I, L",
+      "Y, U, or H"
+     ],
+     "answer": 3,
+     "explanation": "Two or three cusps.",
+     "chapter": 10
+    },
+    {
+     "q": "The longest root of the maxillary first molar is the:",
+     "options": [
+      "Palatal (lingual) root",
+      "Mesial",
+      "Distobuccal",
+      "Mesiobuccal"
+     ],
+     "answer": 0,
+     "explanation": "Points toward the palate.",
+     "chapter": 11
+    },
+    {
+     "q": "Mandibular molars usually have how many roots?",
+     "options": [
+      "Three",
+      "Two",
+      "One",
+      "Four"
+     ],
+     "answer": 1,
+     "explanation": "Mesial and distal.",
+     "chapter": 12
+    },
+    {
+     "q": "Maxillary molars usually have how many roots?",
+     "options": [
+      "Four",
+      "One",
+      "Two",
+      "Three"
+     ],
+     "answer": 3,
+     "explanation": "MB, DB, palatal.",
+     "chapter": 11
+    },
+    {
+     "q": "The mandibular first molar has how many cusps?",
+     "options": [
+      "Four",
+      "Six",
+      "Five",
+      "Three"
+     ],
+     "answer": 2,
+     "explanation": "Three buccal, two lingual.",
+     "chapter": 12
+    },
+    {
+     "q": "The molars most often impacted are the:",
+     "options": [
+      "Third molars",
+      "First molars",
+      "Premolars",
+      "Second molars"
+     ],
+     "answer": 0,
+     "explanation": "Wisdom teeth.",
+     "chapter": 12
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "Extensions of the pulp under cusps are:",
+     "options": [
+      "Foramina",
+      "Pulp horns",
+      "Canals",
+      "Fossae"
+     ],
+     "answer": 1,
+     "explanation": "Risk during cavity prep.",
+     "chapter": 13
+    },
+    {
+     "q": "Mandibular teeth are supplied by the:",
+     "options": [
+      "Inferior alveolar nerve",
+      "Vagus nerve",
+      "Facial nerve",
+      "Superior alveolar nerves"
+     ],
+     "answer": 0,
+     "explanation": "Branch of V3.",
+     "chapter": 14
+    },
+    {
+     "q": "The muscle that opens the jaw and moves it forward is the:",
+     "options": [
+      "Medial pterygoid",
+      "Lateral pterygoid",
+      "Masseter",
+      "Temporalis"
+     ],
+     "answer": 1,
+     "explanation": "Others close the jaw.",
+     "chapter": 15
+    },
+    {
+     "q": "The TMJ disc sits between the condyle and the:",
+     "options": [
+      "Maxilla",
+      "Zygoma",
+      "Temporal bone",
+      "Hyoid"
+     ],
+     "answer": 2,
+     "explanation": "Articular eminence.",
+     "chapter": 15
+    },
+    {
+     "q": "The TMJ performs hinge movement and:",
+     "options": [
+      "No movement",
+      "Rotation only",
+      "Twisting only",
+      "Gliding (translation)"
+     ],
+     "answer": 3,
+     "explanation": "Combination joint.",
+     "chapter": 15
+    },
+    {
+     "q": "The tissue that attaches teeth to alveolar bone is the:",
+     "options": [
+      "Periodontal ligament",
+      "Gingiva",
+      "Pulp",
+      "Enamel"
+     ],
+     "answer": 0,
+     "explanation": "Absorbs force.",
+     "chapter": 14
+    },
+    {
+     "q": "With age, the pulp chamber:",
+     "options": [
+      "Stays the same",
+      "Gets larger",
+      "Gets smaller",
+      "Disappears immediately"
+     ],
+     "answer": 2,
+     "explanation": "Secondary dentin forms.",
+     "chapter": 13
+    },
+    {
+     "q": "The opening at the root tip is the:",
+     "options": [
+      "Apical foramen",
+      "Pulp horn",
+      "CEJ",
+      "Furcation"
+     ],
+     "answer": 0,
+     "explanation": "Vessels and nerves enter.",
+     "chapter": 13
+    },
+    {
+     "q": "Teeth get their blood supply mainly from the:",
+     "options": [
+      "Carotid sinus",
+      "Aorta directly",
+      "Subclavian artery",
+      "Maxillary artery"
+     ],
+     "answer": 3,
+     "explanation": "Alveolar branches.",
+     "chapter": 14
+    }
+   ]
+  },
+  {
+   "chapters": [
+    16,
+    17
+   ],
+   "questions": [
+    {
+     "q": "High spots on a new restoration can cause:",
+     "options": [
+      "Better chewing",
+      "Occlusal problems and pain",
+      "Whitening",
+      "No effect"
+     ],
+     "answer": 1,
+     "explanation": "Check with articulating paper.",
+     "chapter": 17
+    },
+    {
+     "q": "Angle's Class I describes:",
+     "options": [
+      "Normal molar relationship",
+      "Mandible forward",
+      "Open bite",
+      "Mandible back"
+     ],
+     "answer": 0,
+     "explanation": "Crowding may still occur.",
+     "chapter": 16
+    },
+    {
+     "q": "Restorations must recreate proper contours to:",
+     "options": [
+      "Cost less",
+      "Protect the gingiva and function well",
+      "Look shiny only",
+      "Be easy to make"
+     ],
+     "answer": 1,
+     "explanation": "Contours matter.",
+     "chapter": 17
+    },
+    {
+     "q": "The jaw position with condyles fully seated is:",
+     "options": [
+      "Overjet",
+      "Centric occlusion",
+      "Centric relation",
+      "Rest position"
+     ],
+     "answer": 2,
+     "explanation": "Reproducible reference.",
+     "chapter": 16
+    },
+    {
+     "q": "Open contacts in restorations can cause:",
+     "options": [
+      "Food impaction",
+      "Whiter teeth",
+      "Faster eruption",
+      "Stronger teeth"
+     ],
+     "answer": 0,
+     "explanation": "Leads to gum problems.",
+     "chapter": 17
+    },
+    {
+     "q": "Horizontal overlap of anterior teeth is:",
+     "options": [
+      "Crossbite",
+      "Centric relation",
+      "Overjet",
+      "Overbite"
+     ],
+     "answer": 2,
+     "explanation": "Measured in mm.",
+     "chapter": 16
+    },
+    {
+     "q": "Vertical overlap of anterior teeth is:",
+     "options": [
+      "Open bite",
+      "Crossbite",
+      "Overjet",
+      "Overbite"
+     ],
+     "answer": 3,
+     "explanation": "Overjet is horizontal.",
+     "chapter": 16
+    },
+    {
+     "q": "Maximum intercuspation of teeth is:",
+     "options": [
+      "Centric occlusion",
+      "Rest position",
+      "Centric relation",
+      "Protrusion"
+     ],
+     "answer": 0,
+     "explanation": "Teeth fit together fully.",
+     "chapter": 16
+    },
+    {
+     "q": "In Angle's Class III malocclusion, the mandible is:",
+     "options": [
+      "Normal",
+      "Back",
+      "Missing",
+      "Forward (prognathic)"
+     ],
+     "answer": 3,
+     "explanation": "Underbite.",
+     "chapter": 16
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["dental-terminology"].bookInfo = {
@@ -1184,6 +2110,12 @@ window.CONTENT["dental-terminology"].bookInfo = {
   "edition": "4th edition (2022)",
   "source": "Cengage table of contents",
   "chapters": 20,
+  "unit": "Chapter"
+ },
+ "1": {
+  "edition": "11th edition",
+  "source": "Elsevier table of contents",
+  "chapters": 17,
   "unit": "Chapter"
  }
 };

@@ -387,6 +387,361 @@ window.CONTENT["physical-therapy"].summaries = {
     "Keep accurate financial records"
    ]
   }
+ ],
+ "1": [
+  {
+   "number": 1,
+   "title": "Preparation for Patient Care Activities",
+   "summary": [
+    "Before patient care, review the chart, plan the activity, prepare the environment and equipment, identify the patient, explain the procedure, and get consent. Good communication and professional behavior build trust. Proper documentation follows each session."
+   ],
+   "keyPoints": [
+    "Review chart and plan",
+    "Identify the patient",
+    "Explain and get consent",
+    "Prepare environment"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Approaches to Infection Control",
+   "summary": [
+    "Infection control interrupts the chain of infection. Hand hygiene is the most important measure. Standard precautions apply to all patients; transmission-based precautions add contact, droplet, or airborne measures. Don and doff PPE in the correct order and use aseptic technique when needed."
+   ],
+   "keyPoints": [
+    "Hand hygiene first",
+    "Standard precautions",
+    "Contact, droplet, airborne",
+    "Correct PPE order"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Assessment of Vital Signs",
+   "summary": [
+    "Vital signs are temperature, pulse (60–100 bpm adults), respiration (12–20/min), blood pressure (normal under 120/80), oxygen saturation, and pain. They're checked before, during, and after activity to judge tolerance. Abnormal responses mean stopping or modifying activity."
+   ],
+   "keyPoints": [
+    "Pulse 60–100",
+    "Respirations 12–20",
+    "BP < 120/80",
+    "Monitor during activity"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Body Mechanics",
+   "summary": [
+    "Good body mechanics protect the caregiver: wide base of support, lowered center of gravity, keep the load close, bend knees and hips (not the back), avoid twisting, and push rather than pull."
+   ],
+   "keyPoints": [
+    "Wide base of support",
+    "Keep load close",
+    "Bend knees, not back",
+    "Don't twist"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Positioning and Draping",
+   "summary": [
+    "Positioning includes supine, prone, side-lying, and sitting, using pillows and supports to protect skin and joints and prevent contractures. Reposition at least every 2 hours. Draping protects modesty and warmth while exposing only the treatment area."
+   ],
+   "keyPoints": [
+    "Reposition every 2 hours",
+    "Prevent pressure injuries",
+    "Prevent contractures",
+    "Draping protects modesty"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Basic Exercise: Passive and Active Range of Motion",
+   "summary": [
+    "Range of motion exercises maintain joint mobility. Passive ROM (PROM) is done entirely by the clinician; active-assistive ROM (AAROM) with help; active ROM (AROM) by the patient alone. Move slowly, support the joint, and stop at pain or resistance."
+   ],
+   "keyPoints": [
+    "PROM: clinician moves",
+    "AAROM: assisted",
+    "AROM: patient moves",
+    "Support the joint"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Features and Activities of Wheelchairs",
+   "summary": [
+    "Wheelchair parts include armrests, footrests/legrests, brakes (wheel locks), push rims, and anti-tippers. Proper fit includes seat width and depth and back height. Patients learn propulsion, curbs, ramps (go up forward, down backward), and pressure relief."
+   ],
+   "keyPoints": [
+    "Lock brakes before transfers",
+    "Proper fit",
+    "Pressure relief",
+    "Down ramps backward"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Transfer Activities",
+   "summary": [
+    "Transfers include dependent (lifts), assisted, and independent types: sliding board, stand-pivot, and mechanical lift transfers. Use a gait belt, lock wheelchair brakes, and move toward the patient's stronger side when possible."
+   ],
+   "keyPoints": [
+    "Gait belt",
+    "Lock brakes",
+    "Move toward stronger side",
+    "Mechanical lifts for dependent patients"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Assistive Devices, Patterns, and Activities",
+   "summary": [
+    "Assistive devices include walkers (most stable), crutches, and canes (held on the stronger side). Gait patterns include 2-point, 3-point, 4-point, and swing-through. Weight-bearing status ranges from non-weight-bearing to full. On stairs, 'up with the good, down with the bad.'"
+   ],
+   "keyPoints": [
+    "Walker most stable",
+    "Cane on strong side",
+    "Weight-bearing status",
+    "Up with the good, down with the bad"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Special Equipment and Patient Care Environments",
+   "summary": [
+    "Special environments include the ICU, with lines and tubes such as IVs, catheters, chest tubes, ventilators, and monitors. Clinicians must avoid disrupting lines and know alarms. Special beds help prevent pressure injuries."
+   ],
+   "keyPoints": [
+    "ICU lines and tubes",
+    "Don't disrupt lines",
+    "Know monitor alarms",
+    "Special beds"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Basic Wound Care and Specialized Interventions",
+   "summary": [
+    "Wound care includes cleaning, dressings, and protecting healing tissue, using sterile technique when indicated. Wounds include pressure injuries, arterial and venous ulcers, and surgical wounds. Other topics include bandaging and compression."
+   ],
+   "keyPoints": [
+    "Sterile technique",
+    "Wound types",
+    "Dressings",
+    "Compression"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Incidents and Emergencies",
+   "summary": [
+    "Clinicians must respond to falls, fainting, seizures, hypoglycemia, cardiac emergencies (CPR and AED), and bleeding. Incidents must be documented in an incident report. If a patient begins to fall, guide them safely to the floor."
+   ],
+   "keyPoints": [
+    "Guide falling patient down",
+    "CPR and AED",
+    "Incident reports",
+    "Hypoglycemia: give sugar"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Americans With Disabilities Act and Environmental Assessments",
+   "summary": [
+    "The ADA requires accessible public spaces. Standards include ramps with a 1:12 slope, doorways at least 32 inches clear, and grab bars. Home assessments find barriers and recommend modifications for safety."
+   ],
+   "keyPoints": [
+    "ADA accessibility",
+    "Ramp slope 1:12",
+    "32-inch doorways",
+    "Home modifications"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "number": 1,
+   "title": "The Profession of Physical Therapy: Definition and Development",
+   "summary": [
+    "Physical therapy helps people improve movement, reduce pain, and restore function. The profession grew from 'reconstruction aides' during World War I and expanded with the polio epidemics and later wars. Today physical therapists earn the Doctor of Physical Therapy (DPT) degree. The APTA's vision is to transform society by optimizing movement."
+   ],
+   "keyPoints": [
+    "Reconstruction aides (WWI)",
+    "Polio epidemics expanded PT",
+    "DPT is entry-level degree",
+    "Focus on movement"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Characteristics and Roles of Physical Therapists",
+   "summary": [
+    "Physical therapists examine, evaluate, diagnose, give a prognosis, and intervene (the patient/client management model). They work in hospitals, outpatient clinics, schools, home health, sports, and skilled nursing facilities. Many states allow direct access, letting patients see a PT without a physician referral. PTs follow the APTA Code of Ethics."
+   ],
+   "keyPoints": [
+    "Examination → evaluation → diagnosis → prognosis → intervention",
+    "Direct access",
+    "Many practice settings",
+    "Code of Ethics"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "The Physical Therapist Assistant",
+   "summary": [
+    "Physical therapist assistants (PTAs) earn an associate degree from a CAPTE-accredited program and pass a licensing exam. PTAs carry out interventions under PT supervision but don't perform initial evaluations, change the plan of care independently, or discharge patients. Aides are unlicensed and do support tasks."
+   ],
+   "keyPoints": [
+    "PTA: associate degree",
+    "Works under PT supervision",
+    "No initial evaluations",
+    "CAPTE accredits programs"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "American Physical Therapy Association",
+   "summary": [
+    "The APTA is the professional association for PTs, PTAs, and students. It develops the Code of Ethics, Standards of Practice, and Guide to Physical Therapist Practice, advocates for the profession, and supports research and specialist certification through ABPTS."
+   ],
+   "keyPoints": [
+    "APTA = professional association",
+    "Guide to PT Practice",
+    "Advocacy",
+    "ABPTS specialist certification"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Laws, Regulations, and Policies",
+   "summary": [
+    "State practice acts define PT scope of practice and licensure. Federal laws affecting PT include HIPAA (privacy), the ADA, IDEA (school-based therapy for children with disabilities), and Medicare rules. Documentation must meet legal requirements."
+   ],
+   "keyPoints": [
+    "State practice acts",
+    "HIPAA",
+    "IDEA for school PT",
+    "Medicare rules"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Financing Health Care and Reimbursement (Payment) in Physical Therapist Practice",
+   "summary": [
+    "PT services are paid by private insurance, Medicare (federal; age 65+), Medicaid (state-federal; low income), workers' compensation, and self-pay. Payment models include fee-for-service, managed care, and value-based payment. Accurate coding (CPT) and documentation support payment."
+   ],
+   "keyPoints": [
+    "Medicare 65+",
+    "Medicaid low income",
+    "Workers' compensation",
+    "Value-based payment"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Effective Communication for Physical Therapists in the 21st Century",
+   "summary": [
+    "Good communication includes active listening, cultural competence, health literacy, and clear documentation (often in SOAP format: subjective, objective, assessment, plan). PTs also communicate with the health care team and use telehealth."
+   ],
+   "keyPoints": [
+    "SOAP notes",
+    "Cultural competence",
+    "Health literacy",
+    "Active listening"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Prevention, Health Promotion, and Wellness in Physical Therapist Practice",
+   "summary": [
+    "PTs promote health through primary prevention (preventing disease), secondary prevention (early detection), and tertiary prevention (reducing disability). Physical activity guidelines recommend 150 minutes of moderate activity per week for adults. Fall prevention and screening are key roles."
+   ],
+   "keyPoints": [
+    "Primary, secondary, tertiary prevention",
+    "150 min/week activity",
+    "Fall prevention",
+    "Wellness screening"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Physical Therapy for Musculoskeletal Conditions",
+   "summary": [
+    "Musculoskeletal PT treats fractures, sprains, strains, arthritis, back pain, and post-surgical conditions such as joint replacements and ACL reconstruction. Interventions include therapeutic exercise, manual therapy, modalities, and patient education. Goals focus on pain, range of motion, strength, and function."
+   ],
+   "keyPoints": [
+    "Therapeutic exercise",
+    "Manual therapy",
+    "Post-op rehab",
+    "ROM and strength"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Physical Therapy for Neuromuscular Conditions",
+   "summary": [
+    "Neurologic PT treats stroke, spinal cord injury, traumatic brain injury, Parkinson disease, multiple sclerosis, and cerebral palsy. Treatment focuses on balance, gait training, motor control, and neuroplasticity—the brain's ability to reorganize."
+   ],
+   "keyPoints": [
+    "Stroke rehab",
+    "Neuroplasticity",
+    "Balance and gait",
+    "Spinal cord injury"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Physical Therapy in Cardiovascular and Pulmonary Conditions",
+   "summary": [
+    "Cardiopulmonary PT helps patients after heart attack, heart surgery, COPD, and other conditions. Cardiac rehabilitation and pulmonary rehabilitation improve endurance. PTs monitor heart rate, blood pressure, SpO2, and perceived exertion (Borg scale) during exercise."
+   ],
+   "keyPoints": [
+    "Cardiac rehab",
+    "Pulmonary rehab",
+    "Monitor vital signs",
+    "Borg scale"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Physical Therapy for Integumentary Conditions",
+   "summary": [
+    "Integumentary PT manages wounds, burns, and pressure injuries. Treatment includes wound cleaning, debridement, dressings, positioning to prevent contractures, and pressure relief. Pressure injuries are staged by depth."
+   ],
+   "keyPoints": [
+    "Wound care",
+    "Debridement",
+    "Burn contracture prevention",
+    "Pressure injury staging"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Physical Therapy for Pediatric Conditions",
+   "summary": [
+    "Pediatric PT helps children with developmental delays, cerebral palsy, Down syndrome, spina bifida, and torticollis. Therapy uses play and family-centered care and may occur in early intervention (birth–3) or schools under IDEA."
+   ],
+   "keyPoints": [
+    "Developmental milestones",
+    "Family-centered care",
+    "Early intervention birth–3",
+    "IDEA in schools"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Physical Therapy for the Older Adult",
+   "summary": [
+    "Geriatric PT addresses aging changes, falls, osteoporosis, arthritis, joint replacements, and dementia. Goals include maintaining independence and safety. Balance tests (such as the Berg Balance Scale and Timed Up and Go) assess fall risk."
+   ],
+   "keyPoints": [
+    "Fall prevention",
+    "Berg Balance Scale",
+    "Timed Up and Go",
+    "Maintain independence"
+   ]
+  }
  ]
 };
 window.CONTENT["physical-therapy"].quizzes = {
@@ -1903,6 +2258,1177 @@ window.CONTENT["physical-therapy"].quizzes = {
     }
    ]
   }
+ ],
+ "1": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Before any patient care activity, you should first:",
+     "options": [
+      "Start the activity",
+      "Ask the family to do it",
+      "Review the chart and plan",
+      "Skip identification"
+     ],
+     "answer": 2,
+     "explanation": "Know the patient's condition.",
+     "chapter": 1
+    },
+    {
+     "q": "The most important infection control measure is:",
+     "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Gowns",
+      "Masks"
+     ],
+     "answer": 1,
+     "explanation": "Before and after every patient.",
+     "chapter": 2
+    },
+    {
+     "q": "Patients with C. difficile need:",
+     "options": [
+      "Contact precautions",
+      "No precautions",
+      "Airborne precautions",
+      "Droplet only"
+     ],
+     "answer": 0,
+     "explanation": "Use soap and water for hands.",
+     "chapter": 2
+    },
+    {
+     "q": "Before treatment, the patient must be:",
+     "options": [
+      "Identified and informed",
+      "Left alone",
+      "Billed",
+      "Sedated"
+     ],
+     "answer": 0,
+     "explanation": "Get consent.",
+     "chapter": 1
+    },
+    {
+     "q": "Vital signs are monitored during activity to:",
+     "options": [
+      "Judge the patient's tolerance",
+      "Bill more",
+      "Fill time",
+      "Satisfy curiosity"
+     ],
+     "answer": 0,
+     "explanation": "Stop if abnormal.",
+     "chapter": 3
+    },
+    {
+     "q": "A normal adult blood pressure is below:",
+     "options": [
+      "140/90 always",
+      "180/110",
+      "160/100",
+      "120/80"
+     ],
+     "answer": 3,
+     "explanation": "Higher is elevated.",
+     "chapter": 3
+    },
+    {
+     "q": "Standard precautions apply to:",
+     "options": [
+      "Only children",
+      "Only infected patients",
+      "Only surgery patients",
+      "All patients"
+     ],
+     "answer": 3,
+     "explanation": "Treat all fluids as infectious.",
+     "chapter": 2
+    },
+    {
+     "q": "A normal adult respiratory rate is:",
+     "options": [
+      "4–8",
+      "25–35",
+      "12–20 breaths/min",
+      "40–50"
+     ],
+     "answer": 2,
+     "explanation": "Count for 30–60 seconds.",
+     "chapter": 3
+    },
+    {
+     "q": "A normal adult resting pulse is:",
+     "options": [
+      "150 bpm",
+      "60–100 bpm",
+      "40–50 bpm",
+      "110–130 bpm"
+     ],
+     "answer": 1,
+     "explanation": "Above 100 is tachycardia.",
+     "chapter": 3
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "When lifting, keep the load:",
+     "options": [
+      "Above your head",
+      "Close to your body",
+      "Behind you",
+      "At arm's length"
+     ],
+     "answer": 1,
+     "explanation": "Reduces strain.",
+     "chapter": 4
+    },
+    {
+     "q": "A patient who moves with some help is doing:",
+     "options": [
+      "Passive ROM",
+      "Isometric exercise",
+      "Active ROM",
+      "Active-assistive ROM"
+     ],
+     "answer": 3,
+     "explanation": "AAROM.",
+     "chapter": 6
+    },
+    {
+     "q": "Bedbound patients should be repositioned at least every:",
+     "options": [
+      "12 hours",
+      "8 hours",
+      "2 hours",
+      "24 hours"
+     ],
+     "answer": 2,
+     "explanation": "Prevents pressure injuries.",
+     "chapter": 5
+    },
+    {
+     "q": "During ROM exercises, the clinician should:",
+     "options": [
+      "Move quickly",
+      "Skip support",
+      "Support the joint and move slowly",
+      "Force past pain"
+     ],
+     "answer": 2,
+     "explanation": "Stop at resistance or pain.",
+     "chapter": 6
+    },
+    {
+     "q": "It's usually easier and safer to:",
+     "options": [
+      "Push rather than pull",
+      "Lift with your back",
+      "Pull rather than push",
+      "Twist your trunk"
+     ],
+     "answer": 0,
+     "explanation": "Uses body weight.",
+     "chapter": 4
+    },
+    {
+     "q": "Lying face down is the:",
+     "options": [
+      "Prone position",
+      "Side-lying position",
+      "Supine position",
+      "Fowler's position"
+     ],
+     "answer": 0,
+     "explanation": "Supine is face up.",
+     "chapter": 5
+    },
+    {
+     "q": "Draping is used to:",
+     "options": [
+      "Prevent falls",
+      "Protect modesty and warmth",
+      "Restrain patients",
+      "Hide equipment"
+     ],
+     "answer": 1,
+     "explanation": "Expose only the treatment area.",
+     "chapter": 5
+    },
+    {
+     "q": "Range of motion done entirely by the clinician is:",
+     "options": [
+      "Active-assistive ROM",
+      "Resistive exercise",
+      "Active ROM",
+      "Passive ROM"
+     ],
+     "answer": 3,
+     "explanation": "Patient doesn't help.",
+     "chapter": 6
+    },
+    {
+     "q": "Good body mechanics include:",
+     "options": [
+      "A wide base of support",
+      "Feet together",
+      "Locking knees",
+      "Twisting while lifting"
+     ],
+     "answer": 0,
+     "explanation": "Improves stability.",
+     "chapter": 4
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "Wheelchair users shift weight regularly for:",
+     "options": [
+      "Pressure relief",
+      "Comfort only",
+      "Speed",
+      "Exercise only"
+     ],
+     "answer": 0,
+     "explanation": "Prevents pressure injuries.",
+     "chapter": 7
+    },
+    {
+     "q": "When possible, transfer a patient toward their:",
+     "options": [
+      "Weaker side",
+      "Stronger side",
+      "Head",
+      "Back"
+     ],
+     "answer": 1,
+     "explanation": "Uses their strength.",
+     "chapter": 8
+    },
+    {
+     "q": "A cane is held on the:",
+     "options": [
+      "Stronger (uninjured) side",
+      "Either side",
+      "Behind the body",
+      "Weaker side"
+     ],
+     "answer": 0,
+     "explanation": "Widens base, unloads weak side.",
+     "chapter": 9
+    },
+    {
+     "q": "Dependent patients are often moved with a:",
+     "options": [
+      "Cane",
+      "Walker",
+      "Mechanical lift",
+      "Sliding board only"
+     ],
+     "answer": 2,
+     "explanation": "Protects patient and staff.",
+     "chapter": 8
+    },
+    {
+     "q": "Before any wheelchair transfer, you should:",
+     "options": [
+      "Remove the seat",
+      "Unlock the wheels",
+      "Lock the brakes",
+      "Tilt the chair"
+     ],
+     "answer": 2,
+     "explanation": "Prevents rolling.",
+     "chapter": 7
+    },
+    {
+     "q": "A belt placed around a patient's waist for safe transfers is a:",
+     "options": [
+      "Restraint",
+      "Seat belt",
+      "Binder",
+      "Gait belt"
+     ],
+     "answer": 3,
+     "explanation": "Gives a secure grip.",
+     "chapter": 8
+    },
+    {
+     "q": "When going down a steep ramp in a wheelchair, the patient should go:",
+     "options": [
+      "Backward",
+      "Sideways",
+      "Without help always",
+      "Forward quickly"
+     ],
+     "answer": 0,
+     "explanation": "Safer control.",
+     "chapter": 7
+    },
+    {
+     "q": "On stairs, the rule is:",
+     "options": [
+      "Always lead with crutches",
+      "Up with the good, down with the bad",
+      "Up with the bad, down with the good",
+      "Always lead with the bad"
+     ],
+     "answer": 1,
+     "explanation": "Stronger leg leads going up.",
+     "chapter": 9
+    },
+    {
+     "q": "The most stable assistive device is the:",
+     "options": [
+      "Cane",
+      "Crutches",
+      "Wheelchair only",
+      "Walker"
+     ],
+     "answer": 3,
+     "explanation": "Wide base of support.",
+     "chapter": 9
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11
+   ],
+   "questions": [
+    {
+     "q": "Opening sterile dressings requires:",
+     "options": [
+      "Sterile technique",
+      "Any technique",
+      "Clean hands only",
+      "No gloves"
+     ],
+     "answer": 0,
+     "explanation": "Prevents infection.",
+     "chapter": 11
+    },
+    {
+     "q": "Special pressure-relief beds help prevent:",
+     "options": [
+      "Pressure injuries",
+      "Fractures",
+      "Falls only",
+      "Infections only"
+     ],
+     "answer": 0,
+     "explanation": "Distribute pressure.",
+     "chapter": 10
+    },
+    {
+     "q": "A urinary catheter bag should be kept:",
+     "options": [
+      "On the bed rails above the patient",
+      "Below the bladder",
+      "Above the bladder",
+      "On the patient's chest"
+     ],
+     "answer": 1,
+     "explanation": "Prevents backflow.",
+     "chapter": 10
+    },
+    {
+     "q": "When working with ICU patients, clinicians must avoid:",
+     "options": [
+      "Monitoring vitals",
+      "Reading the chart",
+      "Talking to the nurse",
+      "Disrupting lines and tubes"
+     ],
+     "answer": 3,
+     "explanation": "IVs, catheters, chest tubes.",
+     "chapter": 10
+    },
+    {
+     "q": "If an ICU monitor alarms during treatment, you should:",
+     "options": [
+      "Turn it off",
+      "Leave",
+      "Check the patient and notify the nurse",
+      "Ignore it"
+     ],
+     "answer": 2,
+     "explanation": "Patient safety first.",
+     "chapter": 10
+    },
+    {
+     "q": "Compression wraps are often used for:",
+     "options": [
+      "Arterial ulcers",
+      "Venous ulcers and swelling",
+      "Burns only",
+      "Fractures only"
+     ],
+     "answer": 1,
+     "explanation": "Contraindicated with poor arterial flow.",
+     "chapter": 11
+    },
+    {
+     "q": "Wounds from poor venous return in the legs are:",
+     "options": [
+      "Burns",
+      "Arterial ulcers",
+      "Venous ulcers",
+      "Surgical wounds"
+     ],
+     "answer": 2,
+     "explanation": "Often treated with compression.",
+     "chapter": 11
+    },
+    {
+     "q": "A tube that drains air or fluid from the chest is a:",
+     "options": [
+      "NG tube",
+      "Foley catheter",
+      "IV line",
+      "Chest tube"
+     ],
+     "answer": 3,
+     "explanation": "Keep the drainage unit below the chest.",
+     "chapter": 10
+    },
+    {
+     "q": "Arterial ulcers are caused by:",
+     "options": [
+      "Poor blood flow to tissues",
+      "Burns",
+      "Too much blood flow",
+      "Infection only"
+     ],
+     "answer": 0,
+     "explanation": "Often painful.",
+     "chapter": 11
+    }
+   ]
+  },
+  {
+   "chapters": [
+    12,
+    13
+   ],
+   "questions": [
+    {
+     "q": "After an incident like a fall, complete an:",
+     "options": [
+      "Incident report",
+      "Bill",
+      "Consent form",
+      "Discharge summary"
+     ],
+     "answer": 0,
+     "explanation": "Documents what happened.",
+     "chapter": 12
+    },
+    {
+     "q": "For a patient in cardiac arrest, begin:",
+     "options": [
+      "Range of motion",
+      "Gait training",
+      "Wound care",
+      "CPR and use an AED"
+     ],
+     "answer": 3,
+     "explanation": "Call for help.",
+     "chapter": 12
+    },
+    {
+     "q": "If a patient starts to fall during gait training, you should:",
+     "options": [
+      "Guide them safely to the floor",
+      "Let go",
+      "Yell for help and step away",
+      "Try to hold them up at all costs"
+     ],
+     "answer": 0,
+     "explanation": "Protect their head.",
+     "chapter": 12
+    },
+    {
+     "q": "The ADA requires that public places be:",
+     "options": [
+      "Closed",
+      "Accessible",
+      "Private",
+      "Expensive"
+     ],
+     "answer": 1,
+     "explanation": "Americans with Disabilities Act.",
+     "chapter": 13
+    },
+    {
+     "q": "ADA doorways should provide at least:",
+     "options": [
+      "20 inches",
+      "48 inches",
+      "32 inches of clear width",
+      "24 inches"
+     ],
+     "answer": 2,
+     "explanation": "For wheelchairs.",
+     "chapter": 13
+    },
+    {
+     "q": "A home assessment identifies:",
+     "options": [
+      "Barriers and safety risks",
+      "Family history",
+      "Diet",
+      "Insurance coverage"
+     ],
+     "answer": 0,
+     "explanation": "Recommends modifications.",
+     "chapter": 13
+    },
+    {
+     "q": "Grab bars are commonly installed in:",
+     "options": [
+      "Garages",
+      "Closets",
+      "Bathrooms",
+      "Kitchens only"
+     ],
+     "answer": 2,
+     "explanation": "Prevent falls.",
+     "chapter": 13
+    },
+    {
+     "q": "A patient with diabetes who becomes shaky and confused may need:",
+     "options": [
+      "Insulin",
+      "Sugar",
+      "Exercise",
+      "Water only"
+     ],
+     "answer": 1,
+     "explanation": "Signs of hypoglycemia.",
+     "chapter": 12
+    },
+    {
+     "q": "The recommended ADA ramp slope is:",
+     "options": [
+      "1:4",
+      "1:20 only",
+      "1:2",
+      "1:12"
+     ],
+     "answer": 3,
+     "explanation": "1 inch rise per 12 inches.",
+     "chapter": 13
+    }
+   ]
+  }
+ ],
+ "2": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Seeing a PT without a physician referral is:",
+     "options": [
+      "Telehealth",
+      "Direct access",
+      "Referral access",
+      "Managed care"
+     ],
+     "answer": 1,
+     "explanation": "Allowed in all states with some limits.",
+     "chapter": 2
+    },
+    {
+     "q": "Which epidemic greatly expanded physical therapy?",
+     "options": [
+      "Measles",
+      "Smallpox",
+      "Influenza",
+      "Polio"
+     ],
+     "answer": 3,
+     "explanation": "Many needed rehabilitation.",
+     "chapter": 1
+    },
+    {
+     "q": "Predicting the level of improvement is the:",
+     "options": [
+      "Diagnosis",
+      "Intervention",
+      "Prognosis",
+      "Evaluation"
+     ],
+     "answer": 2,
+     "explanation": "Includes expected time frame.",
+     "chapter": 2
+    },
+    {
+     "q": "PTAs usually hold a(n):",
+     "options": [
+      "Master's degree",
+      "No degree",
+      "Doctorate",
+      "Associate degree"
+     ],
+     "answer": 3,
+     "explanation": "Plus a license.",
+     "chapter": 3
+    },
+    {
+     "q": "The first step in patient/client management is:",
+     "options": [
+      "Examination",
+      "Discharge",
+      "Prognosis",
+      "Intervention"
+     ],
+     "answer": 0,
+     "explanation": "Then evaluation, diagnosis, prognosis, intervention.",
+     "chapter": 2
+    },
+    {
+     "q": "PTA programs are accredited by:",
+     "options": [
+      "APTA",
+      "CAPTE",
+      "ABPTS",
+      "NBCOT"
+     ],
+     "answer": 1,
+     "explanation": "Commission on Accreditation in Physical Therapy Education.",
+     "chapter": 3
+    },
+    {
+     "q": "The entry-level degree for physical therapists is the:",
+     "options": [
+      "DPT",
+      "PhD only",
+      "Bachelor's degree",
+      "Associate degree"
+     ],
+     "answer": 0,
+     "explanation": "Doctor of Physical Therapy.",
+     "chapter": 1
+    },
+    {
+     "q": "Early physical therapists in World War I were called:",
+     "options": [
+      "Medics",
+      "Orderlies",
+      "Reconstruction aides",
+      "Nurse assistants"
+     ],
+     "answer": 2,
+     "explanation": "They rehabilitated wounded soldiers.",
+     "chapter": 1
+    },
+    {
+     "q": "A physical therapist assistant may NOT:",
+     "options": [
+      "Perform the initial evaluation",
+      "Teach exercises",
+      "Document treatment",
+      "Provide interventions"
+     ],
+     "answer": 0,
+     "explanation": "Only the PT evaluates.",
+     "chapter": 3
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "The APTA document describing PT practice is the:",
+     "options": [
+      "ICD",
+      "CPT manual",
+      "DSM",
+      "Guide to Physical Therapist Practice"
+     ],
+     "answer": 3,
+     "explanation": "Defines practice patterns.",
+     "chapter": 4
+    },
+    {
+     "q": "Medicare mainly covers people:",
+     "options": [
+      "With low income only",
+      "Injured at work",
+      "Under 18",
+      "Age 65 and older"
+     ],
+     "answer": 3,
+     "explanation": "Also some people with disabilities.",
+     "chapter": 6
+    },
+    {
+     "q": "Payment based on outcomes and quality is:",
+     "options": [
+      "Value-based payment",
+      "Self-pay",
+      "Fee-for-service",
+      "Capitation only"
+     ],
+     "answer": 0,
+     "explanation": "Rewards results.",
+     "chapter": 6
+    },
+    {
+     "q": "Injuries on the job are usually paid by:",
+     "options": [
+      "Workers' compensation",
+      "Medicare",
+      "Self-pay",
+      "Medicaid"
+     ],
+     "answer": 0,
+     "explanation": "Employer insurance.",
+     "chapter": 6
+    },
+    {
+     "q": "A PT's scope of practice is defined by the:",
+     "options": [
+      "APTA",
+      "Insurance company",
+      "State practice act",
+      "Hospital"
+     ],
+     "answer": 2,
+     "explanation": "Licensing laws.",
+     "chapter": 5
+    },
+    {
+     "q": "The professional association for PTs is the:",
+     "options": [
+      "APTA",
+      "AOTA",
+      "AMA",
+      "ANA"
+     ],
+     "answer": 0,
+     "explanation": "American Physical Therapy Association.",
+     "chapter": 4
+    },
+    {
+     "q": "Board certification for PT specialists is given by:",
+     "options": [
+      "APTA House of Delegates",
+      "ABPTS",
+      "NBRC",
+      "CAPTE"
+     ],
+     "answer": 1,
+     "explanation": "American Board of Physical Therapy Specialties.",
+     "chapter": 4
+    },
+    {
+     "q": "Physical therapy in schools is required by:",
+     "options": [
+      "EMTALA",
+      "IDEA",
+      "HIPAA",
+      "OSHA"
+     ],
+     "answer": 1,
+     "explanation": "Individuals with Disabilities Education Act.",
+     "chapter": 5
+    },
+    {
+     "q": "Patient privacy is protected by:",
+     "options": [
+      "IDEA",
+      "ADA",
+      "HIPAA",
+      "Medicare"
+     ],
+     "answer": 2,
+     "explanation": "Health information privacy.",
+     "chapter": 5
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "Preventing disease before it occurs is:",
+     "options": [
+      "Secondary prevention",
+      "Rehabilitation",
+      "Primary prevention",
+      "Tertiary prevention"
+     ],
+     "answer": 2,
+     "explanation": "Like exercise programs.",
+     "chapter": 8
+    },
+    {
+     "q": "A common post-surgical PT patient is someone after:",
+     "options": [
+      "Appendectomy only",
+      "Cataract surgery",
+      "Total knee replacement",
+      "Dental cleaning"
+     ],
+     "answer": 2,
+     "explanation": "Rehab restores motion.",
+     "chapter": 9
+    },
+    {
+     "q": "Adults should get at least how much moderate activity per week?",
+     "options": [
+      "150 minutes",
+      "30 minutes",
+      "500 minutes",
+      "60 minutes"
+     ],
+     "answer": 0,
+     "explanation": "Physical activity guidelines.",
+     "chapter": 8
+    },
+    {
+     "q": "Hands-on techniques like joint mobilization are:",
+     "options": [
+      "Manual therapy",
+      "Gait training",
+      "Bracing",
+      "Modalities"
+     ],
+     "answer": 0,
+     "explanation": "Used for musculoskeletal conditions.",
+     "chapter": 9
+    },
+    {
+     "q": "Reducing disability from an existing condition is:",
+     "options": [
+      "Screening",
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention"
+     ],
+     "answer": 3,
+     "explanation": "Rehab is tertiary.",
+     "chapter": 8
+    },
+    {
+     "q": "What the patient reports goes in the:",
+     "options": [
+      "Objective section",
+      "Subjective section",
+      "Assessment",
+      "Plan"
+     ],
+     "answer": 1,
+     "explanation": "Symptoms and history.",
+     "chapter": 7
+    },
+    {
+     "q": "Musculoskeletal PT goals usually include improving:",
+     "options": [
+      "Blood sugar only",
+      "Hearing",
+      "Vision",
+      "Range of motion and strength"
+     ],
+     "answer": 3,
+     "explanation": "And reducing pain.",
+     "chapter": 9
+    },
+    {
+     "q": "Understanding a patient's ability to use health information is:",
+     "options": [
+      "Diagnosis",
+      "Health literacy",
+      "Cultural competence",
+      "Documentation"
+     ],
+     "answer": 1,
+     "explanation": "Adjust teaching to it.",
+     "chapter": 7
+    },
+    {
+     "q": "In a SOAP note, 'O' stands for:",
+     "options": [
+      "Objective",
+      "Orders",
+      "Outcome",
+      "Observation"
+     ],
+     "answer": 0,
+     "explanation": "Measurable findings.",
+     "chapter": 7
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "Practicing walking is:",
+     "options": [
+      "Cardiac rehab",
+      "Manual therapy",
+      "Gait training",
+      "Debridement"
+     ],
+     "answer": 2,
+     "explanation": "Often with assistive devices.",
+     "chapter": 10
+    },
+    {
+     "q": "A common neurologic condition treated by PTs is:",
+     "options": [
+      "Stroke",
+      "Fractured wrist",
+      "Sprained ankle",
+      "Tennis elbow"
+     ],
+     "answer": 0,
+     "explanation": "Also SCI, TBI, MS.",
+     "chapter": 10
+    },
+    {
+     "q": "Removing dead tissue from a wound is:",
+     "options": [
+      "Debridement",
+      "Grafting",
+      "Dressing",
+      "Positioning"
+     ],
+     "answer": 0,
+     "explanation": "Promotes healing.",
+     "chapter": 12
+    },
+    {
+     "q": "The brain's ability to reorganize after injury is:",
+     "options": [
+      "Atrophy",
+      "Neuroplasticity",
+      "Neuropathy",
+      "Spasticity"
+     ],
+     "answer": 1,
+     "explanation": "Basis of neuro rehab.",
+     "chapter": 10
+    },
+    {
+     "q": "During cardiopulmonary exercise, PTs monitor:",
+     "options": [
+      "Nothing",
+      "Only temperature",
+      "Only weight",
+      "Heart rate, BP, and SpO2"
+     ],
+     "answer": 3,
+     "explanation": "Ensure safety.",
+     "chapter": 11
+    },
+    {
+     "q": "Pressure injuries are classified by:",
+     "options": [
+      "Size only",
+      "Location only",
+      "Stage (depth)",
+      "Color only"
+     ],
+     "answer": 2,
+     "explanation": "Stage 1 to 4 plus unstageable.",
+     "chapter": 12
+    },
+    {
+     "q": "Programs after a heart attack to build endurance are:",
+     "options": [
+      "Gait training",
+      "Wound care",
+      "Pulmonary rehab",
+      "Cardiac rehabilitation"
+     ],
+     "answer": 3,
+     "explanation": "Supervised exercise.",
+     "chapter": 11
+    },
+    {
+     "q": "A scale for rating exercise effort is the:",
+     "options": [
+      "Apgar scale",
+      "Borg scale",
+      "Glasgow scale",
+      "Braden scale"
+     ],
+     "answer": 1,
+     "explanation": "Rating of perceived exertion.",
+     "chapter": 11
+    },
+    {
+     "q": "Burn patients are positioned to prevent:",
+     "options": [
+      "Contractures",
+      "Fractures",
+      "Fever",
+      "Infections only"
+     ],
+     "answer": 0,
+     "explanation": "Tightening of skin and joints.",
+     "chapter": 12
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14
+   ],
+   "questions": [
+    {
+     "q": "A main goal of geriatric PT is:",
+     "options": [
+      "Maintaining independence and safety",
+      "Avoiding all activity",
+      "Building bodybuilding muscle",
+      "Running marathons"
+     ],
+     "answer": 0,
+     "explanation": "Function matters.",
+     "chapter": 14
+    },
+    {
+     "q": "Older adults with weak bones from osteoporosis are at risk for:",
+     "options": [
+      "Sprains only",
+      "Fractures",
+      "Burns",
+      "Asthma"
+     ],
+     "answer": 1,
+     "explanation": "Especially hip fractures.",
+     "chapter": 14
+    },
+    {
+     "q": "A balance test for fall risk is the:",
+     "options": [
+      "Apgar",
+      "Borg scale",
+      "Berg Balance Scale",
+      "Glasgow Coma Scale"
+     ],
+     "answer": 2,
+     "explanation": "Scored 0–56.",
+     "chapter": 14
+    },
+    {
+     "q": "A tight neck muscle causing head tilt in infants is:",
+     "options": [
+      "Scoliosis",
+      "Clubfoot",
+      "Torticollis",
+      "Spina bifida"
+     ],
+     "answer": 2,
+     "explanation": "Treated with stretching.",
+     "chapter": 13
+    },
+    {
+     "q": "Pediatric therapy often uses:",
+     "options": [
+      "Play",
+      "Weight machines only",
+      "Lectures",
+      "Bed rest"
+     ],
+     "answer": 0,
+     "explanation": "Engages children.",
+     "chapter": 13
+    },
+    {
+     "q": "Early intervention serves children from:",
+     "options": [
+      "Birth to age 3",
+      "Ages 3–5",
+      "Ages 13–18",
+      "Ages 5–12"
+     ],
+     "answer": 0,
+     "explanation": "Under IDEA Part C.",
+     "chapter": 13
+    },
+    {
+     "q": "Care that involves parents in decisions is:",
+     "options": [
+      "Provider-centered care",
+      "Family-centered care",
+      "Managed care",
+      "Acute care"
+     ],
+     "answer": 1,
+     "explanation": "Family is key.",
+     "chapter": 13
+    },
+    {
+     "q": "The Timed Up and Go test measures:",
+     "options": [
+      "Heart rate",
+      "Vision",
+      "Memory",
+      "Mobility and fall risk"
+     ],
+     "answer": 3,
+     "explanation": "Stand, walk 3 m, return, sit.",
+     "chapter": 14
+    },
+    {
+     "q": "Cerebral palsy affects:",
+     "options": [
+      "Only hearing",
+      "Only vision",
+      "Only digestion",
+      "Movement and muscle tone"
+     ],
+     "answer": 3,
+     "explanation": "From early brain injury.",
+     "chapter": 13
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["physical-therapy"].bookInfo = {
@@ -1910,6 +3436,18 @@ window.CONTENT["physical-therapy"].bookInfo = {
   "edition": "10th edition (2026)",
   "source": "Cengage / National Geographic Learning table of contents",
   "chapters": 24,
+  "unit": "Chapter"
+ },
+ "1": {
+  "edition": "7th edition",
+  "source": "Elsevier table of contents",
+  "chapters": 13,
+  "unit": "Chapter"
+ },
+ "2": {
+  "edition": "7th edition",
+  "source": "Elsevier table of contents",
+  "chapters": 14,
   "unit": "Chapter"
  }
 };
