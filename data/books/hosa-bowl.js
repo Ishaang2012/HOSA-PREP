@@ -387,6 +387,307 @@ window.CONTENT["hosa-bowl"].summaries = {
     "Keep accurate financial records"
    ]
   }
+ ],
+ "1": [
+  {
+   "number": 1,
+   "title": "Scientific Foundations and Lab Practices",
+   "summary": [
+    "Science follows the scientific method: observe, ask a question, form a hypothesis, experiment (with independent and dependent variables and a control), analyze, and conclude. Labs use metric units (meter, liter, gram), microscopes, and safety rules including PPE and proper waste disposal."
+   ],
+   "keyPoints": [
+    "Scientific method",
+    "Independent vs. dependent variable",
+    "Metric system",
+    "Lab safety and PPE"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Introduction to the Structural Units",
+   "summary": [
+    "The body is organized from chemicals to cells, tissues, organs, systems, and the organism. Anatomical position, directional terms (superior, inferior, anterior, posterior, medial, lateral, proximal, distal), planes (sagittal, frontal, transverse), and cavities (dorsal and ventral) describe locations. Homeostasis keeps the internal environment stable."
+   ],
+   "keyPoints": [
+    "Levels of organization",
+    "Anatomical position",
+    "Body planes",
+    "Homeostasis"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Chemistry of Living Things",
+   "summary": [
+    "Matter is made of elements and atoms (protons, neutrons, electrons). Atoms bond to form molecules and compounds. Water is the most abundant compound in the body. Acids have a pH below 7; bases above 7. Organic compounds include carbohydrates, lipids, proteins (enzymes), and nucleic acids (DNA, RNA); ATP stores energy."
+   ],
+   "keyPoints": [
+    "Atoms and bonds",
+    "pH scale",
+    "Four organic compounds",
+    "ATP stores energy"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Cells",
+   "summary": [
+    "Cells have a plasma membrane, cytoplasm, and nucleus. Organelles include mitochondria (energy), ribosomes (protein synthesis), ER, Golgi apparatus, and lysosomes. Transport includes diffusion, osmosis, filtration, and active transport. Cells divide by mitosis; abnormal growth causes tumors."
+   ],
+   "keyPoints": [
+    "Mitochondria make energy",
+    "Osmosis",
+    "Active transport",
+    "Mitosis"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Tissues and Membranes",
+   "summary": [
+    "The four tissue types are epithelial (covers), connective (supports—includes bone, blood, cartilage, adipose), muscle (moves), and nervous (communicates). Membranes include mucous, serous (pleura, pericardium, peritoneum), synovial, and cutaneous membranes."
+   ],
+   "keyPoints": [
+    "Four tissue types",
+    "Connective tissue includes blood and bone",
+    "Serous membranes",
+    "Mucous membranes"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Integumentary System",
+   "summary": [
+    "The skin has the epidermis (with melanin) and dermis (blood vessels, nerves, glands, hair follicles), over the subcutaneous layer. Skin protects, regulates temperature, senses, and makes vitamin D. Disorders include acne, burns (classified by depth), skin cancer, and infections."
+   ],
+   "keyPoints": [
+    "Epidermis and dermis",
+    "Temperature regulation",
+    "Vitamin D production",
+    "Burns by depth"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Skeletal System",
+   "summary": [
+    "The adult skeleton has 206 bones in axial and appendicular divisions. Bones support, protect, store minerals, and make blood cells (red marrow). Joints are immovable, slightly movable, or freely movable (synovial). Disorders include fractures, osteoporosis, and arthritis."
+   ],
+   "keyPoints": [
+    "206 bones",
+    "Axial vs. appendicular",
+    "Red marrow makes blood",
+    "Synovial joints"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Muscular System",
+   "summary": [
+    "Muscle types are skeletal (voluntary, striated), smooth (involuntary, in organs), and cardiac (involuntary, heart). Muscles contract when actin and myosin slide together, using ATP and calcium. Tendons attach muscles to bones. Disorders include strains, muscular dystrophy, and atrophy."
+   ],
+   "keyPoints": [
+    "Three muscle types",
+    "Actin and myosin",
+    "Tendons attach muscle to bone",
+    "Muscular dystrophy"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Central Nervous System",
+   "summary": [
+    "The CNS is the brain and spinal cord, protected by the skull, vertebrae, meninges, and cerebrospinal fluid. The cerebrum controls thinking and voluntary movement (lobes: frontal, parietal, temporal, occipital); the cerebellum controls balance; the brainstem controls vital functions. Disorders include stroke, concussion, and meningitis."
+   ],
+   "keyPoints": [
+    "Brain + spinal cord",
+    "Cerebrum, cerebellum, brainstem",
+    "Meninges and CSF",
+    "Stroke"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Peripheral and Autonomic Nervous System",
+   "summary": [
+    "The PNS includes 12 pairs of cranial nerves and 31 pairs of spinal nerves. The autonomic nervous system has sympathetic ('fight or flight') and parasympathetic ('rest and digest') divisions. Reflexes are automatic responses."
+   ],
+   "keyPoints": [
+    "12 cranial, 31 spinal nerves",
+    "Sympathetic = fight or flight",
+    "Parasympathetic = rest and digest",
+    "Reflexes"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Special Senses",
+   "summary": [
+    "The eye has the cornea, lens, retina (rods and cones), and optic nerve. The ear has outer, middle (ossicles), and inner ear (cochlea for hearing; semicircular canals for balance). Taste and smell use chemoreceptors. Disorders include cataracts, glaucoma, myopia, and otitis media."
+   ],
+   "keyPoints": [
+    "Retina: rods and cones",
+    "Cochlea for hearing",
+    "Semicircular canals for balance",
+    "Glaucoma and cataracts"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Endocrine System",
+   "summary": [
+    "Endocrine glands release hormones into the blood. The pituitary is the 'master gland' controlled by the hypothalamus. Others: thyroid (metabolism), parathyroid (calcium), adrenal (stress hormones), pancreas (insulin and glucagon), and gonads. Disorders include diabetes and thyroid disease."
+   ],
+   "keyPoints": [
+    "Pituitary = master gland",
+    "Thyroid controls metabolism",
+    "Insulin lowers blood sugar",
+    "Diabetes"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Blood",
+   "summary": [
+    "Blood is plasma (about 55%) and formed elements: red blood cells (carry oxygen with hemoglobin), white blood cells (fight infection), and platelets (clotting). Blood types are A, B, AB, and O plus Rh factor; O negative is the universal donor and AB positive the universal recipient. Disorders include anemia and leukemia."
+   ],
+   "keyPoints": [
+    "RBCs carry oxygen",
+    "WBCs fight infection",
+    "Platelets clot",
+    "O– universal donor"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Heart",
+   "summary": [
+    "The heart has four chambers and four valves. Blood flows from the right atrium → right ventricle → lungs → left atrium → left ventricle → aorta. The conduction system starts at the SA node (pacemaker). Disorders include coronary artery disease, heart attack, and heart failure."
+   ],
+   "keyPoints": [
+    "Four chambers",
+    "SA node pacemaker",
+    "Path of blood flow",
+    "Coronary artery disease"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Circulation and Blood Vessels",
+   "summary": [
+    "Arteries carry blood away from the heart; veins return it (with valves); capillaries exchange materials. Pulmonary circulation goes to the lungs; systemic to the body. Blood pressure is measured in mm Hg. Disorders include hypertension, atherosclerosis, and aneurysms."
+   ],
+   "keyPoints": [
+    "Arteries away, veins toward",
+    "Capillaries exchange",
+    "Pulmonary vs. systemic",
+    "Hypertension"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "The Lymphatic and Immune Systems",
+   "summary": [
+    "The lymphatic system returns fluid to blood and fights infection through lymph nodes, the spleen, thymus, and tonsils. Immunity can be innate or acquired (active or passive). B cells make antibodies; T cells attack infected cells. Disorders include allergies, autoimmune disease, and HIV/AIDS."
+   ],
+   "keyPoints": [
+    "Lymph nodes filter",
+    "Active vs. passive immunity",
+    "B cells make antibodies",
+    "HIV attacks T cells"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Infection Control and Standard Precautions",
+   "summary": [
+    "Pathogens include bacteria, viruses, fungi, and protozoa. The chain of infection is broken by hand hygiene, standard precautions, PPE, disinfection, and sterilization. Health care-associated infections are a major concern."
+   ],
+   "keyPoints": [
+    "Types of pathogens",
+    "Chain of infection",
+    "Hand hygiene",
+    "Standard precautions"
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Respiratory System",
+   "summary": [
+    "Air passes through the nose, pharynx, larynx, trachea, bronchi, and bronchioles to the alveoli, where gas exchange occurs. The diaphragm drives breathing. Disorders include asthma, pneumonia, COPD, tuberculosis, and lung cancer."
+   ],
+   "keyPoints": [
+    "Pathway of air",
+    "Alveoli exchange gases",
+    "Diaphragm",
+    "Asthma and COPD"
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Digestive System",
+   "summary": [
+    "Digestion begins in the mouth (amylase) and continues in the stomach (acid, pepsin) and small intestine (most digestion and absorption). The liver makes bile, the gallbladder stores it, and the pancreas makes enzymes. The large intestine absorbs water. Disorders include ulcers, GERD, hepatitis, and gallstones."
+   ],
+   "keyPoints": [
+    "Small intestine absorbs",
+    "Liver makes bile",
+    "Pancreas makes enzymes",
+    "Large intestine absorbs water"
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Nutrition",
+   "summary": [
+    "Nutrients are carbohydrates, proteins, fats, vitamins, minerals, and water. Metabolism includes anabolism (building) and catabolism (breaking down). Energy is measured in calories. A balanced diet supports health."
+   ],
+   "keyPoints": [
+    "Six nutrients",
+    "Anabolism vs. catabolism",
+    "Calories",
+    "Balanced diet"
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Urinary System",
+   "summary": [
+    "The kidneys filter blood through nephrons (glomerulus and tubules), forming urine that flows through ureters to the bladder and out the urethra. Kidneys regulate fluid, electrolytes, and blood pressure. Disorders include UTIs, kidney stones, and kidney failure (treated with dialysis)."
+   ],
+   "keyPoints": [
+    "Nephrons filter blood",
+    "Ureters → bladder → urethra",
+    "Regulate fluid and electrolytes",
+    "Dialysis"
+   ]
+  },
+  {
+   "number": 22,
+   "title": "Reproductive System",
+   "summary": [
+    "The male system includes the testes (sperm and testosterone), vas deferens, prostate, and penis. The female system includes the ovaries (eggs, estrogen, progesterone), fallopian tubes (fertilization), uterus, and vagina. The menstrual cycle is about 28 days. Disorders include STIs and cancers."
+   ],
+   "keyPoints": [
+    "Testes make sperm",
+    "Ovaries make eggs",
+    "Fertilization in fallopian tubes",
+    "28-day cycle"
+   ]
+  },
+  {
+   "number": 23,
+   "title": "Genetics and Genetically Linked Diseases",
+   "summary": [
+    "Genes on chromosomes (23 pairs) carry traits; alleles can be dominant or recessive. Genetic disorders include Down syndrome (trisomy 21), cystic fibrosis, sickle cell anemia, hemophilia (X-linked), and PKU. Genetic counseling and testing help families."
+   ],
+   "keyPoints": [
+    "23 pairs of chromosomes",
+    "Dominant vs. recessive",
+    "Trisomy 21",
+    "X-linked hemophilia"
+   ]
+  }
  ]
 };
 window.CONTENT["hosa-bowl"].quizzes = {
@@ -1903,6 +2204,943 @@ window.CONTENT["hosa-bowl"].quizzes = {
     }
    ]
   }
+ ],
+ "1": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "The plane that divides the body into front and back is the:",
+     "options": [
+      "Frontal (coronal) plane",
+      "Sagittal plane",
+      "Midsagittal plane",
+      "Transverse plane"
+     ],
+     "answer": 0,
+     "explanation": "Sagittal divides left and right.",
+     "chapter": 2
+    },
+    {
+     "q": "The most abundant compound in the body is:",
+     "options": [
+      "Water",
+      "Glucose",
+      "Protein",
+      "Fat"
+     ],
+     "answer": 0,
+     "explanation": "About 60% of body weight.",
+     "chapter": 3
+    },
+    {
+     "q": "Maintaining a stable internal environment is:",
+     "options": [
+      "Osmosis",
+      "Metabolism",
+      "Anabolism",
+      "Homeostasis"
+     ],
+     "answer": 3,
+     "explanation": "Mostly by negative feedback.",
+     "chapter": 2
+    },
+    {
+     "q": "The metric unit of mass is the:",
+     "options": [
+      "Meter",
+      "Pound",
+      "Gram",
+      "Liter"
+     ],
+     "answer": 2,
+     "explanation": "Liter is volume.",
+     "chapter": 1
+    },
+    {
+     "q": "A substance with a pH of 3 is:",
+     "options": [
+      "An acid",
+      "Neutral",
+      "A base",
+      "A salt"
+     ],
+     "answer": 0,
+     "explanation": "Below 7.",
+     "chapter": 3
+    },
+    {
+     "q": "Standing upright, facing forward, palms forward is:",
+     "options": [
+      "Supine position",
+      "Prone position",
+      "Fowler's position",
+      "Anatomical position"
+     ],
+     "answer": 3,
+     "explanation": "Reference for directions.",
+     "chapter": 2
+    },
+    {
+     "q": "The molecule that stores and releases energy for cells is:",
+     "options": [
+      "Glycogen",
+      "DNA",
+      "ATP",
+      "RNA"
+     ],
+     "answer": 2,
+     "explanation": "Adenosine triphosphate.",
+     "chapter": 3
+    },
+    {
+     "q": "The variable a scientist changes on purpose is the:",
+     "options": [
+      "Control",
+      "Independent variable",
+      "Dependent variable",
+      "Constant"
+     ],
+     "answer": 1,
+     "explanation": "The dependent variable is measured.",
+     "chapter": 1
+    },
+    {
+     "q": "Enzymes are a type of:",
+     "options": [
+      "Lipid",
+      "Protein",
+      "Carbohydrate",
+      "Nucleic acid"
+     ],
+     "answer": 1,
+     "explanation": "Speed up reactions.",
+     "chapter": 3
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "The outer layer of skin is the:",
+     "options": [
+      "Epidermis",
+      "Subcutaneous layer",
+      "Hypodermis",
+      "Dermis"
+     ],
+     "answer": 0,
+     "explanation": "No blood vessels.",
+     "chapter": 6
+    },
+    {
+     "q": "Cell division that makes identical cells is:",
+     "options": [
+      "Mitosis",
+      "Meiosis",
+      "Fertilization",
+      "Osmosis"
+     ],
+     "answer": 0,
+     "explanation": "For growth and repair.",
+     "chapter": 4
+    },
+    {
+     "q": "Movement of water across a membrane is:",
+     "options": [
+      "Osmosis",
+      "Active transport",
+      "Phagocytosis",
+      "Filtration"
+     ],
+     "answer": 0,
+     "explanation": "From less to more concentrated.",
+     "chapter": 4
+    },
+    {
+     "q": "The pigment that colors skin is:",
+     "options": [
+      "Keratin",
+      "Melanin",
+      "Hemoglobin",
+      "Collagen"
+     ],
+     "answer": 1,
+     "explanation": "Protects from UV light.",
+     "chapter": 6
+    },
+    {
+     "q": "Tissue that covers surfaces and lines cavities is:",
+     "options": [
+      "Connective",
+      "Epithelial",
+      "Muscle",
+      "Nervous"
+     ],
+     "answer": 1,
+     "explanation": "Skin and linings.",
+     "chapter": 5
+    },
+    {
+     "q": "Blood and bone are types of:",
+     "options": [
+      "Nervous tissue",
+      "Muscle tissue",
+      "Epithelial tissue",
+      "Connective tissue"
+     ],
+     "answer": 3,
+     "explanation": "Support and connect.",
+     "chapter": 5
+    },
+    {
+     "q": "The membrane lining the chest cavity and covering the lungs is the:",
+     "options": [
+      "Pericardium",
+      "Peritoneum",
+      "Pleura",
+      "Meninges"
+     ],
+     "answer": 2,
+     "explanation": "A serous membrane.",
+     "chapter": 5
+    },
+    {
+     "q": "The skin makes which vitamin with sunlight?",
+     "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin K",
+      "Vitamin D"
+     ],
+     "answer": 3,
+     "explanation": "Needed for calcium.",
+     "chapter": 6
+    },
+    {
+     "q": "The organelle that produces energy is the:",
+     "options": [
+      "Lysosome",
+      "Golgi apparatus",
+      "Mitochondrion",
+      "Ribosome"
+     ],
+     "answer": 2,
+     "explanation": "Makes ATP.",
+     "chapter": 4
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "Protective membranes around the brain and spinal cord are the:",
+     "options": [
+      "Peritoneum",
+      "Pleura",
+      "Meninges",
+      "Synovium"
+     ],
+     "answer": 2,
+     "explanation": "Inflamed in meningitis.",
+     "chapter": 9
+    },
+    {
+     "q": "Proteins that slide during contraction are actin and:",
+     "options": [
+      "Myosin",
+      "Hemoglobin",
+      "Keratin",
+      "Collagen"
+     ],
+     "answer": 0,
+     "explanation": "Sliding filament model.",
+     "chapter": 8
+    },
+    {
+     "q": "Muscle found in organ walls is:",
+     "options": [
+      "Smooth muscle",
+      "Voluntary muscle",
+      "Skeletal muscle",
+      "Cardiac muscle"
+     ],
+     "answer": 0,
+     "explanation": "Involuntary.",
+     "chapter": 8
+    },
+    {
+     "q": "The part of the brain that controls balance and coordination is the:",
+     "options": [
+      "Thalamus",
+      "Cerebellum",
+      "Medulla",
+      "Cerebrum"
+     ],
+     "answer": 1,
+     "explanation": "Behind the brainstem.",
+     "chapter": 9
+    },
+    {
+     "q": "The adult skeleton has how many bones?",
+     "options": [
+      "300",
+      "150",
+      "250",
+      "206"
+     ],
+     "answer": 3,
+     "explanation": "Babies have more.",
+     "chapter": 7
+    },
+    {
+     "q": "Blood cells are made in:",
+     "options": [
+      "Yellow marrow",
+      "Cartilage",
+      "Tendons",
+      "Red bone marrow"
+     ],
+     "answer": 3,
+     "explanation": "Hematopoiesis.",
+     "chapter": 7
+    },
+    {
+     "q": "The skull, spine, and ribs form the:",
+     "options": [
+      "Pelvic girdle",
+      "Limbs",
+      "Axial skeleton",
+      "Appendicular skeleton"
+     ],
+     "answer": 2,
+     "explanation": "Central axis.",
+     "chapter": 7
+    },
+    {
+     "q": "The brainstem controls:",
+     "options": [
+      "Thinking",
+      "Breathing and heart rate",
+      "Vision",
+      "Speech"
+     ],
+     "answer": 1,
+     "explanation": "Vital functions.",
+     "chapter": 9
+    },
+    {
+     "q": "Muscles attach to bones by:",
+     "options": [
+      "Tendons",
+      "Cartilage",
+      "Fascia only",
+      "Ligaments"
+     ],
+     "answer": 0,
+     "explanation": "Ligaments connect bones.",
+     "chapter": 8
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "Photoreceptors for color vision are:",
+     "options": [
+      "Rods",
+      "Cones",
+      "Ossicles",
+      "Cochlea"
+     ],
+     "answer": 1,
+     "explanation": "Rods for dim light.",
+     "chapter": 11
+    },
+    {
+     "q": "Increased pressure in the eye is:",
+     "options": [
+      "Glaucoma",
+      "Conjunctivitis",
+      "Myopia",
+      "Cataract"
+     ],
+     "answer": 0,
+     "explanation": "Can cause blindness.",
+     "chapter": 11
+    },
+    {
+     "q": "Insulin is produced by the:",
+     "options": [
+      "Pancreas",
+      "Thyroid",
+      "Liver",
+      "Adrenal glands"
+     ],
+     "answer": 0,
+     "explanation": "Lowers blood sugar.",
+     "chapter": 12
+    },
+    {
+     "q": "How many pairs of cranial nerves are there?",
+     "options": [
+      "24",
+      "31",
+      "10",
+      "12"
+     ],
+     "answer": 3,
+     "explanation": "31 pairs of spinal nerves.",
+     "chapter": 10
+    },
+    {
+     "q": "The 'fight or flight' response comes from the:",
+     "options": [
+      "Cerebellum",
+      "Somatic system",
+      "Sympathetic nervous system",
+      "Parasympathetic system"
+     ],
+     "answer": 2,
+     "explanation": "Raises heart rate.",
+     "chapter": 10
+    },
+    {
+     "q": "Metabolism is controlled mainly by the:",
+     "options": [
+      "Parathyroid",
+      "Adrenal",
+      "Pineal",
+      "Thyroid"
+     ],
+     "answer": 3,
+     "explanation": "Thyroxine.",
+     "chapter": 12
+    },
+    {
+     "q": "The organ of hearing is the:",
+     "options": [
+      "Retina",
+      "Eustachian tube",
+      "Cochlea",
+      "Semicircular canals"
+     ],
+     "answer": 2,
+     "explanation": "In the inner ear.",
+     "chapter": 11
+    },
+    {
+     "q": "The 'rest and digest' division is the:",
+     "options": [
+      "Parasympathetic nervous system",
+      "CNS",
+      "Somatic system",
+      "Sympathetic system"
+     ],
+     "answer": 0,
+     "explanation": "Slows heart rate.",
+     "chapter": 10
+    },
+    {
+     "q": "The 'master gland' is the:",
+     "options": [
+      "Adrenal",
+      "Pituitary",
+      "Pancreas",
+      "Thyroid"
+     ],
+     "answer": 1,
+     "explanation": "Controlled by the hypothalamus.",
+     "chapter": 12
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "Exchange of gases and nutrients happens in:",
+     "options": [
+      "The aorta",
+      "Arteries",
+      "Veins",
+      "Capillaries"
+     ],
+     "answer": 3,
+     "explanation": "Thin walls.",
+     "chapter": 15
+    },
+    {
+     "q": "The heart's natural pacemaker is the:",
+     "options": [
+      "Purkinje fibers",
+      "Bundle of His",
+      "SA node",
+      "AV node"
+     ],
+     "answer": 2,
+     "explanation": "Sinoatrial node.",
+     "chapter": 14
+    },
+    {
+     "q": "Blood leaves the left ventricle through the:",
+     "options": [
+      "Pulmonary artery",
+      "Aorta",
+      "Pulmonary vein",
+      "Vena cava"
+     ],
+     "answer": 1,
+     "explanation": "To the body.",
+     "chapter": 14
+    },
+    {
+     "q": "Cells that help blood clot are:",
+     "options": [
+      "Red blood cells",
+      "White blood cells",
+      "Plasma cells",
+      "Platelets"
+     ],
+     "answer": 3,
+     "explanation": "Thrombocytes.",
+     "chapter": 13
+    },
+    {
+     "q": "Vessels that carry blood away from the heart are:",
+     "options": [
+      "Venules",
+      "Arteries",
+      "Veins",
+      "Capillaries"
+     ],
+     "answer": 1,
+     "explanation": "Veins return blood.",
+     "chapter": 15
+    },
+    {
+     "q": "Which chamber receives blood from the body?",
+     "options": [
+      "Right atrium",
+      "Left atrium",
+      "Left ventricle",
+      "Right ventricle"
+     ],
+     "answer": 0,
+     "explanation": "Via the venae cavae.",
+     "chapter": 14
+    },
+    {
+     "q": "The universal donor blood type is:",
+     "options": [
+      "O negative",
+      "B negative",
+      "A positive",
+      "AB positive"
+     ],
+     "answer": 0,
+     "explanation": "No A, B, or Rh antigens.",
+     "chapter": 13
+    },
+    {
+     "q": "Red blood cells carry oxygen using:",
+     "options": [
+      "Hemoglobin",
+      "Plasma",
+      "Antibodies",
+      "Fibrinogen"
+     ],
+     "answer": 0,
+     "explanation": "Iron-containing protein.",
+     "chapter": 13
+    },
+    {
+     "q": "Veins have valves to:",
+     "options": [
+      "Make blood cells",
+      "Exchange gases",
+      "Prevent backflow of blood",
+      "Pump blood"
+     ],
+     "answer": 2,
+     "explanation": "Especially in the legs.",
+     "chapter": 15
+    }
+   ]
+  },
+  {
+   "chapters": [
+    16,
+    17,
+    18
+   ],
+   "questions": [
+    {
+     "q": "Gas exchange in the lungs occurs in the:",
+     "options": [
+      "Bronchi",
+      "Alveoli",
+      "Trachea",
+      "Larynx"
+     ],
+     "answer": 1,
+     "explanation": "Air sacs.",
+     "chapter": 18
+    },
+    {
+     "q": "Infections acquired in a health care facility are:",
+     "options": [
+      "Health care-associated infections",
+      "Congenital infections",
+      "Community infections",
+      "Genetic disorders"
+     ],
+     "answer": 0,
+     "explanation": "HAIs.",
+     "chapter": 17
+    },
+    {
+     "q": "Antibodies are made by:",
+     "options": [
+      "T cells",
+      "Platelets",
+      "B cells",
+      "Red blood cells"
+     ],
+     "answer": 2,
+     "explanation": "Humoral immunity.",
+     "chapter": 16
+    },
+    {
+     "q": "Immunity from a vaccine is:",
+     "options": [
+      "Active acquired immunity",
+      "No immunity",
+      "Passive immunity",
+      "Innate immunity"
+     ],
+     "answer": 0,
+     "explanation": "Your body makes antibodies.",
+     "chapter": 16
+    },
+    {
+     "q": "The main muscle of breathing is the:",
+     "options": [
+      "Intercostals only",
+      "Abdominals",
+      "Diaphragm",
+      "Pectorals"
+     ],
+     "answer": 2,
+     "explanation": "Contracts on inhalation.",
+     "chapter": 18
+    },
+    {
+     "q": "The most important way to prevent infection is:",
+     "options": [
+      "Gowns",
+      "Masks",
+      "Antibiotics",
+      "Hand hygiene"
+     ],
+     "answer": 3,
+     "explanation": "Before and after patient contact.",
+     "chapter": 17
+    },
+    {
+     "q": "The voice box is the:",
+     "options": [
+      "Epiglottis",
+      "Trachea",
+      "Pharynx",
+      "Larynx"
+     ],
+     "answer": 3,
+     "explanation": "Contains vocal cords.",
+     "chapter": 18
+    },
+    {
+     "q": "HIV attacks:",
+     "options": [
+      "Red blood cells",
+      "Helper T cells",
+      "B cells only",
+      "Platelets"
+     ],
+     "answer": 1,
+     "explanation": "Weakens immunity.",
+     "chapter": 16
+    },
+    {
+     "q": "Killing all microorganisms, including spores, is:",
+     "options": [
+      "Sterilization",
+      "Sanitization",
+      "Disinfection",
+      "Antisepsis"
+     ],
+     "answer": 0,
+     "explanation": "Autoclave.",
+     "chapter": 17
+    }
+   ]
+  },
+  {
+   "chapters": [
+    19,
+    20,
+    21
+   ],
+   "questions": [
+    {
+     "q": "The large intestine mainly absorbs:",
+     "options": [
+      "Water",
+      "Vitamins only",
+      "Fats",
+      "Proteins"
+     ],
+     "answer": 0,
+     "explanation": "Forms stool.",
+     "chapter": 19
+    },
+    {
+     "q": "When kidneys fail, blood can be filtered by:",
+     "options": [
+      "Chemotherapy",
+      "Transfusion",
+      "Dialysis",
+      "Bronchoscopy"
+     ],
+     "answer": 2,
+     "explanation": "Artificial filtration.",
+     "chapter": 21
+    },
+    {
+     "q": "Most digestion and absorption occur in the:",
+     "options": [
+      "Esophagus",
+      "Small intestine",
+      "Large intestine",
+      "Stomach"
+     ],
+     "answer": 1,
+     "explanation": "Villi increase surface area.",
+     "chapter": 19
+    },
+    {
+     "q": "Energy in food is measured in:",
+     "options": [
+      "Calories",
+      "Grams",
+      "Millimeters",
+      "Liters"
+     ],
+     "answer": 0,
+     "explanation": "Kilocalories.",
+     "chapter": 20
+    },
+    {
+     "q": "Bile is made by the:",
+     "options": [
+      "Pancreas",
+      "Gallbladder",
+      "Stomach",
+      "Liver"
+     ],
+     "answer": 3,
+     "explanation": "Stored in the gallbladder.",
+     "chapter": 19
+    },
+    {
+     "q": "The functional unit of the kidney is the:",
+     "options": [
+      "Villus",
+      "Alveolus",
+      "Nephron",
+      "Neuron"
+     ],
+     "answer": 2,
+     "explanation": "Filters blood.",
+     "chapter": 21
+    },
+    {
+     "q": "Urine travels from kidneys to bladder through the:",
+     "options": [
+      "Nephrons",
+      "Ureters",
+      "Renal artery",
+      "Urethra"
+     ],
+     "answer": 1,
+     "explanation": "Urethra exits the body.",
+     "chapter": 21
+    },
+    {
+     "q": "Building complex molecules from simple ones is:",
+     "options": [
+      "Anabolism",
+      "Digestion",
+      "Catabolism",
+      "Excretion"
+     ],
+     "answer": 0,
+     "explanation": "Catabolism breaks down.",
+     "chapter": 20
+    },
+    {
+     "q": "Which nutrient is the body's main energy source?",
+     "options": [
+      "Minerals",
+      "Vitamins",
+      "Water",
+      "Carbohydrates"
+     ],
+     "answer": 3,
+     "explanation": "Glucose.",
+     "chapter": 20
+    }
+   ]
+  },
+  {
+   "chapters": [
+    22,
+    23
+   ],
+   "questions": [
+    {
+     "q": "Sperm are produced in the:",
+     "options": [
+      "Vas deferens",
+      "Urethra",
+      "Testes",
+      "Prostate"
+     ],
+     "answer": 2,
+     "explanation": "Also make testosterone.",
+     "chapter": 22
+    },
+    {
+     "q": "Hemophilia is usually inherited as:",
+     "options": [
+      "Mitochondrial",
+      "X-linked recessive",
+      "Autosomal dominant",
+      "Y-linked"
+     ],
+     "answer": 1,
+     "explanation": "More common in males.",
+     "chapter": 23
+    },
+    {
+     "q": "The average menstrual cycle is about:",
+     "options": [
+      "28 days",
+      "7 days",
+      "60 days",
+      "14 days"
+     ],
+     "answer": 0,
+     "explanation": "Ovulation around day 14.",
+     "chapter": 22
+    },
+    {
+     "q": "Female hormones made by the ovaries are estrogen and:",
+     "options": [
+      "Insulin",
+      "Testosterone",
+      "Thyroxine",
+      "Progesterone"
+     ],
+     "answer": 3,
+     "explanation": "Regulate the cycle.",
+     "chapter": 22
+    },
+    {
+     "q": "Fertilization usually occurs in the:",
+     "options": [
+      "Fallopian tube",
+      "Ovary",
+      "Uterus",
+      "Vagina"
+     ],
+     "answer": 0,
+     "explanation": "Then implants in the uterus.",
+     "chapter": 22
+    },
+    {
+     "q": "Sickle cell anemia affects the shape of:",
+     "options": [
+      "White blood cells",
+      "Red blood cells",
+      "Neurons",
+      "Platelets"
+     ],
+     "answer": 1,
+     "explanation": "Crescent-shaped cells.",
+     "chapter": 23
+    },
+    {
+     "q": "Humans have how many pairs of chromosomes?",
+     "options": [
+      "46",
+      "22",
+      "24",
+      "23"
+     ],
+     "answer": 3,
+     "explanation": "46 total.",
+     "chapter": 23
+    },
+    {
+     "q": "An allele that is expressed only when two copies are present is:",
+     "options": [
+      "Recessive",
+      "Dominant",
+      "Mutant",
+      "Codominant"
+     ],
+     "answer": 0,
+     "explanation": "Shown in lowercase.",
+     "chapter": 23
+    },
+    {
+     "q": "Down syndrome is caused by:",
+     "options": [
+      "Missing X chromosome",
+      "Diet",
+      "Trisomy 21",
+      "Infection"
+     ],
+     "answer": 2,
+     "explanation": "Extra chromosome 21.",
+     "chapter": 23
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["hosa-bowl"].bookInfo = {
@@ -1910,6 +3148,12 @@ window.CONTENT["hosa-bowl"].bookInfo = {
   "edition": "10th edition (2026)",
   "source": "Cengage / National Geographic Learning table of contents",
   "chapters": 24,
+  "unit": "Chapter"
+ },
+ "1": {
+  "edition": "14th edition",
+  "source": "Cengage table of contents",
+  "chapters": 23,
   "unit": "Chapter"
  }
 };

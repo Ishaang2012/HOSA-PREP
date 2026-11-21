@@ -367,6 +367,333 @@ window.CONTENT["home-health-aide"].summaries = {
     "Give proper notice when leaving"
    ]
   }
+ ],
+ "1": [
+  {
+   "number": 1,
+   "title": "Home Care and the Healthcare System",
+   "summary": [
+    "Home health care lets clients receive care at home, which is usually less costly and more comfortable. Payers include Medicare (requires the client to be homebound and under a physician's plan of care), Medicaid, private insurance, and private pay. Agencies may be Medicare-certified."
+   ],
+   "keyPoints": [
+    "Care at home",
+    "Medicare: homebound + plan of care",
+    "Medicaid and private pay",
+    "Certified agencies"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "The Home Health Aide and the Care Team",
+   "summary": [
+    "Home health aides (HHAs) assist with personal care, light housekeeping, and observing and reporting. They work under a supervisor (usually an RN) and follow the care plan. Federal rules require at least 75 hours of training, including 16 hours of supervised practical training."
+   ],
+   "keyPoints": [
+    "Follow the care plan",
+    "RN supervisor",
+    "75 hours training",
+    "Observe and report"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Legal and Ethical Issues",
+   "summary": [
+    "Clients have rights including privacy, dignity, and making choices. HHAs must keep information confidential (HIPAA), avoid accepting gifts or money, and report abuse or neglect. Types of abuse include physical, emotional, sexual, financial, and neglect."
+   ],
+   "keyPoints": [
+    "Clients' rights",
+    "HIPAA",
+    "Don't accept gifts",
+    "Report abuse"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Communication and Diversity",
+   "summary": [
+    "Communication includes verbal and nonverbal messages, listening, and adapting for impairments. HHAs report to the supervisor and document care. Respecting cultural and religious differences is essential. Combative behavior should not be taken personally; stay calm and report it."
+   ],
+   "keyPoints": [
+    "Verbal and nonverbal",
+    "Document care",
+    "Respect diversity",
+    "Stay calm with combative clients"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Infection Prevention and Standard Precautions",
+   "summary": [
+    "The chain of infection is broken by hand hygiene, Standard Precautions, PPE, and cleaning. Transmission-Based Precautions add measures for airborne, droplet, and contact diseases. Bloodborne diseases include HIV and hepatitis B. Report exposures immediately."
+   ],
+   "keyPoints": [
+    "Hand hygiene",
+    "Standard Precautions",
+    "PPE",
+    "Report exposures"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Safety and Body Mechanics",
+   "summary": [
+    "Good body mechanics prevent injury: wide stance, bend knees, keep objects close, avoid twisting. Common home accidents include falls, burns, poisoning, suffocation, and cuts. Fire safety includes smoke detectors and escape plans. HHAs should also follow car and personal safety guidelines."
+   ],
+   "keyPoints": [
+    "Body mechanics",
+    "Prevent falls and burns",
+    "Fire safety",
+    "Personal safety"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Emergency Care and Disaster Preparation",
+   "summary": [
+    "HHAs recognize emergencies, call 911, and give first aid for choking (abdominal thrusts), bleeding (direct pressure), shock, burns, fainting, seizures, and heart attack. Disaster plans prepare clients and aides for fires, storms, and evacuations."
+   ],
+   "keyPoints": [
+    "Call 911",
+    "Abdominal thrusts",
+    "Direct pressure for bleeding",
+    "Disaster plans"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Physical, Psychological, and Social Health",
+   "summary": [
+    "Basic human needs include physical, safety, love, and esteem needs. Holistic care considers the whole person. Illness affects clients and families emotionally; HHAs support adjustment and connect clients to community resources."
+   ],
+   "keyPoints": [
+    "Basic needs",
+    "Holistic care",
+    "Family adjustment",
+    "Community resources"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Body Systems and Related Conditions",
+   "summary": [
+    "HHAs learn normal function and common conditions of each body system: skin (pressure injuries), musculoskeletal (arthritis, fractures), nervous (stroke, Parkinson's), circulatory (heart failure, hypertension), respiratory (COPD), urinary (UTIs), digestive, endocrine (diabetes), and immune (HIV, cancer)."
+   ],
+   "keyPoints": [
+    "Pressure injuries",
+    "Stroke and Parkinson's",
+    "Diabetes",
+    "COPD and heart failure"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Confusion, Dementia, and Alzheimer Disease",
+   "summary": [
+    "Dementia is a serious loss of mental abilities; Alzheimer's is the most common type. Care tips: keep routines, use simple communication, use validation, and manage behaviors like wandering, sundowning, and agitation calmly."
+   ],
+   "keyPoints": [
+    "Alzheimer's most common",
+    "Routines help",
+    "Validation",
+    "Sundowning"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Human Development and Aging",
+   "summary": [
+    "People develop through life stages from infancy to older adulthood. Normal aging brings changes like thinner skin, weaker bones, and slower reactions, but confusion and depression are not normal aging."
+   ],
+   "keyPoints": [
+    "Life stages",
+    "Normal aging changes",
+    "Confusion is not normal",
+    "Independence"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Positioning, Transfers, and Ambulation",
+   "summary": [
+    "HHAs reposition clients at least every 2 hours, use gait belts for transfers and walking, help with assistive devices (canes, walkers, crutches), and transfer clients to wheelchairs safely."
+   ],
+   "keyPoints": [
+    "Reposition every 2 hours",
+    "Gait belt",
+    "Canes and walkers",
+    "Safe transfers"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Personal Care Skills",
+   "summary": [
+    "Personal care includes bathing, shampooing, grooming, oral care, denture care, shaving, nail care, dressing (weak side first), and toileting. Encourage independence and protect privacy."
+   ],
+   "keyPoints": [
+    "Dress weak side first",
+    "Promote independence",
+    "Protect privacy",
+    "Oral and denture care"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Core Healthcare Skills",
+   "summary": [
+    "Core skills include vital signs, measuring intake and output, collecting specimens, caring for catheters, applying non-sterile dressings, and warm and cold applications. Report abnormal findings."
+   ],
+   "keyPoints": [
+    "Vital signs",
+    "I&O",
+    "Specimens",
+    "Catheter care"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Medications and Technology in Home Care",
+   "summary": [
+    "HHAs may assist with self-administered medications as allowed by state law and agency policy—reminding clients and reading labels—but generally don't give medications. The five rights are right client, drug, dose, route, and time. Home medical equipment includes oxygen (no smoking or flames)."
+   ],
+   "keyPoints": [
+    "Assist, don't administer",
+    "Five rights",
+    "Oxygen safety",
+    "Home equipment"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Rehabilitation and Restorative Care",
+   "summary": [
+    "Rehabilitation helps clients regain function; restorative care maintains it. HHAs support range-of-motion exercises, adaptive devices, and independence in activities of daily living (ADLs)."
+   ],
+   "keyPoints": [
+    "Restore and maintain function",
+    "ROM exercises",
+    "Adaptive devices",
+    "ADL independence"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Clients with Disabilities",
+   "summary": [
+    "Disabilities may be physical, developmental, or sensory. HHAs promote independence, use person-first language, and adapt care for vision or hearing impairment."
+   ],
+   "keyPoints": [
+    "Person-first language",
+    "Promote independence",
+    "Adapt for sensory loss",
+    "Respect abilities"
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Mental Health and Mental Health Disorders",
+   "summary": [
+    "Mental health disorders include anxiety, depression, bipolar disorder, schizophrenia, and substance use disorders. HHAs observe and report changes, especially signs of suicide risk, and support treatment plans."
+   ],
+   "keyPoints": [
+    "Observe mood changes",
+    "Report suicide signs",
+    "Support treatment",
+    "Reduce stigma"
+   ]
+  },
+  {
+   "number": 19,
+   "title": "New Mothers, Infants, and Children",
+   "summary": [
+    "HHAs may help new mothers (watch for heavy bleeding, support breastfeeding) and infants (safe sleep on the back, bathing, umbilical cord care, feeding). Report signs of child abuse."
+   ],
+   "keyPoints": [
+    "Safe sleep on back",
+    "Cord care",
+    "Postpartum bleeding",
+    "Report child abuse"
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Dying, Death, and Hospice",
+   "summary": [
+    "Hospice provides comfort care for terminally ill clients and supports families. HHAs respect advance directives and DNR orders, provide comfort measures, and recognize signs of approaching death. Grief stages (Kübler-Ross) help explain reactions."
+   ],
+   "keyPoints": [
+    "Hospice comfort care",
+    "Advance directives",
+    "Signs of approaching death",
+    "Grief stages"
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Clean, Safe, and Healthy Environments",
+   "summary": [
+    "HHAs keep the home clean and safe: cleaning kitchens and bathrooms, doing laundry, disinfecting, and controlling pests. Use proper cleaning products and never mix bleach with ammonia."
+   ],
+   "keyPoints": [
+    "Clean and disinfect",
+    "Laundry",
+    "Never mix bleach and ammonia",
+    "Pest control"
+   ]
+  },
+  {
+   "number": 22,
+   "title": "Clients' Nutritional Needs",
+   "summary": [
+    "Good nutrition follows MyPlate. HHAs follow special diets (low-sodium, diabetic, modified consistency), assist with feeding, watch for swallowing problems, and encourage fluids."
+   ],
+   "keyPoints": [
+    "MyPlate",
+    "Special diets",
+    "Swallowing precautions",
+    "Encourage fluids"
+   ]
+  },
+  {
+   "number": 23,
+   "title": "Meal Planning, Shopping, Preparation, and Storage",
+   "summary": [
+    "HHAs plan meals within budget and diet orders, shop wisely (lists, unit pricing, labels), prepare food safely, and store it properly to prevent foodborne illness."
+   ],
+   "keyPoints": [
+    "Meal planning",
+    "Shopping lists",
+    "Food safety",
+    "Proper storage"
+   ]
+  },
+  {
+   "number": 24,
+   "title": "Managing Time, Energy, and Money",
+   "summary": [
+    "HHAs organize work with schedules and priorities, save energy with good work habits, and handle client money honestly with receipts, following agency policy."
+   ],
+   "keyPoints": [
+    "Prioritize tasks",
+    "Work efficiently",
+    "Keep receipts",
+    "Honest money handling"
+   ]
+  },
+  {
+   "number": 25,
+   "title": "Caring for Yourself and Your Career",
+   "summary": [
+    "HHAs manage stress, maintain health, and grow their careers through continuing education (12 hours yearly), professionalism, and good job-seeking skills."
+   ],
+   "keyPoints": [
+    "Manage stress",
+    "12 hours CE yearly",
+    "Professionalism",
+    "Career growth"
+   ]
+  }
  ]
 };
 window.CONTENT["home-health-aide"].quizzes = {
@@ -1519,6 +1846,1059 @@ window.CONTENT["home-health-aide"].quizzes = {
     }
    ]
   }
+ ],
+ "1": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "If a client offers money as a gift, the HHA should:",
+     "options": [
+      "Politely refuse",
+      "Accept it",
+      "Ask for more",
+      "Keep it secret"
+     ],
+     "answer": 0,
+     "explanation": "Follow agency policy.",
+     "chapter": 3
+    },
+    {
+     "q": "Client health information is protected by:",
+     "options": [
+      "OSHA",
+      "ADA",
+      "HIPAA",
+      "OBRA"
+     ],
+     "answer": 2,
+     "explanation": "Keep it confidential.",
+     "chapter": 3
+    },
+    {
+     "q": "Compared to hospital care, home care is usually:",
+     "options": [
+      "Less personal",
+      "Less costly and more comfortable",
+      "Unsafe",
+      "More expensive"
+     ],
+     "answer": 1,
+     "explanation": "Clients stay in familiar surroundings.",
+     "chapter": 1
+    },
+    {
+     "q": "Federal law requires HHA training of at least:",
+     "options": [
+      "75 hours",
+      "40 hours",
+      "200 hours",
+      "10 hours"
+     ],
+     "answer": 0,
+     "explanation": "Including 16 supervised practical hours.",
+     "chapter": 2
+    },
+    {
+     "q": "Home health aides follow the:",
+     "options": [
+      "Family's wishes only",
+      "Care plan",
+      "Client's neighbor",
+      "Their own plan"
+     ],
+     "answer": 1,
+     "explanation": "Created by the nurse or therapist.",
+     "chapter": 2
+    },
+    {
+     "q": "Taking a client's money without permission is:",
+     "options": [
+      "Neglect",
+      "Physical abuse",
+      "Assault",
+      "Financial abuse"
+     ],
+     "answer": 3,
+     "explanation": "Must be reported.",
+     "chapter": 3
+    },
+    {
+     "q": "To qualify for Medicare home health, a client must be:",
+     "options": [
+      "Wealthy",
+      "Under 18",
+      "Homebound and under a plan of care",
+      "Employed"
+     ],
+     "answer": 2,
+     "explanation": "Ordered by a physician.",
+     "chapter": 1
+    },
+    {
+     "q": "An HHA's supervisor is usually a:",
+     "options": [
+      "Registered nurse",
+      "Physician",
+      "Social worker",
+      "Client"
+     ],
+     "answer": 0,
+     "explanation": "Or therapist.",
+     "chapter": 2
+    },
+    {
+     "q": "A government program for people with low income is:",
+     "options": [
+      "Medicare",
+      "Private insurance",
+      "Workers' comp",
+      "Medicaid"
+     ],
+     "answer": 3,
+     "explanation": "State and federal.",
+     "chapter": 1
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "Hepatitis B and HIV are:",
+     "options": [
+      "Bloodborne diseases",
+      "Airborne diseases",
+      "Genetic diseases",
+      "Foodborne diseases"
+     ],
+     "answer": 0,
+     "explanation": "Spread through blood and body fluids.",
+     "chapter": 5
+    },
+    {
+     "q": "If you're exposed to blood, you should:",
+     "options": [
+      "Tell only a friend",
+      "Ignore it",
+      "Wait and see",
+      "Report it immediately"
+     ],
+     "answer": 3,
+     "explanation": "Follow exposure procedures.",
+     "chapter": 5
+    },
+    {
+     "q": "The most important way to prevent infection is:",
+     "options": [
+      "Antibiotics",
+      "Avoiding clients",
+      "Hand hygiene",
+      "Wearing a mask only"
+     ],
+     "answer": 2,
+     "explanation": "Wash or sanitize often.",
+     "chapter": 5
+    },
+    {
+     "q": "Respecting a client's religious dietary rules shows:",
+     "options": [
+      "Indifference",
+      "Cultural sensitivity",
+      "Neglect",
+      "Bias"
+     ],
+     "answer": 1,
+     "explanation": "Respect diversity.",
+     "chapter": 4
+    },
+    {
+     "q": "Every home should have working:",
+     "options": [
+      "Space heaters near beds",
+      "Extension cords under rugs",
+      "Smoke detectors",
+      "Candles"
+     ],
+     "answer": 2,
+     "explanation": "Test them regularly.",
+     "chapter": 6
+    },
+    {
+     "q": "If a client becomes combative, the HHA should:",
+     "options": [
+      "Leave without telling anyone",
+      "Stay calm and not take it personally",
+      "Yell",
+      "Fight back"
+     ],
+     "answer": 1,
+     "explanation": "Report it.",
+     "chapter": 4
+    },
+    {
+     "q": "Good body mechanics include:",
+     "options": [
+      "Bending the knees and keeping loads close",
+      "Twisting while lifting",
+      "Bending at the waist",
+      "Holding loads far away"
+     ],
+     "answer": 0,
+     "explanation": "Protects the back.",
+     "chapter": 6
+    },
+    {
+     "q": "The most common home accidents among older adults are:",
+     "options": [
+      "Falls",
+      "Animal bites",
+      "Drownings",
+      "Electrocutions"
+     ],
+     "answer": 0,
+     "explanation": "Remove clutter and rugs.",
+     "chapter": 6
+    },
+    {
+     "q": "Body language is a form of:",
+     "options": [
+      "Verbal communication",
+      "Documentation",
+      "Reporting",
+      "Nonverbal communication"
+     ],
+     "answer": 3,
+     "explanation": "Includes facial expressions.",
+     "chapter": 4
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "Illness in a family member can cause:",
+     "options": [
+      "Better health",
+      "Only financial gain",
+      "No changes",
+      "Stress for the whole family"
+     ],
+     "answer": 3,
+     "explanation": "HHAs offer support.",
+     "chapter": 8
+    },
+    {
+     "q": "Pressure injuries form most often over:",
+     "options": [
+      "Bony areas",
+      "The face",
+      "The palms",
+      "Fatty areas"
+     ],
+     "answer": 0,
+     "explanation": "Like hips and heels.",
+     "chapter": 9
+    },
+    {
+     "q": "In an emergency, the HHA should first:",
+     "options": [
+      "Do nothing",
+      "Call 911 (or follow the agency plan)",
+      "Wait for family",
+      "Drive the client"
+     ],
+     "answer": 1,
+     "explanation": "Get help quickly.",
+     "chapter": 7
+    },
+    {
+     "q": "A client with diabetes may show low blood sugar signs like:",
+     "options": [
+      "Shakiness, sweating, confusion",
+      "Fever",
+      "Rash",
+      "Thirst and frequent urination only"
+     ],
+     "answer": 0,
+     "explanation": "Report immediately.",
+     "chapter": 9
+    },
+    {
+     "q": "Clients and families can be linked to help through:",
+     "options": [
+      "Community resources",
+      "Nothing",
+      "Social media only",
+      "Advertising"
+     ],
+     "answer": 0,
+     "explanation": "Meals, transport, support groups.",
+     "chapter": 8
+    },
+    {
+     "q": "COPD affects the:",
+     "options": [
+      "Skin",
+      "Respiratory system",
+      "Bones",
+      "Urinary system"
+     ],
+     "answer": 1,
+     "explanation": "Difficulty breathing.",
+     "chapter": 9
+    },
+    {
+     "q": "For a conscious choking adult, perform:",
+     "options": [
+      "CPR first",
+      "Give water",
+      "Abdominal thrusts",
+      "Back slaps only"
+     ],
+     "answer": 2,
+     "explanation": "Heimlich maneuver.",
+     "chapter": 7
+    },
+    {
+     "q": "Holistic care means caring for the:",
+     "options": [
+      "Home only",
+      "Illness only",
+      "Whole person",
+      "Family only"
+     ],
+     "answer": 2,
+     "explanation": "Physical, emotional, social, spiritual.",
+     "chapter": 8
+    },
+    {
+     "q": "Bleeding is controlled first with:",
+     "options": [
+      "A tourniquet always",
+      "Elevation only",
+      "Ice",
+      "Direct pressure"
+     ],
+     "answer": 3,
+     "explanation": "Use gloves.",
+     "chapter": 7
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "A cane is held on the client's:",
+     "options": [
+      "Behind them",
+      "Either side",
+      "Strong side",
+      "Weak side"
+     ],
+     "answer": 2,
+     "explanation": "Opposite the weak leg.",
+     "chapter": 12
+    },
+    {
+     "q": "The most common type of dementia is:",
+     "options": [
+      "Stroke",
+      "Alzheimer disease",
+      "Delirium",
+      "Parkinson's"
+     ],
+     "answer": 1,
+     "explanation": "Progressive.",
+     "chapter": 10
+    },
+    {
+     "q": "For clients with dementia, it helps to:",
+     "options": [
+      "Argue about facts",
+      "Keep a consistent routine",
+      "Give many choices",
+      "Change routines often"
+     ],
+     "answer": 1,
+     "explanation": "Reduces anxiety.",
+     "chapter": 10
+    },
+    {
+     "q": "During ambulation, the HHA should walk:",
+     "options": [
+      "Across the room",
+      "On the strong side far away",
+      "Slightly behind and on the weak side",
+      "In front"
+     ],
+     "answer": 2,
+     "explanation": "Hold the gait belt.",
+     "chapter": 12
+    },
+    {
+     "q": "Clients in bed should be repositioned at least every:",
+     "options": [
+      "2 hours",
+      "6 hours",
+      "12 hours",
+      "24 hours"
+     ],
+     "answer": 0,
+     "explanation": "Prevents pressure injuries.",
+     "chapter": 12
+    },
+    {
+     "q": "The life stage with the fastest growth is:",
+     "options": [
+      "Infancy",
+      "Adolescence",
+      "Adulthood",
+      "Older adulthood"
+     ],
+     "answer": 0,
+     "explanation": "First year.",
+     "chapter": 11
+    },
+    {
+     "q": "Depression in older adults is:",
+     "options": [
+      "Not a normal part of aging",
+      "Always normal",
+      "Expected and untreatable",
+      "Rare"
+     ],
+     "answer": 0,
+     "explanation": "It's treatable.",
+     "chapter": 11
+    },
+    {
+     "q": "Increased confusion in late afternoon is:",
+     "options": [
+      "Pillaging",
+      "Perseveration",
+      "Wandering",
+      "Sundowning"
+     ],
+     "answer": 3,
+     "explanation": "Keep routines calm.",
+     "chapter": 10
+    },
+    {
+     "q": "Which is a normal change of aging?",
+     "options": [
+      "Severe confusion",
+      "Incontinence always",
+      "Depression",
+      "Thinner skin"
+     ],
+     "answer": 3,
+     "explanation": "Confusion is not normal aging.",
+     "chapter": 11
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "Intake and output measures:",
+     "options": [
+      "Weight",
+      "Temperature",
+      "Food calories only",
+      "Fluids in and out"
+     ],
+     "answer": 3,
+     "explanation": "Recorded in mL.",
+     "chapter": 14
+    },
+    {
+     "q": "During personal care, the HHA should:",
+     "options": [
+      "Ignore preferences",
+      "Do everything for the client",
+      "Rush",
+      "Encourage independence"
+     ],
+     "answer": 3,
+     "explanation": "Let clients do what they can.",
+     "chapter": 13
+    },
+    {
+     "q": "Near oxygen equipment, there must be:",
+     "options": [
+      "Space heaters",
+      "Candles",
+      "No smoking or open flames",
+      "Matches"
+     ],
+     "answer": 2,
+     "explanation": "Oxygen supports fire.",
+     "chapter": 15
+    },
+    {
+     "q": "HHAs usually may:",
+     "options": [
+      "Remind clients to take their medications",
+      "Prescribe medications",
+      "Inject insulin always",
+      "Change doses"
+     ],
+     "answer": 0,
+     "explanation": "Follow state law and agency policy.",
+     "chapter": 15
+    },
+    {
+     "q": "A urinary drainage bag should be kept:",
+     "options": [
+      "On the bed",
+      "Below the bladder",
+      "Above the bladder",
+      "On the floor"
+     ],
+     "answer": 1,
+     "explanation": "Prevents backflow.",
+     "chapter": 14
+    },
+    {
+     "q": "When dressing a client with weakness on one side, dress the:",
+     "options": [
+      "Weak side first",
+      "Feet last",
+      "Head first",
+      "Strong side first"
+     ],
+     "answer": 0,
+     "explanation": "Undress the strong side first.",
+     "chapter": 13
+    },
+    {
+     "q": "Dentures should be cleaned over a:",
+     "options": [
+      "Hot stove",
+      "Sink lined with a towel or water",
+      "Trash can",
+      "Hard floor"
+     ],
+     "answer": 1,
+     "explanation": "Prevents breakage.",
+     "chapter": 13
+    },
+    {
+     "q": "Before a warm or cold application, the HHA should:",
+     "options": [
+      "Check the care plan and skin",
+      "Leave it on all day",
+      "Skip checking",
+      "Use the hottest water"
+     ],
+     "answer": 0,
+     "explanation": "Prevent burns and frostbite.",
+     "chapter": 14
+    },
+    {
+     "q": "The 'five rights' include right client, drug, dose, route, and:",
+     "options": [
+      "Color",
+      "Taste",
+      "Time",
+      "Price"
+     ],
+     "answer": 2,
+     "explanation": "Prevent errors.",
+     "chapter": 15
+    }
+   ]
+  },
+  {
+   "chapters": [
+    16,
+    17,
+    18
+   ],
+   "questions": [
+    {
+     "q": "For a client with low vision, the HHA should:",
+     "options": [
+      "Speak only nonverbally",
+      "Leave doors half open",
+      "Rearrange the room often",
+      "Keep furniture in the same place"
+     ],
+     "answer": 3,
+     "explanation": "Supports independence.",
+     "chapter": 17
+    },
+    {
+     "q": "Mental health disorders are:",
+     "options": [
+      "Real illnesses that can be treated",
+      "Always permanent",
+      "Signs of weakness",
+      "Caused by laziness"
+     ],
+     "answer": 0,
+     "explanation": "Reduce stigma.",
+     "chapter": 18
+    },
+    {
+     "q": "A client who talks about wanting to die should be:",
+     "options": [
+      "Ignored",
+      "Told to cheer up",
+      "Reported to the supervisor immediately",
+      "Left alone"
+     ],
+     "answer": 2,
+     "explanation": "Suicide warning sign.",
+     "chapter": 18
+    },
+    {
+     "q": "Devices that help clients do tasks independently are:",
+     "options": [
+      "Monitors",
+      "Catheters",
+      "Restraints",
+      "Adaptive devices"
+     ],
+     "answer": 3,
+     "explanation": "Like reachers or built-up utensils.",
+     "chapter": 16
+    },
+    {
+     "q": "When caring for clients with disabilities, HHAs should:",
+     "options": [
+      "Do everything for them",
+      "Ignore their abilities",
+      "Promote independence",
+      "Speak to family only"
+     ],
+     "answer": 2,
+     "explanation": "Respect abilities.",
+     "chapter": 17
+    },
+    {
+     "q": "Hallucinations and delusions are symptoms of:",
+     "options": [
+      "Phobia",
+      "Schizophrenia",
+      "Depression only",
+      "Anxiety"
+     ],
+     "answer": 1,
+     "explanation": "Psychotic disorder.",
+     "chapter": 18
+    },
+    {
+     "q": "Restorative care aims to:",
+     "options": [
+      "Cure all illness",
+      "Maintain the client's function",
+      "Increase dependence",
+      "Replace surgery"
+     ],
+     "answer": 1,
+     "explanation": "Rehab restores function.",
+     "chapter": 16
+    },
+    {
+     "q": "Person-first language means saying:",
+     "options": [
+      "'A person with a disability'",
+      "'A victim'",
+      "'The handicapped'",
+      "'The disabled'"
+     ],
+     "answer": 0,
+     "explanation": "Focus on the person.",
+     "chapter": 17
+    },
+    {
+     "q": "Activities like bathing and dressing are:",
+     "options": [
+      "ADLs",
+      "CPRs",
+      "IADLs",
+      "ROMs"
+     ],
+     "answer": 0,
+     "explanation": "Activities of daily living.",
+     "chapter": 16
+    }
+   ]
+  },
+  {
+   "chapters": [
+    19,
+    20,
+    21
+   ],
+   "questions": [
+    {
+     "q": "The umbilical cord stump should be kept:",
+     "options": [
+      "Pulled off",
+      "Clean and dry",
+      "Covered with tight diapers",
+      "Wet"
+     ],
+     "answer": 1,
+     "explanation": "Falls off naturally.",
+     "chapter": 19
+    },
+    {
+     "q": "Hospice care focuses on:",
+     "options": [
+      "Aggressive treatment",
+      "Surgery",
+      "Rehabilitation",
+      "Comfort, not cure"
+     ],
+     "answer": 3,
+     "explanation": "For terminally ill clients.",
+     "chapter": 20
+    },
+    {
+     "q": "Infants should be placed to sleep:",
+     "options": [
+      "On their backs",
+      "On their sides",
+      "On their stomachs",
+      "With pillows and blankets"
+     ],
+     "answer": 0,
+     "explanation": "Reduces SIDS.",
+     "chapter": 19
+    },
+    {
+     "q": "Soiled laundry should be:",
+     "options": [
+      "Left on the floor",
+      "Shaken out",
+      "Held against your uniform",
+      "Handled with gloves and held away from the body"
+     ],
+     "answer": 3,
+     "explanation": "Prevents spread of germs.",
+     "chapter": 21
+    },
+    {
+     "q": "Never mix bleach with:",
+     "options": [
+      "Water",
+      "Laundry detergent",
+      "Ammonia",
+      "Soap"
+     ],
+     "answer": 2,
+     "explanation": "Creates toxic gas.",
+     "chapter": 21
+    },
+    {
+     "q": "Bathrooms and kitchens should be:",
+     "options": [
+      "Cleaned only by clients",
+      "Cleaned and disinfected regularly",
+      "Cleaned once a year",
+      "Left alone"
+     ],
+     "answer": 1,
+     "explanation": "Prevents infection.",
+     "chapter": 21
+    },
+    {
+     "q": "A DNR order means:",
+     "options": [
+      "Do not resuscitate",
+      "Do not report",
+      "Daily nurse review",
+      "Do not remove"
+     ],
+     "answer": 0,
+     "explanation": "No CPR.",
+     "chapter": 20
+    },
+    {
+     "q": "The first stage of grief described by Kübler-Ross is:",
+     "options": [
+      "Depression",
+      "Anger",
+      "Denial",
+      "Acceptance"
+     ],
+     "answer": 2,
+     "explanation": "Then anger, bargaining, depression, acceptance.",
+     "chapter": 20
+    },
+    {
+     "q": "After childbirth, the HHA should report:",
+     "options": [
+      "Heavy bleeding",
+      "Sleeping",
+      "Breastfeeding",
+      "Normal tiredness"
+     ],
+     "answer": 0,
+     "explanation": "Possible hemorrhage.",
+     "chapter": 19
+    }
+   ]
+  },
+  {
+   "chapters": [
+    22,
+    23,
+    24
+   ],
+   "questions": [
+    {
+     "q": "Combining tasks to save steps helps:",
+     "options": [
+      "Waste time",
+      "Skip care",
+      "Conserve energy",
+      "Increase fatigue"
+     ],
+     "answer": 2,
+     "explanation": "Work efficiently.",
+     "chapter": 24
+    },
+    {
+     "q": "Good time management includes:",
+     "options": [
+      "Rushing everything",
+      "Doing tasks randomly",
+      "Skipping the care plan",
+      "Prioritizing tasks"
+     ],
+     "answer": 3,
+     "explanation": "Plan your day.",
+     "chapter": 24
+    },
+    {
+     "q": "Leftovers should be refrigerated within:",
+     "options": [
+      "2 hours",
+      "1 day",
+      "6 hours",
+      "12 hours"
+     ],
+     "answer": 0,
+     "explanation": "Prevents bacterial growth.",
+     "chapter": 23
+    },
+    {
+     "q": "Comparing price per ounce is:",
+     "options": [
+      "Bulk buying only",
+      "Unit pricing",
+      "Coupons",
+      "Sales"
+     ],
+     "answer": 1,
+     "explanation": "Finds best value.",
+     "chapter": 23
+    },
+    {
+     "q": "Meal plans must follow the client's:",
+     "options": [
+      "Advertising",
+      "Diet orders and budget",
+      "Neighbors' advice",
+      "HHA's favorite foods"
+     ],
+     "answer": 1,
+     "explanation": "Plus preferences.",
+     "chapter": 23
+    },
+    {
+     "q": "When shopping with a client's money, the HHA should:",
+     "options": [
+      "Use their own money",
+      "Skip receipts",
+      "Keep receipts and return change",
+      "Keep the change"
+     ],
+     "answer": 2,
+     "explanation": "Honest handling.",
+     "chapter": 24
+    },
+    {
+     "q": "The USDA food guide is:",
+     "options": [
+      "Food Wheel",
+      "Basic Four",
+      "Pyramid only",
+      "MyPlate"
+     ],
+     "answer": 3,
+     "explanation": "Half the plate fruits and vegetables.",
+     "chapter": 22
+    },
+    {
+     "q": "If a client coughs or chokes while eating, they may have:",
+     "options": [
+      "Swallowing problems (dysphagia)",
+      "Arthritis",
+      "Hypertension",
+      "Diabetes"
+     ],
+     "answer": 0,
+     "explanation": "Report it.",
+     "chapter": 22
+    },
+    {
+     "q": "A client on a low-sodium diet should avoid:",
+     "options": [
+      "Salty processed foods",
+      "Fresh fruits",
+      "Fresh vegetables",
+      "Water"
+     ],
+     "answer": 0,
+     "explanation": "Like chips and canned soup.",
+     "chapter": 22
+    }
+   ]
+  },
+  {
+   "chapters": [
+    25
+   ],
+   "questions": [
+    {
+     "q": "Professional behavior includes:",
+     "options": [
+      "Using your phone with clients",
+      "Being on time and reliable",
+      "Arriving late",
+      "Gossiping"
+     ],
+     "answer": 1,
+     "explanation": "Builds trust.",
+     "chapter": 25
+    },
+    {
+     "q": "HHAs must complete how many hours of continuing education each year?",
+     "options": [
+      "2",
+      "100",
+      "50",
+      "12"
+     ],
+     "answer": 3,
+     "explanation": "Federal requirement.",
+     "chapter": 25
+    },
+    {
+     "q": "Burnout can be prevented by:",
+     "options": [
+      "Setting limits and caring for yourself",
+      "Never taking breaks",
+      "Working every day",
+      "Ignoring feelings"
+     ],
+     "answer": 0,
+     "explanation": "Balance matters.",
+     "chapter": 25
+    },
+    {
+     "q": "A résumé lists your:",
+     "options": [
+      "Education and work experience",
+      "Bank balance",
+      "Medical history",
+      "Social media posts"
+     ],
+     "answer": 0,
+     "explanation": "Used in job searches.",
+     "chapter": 25
+    },
+    {
+     "q": "Keeping certification current requires:",
+     "options": [
+      "Completing required training",
+      "Changing jobs",
+      "Nothing",
+      "Paying fines"
+     ],
+     "answer": 0,
+     "explanation": "Check state rules.",
+     "chapter": 25
+    },
+    {
+     "q": "If you're unsure how to do a task, you should:",
+     "options": [
+      "Ask the client to do it",
+      "Ask your supervisor",
+      "Guess",
+      "Skip it"
+     ],
+     "answer": 1,
+     "explanation": "Stay within your training.",
+     "chapter": 25
+    },
+    {
+     "q": "At a job interview, you should:",
+     "options": [
+      "Chew gum",
+      "Dress casually",
+      "Dress neatly and be on time",
+      "Arrive late"
+     ],
+     "answer": 2,
+     "explanation": "Make a good impression.",
+     "chapter": 25
+    },
+    {
+     "q": "A healthy way for HHAs to manage stress is:",
+     "options": [
+      "Skipping sleep",
+      "Overworking",
+      "Ignoring it",
+      "Exercise and talking to someone"
+     ],
+     "answer": 3,
+     "explanation": "Self-care matters.",
+     "chapter": 25
+    },
+    {
+     "q": "Accepting constructive criticism helps you:",
+     "options": [
+      "Avoid learning",
+      "Feel worse only",
+      "Improve your skills",
+      "Lose your job"
+     ],
+     "answer": 2,
+     "explanation": "Learn and grow.",
+     "chapter": 25
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["home-health-aide"].bookInfo = {
@@ -1527,5 +2907,11 @@ window.CONTENT["home-health-aide"].bookInfo = {
   "source": "Cengage table of contents",
   "chapters": 26,
   "unit": "Unit"
+ },
+ "1": {
+  "edition": "7th edition (2025)",
+  "source": "Hartman Publishing sample contents",
+  "chapters": 25,
+  "unit": "Chapter"
  }
 };
