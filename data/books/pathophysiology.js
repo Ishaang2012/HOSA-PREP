@@ -198,6 +198,229 @@ window.CONTENT["pathophysiology"].summaries = {
     "Hypothermia and frostbite"
    ]
   }
+ ],
+ "2": [
+  {
+   "number": 1,
+   "title": "Introduction to Disease",
+   "summary": [
+    "Disease disrupts homeostasis. Key terms: etiology (cause), pathogenesis (development), signs (objective) and symptoms (subjective), syndrome (group of signs and symptoms), acute vs. chronic, diagnosis, prognosis, morbidity (illness rate), and mortality (death rate). Risk factors include age, genetics, lifestyle, and environment."
+   ],
+   "keyPoints": [
+    "Etiology and pathogenesis",
+    "Signs vs. symptoms",
+    "Morbidity vs. mortality",
+    "Risk factors"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Immunity, Inflammation, and Immune Disorders",
+   "summary": [
+    "Inflammation's cardinal signs are redness, heat, swelling, pain, and loss of function. Innate immunity is nonspecific; adaptive immunity uses B and T cells. Disorders include hypersensitivity (allergies, anaphylaxis), autoimmune diseases (lupus, rheumatoid arthritis), and immunodeficiencies (HIV/AIDS)."
+   ],
+   "keyPoints": [
+    "Five signs of inflammation",
+    "Innate vs. adaptive",
+    "Anaphylaxis",
+    "Autoimmune diseases"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Infectious Diseases and Infection Control",
+   "summary": [
+    "Pathogens include bacteria, viruses, fungi, protozoa, helminths, and prions. The chain of infection is broken by hand hygiene, standard precautions, vaccines, and sterilization. Antibiotics treat bacteria, not viruses; overuse leads to resistance (MRSA)."
+   ],
+   "keyPoints": [
+    "Types of pathogens",
+    "Chain of infection",
+    "Antibiotics don't treat viruses",
+    "Antibiotic resistance"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Neoplasms",
+   "summary": [
+    "Neoplasms are benign (slow, encapsulated, non-spreading) or malignant (invasive, can metastasize). Carcinomas arise from epithelial tissue; sarcomas from connective tissue. Cancers are graded and staged (TNM). Warning signs include unusual bleeding, lumps, and changes in moles. Treatment includes surgery, chemotherapy, radiation, and immunotherapy."
+   ],
+   "keyPoints": [
+    "Benign vs. malignant",
+    "Carcinoma vs. sarcoma",
+    "Metastasis",
+    "TNM staging"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Heredity and Disease",
+   "summary": [
+    "Genetic diseases can be autosomal dominant (Huntington disease), autosomal recessive (cystic fibrosis, sickle cell, PKU, Tay-Sachs), sex-linked (hemophilia, Duchenne muscular dystrophy), or chromosomal (Down syndrome, Turner, Klinefelter). Genetic testing and counseling help families."
+   ],
+   "keyPoints": [
+    "Autosomal dominant vs. recessive",
+    "X-linked disorders",
+    "Chromosomal disorders",
+    "Genetic counseling"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Diseases and Disorders of the Cardiovascular System",
+   "summary": [
+    "Cardiovascular diseases include hypertension, atherosclerosis, coronary artery disease, angina, myocardial infarction, heart failure, arrhythmias, valve diseases, aneurysms, and peripheral vascular disease. Risk factors include smoking, high cholesterol, diabetes, obesity, and inactivity."
+   ],
+   "keyPoints": [
+    "Atherosclerosis",
+    "MI = heart attack",
+    "Heart failure",
+    "Modifiable risk factors"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Diseases and Disorders of the Blood",
+   "summary": [
+    "Blood disorders include anemias (iron-deficiency, pernicious/B12, aplastic, sickle cell), polycythemia, leukemias, lymphomas, and clotting disorders (hemophilia, thrombocytopenia)."
+   ],
+   "keyPoints": [
+    "Iron-deficiency anemia",
+    "Pernicious anemia = B12",
+    "Leukemia",
+    "Hemophilia"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Diseases and Disorders of the Respiratory System",
+   "summary": [
+    "Respiratory disorders include upper respiratory infections, influenza, pneumonia, tuberculosis, asthma, COPD (emphysema and chronic bronchitis), cystic fibrosis, lung cancer, pulmonary embolism, and pneumothorax."
+   ],
+   "keyPoints": [
+    "COPD",
+    "Asthma",
+    "Tuberculosis",
+    "Lung cancer and smoking"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Diseases and Disorders of the Digestive System",
+   "summary": [
+    "Digestive disorders include GERD, peptic ulcers (H. pylori), gastroenteritis, appendicitis, IBD (Crohn's, ulcerative colitis), IBS, diverticular disease, hepatitis, cirrhosis, gallstones, pancreatitis, and colorectal cancer."
+   ],
+   "keyPoints": [
+    "H. pylori ulcers",
+    "Crohn's vs. ulcerative colitis",
+    "Hepatitis and cirrhosis",
+    "Colorectal cancer screening"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Diseases and Disorders of the Urinary System",
+   "summary": [
+    "Urinary disorders include UTIs (cystitis, pyelonephritis), glomerulonephritis, kidney stones, polycystic kidney disease, and acute and chronic kidney failure (dialysis or transplant)."
+   ],
+   "keyPoints": [
+    "Cystitis vs. pyelonephritis",
+    "Kidney stones",
+    "Glomerulonephritis",
+    "Dialysis"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Diseases and Disorders of the Reproductive System",
+   "summary": [
+    "Reproductive disorders include BPH and prostate cancer, testicular cancer, endometriosis, fibroids, PCOS, menstrual disorders, breast and cervical cancer, infertility, and STIs such as chlamydia, gonorrhea, syphilis, herpes, and HPV."
+   ],
+   "keyPoints": [
+    "BPH",
+    "Endometriosis",
+    "HPV and cervical cancer",
+    "STIs"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Diseases and Disorders of the Endocrine System",
+   "summary": [
+    "Endocrine disorders involve too much or too little hormone: gigantism and acromegaly, diabetes insipidus, hypo- and hyperthyroidism, Cushing syndrome, Addison disease, and diabetes mellitus (type 1, type 2, gestational)."
+   ],
+   "keyPoints": [
+    "Diabetes mellitus types",
+    "Hypo- vs. hyperthyroidism",
+    "Cushing vs. Addison",
+    "Acromegaly"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Diseases and Disorders of the Nervous System",
+   "summary": [
+    "Nervous system disorders include stroke (ischemic and hemorrhagic) and TIA, epilepsy, meningitis, encephalitis, Parkinson disease, Alzheimer disease, multiple sclerosis, ALS, traumatic brain and spinal cord injuries, and headaches."
+   ],
+   "keyPoints": [
+    "Ischemic vs. hemorrhagic stroke",
+    "Epilepsy",
+    "Parkinson and Alzheimer",
+    "MS and ALS"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Diseases and Disorders of the Special Senses",
+   "summary": [
+    "Eye disorders include refractive errors, cataracts, glaucoma, macular degeneration, and conjunctivitis. Ear disorders include otitis media and externa, hearing loss (conductive and sensorineural), tinnitus, and Ménière disease."
+   ],
+   "keyPoints": [
+    "Cataract and glaucoma",
+    "Macular degeneration",
+    "Otitis media",
+    "Types of hearing loss"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Mental Illness and Cognitive Disorders",
+   "summary": [
+    "Mental illnesses include anxiety disorders, mood disorders (depression, bipolar), schizophrenia, personality disorders, eating disorders, substance use disorders, and ADHD. Cognitive disorders include delirium (sudden, reversible) and dementia (gradual, progressive)."
+   ],
+   "keyPoints": [
+    "Depression and bipolar",
+    "Schizophrenia",
+    "Delirium vs. dementia",
+    "Substance use disorders"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Diseases and Disorders of the Bones, Joints, and Muscles",
+   "summary": [
+    "Musculoskeletal disorders include fractures, osteoporosis, osteoarthritis, rheumatoid arthritis, gout, scoliosis, osteomyelitis, sprains and strains, muscular dystrophy, and fibromyalgia."
+   ],
+   "keyPoints": [
+    "Osteoporosis",
+    "Osteoarthritis vs. rheumatoid arthritis",
+    "Gout",
+    "Muscular dystrophy"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Diseases and Disorders of the Skin",
+   "summary": [
+    "Skin disorders include dermatitis, eczema, psoriasis, acne, infections (impetigo, cellulitis, fungal infections, warts, herpes zoster), parasites (lice, scabies), burns, pressure injuries, and skin cancers (basal cell, squamous cell, melanoma)."
+   ],
+   "keyPoints": [
+    "Psoriasis",
+    "Impetigo",
+    "Melanoma (ABCDE)",
+    "Scabies and lice"
+   ]
+  }
  ]
 };
 window.CONTENT["pathophysiology"].quizzes = {
@@ -787,6 +1010,709 @@ window.CONTENT["pathophysiology"].quizzes = {
     }
    ]
   }
+ ],
+ "2": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Lupus and rheumatoid arthritis are:",
+     "options": [
+      "Autoimmune diseases",
+      "Cancers",
+      "Immunodeficiencies",
+      "Infections"
+     ],
+     "answer": 0,
+     "explanation": "Body attacks itself.",
+     "chapter": 2
+    },
+    {
+     "q": "A severe, life-threatening allergic reaction is:",
+     "options": [
+      "Urticaria only",
+      "Rhinitis",
+      "Anaphylaxis",
+      "Dermatitis"
+     ],
+     "answer": 2,
+     "explanation": "Treat with epinephrine.",
+     "chapter": 2
+    },
+    {
+     "q": "The study of a disease's cause is:",
+     "options": [
+      "Prognosis",
+      "Pathogenesis",
+      "Epidemiology only",
+      "Etiology"
+     ],
+     "answer": 3,
+     "explanation": "Pathogenesis is how it develops.",
+     "chapter": 1
+    },
+    {
+     "q": "Infectious proteins that cause brain diseases are:",
+     "options": [
+      "Viruses",
+      "Prions",
+      "Fungi",
+      "Protozoa"
+     ],
+     "answer": 1,
+     "explanation": "E.g., Creutzfeldt-Jakob disease.",
+     "chapter": 3
+    },
+    {
+     "q": "Antibiotics are effective against:",
+     "options": [
+      "Viruses",
+      "All pathogens",
+      "Prions",
+      "Bacteria"
+     ],
+     "answer": 3,
+     "explanation": "Not viruses.",
+     "chapter": 3
+    },
+    {
+     "q": "A group of signs and symptoms occurring together is a:",
+     "options": [
+      "Syndrome",
+      "Prognosis",
+      "Sign",
+      "Diagnosis"
+     ],
+     "answer": 0,
+     "explanation": "Example: Down syndrome.",
+     "chapter": 1
+    },
+    {
+     "q": "The rate of illness in a population is:",
+     "options": [
+      "Morbidity",
+      "Etiology",
+      "Prognosis",
+      "Mortality"
+     ],
+     "answer": 0,
+     "explanation": "Mortality is the death rate.",
+     "chapter": 1
+    },
+    {
+     "q": "Which is a cardinal sign of inflammation?",
+     "options": [
+      "Numbness",
+      "Pallor",
+      "Swelling",
+      "Cold skin"
+     ],
+     "answer": 2,
+     "explanation": "Redness, heat, swelling, pain, loss of function.",
+     "chapter": 2
+    },
+    {
+     "q": "MRSA is an example of:",
+     "options": [
+      "A virus",
+      "Antibiotic resistance",
+      "An autoimmune disease",
+      "A fungal infection"
+     ],
+     "answer": 1,
+     "explanation": "From overuse of antibiotics.",
+     "chapter": 3
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "Huntington disease is inherited as:",
+     "options": [
+      "X-linked recessive",
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "Mitochondrial"
+     ],
+     "answer": 1,
+     "explanation": "One copy causes disease.",
+     "chapter": 5
+    },
+    {
+     "q": "A benign tumor is usually:",
+     "options": [
+      "Encapsulated and non-spreading",
+      "Metastatic",
+      "Invasive",
+      "Always fatal"
+     ],
+     "answer": 0,
+     "explanation": "Slow-growing.",
+     "chapter": 4
+    },
+    {
+     "q": "A modifiable cardiovascular risk factor is:",
+     "options": [
+      "Sex",
+      "Genetics",
+      "Age",
+      "Smoking"
+     ],
+     "answer": 3,
+     "explanation": "Can be changed.",
+     "chapter": 6
+    },
+    {
+     "q": "The spread of cancer to distant sites is:",
+     "options": [
+      "Dysplasia",
+      "Remission",
+      "Metastasis",
+      "Hyperplasia"
+     ],
+     "answer": 2,
+     "explanation": "Through blood or lymph.",
+     "chapter": 4
+    },
+    {
+     "q": "Cancer arising from epithelial tissue is a:",
+     "options": [
+      "Sarcoma",
+      "Leukemia",
+      "Carcinoma",
+      "Lymphoma"
+     ],
+     "answer": 2,
+     "explanation": "Sarcomas arise from connective tissue.",
+     "chapter": 4
+    },
+    {
+     "q": "Plaque buildup in artery walls is:",
+     "options": [
+      "Anemia",
+      "Atherosclerosis",
+      "Arrhythmia",
+      "Aneurysm"
+     ],
+     "answer": 1,
+     "explanation": "Leads to CAD and stroke.",
+     "chapter": 6
+    },
+    {
+     "q": "Death of heart muscle from blocked blood flow is a:",
+     "options": [
+      "Angina",
+      "Arrhythmia",
+      "Cardiomyopathy",
+      "Myocardial infarction"
+     ],
+     "answer": 3,
+     "explanation": "Heart attack.",
+     "chapter": 6
+    },
+    {
+     "q": "A female with only one X chromosome has:",
+     "options": [
+      "Turner syndrome",
+      "Klinefelter syndrome",
+      "Down syndrome",
+      "Fragile X"
+     ],
+     "answer": 0,
+     "explanation": "45,X.",
+     "chapter": 5
+    },
+    {
+     "q": "Cystic fibrosis is inherited as:",
+     "options": [
+      "Autosomal recessive",
+      "X-linked",
+      "Chromosomal",
+      "Autosomal dominant"
+     ],
+     "answer": 0,
+     "explanation": "Two copies needed.",
+     "chapter": 5
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "Reversible airway narrowing with wheezing is:",
+     "options": [
+      "Asthma",
+      "TB",
+      "Emphysema",
+      "Lung cancer"
+     ],
+     "answer": 0,
+     "explanation": "Triggered by allergens or exercise.",
+     "chapter": 8
+    },
+    {
+     "q": "Tuberculosis is caused by:",
+     "options": [
+      "A prion",
+      "A virus",
+      "A fungus",
+      "A bacterium"
+     ],
+     "answer": 3,
+     "explanation": "Mycobacterium tuberculosis.",
+     "chapter": 8
+    },
+    {
+     "q": "Most peptic ulcers are caused by:",
+     "options": [
+      "H. pylori",
+      "Viruses",
+      "Stress only",
+      "Spicy food"
+     ],
+     "answer": 0,
+     "explanation": "Treated with antibiotics.",
+     "chapter": 9
+    },
+    {
+     "q": "Scarring of the liver is:",
+     "options": [
+      "Pancreatitis",
+      "Hepatitis",
+      "Cholecystitis",
+      "Cirrhosis"
+     ],
+     "answer": 3,
+     "explanation": "Often from alcohol.",
+     "chapter": 9
+    },
+    {
+     "q": "A low platelet count is:",
+     "options": [
+      "Leukopenia",
+      "Polycythemia",
+      "Thrombocytopenia",
+      "Anemia"
+     ],
+     "answer": 2,
+     "explanation": "Causes bleeding.",
+     "chapter": 7
+    },
+    {
+     "q": "Emphysema and chronic bronchitis together are:",
+     "options": [
+      "COPD",
+      "TB",
+      "Asthma",
+      "Pneumonia"
+     ],
+     "answer": 0,
+     "explanation": "Mostly from smoking.",
+     "chapter": 8
+    },
+    {
+     "q": "Anemia caused by lack of vitamin B12 absorption is:",
+     "options": [
+      "Iron-deficiency anemia",
+      "Sickle cell anemia",
+      "Pernicious anemia",
+      "Aplastic anemia"
+     ],
+     "answer": 2,
+     "explanation": "Lacks intrinsic factor.",
+     "chapter": 7
+    },
+    {
+     "q": "The most common anemia worldwide is:",
+     "options": [
+      "Aplastic anemia",
+      "Iron-deficiency anemia",
+      "Pernicious anemia",
+      "Hemolytic anemia"
+     ],
+     "answer": 1,
+     "explanation": "Common in women and children.",
+     "chapter": 7
+    },
+    {
+     "q": "IBD that can affect any part of the GI tract is:",
+     "options": [
+      "IBS",
+      "Crohn's disease",
+      "GERD",
+      "Ulcerative colitis"
+     ],
+     "answer": 1,
+     "explanation": "UC affects only the colon.",
+     "chapter": 9
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "Excess growth hormone in adults causes:",
+     "options": [
+      "Cretinism",
+      "Dwarfism",
+      "Acromegaly",
+      "Gigantism"
+     ],
+     "answer": 2,
+     "explanation": "Gigantism in children.",
+     "chapter": 12
+    },
+    {
+     "q": "Too much cortisol causes:",
+     "options": [
+      "Acromegaly",
+      "Cushing syndrome",
+      "Addison disease",
+      "Graves disease"
+     ],
+     "answer": 1,
+     "explanation": "Moon face, weight gain.",
+     "chapter": 12
+    },
+    {
+     "q": "Which STI causes most cervical cancer?",
+     "options": [
+      "HPV",
+      "Syphilis",
+      "Gonorrhea",
+      "Chlamydia"
+     ],
+     "answer": 0,
+     "explanation": "Vaccine available.",
+     "chapter": 11
+    },
+    {
+     "q": "Kidney stones are called:",
+     "options": [
+      "Renal calculi",
+      "Casts",
+      "Polyps",
+      "Cysts"
+     ],
+     "answer": 0,
+     "explanation": "Nephrolithiasis.",
+     "chapter": 10
+    },
+    {
+     "q": "A bladder infection is:",
+     "options": [
+      "Pyelonephritis",
+      "Nephritis",
+      "Cystitis",
+      "Urethritis"
+     ],
+     "answer": 2,
+     "explanation": "More common in women.",
+     "chapter": 10
+    },
+    {
+     "q": "An enlarged prostate that isn't cancer is:",
+     "options": [
+      "Prostatitis",
+      "Epididymitis",
+      "Orchitis",
+      "BPH"
+     ],
+     "answer": 3,
+     "explanation": "Benign prostatic hyperplasia.",
+     "chapter": 11
+    },
+    {
+     "q": "Chronic kidney failure may require:",
+     "options": [
+      "Antibiotics only",
+      "Dialysis or transplant",
+      "Bed rest",
+      "Surgery on the bladder"
+     ],
+     "answer": 1,
+     "explanation": "End-stage renal disease.",
+     "chapter": 10
+    },
+    {
+     "q": "Type 2 diabetes is mainly caused by:",
+     "options": [
+      "Insulin resistance",
+      "Thyroid failure",
+      "Too much ADH",
+      "No insulin production"
+     ],
+     "answer": 0,
+     "explanation": "Linked to obesity.",
+     "chapter": 12
+    },
+    {
+     "q": "Uterine tissue growing outside the uterus is:",
+     "options": [
+      "Fibroids",
+      "PCOS",
+      "Ovarian cancer",
+      "Endometriosis"
+     ],
+     "answer": 3,
+     "explanation": "Causes pain and infertility.",
+     "chapter": 11
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "Alternating mania and depression occurs in:",
+     "options": [
+      "OCD",
+      "Anxiety disorder",
+      "Bipolar disorder",
+      "Schizophrenia"
+     ],
+     "answer": 2,
+     "explanation": "Mood disorder.",
+     "chapter": 15
+    },
+    {
+     "q": "Sudden, reversible confusion is:",
+     "options": [
+      "Dementia",
+      "Depression",
+      "Delirium",
+      "Schizophrenia"
+     ],
+     "answer": 2,
+     "explanation": "Often from infection or drugs.",
+     "chapter": 15
+    },
+    {
+     "q": "Hallucinations and delusions suggest:",
+     "options": [
+      "Phobia",
+      "ADHD",
+      "Insomnia",
+      "Schizophrenia"
+     ],
+     "answer": 3,
+     "explanation": "Psychotic disorder.",
+     "chapter": 15
+    },
+    {
+     "q": "Loss of central vision in older adults is often due to:",
+     "options": [
+      "Conjunctivitis",
+      "Macular degeneration",
+      "Cataracts",
+      "Myopia"
+     ],
+     "answer": 1,
+     "explanation": "Affects the macula.",
+     "chapter": 14
+    },
+    {
+     "q": "Progressive loss of motor neurons is:",
+     "options": [
+      "ALS",
+      "Epilepsy",
+      "Parkinson disease",
+      "MS"
+     ],
+     "answer": 0,
+     "explanation": "Lou Gehrig's disease.",
+     "chapter": 13
+    },
+    {
+     "q": "Hearing loss from inner ear or nerve damage is:",
+     "options": [
+      "Temporary",
+      "Sensorineural",
+      "Mixed only",
+      "Conductive"
+     ],
+     "answer": 1,
+     "explanation": "Often permanent.",
+     "chapter": 14
+    },
+    {
+     "q": "A stroke caused by a blocked artery is:",
+     "options": [
+      "Embolic only",
+      "Transient",
+      "Hemorrhagic",
+      "Ischemic"
+     ],
+     "answer": 3,
+     "explanation": "Most common type.",
+     "chapter": 13
+    },
+    {
+     "q": "Clouding of the lens is a:",
+     "options": [
+      "Cataract",
+      "Myopia",
+      "Macular degeneration",
+      "Glaucoma"
+     ],
+     "answer": 0,
+     "explanation": "Treated with surgery.",
+     "chapter": 14
+    },
+    {
+     "q": "A 'mini-stroke' with symptoms that resolve is a:",
+     "options": [
+      "TIA",
+      "CVA",
+      "Seizure",
+      "Migraine"
+     ],
+     "answer": 0,
+     "explanation": "Transient ischemic attack.",
+     "chapter": 13
+    }
+   ]
+  },
+  {
+   "chapters": [
+    16,
+    17
+   ],
+   "questions": [
+    {
+     "q": "Shingles is caused by reactivation of the:",
+     "options": [
+      "Herpes simplex",
+      "Staph",
+      "Varicella-zoster virus",
+      "HPV"
+     ],
+     "answer": 2,
+     "explanation": "Chickenpox virus.",
+     "chapter": 17
+    },
+    {
+     "q": "Scabies is caused by:",
+     "options": [
+      "Lice",
+      "Bacteria",
+      "Fungi",
+      "Mites"
+     ],
+     "answer": 3,
+     "explanation": "Intense itching.",
+     "chapter": 17
+    },
+    {
+     "q": "The deadliest skin cancer is:",
+     "options": [
+      "Actinic keratosis",
+      "Squamous cell carcinoma",
+      "Melanoma",
+      "Basal cell carcinoma"
+     ],
+     "answer": 2,
+     "explanation": "ABCDE warning signs.",
+     "chapter": 17
+    },
+    {
+     "q": "Chronic red, scaly plaques are typical of:",
+     "options": [
+      "Warts",
+      "Acne",
+      "Impetigo",
+      "Psoriasis"
+     ],
+     "answer": 3,
+     "explanation": "Autoimmune.",
+     "chapter": 17
+    },
+    {
+     "q": "A highly contagious bacterial skin infection with honey-colored crusts is:",
+     "options": [
+      "Scabies",
+      "Impetigo",
+      "Eczema",
+      "Psoriasis"
+     ],
+     "answer": 1,
+     "explanation": "Common in children.",
+     "chapter": 17
+    },
+    {
+     "q": "Infection of bone is:",
+     "options": [
+      "Osteomyelitis",
+      "Osteoporosis",
+      "Osteosarcoma",
+      "Osteoarthritis"
+     ],
+     "answer": 0,
+     "explanation": "Treated with antibiotics.",
+     "chapter": 16
+    },
+    {
+     "q": "Wear-and-tear joint disease is:",
+     "options": [
+      "Osteoarthritis",
+      "Gout",
+      "Lupus",
+      "Rheumatoid arthritis"
+     ],
+     "answer": 0,
+     "explanation": "Degenerative.",
+     "chapter": 16
+    },
+    {
+     "q": "An autoimmune disease causing symmetrical joint inflammation is:",
+     "options": [
+      "Gout",
+      "Rheumatoid arthritis",
+      "Osteoarthritis",
+      "Osteoporosis"
+     ],
+     "answer": 1,
+     "explanation": "Morning stiffness.",
+     "chapter": 16
+    },
+    {
+     "q": "Uric acid crystals in joints cause:",
+     "options": [
+      "Gout",
+      "Osteoarthritis",
+      "Bursitis",
+      "Lupus"
+     ],
+     "answer": 0,
+     "explanation": "Big toe pain.",
+     "chapter": 16
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["pathophysiology"].bookInfo = {
@@ -794,6 +1720,12 @@ window.CONTENT["pathophysiology"].bookInfo = {
   "edition": "8th edition",
   "source": "Elsevier table of contents",
   "chapters": 15,
+  "unit": "Chapter"
+ },
+ "2": {
+  "edition": "8th edition",
+  "source": "Pearson table of contents",
+  "chapters": 17,
   "unit": "Chapter"
  }
 };

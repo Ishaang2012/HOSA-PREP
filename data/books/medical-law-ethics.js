@@ -2,6 +2,203 @@
 window.CONTENT = window.CONTENT || {};
 window.CONTENT["medical-law-ethics"] = window.CONTENT["medical-law-ethics"] || {};
 window.CONTENT["medical-law-ethics"].summaries = {
+ "1": [
+  {
+   "number": 1,
+   "title": "Introduction to Healthcare Law, Ethics, and Bioethics",
+   "summary": [
+    "Law is a set of enforceable rules; ethics are moral principles; bioethics deals with issues from medical advances; etiquette is professional courtesy. Ethical principles include autonomy, beneficence, nonmaleficence, and justice. Decision-making models help resolve dilemmas."
+   ],
+   "keyPoints": [
+    "Law vs. ethics vs. etiquette",
+    "Bioethics",
+    "Four core principles",
+    "Decision-making models"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "The Legal System",
+   "summary": [
+    "U.S. law comes from constitutions, statutes, administrative regulations, and common (case) law based on precedent (stare decisis). Law is public (including criminal) or private (civil: torts and contracts). Courts are federal and state. A lawsuit includes the plaintiff, defendant, discovery, depositions, and trial."
+   ],
+   "keyPoints": [
+    "Sources of law",
+    "Stare decisis",
+    "Criminal vs. civil",
+    "Plaintiff and defendant"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Essentials of the Legal System for Healthcare Professionals",
+   "summary": [
+    "Health professionals may testify as fact witnesses or expert witnesses. Subpoenas order appearance (subpoena duces tecum orders records). Statutes of limitations limit when suits can be filed. Alternative dispute resolution includes mediation and arbitration."
+   ],
+   "keyPoints": [
+    "Subpoena duces tecum",
+    "Expert witness",
+    "Statute of limitations",
+    "Mediation and arbitration"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Working in Today's Healthcare Environment",
+   "summary": [
+    "Licensure (mandatory, state), certification (voluntary, professional groups), and registration credential health workers. Scope of practice limits duties. Practice types include sole proprietorship, partnership, group practice, and corporations. Managed care organizations (HMOs, PPOs) shape delivery."
+   ],
+   "keyPoints": [
+    "Licensure vs. certification",
+    "Scope of practice",
+    "Practice types",
+    "HMOs and PPOs"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "The Patient Relationship",
+   "summary": [
+    "The provider-patient relationship is a contract—expressed or implied. Informed consent requires explaining procedures, risks, benefits, and alternatives. Patients have rights and responsibilities. Providers must not abandon patients; terminating care requires written notice."
+   ],
+   "keyPoints": [
+    "Expressed vs. implied contract",
+    "Informed consent",
+    "Patients' rights",
+    "Avoid abandonment"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Professional Liability and Medical Malpractice",
+   "summary": [
+    "Malpractice is professional negligence. Plaintiffs must prove the four Ds: duty, dereliction, direct cause, and damages. Doctrines include res ipsa loquitur ('the thing speaks for itself') and respondeat superior. Defenses include contributory and comparative negligence and assumption of risk. Malpractice insurance and risk management reduce exposure."
+   ],
+   "keyPoints": [
+    "Four Ds",
+    "Res ipsa loquitur",
+    "Respondeat superior",
+    "Comparative negligence"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Public Duties of the Healthcare Professional",
+   "summary": [
+    "Health professionals must report births, deaths, certain communicable diseases, child and elder abuse, and injuries from violence. Good Samaritan laws protect those who help in emergencies in good faith. Controlled substances are regulated by the DEA."
+   ],
+   "keyPoints": [
+    "Mandatory reporting",
+    "Good Samaritan laws",
+    "Report abuse",
+    "DEA controlled substances"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Workplace Law and Ethics",
+   "summary": [
+    "Employment laws include Title VII (no discrimination), the ADA, the Age Discrimination in Employment Act, the Family and Medical Leave Act, the Fair Labor Standards Act, and OSHA safety rules. Sexual harassment includes quid pro quo and hostile environment. Employment-at-will allows ending employment for most reasons."
+   ],
+   "keyPoints": [
+    "Title VII",
+    "ADA and FMLA",
+    "OSHA",
+    "Sexual harassment types"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "The Medical Record",
+   "summary": [
+    "The medical record is a legal document owned by the provider; the information belongs to the patient. Records must be accurate, timely, and complete. Correct errors with a single line, initials, and date—never erase. Electronic health records must be secured. Retention rules vary by state."
+   ],
+   "keyPoints": [
+    "Legal document",
+    "Single-line corrections",
+    "Provider owns the record",
+    "EHR security"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Patient Confidentiality and HIPAA",
+   "summary": [
+    "HIPAA's Privacy Rule protects identifiable health information (PHI); the Security Rule protects electronic PHI. Disclosures generally need authorization except for treatment, payment, and operations, or as required by law. Breaches must be reported under HITECH. Patients can access and request amendments to their records."
+   ],
+   "keyPoints": [
+    "PHI protection",
+    "Privacy and Security Rules",
+    "TPO exceptions",
+    "Breach notification"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Ethical and Bioethical Issues in Healthcare",
+   "summary": [
+    "Bioethical issues include allocation of scarce resources, organ transplantation, research ethics (informed consent, IRBs), genetic testing and privacy, and conflicts of interest."
+   ],
+   "keyPoints": [
+    "Resource allocation",
+    "Organ transplants",
+    "Research ethics",
+    "Genetic testing"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Ethical Issues Related to the Beginning of Life",
+   "summary": [
+    "Issues include contraception, sterilization, abortion, assisted reproductive technologies (in vitro fertilization, surrogacy), genetic screening, and stem cell research. Conscience clauses may let providers decline to participate."
+   ],
+   "keyPoints": [
+    "IVF and surrogacy",
+    "Genetic screening",
+    "Stem cell research",
+    "Conscience clauses"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Ethical Issues Related to the End of Life",
+   "summary": [
+    "End-of-life issues include advance directives (living wills, durable power of attorney for health care), DNR orders, the Patient Self-Determination Act, hospice and palliative care, brain death criteria, organ donation (Uniform Anatomical Gift Act), and euthanasia and physician-assisted death."
+   ],
+   "keyPoints": [
+    "Advance directives",
+    "Patient Self-Determination Act",
+    "Hospice",
+    "Uniform Anatomical Gift Act"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Trends in Healthcare",
+   "summary": [
+    "Trends include telehealth, artificial intelligence, value-based care, changes in insurance coverage, workforce shortages, and growing attention to health equity."
+   ],
+   "keyPoints": [
+    "Telehealth",
+    "Artificial intelligence",
+    "Value-based care",
+    "Health equity"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Codes of Ethics",
+   "summary": [
+    "Professional associations (AMA, ANA, AAMA, and others) publish codes of ethics that set standards of conduct, such as respecting patients, maintaining confidentiality, and acting with honesty and competence."
+   ],
+   "keyPoints": [
+    "AMA Code of Medical Ethics",
+    "Nursing code",
+    "Shared values",
+    "Professional standards"
+   ]
+  }
+ ],
  "2": [
   {
    "number": 1,
@@ -201,6 +398,593 @@ window.CONTENT["medical-law-ethics"].summaries = {
  ]
 };
 window.CONTENT["medical-law-ethics"].quizzes = {
+ "1": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "The time limit for filing a lawsuit is the:",
+     "options": [
+      "Deposition",
+      "Arbitration",
+      "Discovery period",
+      "Statute of limitations"
+     ],
+     "answer": 3,
+     "explanation": "Varies by state.",
+     "chapter": 3
+    },
+    {
+     "q": "A subpoena duces tecum orders a person to bring:",
+     "options": [
+      "Payment",
+      "Records or documents",
+      "Only themselves",
+      "A lawyer"
+     ],
+     "answer": 1,
+     "explanation": "'Bring with you.'",
+     "chapter": 3
+    },
+    {
+     "q": "Doing no harm is the principle of:",
+     "options": [
+      "Justice",
+      "Nonmaleficence",
+      "Beneficence",
+      "Autonomy"
+     ],
+     "answer": 1,
+     "explanation": "Beneficence = doing good.",
+     "chapter": 1
+    },
+    {
+     "q": "The person who files a lawsuit is the:",
+     "options": [
+      "Witness",
+      "Defendant",
+      "Judge",
+      "Plaintiff"
+     ],
+     "answer": 3,
+     "explanation": "The defendant is sued.",
+     "chapter": 2
+    },
+    {
+     "q": "Issues arising from medical advances are studied in:",
+     "options": [
+      "Bioethics",
+      "Civil law",
+      "Accounting",
+      "Etiquette"
+     ],
+     "answer": 0,
+     "explanation": "Such as cloning or genetic testing.",
+     "chapter": 1
+    },
+    {
+     "q": "Torts and contracts are part of:",
+     "options": [
+      "Civil law",
+      "Criminal law",
+      "Constitutional law only",
+      "Administrative law"
+     ],
+     "answer": 0,
+     "explanation": "Private law.",
+     "chapter": 2
+    },
+    {
+     "q": "The principle of following precedent is:",
+     "options": [
+      "Respondeat superior",
+      "Res ipsa loquitur",
+      "Stare decisis",
+      "Habeas corpus"
+     ],
+     "answer": 2,
+     "explanation": "'Let the decision stand.'",
+     "chapter": 2
+    },
+    {
+     "q": "Moral principles that guide conduct are:",
+     "options": [
+      "Laws",
+      "Statutes",
+      "Ethics",
+      "Etiquette"
+     ],
+     "answer": 2,
+     "explanation": "Laws are enforceable.",
+     "chapter": 1
+    },
+    {
+     "q": "A witness with special knowledge who gives opinions is an:",
+     "options": [
+      "Expert witness",
+      "Juror",
+      "Plaintiff",
+      "Fact witness"
+     ],
+     "answer": 0,
+     "explanation": "Fact witnesses state what they saw.",
+     "chapter": 3
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "The four Ds of negligence are duty, dereliction, direct cause, and:",
+     "options": [
+      "Defense",
+      "Deposition",
+      "Diagnosis",
+      "Damages"
+     ],
+     "answer": 3,
+     "explanation": "All must be proven.",
+     "chapter": 6
+    },
+    {
+     "q": "'The thing speaks for itself' is:",
+     "options": [
+      "Quid pro quo",
+      "Respondeat superior",
+      "Res ipsa loquitur",
+      "Stare decisis"
+     ],
+     "answer": 2,
+     "explanation": "E.g., a sponge left in a patient.",
+     "chapter": 6
+    },
+    {
+     "q": "Ending care without proper notice is:",
+     "options": [
+      "Abandonment",
+      "Consent",
+      "Battery",
+      "Negligence per se"
+     ],
+     "answer": 0,
+     "explanation": "Give written notice.",
+     "chapter": 5
+    },
+    {
+     "q": "When both parties share fault and damages are reduced proportionally, it's:",
+     "options": [
+      "Comparative negligence",
+      "Res judicata",
+      "Contributory negligence",
+      "Assumption of risk"
+     ],
+     "answer": 0,
+     "explanation": "Percent of fault.",
+     "chapter": 6
+    },
+    {
+     "q": "Duties legally allowed for a profession are its:",
+     "options": [
+      "Code of ethics",
+      "Contract",
+      "Scope of practice",
+      "Job description"
+     ],
+     "answer": 2,
+     "explanation": "Set by law.",
+     "chapter": 4
+    },
+    {
+     "q": "A mandatory credential granted by the state is:",
+     "options": [
+      "Certification",
+      "Accreditation",
+      "Registration",
+      "Licensure"
+     ],
+     "answer": 3,
+     "explanation": "Required to practice.",
+     "chapter": 4
+    },
+    {
+     "q": "Informed consent includes explaining:",
+     "options": [
+      "Only the procedure name",
+      "Risks, benefits, and alternatives",
+      "Nothing",
+      "Only the cost"
+     ],
+     "answer": 1,
+     "explanation": "Patient must understand.",
+     "chapter": 5
+    },
+    {
+     "q": "An HMO is a type of:",
+     "options": [
+      "Managed care organization",
+      "Sole proprietorship",
+      "Court",
+      "Partnership"
+     ],
+     "answer": 0,
+     "explanation": "Controls costs.",
+     "chapter": 4
+    },
+    {
+     "q": "Holding out an arm for a vaccine creates an:",
+     "options": [
+      "Written contract",
+      "Implied contract",
+      "Expressed contract",
+      "Void contract"
+     ],
+     "answer": 1,
+     "explanation": "Shown by actions.",
+     "chapter": 5
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "Laws protecting people who help in emergencies are:",
+     "options": [
+      "Good Samaritan laws",
+      "HIPAA",
+      "OSHA",
+      "Stark laws"
+     ],
+     "answer": 0,
+     "explanation": "Good-faith aid.",
+     "chapter": 7
+    },
+    {
+     "q": "Title VII of the Civil Rights Act prohibits discrimination based on:",
+     "options": [
+      "Age only",
+      "Disability only",
+      "Race, color, religion, sex, or national origin",
+      "Income"
+     ],
+     "answer": 2,
+     "explanation": "Employment law.",
+     "chapter": 8
+    },
+    {
+     "q": "To correct an error in a paper record, you should:",
+     "options": [
+      "Use correction fluid",
+      "Draw a single line, initial, and date",
+      "Rip out the page",
+      "Erase it"
+     ],
+     "answer": 1,
+     "explanation": "Keep it readable.",
+     "chapter": 9
+    },
+    {
+     "q": "Controlled substances are regulated by the:",
+     "options": [
+      "FDA only",
+      "OSHA",
+      "CDC",
+      "DEA"
+     ],
+     "answer": 3,
+     "explanation": "Drug Enforcement Administration.",
+     "chapter": 7
+    },
+    {
+     "q": "Health professionals must report suspected:",
+     "options": [
+      "Missed appointments",
+      "Child abuse",
+      "Low income",
+      "Messy homes"
+     ],
+     "answer": 1,
+     "explanation": "Mandatory reporting.",
+     "chapter": 7
+    },
+    {
+     "q": "A medical record is a:",
+     "options": [
+      "Legal document",
+      "Personal diary",
+      "Billing form only",
+      "Optional note"
+     ],
+     "answer": 0,
+     "explanation": "Can be used in court.",
+     "chapter": 9
+    },
+    {
+     "q": "Unpaid job-protected leave for family or medical reasons is provided by the:",
+     "options": [
+      "OSHA",
+      "FLSA",
+      "ADA",
+      "FMLA"
+     ],
+     "answer": 3,
+     "explanation": "Family and Medical Leave Act.",
+     "chapter": 8
+    },
+    {
+     "q": "The physical medical record is owned by the:",
+     "options": [
+      "Insurance company",
+      "Government",
+      "Provider or facility",
+      "Patient"
+     ],
+     "answer": 2,
+     "explanation": "The information belongs to the patient.",
+     "chapter": 9
+    },
+    {
+     "q": "Requesting favors in exchange for job benefits is:",
+     "options": [
+      "Quid pro quo harassment",
+      "At-will employment",
+      "Discrimination by age",
+      "Hostile environment"
+     ],
+     "answer": 0,
+     "explanation": "'This for that.'",
+     "chapter": 8
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "PHI may be shared without authorization for:",
+     "options": [
+      "Social media",
+      "Marketing",
+      "Curiosity",
+      "Treatment, payment, and operations"
+     ],
+     "answer": 3,
+     "explanation": "TPO.",
+     "chapter": 10
+    },
+    {
+     "q": "Breach notification requirements were strengthened by the:",
+     "options": [
+      "ADA",
+      "FMLA",
+      "HITECH Act",
+      "OSHA"
+     ],
+     "answer": 2,
+     "explanation": "2009.",
+     "chapter": 10
+    },
+    {
+     "q": "A woman carrying a baby for another couple is a:",
+     "options": [
+      "Donor",
+      "Surrogate",
+      "Guardian",
+      "Proxy"
+     ],
+     "answer": 1,
+     "explanation": "Surrogacy.",
+     "chapter": 12
+    },
+    {
+     "q": "Laws allowing providers to refuse participation in procedures on moral grounds are:",
+     "options": [
+      "Conscience clauses",
+      "Statutes of limitations",
+      "Good Samaritan laws",
+      "Stark laws"
+     ],
+     "answer": 0,
+     "explanation": "Protect provider beliefs.",
+     "chapter": 12
+    },
+    {
+     "q": "A situation where personal gain may influence decisions is a:",
+     "options": [
+      "Conflict of interest",
+      "Tort",
+      "Contract",
+      "Consent"
+     ],
+     "answer": 0,
+     "explanation": "Must be disclosed.",
+     "chapter": 11
+    },
+    {
+     "q": "Fertilizing an egg outside the body is:",
+     "options": [
+      "In vitro fertilization",
+      "Sterilization",
+      "Cloning",
+      "Contraception"
+     ],
+     "answer": 0,
+     "explanation": "IVF.",
+     "chapter": 12
+    },
+    {
+     "q": "HIPAA's Privacy Rule protects:",
+     "options": [
+      "Employee salaries",
+      "Public records",
+      "Protected health information (PHI)",
+      "Only billing data"
+     ],
+     "answer": 2,
+     "explanation": "Identifiable health info.",
+     "chapter": 10
+    },
+    {
+     "q": "Research involving people is overseen by an:",
+     "options": [
+      "HMO",
+      "IRB",
+      "DEA",
+      "OSHA"
+     ],
+     "answer": 1,
+     "explanation": "Institutional Review Board.",
+     "chapter": 11
+    },
+    {
+     "q": "Deciding who gets scarce organs raises issues of:",
+     "options": [
+      "Billing",
+      "Etiquette",
+      "Licensing",
+      "Resource allocation"
+     ],
+     "answer": 3,
+     "explanation": "Justice.",
+     "chapter": 11
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "The law requiring facilities to inform patients about advance directives is the:",
+     "options": [
+      "Patient Self-Determination Act",
+      "HIPAA",
+      "Uniform Anatomical Gift Act",
+      "EMTALA"
+     ],
+     "answer": 0,
+     "explanation": "1990.",
+     "chapter": 13
+    },
+    {
+     "q": "Most health care codes of ethics require:",
+     "options": [
+      "Secrecy from patients",
+      "Ignoring laws",
+      "Confidentiality and honesty",
+      "Profit first"
+     ],
+     "answer": 2,
+     "explanation": "Shared values.",
+     "chapter": 15
+    },
+    {
+     "q": "Providing care remotely through technology is:",
+     "options": [
+      "Arbitration",
+      "Telehealth",
+      "Managed care",
+      "Hospice"
+     ],
+     "answer": 1,
+     "explanation": "Growing trend.",
+     "chapter": 14
+    },
+    {
+     "q": "Organ donation is governed by the:",
+     "options": [
+      "Uniform Anatomical Gift Act",
+      "Patient Self-Determination Act",
+      "FMLA",
+      "ADA"
+     ],
+     "answer": 0,
+     "explanation": "Allows donation.",
+     "chapter": 13
+    },
+    {
+     "q": "Efforts to ensure everyone can attain good health focus on:",
+     "options": [
+      "Profit",
+      "Health equity",
+      "Licensing",
+      "Marketing"
+     ],
+     "answer": 1,
+     "explanation": "Reduce disparities.",
+     "chapter": 14
+    },
+    {
+     "q": "Professional codes of ethics are written by:",
+     "options": [
+      "Courts",
+      "Patients",
+      "Professional associations",
+      "Insurance companies"
+     ],
+     "answer": 2,
+     "explanation": "Like the AMA or ANA.",
+     "chapter": 15
+    },
+    {
+     "q": "The AMA publishes a code of ethics for:",
+     "options": [
+      "Physicians",
+      "Dentists",
+      "Pharmacists",
+      "Nurses"
+     ],
+     "answer": 0,
+     "explanation": "American Medical Association.",
+     "chapter": 15
+    },
+    {
+     "q": "Payment tied to patient outcomes is:",
+     "options": [
+      "Self-pay",
+      "Charity care",
+      "Fee-for-service",
+      "Value-based care"
+     ],
+     "answer": 3,
+     "explanation": "Rewards quality.",
+     "chapter": 14
+    },
+    {
+     "q": "A document stating treatment wishes if a person can't speak is a:",
+     "options": [
+      "DNR only",
+      "Will",
+      "Power of attorney for finances",
+      "Living will"
+     ],
+     "answer": 3,
+     "explanation": "Type of advance directive.",
+     "chapter": 13
+    }
+   ]
+  }
+ ],
  "2": [
   {
    "chapters": [
@@ -790,6 +1574,12 @@ window.CONTENT["medical-law-ethics"].quizzes = {
  ]
 };
 window.CONTENT["medical-law-ethics"].bookInfo = {
+ "1": {
+  "edition": "7th edition",
+  "source": "Pearson table of contents",
+  "chapters": 15,
+  "unit": "Chapter"
+ },
  "2": {
   "edition": "2nd edition (2022)",
   "source": "Goodheart-Willcox table of contents",
