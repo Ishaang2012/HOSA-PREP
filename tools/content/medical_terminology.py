@@ -1,17 +1,18 @@
-"""Medical Terminology practice tests: 3 levels x 50 questions.
+# Medical Terminology: practice tests and flashcards.
+# Topic weights (2026-27): word parts 45% (23 Q), each of 11 body areas 5% (2-3 Q).
 
-Each level follows the 2026-27 HOSA test plan: Roots/Prefixes/Suffixes/Combining Forms 45% (23 Q),
-and each of the 11 body-area topics 5% (2-3 Q each), for 50 questions total.
-
-Each question: (topic, question, correct answer, [3 wrong answers], explanation).
-Answer order and question order are shuffled with a fixed seed so the output is stable.
-"""
-import json, random, sys
-from collections import Counter
-
-WP, OV, SK, MU, RE, DI, CV, NE, EN, RP, IN, UR = (
-    "Word parts", "Overview of body", "Skeletal", "Muscular", "Respiratory", "Digestive",
-    "Cardiovascular & lymphatic", "Nervous/special senses", "Endocrine", "Reproductive", "Integumentary", "Urinary")
+WP = "WP"
+OV = "OV"
+SK = "SK"
+MU = "MU"
+RE = "RE"
+DI = "DI"
+CV = "CV"
+NE = "NE"
+EN = "EN"
+RP = "RP"
+IN = "IN"
+UR = "UR"
 
 EASY = [
     (WP, 'What does the suffix "-itis" mean?', "Inflammation", ["Removal", "Study of", "Enlargement"], "-itis means inflammation, as in tonsillitis (inflammation of the tonsils)."),
@@ -172,32 +173,60 @@ HARD = [
     (UR, "Which term means excessive urination at night?", "Nocturia", ["Polyuria", "Enuresis", "Oliguria"], "noct/i (night) + -uria. Polyuria = excessive amount; enuresis = bedwetting; oliguria = scanty urine."),
 ]
 
-PLAN = {WP: 23, OV: 3, SK: 2, MU: 2, RE: 3, DI: 3, CV: 3, NE: 3, EN: 2, RP: 2, IN: 2, UR: 2}
+TOPICS = {
+    WP: "Roots, Prefixes, Suffixes, and Combining Forms",
+    OV: "Overview of Body",
+    SK: "Skeletal",
+    MU: "Muscular",
+    RE: "Respiratory",
+    DI: "Digestive",
+    CV: "Cardiovascular & Lymphatic",
+    NE: "Nervous/Special Senses",
+    EN: "Endocrine",
+    RP: "Reproductive",
+    IN: "Integumentary",
+    UR: "Urinary",
+}
 
-def build(rows, seed):
-    rng = random.Random(seed)
-    assert len(rows) == 50, len(rows)
-    assert Counter(r[0] for r in rows) == Counter(PLAN), Counter(r[0] for r in rows)
-    assert len({r[1] for r in rows}) == 50, "duplicate question"
-    rows = rows[:]
-    rng.shuffle(rows)
-    out = []
-    for topic, q, right, wrong, expl in rows:
-        assert len(wrong) == 3 and right not in wrong
-        opts = [right] + wrong
-        rng.shuffle(opts)
-        out.append({"q": q, "options": opts, "answer": opts.index(right), "explanation": expl, "topic": topic})
-    return out
-
-tests = {"easy": build(EASY, 1), "medium": build(MEDIUM, 2), "hard": build(HARD, 3)}
-all_q = [q["q"] for lvl in tests.values() for q in lvl]
-assert len(set(all_q)) == len(all_q), "duplicate across levels"
-for k, v in tests.items():
-    print(k, len(v), "answer positions:", dict(sorted(Counter("ABCD"[q["answer"]] for q in v).items())))
-
-js = ("// Medical Terminology practice tests: 50 questions each, matching the official Round One test.\n"
-      "// Topics follow the 2026-27 test plan (word parts 45%, each body area 5%).\n"
-      "window.CONTENT = window.CONTENT || {};\n"
-      "window.CONTENT[\"medical-terminology\"] = window.CONTENT[\"medical-terminology\"] || {};\n"
-      "window.CONTENT[\"medical-terminology\"].tests = " + json.dumps(tests, indent=1, ensure_ascii=False) + ";\n")
-open(sys.argv[1], "w", encoding="utf-8").write(js)
+FLASHCARDS = [
+    ("Prefixes", "Word parts that come before the root", [
+        ("a- / an-", "No, not, without"),
+        ("brady-", "Slow"),
+        ("tachy-", "Fast"),
+        ("hyper-", "Above, excessive"),
+        ("hypo-", "Below, deficient"),
+        ("peri-", "Around"),
+        ("endo-", "Within, inside"),
+        ("dys-", "Bad, painful, difficult"),
+    ]),
+    ("Suffixes", "Word parts that come after the root", [
+        ("-itis", "Inflammation"),
+        ("-ectomy", "Surgical removal"),
+        ("-otomy", "Incision (cutting into)"),
+        ("-ostomy", "Surgically creating a new opening"),
+        ("-algia", "Pain"),
+        ("-megaly", "Enlargement"),
+        ("-plasty", "Surgical repair"),
+        ("-scopy", "Visual examination"),
+    ]),
+    ("Combining Forms", "Roots plus a combining vowel", [
+        ("cardi/o", "Heart"),
+        ("hepat/o", "Liver"),
+        ("nephr/o, ren/o", "Kidney"),
+        ("oste/o", "Bone"),
+        ("gastr/o", "Stomach"),
+        ("derm/o, dermat/o", "Skin"),
+        ("neur/o", "Nerve"),
+        ("pulmon/o, pneum/o", "Lung"),
+    ]),
+    ("Directional Terms", "Positions and planes of the body", [
+        ("Anterior (ventral)", "Front of the body"),
+        ("Posterior (dorsal)", "Back of the body"),
+        ("Proximal", "Nearer the point of attachment"),
+        ("Distal", "Farther from the point of attachment"),
+        ("Medial", "Toward the midline"),
+        ("Lateral", "Away from the midline, toward the side"),
+        ("Sagittal plane", "Divides the body into left and right"),
+        ("Transverse plane", "Divides the body into upper and lower"),
+    ]),
+]
