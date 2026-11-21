@@ -32,7 +32,8 @@ def load_module(event_id):
 
 def build_level(rows, ev, topics, seed, level):
     n = ev["testQuestions"]
-    assert len(rows) == n, f"{level}: {len(rows)} questions, need {n}"
+    from collections import Counter
+    assert len(rows) == n, f"{level}: {len(rows)} questions, need {n}; by topic: {dict(Counter(r[0] for r in rows))}"
     plan = {r["topic"]: r["pct"] for r in ev["testPlan"]}
     if plan and all(p is not None for p in plan.values()):
         for code, name in topics.items():
