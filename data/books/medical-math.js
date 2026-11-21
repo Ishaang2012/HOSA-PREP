@@ -387,6 +387,86 @@ window.CONTENT["medical-math"].summaries = {
     "Keep accurate financial records"
    ]
   }
+ ],
+ "1": [
+  {
+   "number": 1,
+   "title": "Arithmetic Review",
+   "summary": [
+    "Dosage calculations rely on fractions, decimals, percentages, ratios, and proportions. Key skills: reducing fractions, multiplying and dividing fractions and decimals, converting among fractions, decimals, and percents, and rounding. Always use a leading zero (0.5, not .5) and never a trailing zero (5, not 5.0) to prevent errors."
+   ],
+   "keyPoints": [
+    "Fractions, decimals, percents",
+    "Leading zero: 0.5",
+    "No trailing zero",
+    "Rounding rules"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Systems of Measurement and Common Equivalents",
+   "summary": [
+    "The metric system is standard: 1 g = 1,000 mg; 1 mg = 1,000 mcg; 1 L = 1,000 mL; 1 kg = 2.2 lb. Household equivalents: 1 tsp = 5 mL, 1 tbsp = 15 mL, 1 oz = 30 mL, 1 cup = 240 mL, 1 inch = 2.54 cm. Apothecary units are rarely used."
+   ],
+   "keyPoints": [
+    "1 g = 1,000 mg",
+    "1 kg = 2.2 lb",
+    "1 tsp = 5 mL; 1 tbsp = 15 mL",
+    "1 oz = 30 mL"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Solving Problems Using Dimensional Analysis",
+   "summary": [
+    "Dimensional analysis sets up a problem as a chain of conversion factors so unwanted units cancel, leaving the desired unit. Steps: identify the given quantity and wanted unit, write conversion factors as fractions, cancel units, then multiply and divide."
+   ],
+   "keyPoints": [
+    "Units cancel",
+    "Conversion factors as fractions",
+    "Start with the given",
+    "End with the wanted unit"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "One-Factor Medication Problems",
+   "summary": [
+    "One-factor problems involve a single given quantity, such as converting a dose ordered in grams to milligrams, or calculating tablets or milliliters to give: amount to give = dose ordered ÷ dose on hand × quantity."
+   ],
+   "keyPoints": [
+    "Tablets to give",
+    "mL to give",
+    "Unit conversions",
+    "D/H × Q"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Two-Factor Medication Problems",
+   "summary": [
+    "Two-factor problems add a second variable, often body weight (mg/kg) or time. Example: 5 mg/kg for a 44-lb child = 20 kg × 5 mg = 100 mg. IV infusion rates in mL/hr also use two factors."
+   ],
+   "keyPoints": [
+    "Weight-based dosing",
+    "Convert lb to kg first",
+    "mL/hr rates",
+    "Check safe dose range"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Three-Factor Medication Problems",
+   "summary": [
+    "Three-factor problems combine dose, weight, and time—such as mcg/kg/min infusions—or calculate IV drip rates in gtt/min using the drop factor: gtt/min = volume (mL) × drop factor (gtt/mL) ÷ time (min)."
+   ],
+   "keyPoints": [
+    "mcg/kg/min",
+    "gtt/min formula",
+    "Drop factor",
+    "Multiple conversions"
+   ]
+  }
  ]
 };
 window.CONTENT["medical-math"].quizzes = {
@@ -1903,6 +1983,242 @@ window.CONTENT["medical-math"].quizzes = {
     }
    ]
   }
+ ],
+ "1": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "1 teaspoon equals:",
+     "options": [
+      "5 mL",
+      "15 mL",
+      "30 mL",
+      "1 mL"
+     ],
+     "answer": 0,
+     "explanation": "1 tbsp = 15 mL.",
+     "chapter": 2
+    },
+    {
+     "q": "1 mg equals:",
+     "options": [
+      "10 mcg",
+      "0.1 mcg",
+      "100 mcg",
+      "1,000 mcg"
+     ],
+     "answer": 3,
+     "explanation": "Micrograms.",
+     "chapter": 3
+    },
+    {
+     "q": "0.25 as a fraction is:",
+     "options": [
+      "1/4",
+      "1/2",
+      "1/3",
+      "2/5"
+     ],
+     "answer": 0,
+     "explanation": "25/100 reduced.",
+     "chapter": 1
+    },
+    {
+     "q": "In dimensional analysis, conversion factors are arranged so that:",
+     "options": [
+      "All units remain",
+      "Numbers are added",
+      "Units are ignored",
+      "Unwanted units cancel"
+     ],
+     "answer": 3,
+     "explanation": "Leaves the wanted unit.",
+     "chapter": 3
+    },
+    {
+     "q": "Trailing zeros (5.0 mg) are avoided because they:",
+     "options": [
+      "Are too precise",
+      "Can be misread as 50 mg",
+      "Look unprofessional",
+      "Are required by law"
+     ],
+     "answer": 1,
+     "explanation": "Ten-fold error risk.",
+     "chapter": 1
+    },
+    {
+     "q": "1 kilogram equals about:",
+     "options": [
+      "2.2 lb",
+      "1 lb",
+      "5 lb",
+      "10 lb"
+     ],
+     "answer": 0,
+     "explanation": "Divide lb by 2.2 to get kg.",
+     "chapter": 2
+    },
+    {
+     "q": "1 fluid ounce equals:",
+     "options": [
+      "240 mL",
+      "15 mL",
+      "30 mL",
+      "5 mL"
+     ],
+     "answer": 2,
+     "explanation": "1 cup = 240 mL.",
+     "chapter": 2
+    },
+    {
+     "q": "1 gram equals:",
+     "options": [
+      "100 mg",
+      "1,000 mg",
+      "10 mg",
+      "10,000 mg"
+     ],
+     "answer": 1,
+     "explanation": "Metric conversion.",
+     "chapter": 2
+    },
+    {
+     "q": "Which is the correct way to write one-half milligram?",
+     "options": [
+      "0.50 mg",
+      "1/2.0 mg",
+      "0.5 mg",
+      ".5 mg"
+     ],
+     "answer": 2,
+     "explanation": "Always use a leading zero.",
+     "chapter": 1
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "Ordered: 500 mg. On hand: 250 mg tablets. Give:",
+     "options": [
+      "0.5 tablet",
+      "2 tablets",
+      "4 tablets",
+      "1 tablet"
+     ],
+     "answer": 1,
+     "explanation": "500 ÷ 250.",
+     "chapter": 4
+    },
+    {
+     "q": "100 mL over 60 min with a 15 gtt/mL set =",
+     "options": [
+      "25 gtt/min",
+      "100 gtt/min",
+      "15 gtt/min",
+      "60 gtt/min"
+     ],
+     "answer": 0,
+     "explanation": "100 × 15 ÷ 60.",
+     "chapter": 6
+    },
+    {
+     "q": "Ordered: 50 mg. On hand: 25 mg/mL. Give:",
+     "options": [
+      "2 mL",
+      "5 mL",
+      "0.5 mL",
+      "1 mL"
+     ],
+     "answer": 0,
+     "explanation": "50 ÷ 25 × 1 mL.",
+     "chapter": 4
+    },
+    {
+     "q": "Order: 5 mg/kg for a 20-kg child. Dose =",
+     "options": [
+      "4 mg",
+      "200 mg",
+      "25 mg",
+      "100 mg"
+     ],
+     "answer": 3,
+     "explanation": "5 × 20.",
+     "chapter": 5
+    },
+    {
+     "q": "Doses ordered in mcg/kg/min require factors for dose, weight, and:",
+     "options": [
+      "Temperature",
+      "Age",
+      "Time",
+      "Height"
+     ],
+     "answer": 2,
+     "explanation": "Three-factor problems.",
+     "chapter": 6
+    },
+    {
+     "q": "A child weighs 44 lb. Their weight in kg is:",
+     "options": [
+      "97 kg",
+      "10 kg",
+      "44 kg",
+      "20 kg"
+     ],
+     "answer": 3,
+     "explanation": "44 ÷ 2.2.",
+     "chapter": 5
+    },
+    {
+     "q": "1,000 mL to infuse over 8 hours. Rate =",
+     "options": [
+      "250 mL/hr",
+      "125 mL/hr",
+      "80 mL/hr",
+      "100 mL/hr"
+     ],
+     "answer": 1,
+     "explanation": "1,000 ÷ 8.",
+     "chapter": 5
+    },
+    {
+     "q": "Ordered: 0.5 g. On hand: 250 mg tablets. Give:",
+     "options": [
+      "0.5 tablet",
+      "1 tablet",
+      "2 tablets",
+      "5 tablets"
+     ],
+     "answer": 2,
+     "explanation": "0.5 g = 500 mg.",
+     "chapter": 4
+    },
+    {
+     "q": "The formula for drip rate is volume × drop factor ÷:",
+     "options": [
+      "Time in minutes",
+      "Time in hours",
+      "Weight",
+      "Dose"
+     ],
+     "answer": 0,
+     "explanation": "gtt/min.",
+     "chapter": 6
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["medical-math"].bookInfo = {
@@ -1910,6 +2226,12 @@ window.CONTENT["medical-math"].bookInfo = {
   "edition": "10th edition (2026)",
   "source": "Cengage / National Geographic Learning table of contents",
   "chapters": 24,
+  "unit": "Chapter"
+ },
+ "1": {
+  "edition": "8th edition (2024)",
+  "source": "Wolters Kluwer table of contents",
+  "chapters": 6,
   "unit": "Chapter"
  }
 };
