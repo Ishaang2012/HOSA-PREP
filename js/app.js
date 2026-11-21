@@ -156,21 +156,27 @@
     let modes = [
       {
         href: "guide", title: "Study Guide", icon: icon.guide, color: "#8b5cf6",
-        text: "How the event runs, exactly how judges score it, and the tips and checklist to prepare.",
-        meta: guide ? `${guide.rubrics.length} official rating sheet${guide.rubrics.length === 1 ? "" : "s"} broken down` : "",
+        text: guide && !guide.rubrics.length
+          ? "How the event works, how to prepare, test-day advice, and a checklist."
+          : "How the event runs, exactly how judges score it, and the tips and checklist to prepare.",
+        meta: !guide ? "" : guide.rubrics.length
+          ? `${guide.rubrics.length} official rating sheet${guide.rubrics.length === 1 ? "" : "s"} broken down`
+          : "How to prepare, tips, and checklist",
         skip: !guide,
       },
       {
         href: "summaries", title: "Chapter Summaries", icon: icon.book, color: "#0d9488",
         text: "Chapter-by-chapter summaries of each official reference for this event.",
         meta: s.books ? `${s.books} official reference${s.books === 1 ? "" : "s"}` : "",
-        off: !s.books && "This event has no reference textbooks.",
+        off: (!s.books && "This event has no reference textbooks.") ||
+          (guide && !s.booksSummarized && "These books aren't summarized here. See the Study Guide for how to prepare."),
       },
       {
         href: "quizzes", title: "Chapter Quizzes", icon: icon.quiz, color: "#0ea5e9",
         text: "Short quizzes that each cover three chapters of a book, so you can check yourself as you read.",
         meta: s.quizzes ? `${s.quizzes} quiz${s.quizzes === 1 ? "" : "zes"}` : "Coming soon",
-        off: !s.books && "This event has no reference textbooks.",
+        off: (!s.books && "This event has no reference textbooks.") ||
+          (guide && !s.quizzes && "No chapter quizzes for this event. See the Study Guide for how to prepare."),
       },
       {
         href: "tests", title: "Practice Tests", icon: icon.test, color: "#6366f1",
@@ -178,12 +184,14 @@
           ? `Three ${ev.testQuestions}-question tests, the same length as the real one, from easy to competition level.`
           : "",
         meta: ev.hasTest ? `${s.tests} of 3 ready` : "",
-        off: !ev.hasTest && "This event has no written test.",
+        off: (!ev.hasTest && "This event has no written test.") ||
+          (guide && !s.tests && "No practice tests for this event. See the Study Guide for how to prepare."),
       },
       {
         href: "flashcards", title: "Flashcards", icon: icon.cards, color: "#f59e0b",
         text: "Key terms and concepts, split into focused sections so you can study in short sets.",
         meta: s.cards ? `${s.cards} cards` : "Coming soon",
+        off: guide && ev.hasTest && !s.cards && "No flashcards for this event. See the Study Guide for how to prepare.",
       },
     ];
     // Events judged without a written test only show what applies to them.
@@ -792,7 +800,7 @@
       </div>
       <p class="guide-lede">${esc(g.overview)}</p>
       <nav class="guide-toc">
-        <a href="#g-rounds">How it runs</a><a href="#g-score">How it's scored</a><a href="#g-tips">Tips</a><a href="#g-mistakes">Mistakes to avoid</a><a href="#g-check">Checklist</a>
+        <a href="#g-rounds">How it runs</a>${g.rubrics.length ? `<a href="#g-score">How it's scored</a>` : ""}<a href="#g-tips">Tips</a><a href="#g-mistakes">Mistakes to avoid</a><a href="#g-check">Checklist</a>
       </nav>
       <h2 class="guide-h" id="g-rounds">How the event runs</h2>
       <div class="rounds">
@@ -801,9 +809,9 @@
           <div><h3>${esc(r.title)}</h3>${list(r.steps, "steps")}</div>
         </section>`).join("")}
       </div>
-      <h2 class="guide-h" id="g-score">How judges score it</h2>
+      ${g.rubrics.length ? `<h2 class="guide-h" id="g-score">How judges score it</h2>
       <p class="muted" style="margin-top:-6px">Maximum points per item, from the official rating sheets. Bigger bars are where the points are.</p>
-      <div class="rubrics">${g.rubrics.map(rubric).join("")}</div>
+      <div class="rubrics">${g.rubrics.map(rubric).join("")}</div>` : ""}
       <div class="about-grid">
         <section class="card guide-block" id="g-tips"><h3>Tips to score high</h3>${list(g.tips, "tips")}</section>
         <section class="card guide-block" id="g-mistakes"><h3>Common mistakes</h3>${list(g.mistakes, "mistakes")}</section>

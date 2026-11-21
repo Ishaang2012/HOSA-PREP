@@ -35,12 +35,12 @@ def load(event_id):
 
 def build(event_id):
     ev = load_events()[event_id]
-    assert not ev["hasTest"], f"{event_id} has a written test; guides are for non-test events"
     g = load(event_id)
-    for key in ("overview", "facts", "rounds", "rubrics", "tips", "mistakes", "checklist"):
+    # Rating sheets are optional: an event judged only by a written test has none.
+    for key in ("overview", "facts", "rounds", "tips", "mistakes", "checklist"):
         assert g.get(key), f"{event_id}: missing {key}"
     rubrics = []
-    for r in g["rubrics"]:
+    for r in g.get("rubrics", []):
         total = sum(p for _, items in r["sections"] for _, p in items)
         assert total == r["total"], f"{event_id}: rubric '{r['title']}' adds to {total}, official total is {r['total']}"
         rubrics.append({
