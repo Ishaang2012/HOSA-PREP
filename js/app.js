@@ -302,6 +302,7 @@
         { label: book.title },
       ])}
       ${eventHeader(ev, book.title)}
+      ${editionNote(bookInfo(ev, bookIdx))}
       <div class="reader">
         <aside class="card toc">
           <h4>Chapters</h4>
@@ -399,6 +400,11 @@
 
   // ---------- chapter quizzes (one per 3 chapters of a book) ----------
   const chapterRange = (chs) => (chs.length > 1 ? `Chapters ${chs[0]}–${chs[chs.length - 1]}` : `Chapter ${chs[0]}`);
+  const bookInfo = (ev, bookIdx) => ((CONTENT[ev.id] && CONTENT[ev.id].bookInfo) || {})[bookIdx];
+  const editionNote = (info) =>
+    info
+      ? `<p class="edition-note">Chapter list from the <strong>${esc(info.edition)}</strong> (${esc(info.source)}). Chapter numbers can differ in other editions. These summaries cover each chapter's topics; they don't replace reading the book.</p>`
+      : "";
   const bookQuizzes = (ev, bookIdx) => ((CONTENT[ev.id] && CONTENT[ev.id].quizzes) || {})[bookIdx] || [];
 
   function renderQuizBooks(ev) {
@@ -452,7 +458,11 @@
                 )
                 .join("")}
             </div>
-            <p class="muted" style="margin-top:18px">More quizzes for this book are coming soon.</p>`
+            ${(() => {
+              const info = bookInfo(ev, bookIdx);
+              const covered = Math.max(...qz.flatMap((z) => z.chapters));
+              return !info || covered < info.chapters ? `<p class="muted" style="margin-top:18px">More quizzes for this book are coming soon.</p>` : "";
+            })()}`
           : emptyState("Quizzes coming soon", `Chapter quizzes for ${book.title} haven't been added yet.`)
       }`;
   }

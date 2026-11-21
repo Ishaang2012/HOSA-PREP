@@ -67,7 +67,7 @@ def register_scripts(paths):
     block = html[html.index(start) + len(start):html.index(end)]
     existing = re.findall(r'src="([^"]+)"', block)
     # also keep tags that were added by hand before the markers existed
-    for src in re.findall(r'<script src="(data/(?:tests|quizzes|flashcards)/[^"]+)"></script>', html):
+    for src in re.findall(r'<script src="(data/(?:tests|quizzes|flashcards|guides|books)/[^"]+)"></script>', html):
         if src not in existing:
             existing.append(src)
             html = html.replace(f'  <script src="{src}"></script>\n', "", 1)
