@@ -387,6 +387,229 @@ window.CONTENT["human-growth-development"].summaries = {
     "Keep accurate financial records"
    ]
   }
+ ],
+ "2": [
+  {
+   "number": 1,
+   "title": "An Introduction to Lifespan Development",
+   "summary": [
+    "Lifespan development studies how people grow and change from conception to death in physical, cognitive, social, and emotional areas. Development is lifelong, multidirectional, and shaped by heredity (nature) and environment (nurture). Researchers use observation, case studies, surveys, and longitudinal and cross-sectional studies."
+   ],
+   "keyPoints": [
+    "Physical, cognitive, social-emotional domains",
+    "Nature and nurture interact",
+    "Development is lifelong",
+    "Longitudinal vs. cross-sectional studies"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "How and Why People Develop and Learn",
+   "summary": [
+    "Major theories include Piaget's cognitive stages (sensorimotor, preoperational, concrete operational, formal operational), Erikson's eight psychosocial stages, Vygotsky's sociocultural theory (zone of proximal development, scaffolding), Kohlberg's moral development, Bronfenbrenner's ecological systems, Maslow's hierarchy of needs, and behaviorist and social learning theories (Skinner, Bandura)."
+   ],
+   "keyPoints": [
+    "Piaget's four cognitive stages",
+    "Erikson's eight psychosocial stages",
+    "Vygotsky: zone of proximal development",
+    "Kohlberg: moral reasoning levels"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Family Trends Today",
+   "summary": [
+    "Families take many forms: nuclear, single-parent, blended, extended, and others. Trends include delayed marriage, smaller families, dual-income households, and multigenerational living. Families provide care, socialization, and support, and parenting styles (authoritative, authoritarian, permissive, uninvolved) affect child development."
+   ],
+   "keyPoints": [
+    "Many family structures",
+    "Authoritative parenting = warmth + limits",
+    "Families socialize children",
+    "Multigenerational households"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Pregnancy and Birth",
+   "summary": [
+    "Prenatal development has three periods: germinal (first 2 weeks), embryonic (weeks 3–8, organs form), and fetal (week 9 to birth). Teratogens such as alcohol, tobacco, drugs, and some infections can cause birth defects. Prenatal care, good nutrition (including folic acid), and avoiding harmful substances support healthy outcomes. Labor has three stages, and newborns are assessed with the Apgar score."
+   ],
+   "keyPoints": [
+    "Germinal, embryonic, fetal periods",
+    "Organs form in the embryonic period",
+    "Teratogens cause birth defects",
+    "Apgar score assesses newborns"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Infancy: Newborn to Age 1",
+   "summary": [
+    "Infants grow faster than at any other time and develop reflexes, motor skills (rolling, sitting, crawling), and senses. Cognitively they are in Piaget's sensorimotor stage and develop object permanence. Socially, they form attachments to caregivers; Erikson's stage is trust vs. mistrust. Safe sleep on the back reduces SIDS risk."
+   ],
+   "keyPoints": [
+    "Fastest growth period",
+    "Object permanence develops",
+    "Trust vs. mistrust",
+    "Back to sleep reduces SIDS"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Toddlerhood: Ages 1 through 2",
+   "summary": [
+    "Toddlers learn to walk, talk, and do things for themselves. Language grows rapidly, and they begin symbolic play. Erikson's stage is autonomy vs. shame and doubt; tantrums and saying 'no' are normal as toddlers seek independence. Toilet training and safety (childproofing) are key concerns."
+   ],
+   "keyPoints": [
+    "Walking and rapid language growth",
+    "Autonomy vs. shame and doubt",
+    "Tantrums are normal",
+    "Childproof for safety"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Early Childhood: Ages 3 through 5",
+   "summary": [
+    "Preschoolers refine motor skills and are in Piaget's preoperational stage (egocentrism, symbolic thinking, lack of conservation). Play is how they learn. Erikson's stage is initiative vs. guilt. School readiness, social skills, and guidance through positive discipline are emphasized."
+   ],
+   "keyPoints": [
+    "Preoperational stage; egocentrism",
+    "Play is learning",
+    "Initiative vs. guilt",
+    "Positive discipline"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Middle Childhood: Ages 6 through 10",
+   "summary": [
+    "School-age children grow steadily and develop concrete operational thinking (logic about real objects, conservation). Erikson's stage is industry vs. inferiority. Friendships, self-esteem, and academic skills grow. Concerns include bullying, childhood obesity, and learning differences."
+   ],
+   "keyPoints": [
+    "Concrete operational stage",
+    "Industry vs. inferiority",
+    "Friendships and self-esteem",
+    "Bullying and obesity concerns"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Adolescence: Ages 11 through 19",
+   "summary": [
+    "Puberty brings rapid physical and sexual maturation. Cognitively, teens reach formal operational thinking (abstract reasoning). Erikson's stage is identity vs. role confusion. Peer influence grows; risks include substance use, risky driving, and mental health challenges. The prefrontal cortex is still developing."
+   ],
+   "keyPoints": [
+    "Puberty",
+    "Formal operational thinking",
+    "Identity vs. role confusion",
+    "Prefrontal cortex still maturing"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Early Adulthood: Ages 20 through 39",
+   "summary": [
+    "Young adults are at peak physical condition and focus on education, careers, relationships, and often starting families. Erikson's stage is intimacy vs. isolation. Healthy habits formed now affect later health."
+   ],
+   "keyPoints": [
+    "Peak physical condition",
+    "Intimacy vs. isolation",
+    "Career and relationships",
+    "Healthy habits matter"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Middle Adulthood: Ages 40 through 65",
+   "summary": [
+    "Middle adults experience gradual physical changes such as declining vision, menopause, and slower metabolism. Erikson's stage is generativity vs. stagnation: contributing to the next generation through work, parenting, and mentoring. Many care for both children and aging parents (the 'sandwich generation')."
+   ],
+   "keyPoints": [
+    "Generativity vs. stagnation",
+    "Menopause and physical changes",
+    "Sandwich generation",
+    "Mentoring and contributing"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Older Adulthood: Ages 66 Plus",
+   "summary": [
+    "Older adults experience physical changes (thinner skin, weaker bones, sensory losses) but many stay healthy and independent. Erikson's final stage is integrity vs. despair, reflecting on one's life. Issues include retirement, loss of loved ones, dementia (not a normal part of aging), and end-of-life decisions. Kübler-Ross described stages of grief."
+   ],
+   "keyPoints": [
+    "Integrity vs. despair",
+    "Dementia is not normal aging",
+    "Retirement and loss",
+    "Stages of grief"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Child and Adult Care Resources for Families",
+   "summary": [
+    "Families use resources such as child care centers, family child care homes, preschools, after-school programs, adult day services, assisted living, and nursing homes. Choosing quality care involves licensing, staff training, ratios, and safety."
+   ],
+   "keyPoints": [
+    "Child care options",
+    "Adult day services and assisted living",
+    "Check licensing and ratios",
+    "Quality and safety matter"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Providing for Individual and Family Needs",
+   "summary": [
+    "Families meet needs for food, shelter, health care, education, and emotional support while managing time, money, and stress. Community resources and support networks help families facing challenges such as illness, disability, or financial hardship."
+   ],
+   "keyPoints": [
+    "Meet basic and emotional needs",
+    "Manage time and money",
+    "Community resources help",
+    "Support networks reduce stress"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Preparing for Careers",
+   "summary": [
+    "Career preparation includes self-assessment of interests and skills, education and training, résumés, interviews, and workplace skills such as communication, teamwork, and professionalism."
+   ],
+   "keyPoints": [
+    "Self-assessment",
+    "Résumés and interviews",
+    "Soft skills matter",
+    "Education and training"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Career Paths Education and Training",
+   "summary": [
+    "Careers in education and training include teachers, early childhood educators, counselors, and trainers. They require knowledge of development and learning and the appropriate degrees or certifications."
+   ],
+   "keyPoints": [
+    "Teachers and early childhood educators",
+    "Counselors and trainers",
+    "Degrees and certification",
+    "Apply developmental knowledge"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Career Paths in Human Services",
+   "summary": [
+    "Human services careers include social workers, family counselors, child life specialists, and gerontology workers who help people at every life stage."
+   ],
+   "keyPoints": [
+    "Social work and counseling",
+    "Child life specialists",
+    "Gerontology careers",
+    "Helping across the lifespan"
+   ]
+  }
  ]
 };
 window.CONTENT["human-growth-development"].quizzes = {
@@ -1903,6 +2126,709 @@ window.CONTENT["human-growth-development"].quizzes = {
     }
    ]
   }
+ ],
+ "2": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Piaget's stage for infants is:",
+     "options": [
+      "Sensorimotor",
+      "Concrete operational",
+      "Formal operational",
+      "Preoperational"
+     ],
+     "answer": 0,
+     "explanation": "Infants learn through senses and movement.",
+     "chapter": 2
+    },
+    {
+     "q": "A study that follows the same people over many years is:",
+     "options": [
+      "Case study",
+      "Survey",
+      "Cross-sectional",
+      "Longitudinal"
+     ],
+     "answer": 3,
+     "explanation": "Cross-sectional compares different ages at one time.",
+     "chapter": 1
+    },
+    {
+     "q": "A family that includes a stepparent and stepchildren is:",
+     "options": [
+      "Extended",
+      "Nuclear",
+      "Blended",
+      "Single-parent"
+     ],
+     "answer": 2,
+     "explanation": "Blended families combine previous families.",
+     "chapter": 3
+    },
+    {
+     "q": "Maslow said people must meet which needs first?",
+     "options": [
+      "Physiological needs",
+      "Love and belonging",
+      "Self-actualization",
+      "Esteem needs"
+     ],
+     "answer": 0,
+     "explanation": "Food, water, and rest come first.",
+     "chapter": 2
+    },
+    {
+     "q": "The three domains of development are physical, cognitive, and:",
+     "options": [
+      "Financial",
+      "Social-emotional",
+      "Political",
+      "Spiritual only"
+     ],
+     "answer": 1,
+     "explanation": "They interact with each other.",
+     "chapter": 1
+    },
+    {
+     "q": "Kohlberg is known for his theory of:",
+     "options": [
+      "Moral development",
+      "Cognitive development",
+      "Attachment",
+      "Hierarchy of needs"
+     ],
+     "answer": 0,
+     "explanation": "He described levels of moral reasoning.",
+     "chapter": 2
+    },
+    {
+     "q": "The debate about heredity versus environment is called:",
+     "options": [
+      "Theory vs. practice",
+      "Stage vs. continuous",
+      "Nature vs. nurture",
+      "Mind vs. body"
+     ],
+     "answer": 2,
+     "explanation": "Both interact in development.",
+     "chapter": 1
+    },
+    {
+     "q": "A parenting style combining warmth with clear limits is:",
+     "options": [
+      "Permissive",
+      "Authoritative",
+      "Authoritarian",
+      "Uninvolved"
+     ],
+     "answer": 1,
+     "explanation": "It's linked to the best outcomes.",
+     "chapter": 3
+    },
+    {
+     "q": "Vygotsky's 'zone of proximal development' is:",
+     "options": [
+      "What a learner can do alone",
+      "A stage of puberty",
+      "The brain's language center",
+      "What a learner can do with help"
+     ],
+     "answer": 3,
+     "explanation": "Scaffolding supports learning in this zone.",
+     "chapter": 2
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "Frequent 'no' and tantrums in toddlers are:",
+     "options": [
+      "Signs of illness",
+      "Rare",
+      "Signs of poor parenting always",
+      "Normal parts of seeking independence"
+     ],
+     "answer": 3,
+     "explanation": "Patience and consistency help.",
+     "chapter": 6
+    },
+    {
+     "q": "Erikson's stage for toddlers is:",
+     "options": [
+      "Trust vs. mistrust",
+      "Identity vs. role confusion",
+      "Generativity vs. stagnation",
+      "Autonomy vs. shame and doubt"
+     ],
+     "answer": 3,
+     "explanation": "Toddlers want independence.",
+     "chapter": 6
+    },
+    {
+     "q": "Newborns are quickly assessed using the:",
+     "options": [
+      "Apgar score",
+      "Glasgow Coma Scale",
+      "Braden scale",
+      "BMI"
+     ],
+     "answer": 0,
+     "explanation": "It checks color, heart rate, reflexes, tone, breathing.",
+     "chapter": 4
+    },
+    {
+     "q": "Folic acid before and during pregnancy helps prevent:",
+     "options": [
+      "Neural tube defects",
+      "Tooth decay",
+      "Colds",
+      "Allergies"
+     ],
+     "answer": 0,
+     "explanation": "Example: spina bifida.",
+     "chapter": 4
+    },
+    {
+     "q": "Substances that can cause birth defects are:",
+     "options": [
+      "Hormones",
+      "Vitamins",
+      "Teratogens",
+      "Antibodies"
+     ],
+     "answer": 2,
+     "explanation": "Alcohol is a common teratogen.",
+     "chapter": 4
+    },
+    {
+     "q": "To reduce SIDS risk, infants should sleep:",
+     "options": [
+      "On their stomachs",
+      "With pillows",
+      "On their backs",
+      "In adult beds"
+     ],
+     "answer": 2,
+     "explanation": "'Back to sleep.'",
+     "chapter": 5
+    },
+    {
+     "q": "Major organs form during which prenatal period?",
+     "options": [
+      "Embryonic",
+      "Postnatal",
+      "Fetal",
+      "Germinal"
+     ],
+     "answer": 0,
+     "explanation": "Weeks 3–8.",
+     "chapter": 4
+    },
+    {
+     "q": "Understanding that objects exist when out of sight is:",
+     "options": [
+      "Conservation",
+      "Object permanence",
+      "Abstract thinking",
+      "Egocentrism"
+     ],
+     "answer": 1,
+     "explanation": "It develops in infancy.",
+     "chapter": 5
+    },
+    {
+     "q": "Erikson's stage for infants is:",
+     "options": [
+      "Initiative vs. guilt",
+      "Trust vs. mistrust",
+      "Autonomy vs. shame",
+      "Industry vs. inferiority"
+     ],
+     "answer": 1,
+     "explanation": "Consistent care builds trust.",
+     "chapter": 5
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "The brain area still developing in adolescence that controls judgment is the:",
+     "options": [
+      "Prefrontal cortex",
+      "Spinal cord",
+      "Brainstem",
+      "Cerebellum"
+     ],
+     "answer": 0,
+     "explanation": "It matures in the mid-20s.",
+     "chapter": 9
+    },
+    {
+     "q": "Erikson's stage for adolescents is:",
+     "options": [
+      "Industry vs. inferiority",
+      "Identity vs. role confusion",
+      "Intimacy vs. isolation",
+      "Integrity vs. despair"
+     ],
+     "answer": 1,
+     "explanation": "Teens explore who they are.",
+     "chapter": 9
+    },
+    {
+     "q": "Understanding that quantity stays the same when shape changes is:",
+     "options": [
+      "Egocentrism",
+      "Symbolic play",
+      "Conservation",
+      "Object permanence"
+     ],
+     "answer": 2,
+     "explanation": "It develops in the concrete operational stage.",
+     "chapter": 8
+    },
+    {
+     "q": "Preschoolers who can't see things from another's view show:",
+     "options": [
+      "Egocentrism",
+      "Conservation",
+      "Abstract thinking",
+      "Object permanence"
+     ],
+     "answer": 0,
+     "explanation": "It's typical of the preoperational stage.",
+     "chapter": 7
+    },
+    {
+     "q": "Erikson's stage for preschoolers is:",
+     "options": [
+      "Trust vs. mistrust",
+      "Industry vs. inferiority",
+      "Intimacy vs. isolation",
+      "Initiative vs. guilt"
+     ],
+     "answer": 3,
+     "explanation": "They take initiative in play.",
+     "chapter": 7
+    },
+    {
+     "q": "For preschoolers, play is important because it:",
+     "options": [
+      "Prevents growth",
+      "Helps them learn and develop skills",
+      "Wastes time",
+      "Replaces sleep"
+     ],
+     "answer": 1,
+     "explanation": "Play is a child's work.",
+     "chapter": 7
+    },
+    {
+     "q": "Abstract reasoning develops in Piaget's:",
+     "options": [
+      "Concrete operational stage",
+      "Sensorimotor stage",
+      "Preoperational stage",
+      "Formal operational stage"
+     ],
+     "answer": 3,
+     "explanation": "It begins in adolescence.",
+     "chapter": 9
+    },
+    {
+     "q": "Erikson's stage for school-age children is:",
+     "options": [
+      "Industry vs. inferiority",
+      "Initiative vs. guilt",
+      "Autonomy vs. shame",
+      "Identity vs. role confusion"
+     ],
+     "answer": 0,
+     "explanation": "Children build competence.",
+     "chapter": 8
+    },
+    {
+     "q": "A common concern in middle childhood is:",
+     "options": [
+      "Teething",
+      "Retirement",
+      "Bullying",
+      "Menopause"
+     ],
+     "answer": 2,
+     "explanation": "Schools and families can address it.",
+     "chapter": 8
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "The end of menstruation in middle adulthood is:",
+     "options": [
+      "Ovulation",
+      "Puberty",
+      "Menopause",
+      "Menarche"
+     ],
+     "answer": 2,
+     "explanation": "It usually occurs around age 50.",
+     "chapter": 11
+    },
+    {
+     "q": "A major focus of early adulthood is:",
+     "options": [
+      "Puberty",
+      "Careers and relationships",
+      "Teething",
+      "Retirement"
+     ],
+     "answer": 1,
+     "explanation": "Many also start families.",
+     "chapter": 10
+    },
+    {
+     "q": "Adults caring for both children and aging parents are the:",
+     "options": [
+      "Sandwich generation",
+      "Silent generation",
+      "Baby boomers",
+      "Lost generation"
+     ],
+     "answer": 0,
+     "explanation": "It can be very stressful.",
+     "chapter": 11
+    },
+    {
+     "q": "Erikson's stage for early adulthood is:",
+     "options": [
+      "Integrity vs. despair",
+      "Identity vs. role confusion",
+      "Generativity vs. stagnation",
+      "Intimacy vs. isolation"
+     ],
+     "answer": 3,
+     "explanation": "Forming close relationships.",
+     "chapter": 10
+    },
+    {
+     "q": "Which statement about aging is true?",
+     "options": [
+      "Dementia is not a normal part of aging",
+      "Older adults can't learn",
+      "All older adults have dementia",
+      "Aging means disability"
+     ],
+     "answer": 0,
+     "explanation": "Many older adults stay sharp.",
+     "chapter": 12
+    },
+    {
+     "q": "Physical abilities usually peak in:",
+     "options": [
+      "Infancy",
+      "Middle adulthood",
+      "Early adulthood",
+      "Older adulthood"
+     ],
+     "answer": 2,
+     "explanation": "Healthy habits now pay off later.",
+     "chapter": 10
+    },
+    {
+     "q": "Erikson's stage for middle adulthood is:",
+     "options": [
+      "Generativity vs. stagnation",
+      "Industry vs. inferiority",
+      "Intimacy vs. isolation",
+      "Integrity vs. despair"
+     ],
+     "answer": 0,
+     "explanation": "Contributing to the next generation.",
+     "chapter": 11
+    },
+    {
+     "q": "Erikson's final stage is:",
+     "options": [
+      "Generativity vs. stagnation",
+      "Integrity vs. despair",
+      "Trust vs. mistrust",
+      "Intimacy vs. isolation"
+     ],
+     "answer": 1,
+     "explanation": "Reflecting on one's life.",
+     "chapter": 12
+    },
+    {
+     "q": "The first stage of grief described by Kübler-Ross is:",
+     "options": [
+      "Anger",
+      "Acceptance",
+      "Bargaining",
+      "Denial"
+     ],
+     "answer": 3,
+     "explanation": "Then anger, bargaining, depression, acceptance.",
+     "chapter": 12
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "Community resources help families facing:",
+     "options": [
+      "Illness, disability, or financial hardship",
+      "Only vacations",
+      "Only celebrations",
+      "No challenges"
+     ],
+     "answer": 0,
+     "explanation": "Support networks reduce stress.",
+     "chapter": 14
+    },
+    {
+     "q": "Services that care for older adults during the day are:",
+     "options": [
+      "Hospitals",
+      "Schools",
+      "Adult day services",
+      "Preschools"
+     ],
+     "answer": 2,
+     "explanation": "They support families who work.",
+     "chapter": 13
+    },
+    {
+     "q": "The first step in career planning is:",
+     "options": [
+      "Assessing your interests and skills",
+      "Skipping education",
+      "Retiring",
+      "Applying everywhere"
+     ],
+     "answer": 0,
+     "explanation": "Self-knowledge guides choices.",
+     "chapter": 15
+    },
+    {
+     "q": "Managing time and money helps families:",
+     "options": [
+      "Increase stress",
+      "Avoid all problems",
+      "Skip planning",
+      "Meet their needs"
+     ],
+     "answer": 3,
+     "explanation": "Planning builds stability.",
+     "chapter": 14
+    },
+    {
+     "q": "Assisted living facilities provide:",
+     "options": [
+      "Child care",
+      "Housing with some help for daily activities",
+      "Schooling",
+      "Full hospital care"
+     ],
+     "answer": 1,
+     "explanation": "Residents keep much independence.",
+     "chapter": 13
+    },
+    {
+     "q": "Families meet emotional needs by providing:",
+     "options": [
+      "Only shelter",
+      "Support and connection",
+      "Only money",
+      "Only food"
+     ],
+     "answer": 1,
+     "explanation": "Emotional needs are as important as physical ones.",
+     "chapter": 14
+    },
+    {
+     "q": "A summary of education and experience is a:",
+     "options": [
+      "Cover letter",
+      "Reference",
+      "Transcript",
+      "Résumé"
+     ],
+     "answer": 3,
+     "explanation": "Keep it clear and honest.",
+     "chapter": 15
+    },
+    {
+     "q": "When choosing child care, families should check:",
+     "options": [
+      "Only price",
+      "Nothing",
+      "Licensing and staff-to-child ratios",
+      "Only location"
+     ],
+     "answer": 2,
+     "explanation": "Quality and safety matter.",
+     "chapter": 13
+    },
+    {
+     "q": "Communication and teamwork are examples of:",
+     "options": [
+      "Soft skills",
+      "Technical skills",
+      "Degrees",
+      "Certifications"
+     ],
+     "answer": 0,
+     "explanation": "Employers value them highly.",
+     "chapter": 15
+    }
+   ]
+  },
+  {
+   "chapters": [
+    16,
+    17
+   ],
+   "questions": [
+    {
+     "q": "Human services careers help people:",
+     "options": [
+      "At every life stage",
+      "Only in old age",
+      "Only at work",
+      "Only in childhood"
+     ],
+     "answer": 0,
+     "explanation": "They support well-being across the lifespan.",
+     "chapter": 17
+    },
+    {
+     "q": "Gerontology careers focus on:",
+     "options": [
+      "Teenagers only",
+      "Infants",
+      "Older adults",
+      "Animals"
+     ],
+     "answer": 2,
+     "explanation": "Demand is growing with an aging population.",
+     "chapter": 17
+    },
+    {
+     "q": "Child life specialists support:",
+     "options": [
+      "Retired adults only",
+      "Athletes only",
+      "Pets",
+      "Children and families in hospitals"
+     ],
+     "answer": 3,
+     "explanation": "They reduce children's fear of medical care.",
+     "chapter": 17
+    },
+    {
+     "q": "Trainers in businesses help employees:",
+     "options": [
+      "Get sick days",
+      "Avoid work",
+      "Learn new skills",
+      "Retire early"
+     ],
+     "answer": 2,
+     "explanation": "Training is a career path in education.",
+     "chapter": 16
+    },
+    {
+     "q": "Social workers help people:",
+     "options": [
+      "Build houses",
+      "Access resources and cope with challenges",
+      "Fix computers",
+      "Sell products"
+     ],
+     "answer": 1,
+     "explanation": "They work in many settings.",
+     "chapter": 17
+    },
+    {
+     "q": "Family counselors help families:",
+     "options": [
+      "Find jobs only",
+      "Plan vacations",
+      "Build homes",
+      "Improve relationships and solve problems"
+     ],
+     "answer": 3,
+     "explanation": "They often hold a license.",
+     "chapter": 17
+    },
+    {
+     "q": "School counselors help students with:",
+     "options": [
+      "Taxes",
+      "Academic, career, and personal concerns",
+      "Medical surgery",
+      "Car repair"
+     ],
+     "answer": 1,
+     "explanation": "They often need a master's degree.",
+     "chapter": 16
+    },
+    {
+     "q": "Teachers usually need:",
+     "options": [
+      "A degree and certification",
+      "No training",
+      "Only a driver's license",
+      "A medical license"
+     ],
+     "answer": 0,
+     "explanation": "Requirements vary by state.",
+     "chapter": 16
+    },
+    {
+     "q": "Early childhood educators need knowledge of:",
+     "options": [
+      "Child development and learning",
+      "Accounting only",
+      "Engineering",
+      "Surgery"
+     ],
+     "answer": 0,
+     "explanation": "They plan age-appropriate activities.",
+     "chapter": 16
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["human-growth-development"].bookInfo = {
@@ -1910,6 +2836,12 @@ window.CONTENT["human-growth-development"].bookInfo = {
   "edition": "10th edition (2026)",
   "source": "Cengage / National Geographic Learning table of contents",
   "chapters": 24,
+  "unit": "Chapter"
+ },
+ "2": {
+  "edition": "3rd edition (2024)",
+  "source": "Goodheart-Willcox table of contents",
+  "chapters": 17,
   "unit": "Chapter"
  }
 };
