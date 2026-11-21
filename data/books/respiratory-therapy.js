@@ -2,6 +2,762 @@
 window.CONTENT = window.CONTENT || {};
 window.CONTENT["respiratory-therapy"] = window.CONTENT["respiratory-therapy"] || {};
 window.CONTENT["respiratory-therapy"].summaries = {
+ "0": [
+  {
+   "number": 1,
+   "title": "Early History of Respiratory Care",
+   "summary": [
+    "Respiratory care grew from early oxygen therapy and inhalation treatments. Oxygen was discovered in the 1770s (Priestley, Scheele; named by Lavoisier). The polio epidemics brought the iron lung (negative-pressure ventilation), and positive-pressure ventilators followed. The profession formed in the 1940s as 'inhalation therapy' and is represented today by the AARC."
+   ],
+   "keyPoints": [
+    "Oxygen discovered in the 1770s",
+    "Iron lung = negative pressure",
+    "Inhalation therapy became respiratory care",
+    "AARC founded 1947"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "The Profession of Respiratory Care",
+   "summary": [
+    "Respiratory therapists (RTs) assess, treat, and educate patients with heart and lung disorders. Credentials are given by the NBRC: CRT (entry level, via the TMC exam) and RRT (advanced, via the TMC high cut score and the Clinical Simulation Exam). CoARC accredits programs, and states license RTs. The AARC is the professional society."
+   ],
+   "keyPoints": [
+    "NBRC gives CRT and RRT",
+    "CoARC accredits programs",
+    "AARC = professional society",
+    "States license RTs"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Quality, Patient Safety, and Communication",
+   "summary": [
+    "Quality care uses protocols, evidence-based practice, and quality improvement. Patient safety includes two patient identifiers, preventing falls and errors, and electrical and fire safety (oxygen supports combustion). Good communication, including SBAR handoffs and teach-back, reduces errors."
+   ],
+   "keyPoints": [
+    "Use two patient identifiers",
+    "SBAR for handoffs",
+    "Oxygen supports fire",
+    "Protocols guide therapy"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Principles of Infection Prevention and Control",
+   "summary": [
+    "Infections spread by contact, droplet, and airborne routes. Hand hygiene is the single most important prevention method. Standard precautions apply to all patients; transmission-based precautions add contact, droplet, or airborne measures (N95 and negative-pressure rooms for TB). Equipment is cleaned, disinfected, or sterilized, and ventilator-associated pneumonia (VAP) bundles reduce infection."
+   ],
+   "keyPoints": [
+    "Hand hygiene is most important",
+    "Airborne: N95 + negative pressure",
+    "Standard precautions for all",
+    "VAP bundle: head of bed 30°+"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Ethical and Legal Implications of Practice",
+   "summary": [
+    "Ethical principles are autonomy, beneficence, nonmaleficence, justice, veracity, confidentiality, and role fidelity. Legal issues include negligence and malpractice, HIPAA privacy, informed consent, scope of practice, and documentation."
+   ],
+   "keyPoints": [
+    "Autonomy and informed consent",
+    "Negligence and malpractice",
+    "HIPAA confidentiality",
+    "Work within scope of practice"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Physical Principles of Respiratory Care",
+   "summary": [
+    "Gas laws explain respiratory care: Boyle's law (pressure and volume are inversely related), Charles's law (volume and temperature), Gay-Lussac's law, and Dalton's law (total pressure equals the sum of partial pressures). Other principles include humidity, the Bernoulli and Venturi effects, laminar vs. turbulent flow, Poiseuille's law, and surface tension (Laplace's law)."
+   ],
+   "keyPoints": [
+    "Boyle: P and V inverse",
+    "Dalton: partial pressures add up",
+    "Venturi principle entrains air",
+    "Laplace: surface tension in alveoli"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "E-Medicine in Respiratory Care",
+   "summary": [
+    "Technology supports care through electronic health records, telehealth and remote monitoring, computerized protocols, and clinical decision support. RTs must protect patient data and verify information sources."
+   ],
+   "keyPoints": [
+    "EHRs",
+    "Telehealth and remote monitoring",
+    "Clinical decision support",
+    "Protect patient data"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Fundamentals of Respiratory Care Research",
+   "summary": [
+    "Evidence-based practice relies on research. Designs include randomized controlled trials (the strongest single study), cohort, case-control, and descriptive studies; systematic reviews and meta-analyses rank highest. Key concepts include hypotheses, variables, statistical significance (p < 0.05), and ethics oversight by IRBs."
+   ],
+   "keyPoints": [
+    "RCTs are strong evidence",
+    "Meta-analyses rank highest",
+    "p < 0.05 = significant",
+    "IRB approves research"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "The Respiratory System",
+   "summary": [
+    "The upper airway (nose, pharynx, larynx) warms, humidifies, and filters air. The lower airway branches from the trachea (carina at about T4–T5) into bronchi, bronchioles, and alveoli, where gas exchange happens. The right mainstem bronchus is straighter, so aspirated objects and deep tubes go right. The diaphragm (phrenic nerve, C3–C5) is the main breathing muscle."
+   ],
+   "keyPoints": [
+    "Right mainstem more vertical",
+    "Alveoli = gas exchange",
+    "Diaphragm: phrenic nerve C3–C5",
+    "Upper airway warms, humidifies, filters"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "The Cardiovascular System",
+   "summary": [
+    "The heart pumps blood through pulmonary and systemic circuits. Cardiac output = heart rate × stroke volume (normal about 4–8 L/min). Stroke volume depends on preload, afterload, and contractility. The conduction system runs from the SA node to the AV node, bundle of His, bundle branches, and Purkinje fibers."
+   ],
+   "keyPoints": [
+    "CO = HR × SV",
+    "Preload, afterload, contractility",
+    "SA node is the pacemaker",
+    "Right heart → lungs"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Ventilation",
+   "summary": [
+    "Ventilation moves air in and out. Inspiration is active (diaphragm contracts); normal exhalation is passive. Compliance is how easily the lungs stretch; resistance opposes airflow. Minute ventilation = tidal volume × rate. Dead space doesn't take part in gas exchange; alveolar ventilation does."
+   ],
+   "keyPoints": [
+    "Inspiration active, exhalation passive",
+    "Compliance = stretchiness",
+    "VE = VT × f",
+    "Dead space vs. alveolar ventilation"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Gas Exchange and Transport",
+   "summary": [
+    "Oxygen and CO2 diffuse across the alveolar-capillary membrane. Most oxygen is carried bound to hemoglobin; the oxyhemoglobin dissociation curve shifts right (easier release) with acidosis, high CO2, fever, and high 2,3-DPG. Most CO2 travels as bicarbonate. V/Q mismatch and shunt cause hypoxemia."
+   ],
+   "keyPoints": [
+    "Most O2 carried on hemoglobin",
+    "Right shift = easier O2 release",
+    "Most CO2 as bicarbonate",
+    "Shunt and V/Q mismatch → hypoxemia"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Solutions, Body Fluids, and Electrolytes",
+   "summary": [
+    "Body water is divided into intracellular and extracellular compartments. Key electrolytes include sodium (main extracellular cation), potassium (main intracellular cation), chloride, and bicarbonate. Imbalances such as hypokalemia can cause arrhythmias and muscle weakness. IV solutions can be isotonic, hypotonic, or hypertonic."
+   ],
+   "keyPoints": [
+    "Na+ main extracellular cation",
+    "K+ main intracellular cation",
+    "Hypokalemia → arrhythmias",
+    "Isotonic, hypotonic, hypertonic"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Acid-Base Balance",
+   "summary": [
+    "Normal arterial pH is 7.35–7.45, PaCO2 35–45 mm Hg, and HCO3- 22–26 mEq/L. Respiratory acidosis comes from hypoventilation (high PaCO2); respiratory alkalosis from hyperventilation. Metabolic acidosis (low HCO3-) occurs with DKA, lactic acidosis, or renal failure; metabolic alkalosis with vomiting or diuretics. The lungs and kidneys compensate."
+   ],
+   "keyPoints": [
+    "pH 7.35–7.45",
+    "PaCO2 35–45; HCO3- 22–26",
+    "High CO2 = respiratory acidosis",
+    "Kidneys compensate slowly"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Regulation of Breathing",
+   "summary": [
+    "Breathing is controlled by the medulla and pons. Central chemoreceptors respond mainly to CO2 (via pH of cerebrospinal fluid); peripheral chemoreceptors in the carotid and aortic bodies respond mainly to low PaO2. Reflexes include the Hering-Breuer inflation reflex. Abnormal patterns include Cheyne-Stokes, Kussmaul, and Biot breathing."
+   ],
+   "keyPoints": [
+    "Medulla controls breathing",
+    "Central chemoreceptors → CO2",
+    "Peripheral chemoreceptors → low O2",
+    "Kussmaul = deep, fast (acidosis)"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Bedside Assessment of the Patient",
+   "summary": [
+    "Assessment includes the interview (dyspnea, cough, sputum, chest pain) and physical exam: inspection, palpation, percussion, and auscultation. Normal vitals: pulse 60–100, respirations 12–20, SpO2 over 95%. Breath sounds include crackles (fluid, opening alveoli), wheezes (narrowed airways), rhonchi (secretions), and stridor (upper airway obstruction)."
+   ],
+   "keyPoints": [
+    "Inspect, palpate, percuss, auscultate",
+    "Wheezes = narrowed airways",
+    "Stridor = upper airway emergency",
+    "Crackles = fluid/atelectasis"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Interpreting Clinical and Laboratory Data",
+   "summary": [
+    "Key labs include the CBC (hemoglobin, WBCs for infection), electrolytes, BUN and creatinine (kidney function), cardiac markers (troponin), BNP (heart failure), and sputum Gram stain and culture. Results guide diagnosis and therapy."
+   ],
+   "keyPoints": [
+    "CBC: Hgb, WBC",
+    "Troponin = heart damage",
+    "BNP = heart failure",
+    "Sputum culture identifies organisms"
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Interpreting the Electrocardiogram",
+   "summary": [
+    "The ECG shows the P wave (atrial depolarization), QRS complex (ventricular depolarization), and T wave (ventricular repolarization). Normal sinus rhythm is 60–100/min. Dysrhythmias include sinus tachycardia and bradycardia, atrial fibrillation, PVCs, ventricular tachycardia, and ventricular fibrillation (defibrillate)."
+   ],
+   "keyPoints": [
+    "P = atria; QRS = ventricles",
+    "T wave = repolarization",
+    "V-fib → defibrillate",
+    "A-fib: irregular, no P waves"
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Analysis and Monitoring of Gas Exchange",
+   "summary": [
+    "Arterial blood gases measure pH, PaCO2, PaO2 (normal 80–100 mm Hg), HCO3-, and SaO2. The radial artery is preferred; perform the modified Allen test first. Pulse oximetry (SpO2) is noninvasive but unreliable with carbon monoxide poisoning. Capnography measures exhaled CO2 (PetCO2) and confirms tube placement."
+   ],
+   "keyPoints": [
+    "PaO2 80–100 mm Hg",
+    "Modified Allen test before radial stick",
+    "SpO2 falsely high with CO poisoning",
+    "Capnography confirms ET tube"
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Pulmonary Function Testing",
+   "summary": [
+    "Spirometry measures FVC, FEV1, and the FEV1/FVC ratio. Obstructive disease (asthma, COPD) has a low FEV1/FVC ratio (under 70%); restrictive disease (fibrosis) has reduced lung volumes with a normal or high ratio. Other tests include lung volumes (TLC, RV), DLCO (diffusing capacity), and bronchodilator response."
+   ],
+   "keyPoints": [
+    "FEV1/FVC < 70% = obstruction",
+    "Restrictive = low TLC",
+    "DLCO measures diffusion",
+    "Bronchodilator response in asthma"
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Review of Thoracic Imaging",
+   "summary": [
+    "Chest X-rays (PA view preferred; AP for bedside) show the lungs, heart, and tubes. White (radiopaque) areas show dense tissue or fluid; dark (radiolucent) areas show air. Findings include infiltrates, pneumothorax, pleural effusion, and atelectasis. The ET tube tip should be 3–5 cm above the carina. CT and ultrasound add detail."
+   ],
+   "keyPoints": [
+    "PA view preferred",
+    "Air is dark; fluid is white",
+    "ET tip 3–5 cm above carina",
+    "CT gives detail"
+   ]
+  },
+  {
+   "number": 22,
+   "title": "Flexible Bronchoscopy and the Respiratory Therapist",
+   "summary": [
+    "Flexible bronchoscopy looks inside the airways to diagnose (biopsy, bronchoalveolar lavage) and treat (remove secretions or foreign bodies). RTs assist with preparation, sedation monitoring, oxygen, and specimen handling. Complications include hypoxemia, bleeding, and pneumothorax."
+   ],
+   "keyPoints": [
+    "Diagnostic and therapeutic",
+    "BAL collects samples",
+    "Monitor SpO2 during procedure",
+    "Risks: hypoxemia, bleeding"
+   ]
+  },
+  {
+   "number": 23,
+   "title": "Nutrition Assessment",
+   "summary": [
+    "Malnutrition weakens breathing muscles and immunity. Assessment includes weight, BMI, albumin and prealbumin, and diet history. Indirect calorimetry measures energy needs; the respiratory quotient (RQ, about 0.8 normally) shows fuel use. Overfeeding carbohydrates raises CO2 production."
+   ],
+   "keyPoints": [
+    "Malnutrition weakens respiratory muscles",
+    "Indirect calorimetry measures energy needs",
+    "RQ ~0.8",
+    "Excess carbs → more CO2"
+   ]
+  },
+  {
+   "number": 24,
+   "title": "Pneumonia",
+   "summary": [
+    "Pneumonia is infection of the lung tissue, classified as community-acquired, hospital-acquired, or ventilator-associated. Common causes include Streptococcus pneumoniae (the most common bacterial cause), viruses, and aspiration. Signs: fever, cough, crackles, infiltrate on X-ray. Treatment includes antibiotics, oxygen, and airway clearance; vaccines prevent some cases."
+   ],
+   "keyPoints": [
+    "S. pneumoniae most common",
+    "CAP, HAP, VAP",
+    "Infiltrate on X-ray",
+    "Vaccines prevent"
+   ]
+  },
+  {
+   "number": 25,
+   "title": "Obstructive Lung Disease: COPD, Asthma, and Related Diseases",
+   "summary": [
+    "COPD (emphysema and chronic bronchitis) is mainly caused by smoking; smoking cessation is the most important intervention. Asthma is reversible airway inflammation and bronchospasm treated with bronchodilators and inhaled steroids. Related diseases include bronchiectasis and cystic fibrosis. COPD patients with chronic CO2 retention need careful oxygen titration."
+   ],
+   "keyPoints": [
+    "Smoking cessation most important",
+    "Asthma is reversible",
+    "Inhaled steroids control inflammation",
+    "Titrate O2 carefully in CO2 retainers"
+   ]
+  },
+  {
+   "number": 26,
+   "title": "Interstitial Lung Disease",
+   "summary": [
+    "Interstitial lung diseases inflame and scar the lung tissue, causing restrictive patterns, reduced DLCO, dry crackles, and dyspnea. Causes include idiopathic pulmonary fibrosis, occupational exposures (asbestosis, silicosis), sarcoidosis, and drug reactions."
+   ],
+   "keyPoints": [
+    "Restrictive pattern",
+    "Reduced DLCO",
+    "Asbestosis and silicosis",
+    "Idiopathic pulmonary fibrosis"
+   ]
+  },
+  {
+   "number": 27,
+   "title": "Pleural Diseases",
+   "summary": [
+    "Pleural effusion is fluid in the pleural space (transudate or exudate), treated with thoracentesis. Pneumothorax is air in the pleural space; tension pneumothorax (tracheal shift away, hypotension) is an emergency treated with needle decompression and a chest tube. Empyema is pus in the pleural space."
+   ],
+   "keyPoints": [
+    "Effusion → thoracentesis",
+    "Tension pneumothorax is an emergency",
+    "Chest tube drains air/fluid",
+    "Empyema = pus"
+   ]
+  },
+  {
+   "number": 28,
+   "title": "Pulmonary Vascular Disease",
+   "summary": [
+    "Pulmonary embolism, usually from a deep vein thrombosis, causes sudden dyspnea, tachycardia, and hypoxemia; it's diagnosed by CT angiography and treated with anticoagulants. Pulmonary hypertension raises pressure in the pulmonary arteries and can cause cor pulmonale (right heart failure)."
+   ],
+   "keyPoints": [
+    "PE usually from DVT",
+    "CT angiography diagnoses PE",
+    "Anticoagulants treat",
+    "Cor pulmonale = right heart failure"
+   ]
+  },
+  {
+   "number": 29,
+   "title": "Acute Respiratory Distress Syndrome",
+   "summary": [
+    "ARDS is acute, noncardiogenic pulmonary edema with severe hypoxemia (PaO2/FiO2 ratio of 300 or less), bilateral infiltrates, and stiff lungs. Causes include sepsis, pneumonia, and trauma. Treatment uses lung-protective ventilation (tidal volume 4–8 mL/kg ideal body weight, plateau pressure under 30 cm H2O), PEEP, and prone positioning."
+   ],
+   "keyPoints": [
+    "P/F ratio ≤ 300",
+    "Low tidal volume 4–8 mL/kg IBW",
+    "Plateau pressure < 30",
+    "PEEP and prone positioning"
+   ]
+  },
+  {
+   "number": 30,
+   "title": "Respiratory Management of Trauma, Obesity, Near Drowning, and Burns",
+   "summary": [
+    "Chest trauma includes flail chest, rib fractures, and pulmonary contusion. Obesity reduces lung volumes and causes hypoventilation. Drowning causes hypoxemia and aspiration. Burns and smoke inhalation can cause airway swelling (consider early intubation) and carbon monoxide poisoning (treat with 100% oxygen or hyperbaric oxygen)."
+   ],
+   "keyPoints": [
+    "Flail chest: paradoxical movement",
+    "Smoke inhalation → early intubation",
+    "CO poisoning → 100% O2",
+    "Obesity hypoventilation"
+   ]
+  },
+  {
+   "number": 31,
+   "title": "Acute Heart Failure",
+   "summary": [
+    "Left heart failure causes pulmonary edema (crackles, dyspnea, pink frothy sputum, orthopnea); right heart failure causes peripheral edema and jugular venous distension. Treatment includes oxygen, diuretics, vasodilators, and CPAP or noninvasive ventilation."
+   ],
+   "keyPoints": [
+    "Left HF → pulmonary edema",
+    "Right HF → peripheral edema, JVD",
+    "CPAP helps cardiogenic edema",
+    "Diuretics remove fluid"
+   ]
+  },
+  {
+   "number": 32,
+   "title": "Lung Cancer",
+   "summary": [
+    "Lung cancer is the leading cause of cancer death, mostly caused by smoking. Types are non-small cell (adenocarcinoma, squamous cell, large cell) and small cell (aggressive). Screening with low-dose CT is recommended for high-risk smokers. Treatment includes surgery, chemotherapy, radiation, and targeted therapy."
+   ],
+   "keyPoints": [
+    "Leading cancer death",
+    "NSCLC vs. small cell",
+    "Low-dose CT screening",
+    "Smoking is main cause"
+   ]
+  },
+  {
+   "number": 33,
+   "title": "Neuromuscular and Other Diseases of the Chest Wall",
+   "summary": [
+    "Neuromuscular diseases such as Guillain-Barré syndrome, myasthenia gravis, ALS, and muscular dystrophy weaken breathing muscles. Monitor vital capacity and maximal inspiratory pressure (MIP/NIF); declining values signal need for ventilatory support. Chest wall disorders include kyphoscoliosis."
+   ],
+   "keyPoints": [
+    "Monitor VC and MIP",
+    "Guillain-Barré: ascending weakness",
+    "Myasthenia gravis",
+    "Kyphoscoliosis restricts"
+   ]
+  },
+  {
+   "number": 34,
+   "title": "Disorders of Sleep",
+   "summary": [
+    "Obstructive sleep apnea (OSA) is airway collapse during sleep, causing snoring, apneas, and daytime sleepiness. It's diagnosed by polysomnography and measured by the apnea-hypopnea index (AHI). CPAP is the main treatment. Central sleep apnea involves lack of respiratory effort."
+   ],
+   "keyPoints": [
+    "OSA = airway collapse",
+    "Polysomnography diagnoses",
+    "AHI measures severity",
+    "CPAP is main treatment"
+   ]
+  },
+  {
+   "number": 35,
+   "title": "Neonatal and Pediatric Respiratory Disorders",
+   "summary": [
+    "Neonatal disorders include respiratory distress syndrome (surfactant deficiency in premature infants; treat with surfactant), transient tachypnea of the newborn, meconium aspiration, and bronchopulmonary dysplasia. Pediatric disorders include croup (steeple sign, barking cough), epiglottitis (thumb sign; emergency), bronchiolitis (often RSV), and cystic fibrosis."
+   ],
+   "keyPoints": [
+    "RDS → surfactant",
+    "Croup: steeple sign",
+    "Epiglottitis: thumb sign, emergency",
+    "Bronchiolitis often RSV"
+   ]
+  },
+  {
+   "number": 36,
+   "title": "Airway Pharmacology",
+   "summary": [
+    "Bronchodilators include short-acting beta-2 agonists (albuterol, a rescue drug), long-acting beta-agonists, and anticholinergics (ipratropium, tiotropium). Anti-inflammatory drugs include inhaled corticosteroids and leukotriene modifiers. Mucolytics (acetylcysteine) thin secretions. Side effects of beta-agonists include tachycardia and tremor."
+   ],
+   "keyPoints": [
+    "Albuterol = rescue SABA",
+    "Anticholinergics: ipratropium",
+    "Inhaled steroids control asthma",
+    "Beta-agonists → tachycardia, tremor"
+   ]
+  },
+  {
+   "number": 37,
+   "title": "Airway Management",
+   "summary": [
+    "Airway care includes suctioning (limit to 10–15 seconds; preoxygenate), artificial airways (oropharyngeal, nasopharyngeal, endotracheal, tracheostomy), and intubation. Confirm ET tube placement with capnography, breath sounds, and chest X-ray. Cuff pressure is kept at 20–30 cm H2O."
+   ],
+   "keyPoints": [
+    "Suction ≤ 15 seconds",
+    "Confirm tube with capnography",
+    "Cuff pressure 20–30 cm H2O",
+    "Preoxygenate before suctioning"
+   ]
+  },
+  {
+   "number": 38,
+   "title": "Emergency Cardiovascular Life Support",
+   "summary": [
+    "BLS and ACLS include high-quality CPR (rate 100–120/min, depth at least 2 inches in adults, full recoil), early defibrillation for VF and pulseless VT, airway management, and drugs such as epinephrine and amiodarone. Capnography monitors CPR quality and return of spontaneous circulation."
+   ],
+   "keyPoints": [
+    "CPR 100–120/min",
+    "Defibrillate VF/pulseless VT",
+    "Epinephrine in arrest",
+    "Rising PetCO2 suggests ROSC"
+   ]
+  },
+  {
+   "number": 39,
+   "title": "Humidity and Bland Aerosol Therapy",
+   "summary": [
+    "Humidity prevents drying of the airway, especially when the upper airway is bypassed. Devices include heated humidifiers and heat and moisture exchangers (HMEs). Bland aerosols (sterile water or saline) help with upper airway swelling and sputum induction (hypertonic saline)."
+   ],
+   "keyPoints": [
+    "Bypassed airway needs humidity",
+    "HME = 'artificial nose'",
+    "Heated humidifiers",
+    "Hypertonic saline for sputum induction"
+   ]
+  },
+  {
+   "number": 40,
+   "title": "Aerosol Drug Therapy",
+   "summary": [
+    "Aerosol delivery devices include metered-dose inhalers (use with a spacer), dry powder inhalers (need a strong, fast inhalation), small-volume nebulizers, and soft mist inhalers. Particle size matters: 1–5 microns reach the lower airways. Patient technique is key."
+   ],
+   "keyPoints": [
+    "MDI + spacer",
+    "DPI needs fast inhalation",
+    "1–5 micron particles reach lower airways",
+    "Teach technique"
+   ]
+  },
+  {
+   "number": 41,
+   "title": "Storage and Delivery of Medical Gases",
+   "summary": [
+    "Medical gases are stored in color-coded cylinders (U.S.: oxygen green, nitrous oxide blue, CO2 gray, helium brown) and bulk liquid systems. Safety systems prevent wrong connections: PISS (pin index, small cylinders), DISS, and quick-connects. Regulators reduce pressure and flowmeters control flow."
+   ],
+   "keyPoints": [
+    "Oxygen cylinders green (U.S.)",
+    "PISS for small cylinders",
+    "DISS for larger connections",
+    "Secure cylinders upright"
+   ]
+  },
+  {
+   "number": 42,
+   "title": "Medical Gas Therapy",
+   "summary": [
+    "Oxygen treats hypoxemia. Low-flow devices (nasal cannula 1–6 L/min, about 24–44% FiO2) and high-flow devices (Venturi masks for precise FiO2, high-flow nasal cannula) are used. Nonrebreather masks give the highest FiO2 of simple devices. Hazards include oxygen toxicity, fire, absorption atelectasis, and retinopathy of prematurity. Heliox and nitric oxide are specialty gases."
+   ],
+   "keyPoints": [
+    "Nasal cannula 1–6 L/min",
+    "Venturi = precise FiO2",
+    "Nonrebreather = high FiO2",
+    "Oxygen toxicity and fire hazards"
+   ]
+  },
+  {
+   "number": 43,
+   "title": "Lung Expansion Therapy",
+   "summary": [
+    "Lung expansion therapy prevents and treats atelectasis. Incentive spirometry (sustained maximal inspiration) is first choice for alert patients. Others include intermittent positive-pressure breathing (IPPB), CPAP, and deep breathing. Post-op patients benefit most."
+   ],
+   "keyPoints": [
+    "Incentive spirometry first",
+    "Prevents atelectasis",
+    "IPPB and CPAP",
+    "Post-op patients"
+   ]
+  },
+  {
+   "number": 44,
+   "title": "Airway Clearance Therapy",
+   "summary": [
+    "Airway clearance helps remove secretions in conditions like cystic fibrosis and bronchiectasis. Techniques include postural drainage and chest percussion, directed coughing (huff cough), positive expiratory pressure (PEP), oscillating devices (flutter), high-frequency chest wall oscillation (vest), and active cycle of breathing."
+   ],
+   "keyPoints": [
+    "Postural drainage and percussion",
+    "Huff cough",
+    "PEP and flutter devices",
+    "HFCWO vest"
+   ]
+  },
+  {
+   "number": 45,
+   "title": "Respiratory Failure and the Need for Ventilatory Support",
+   "summary": [
+    "Hypoxemic respiratory failure (type I) is PaO2 under 60 mm Hg despite oxygen; hypercapnic (type II) is PaCO2 over 50 mm Hg with acidosis. Signs needing ventilation include apnea, severe acidosis, fatigue, and inability to protect the airway."
+   ],
+   "keyPoints": [
+    "Type I: PaO2 < 60",
+    "Type II: PaCO2 > 50 with acidosis",
+    "Fatigue and apnea → ventilate",
+    "Airway protection"
+   ]
+  },
+  {
+   "number": 46,
+   "title": "Mechanical Ventilators",
+   "summary": [
+    "Ventilators deliver breaths with control variables (volume or pressure), trigger (time, pressure, or flow), limit, and cycle. Modes include assist-control, SIMV, pressure support, and pressure-regulated volume control. Alarms warn about high pressure, low pressure (disconnect), and apnea."
+   ],
+   "keyPoints": [
+    "Volume vs. pressure control",
+    "Trigger, limit, cycle",
+    "A/C, SIMV, PSV",
+    "Low-pressure alarm = disconnect"
+   ]
+  },
+  {
+   "number": 47,
+   "title": "Physiology of Ventilatory Support",
+   "summary": [
+    "Positive pressure ventilation raises intrathoracic pressure, which can lower venous return and cardiac output. Risks include barotrauma, volutrauma, and auto-PEEP. PEEP improves oxygenation by keeping alveoli open."
+   ],
+   "keyPoints": [
+    "Positive pressure lowers venous return",
+    "Barotrauma and volutrauma",
+    "Auto-PEEP from air trapping",
+    "PEEP improves oxygenation"
+   ]
+  },
+  {
+   "number": 48,
+   "title": "Patient-Ventilator Interactions",
+   "summary": [
+    "Patient-ventilator asynchrony (trigger, flow, and cycle asynchrony) increases work of breathing and discomfort. Solutions include adjusting sensitivity, flow, and modes, as well as appropriate sedation."
+   ],
+   "keyPoints": [
+    "Asynchrony increases work",
+    "Adjust trigger sensitivity",
+    "Flow asynchrony",
+    "Sedation when needed"
+   ]
+  },
+  {
+   "number": 49,
+   "title": "Initiating and Adjusting Invasive Ventilatory Support",
+   "summary": [
+    "Initial settings use tidal volume 6–8 mL/kg ideal body weight, rate 12–20, FiO2 100% then titrate, and PEEP 5 cm H2O. Adjust rate or tidal volume to change PaCO2; adjust FiO2 or PEEP to change PaO2."
+   ],
+   "keyPoints": [
+    "VT 6–8 mL/kg IBW",
+    "Change rate/VT for CO2",
+    "Change FiO2/PEEP for O2",
+    "Start FiO2 high, then titrate"
+   ]
+  },
+  {
+   "number": 50,
+   "title": "Noninvasive Ventilation",
+   "summary": [
+    "NIV (BiPAP, CPAP) supports breathing through a mask without intubation. It works well for COPD exacerbations and cardiogenic pulmonary edema. Contraindications include inability to protect the airway, vomiting, and facial trauma. IPAP supports ventilation; EPAP maintains alveolar recruitment."
+   ],
+   "keyPoints": [
+    "Best for COPD and CHF",
+    "IPAP vs. EPAP",
+    "Need intact airway protection",
+    "Mask fit matters"
+   ]
+  },
+  {
+   "number": 51,
+   "title": "Extracorporeal Life Support",
+   "summary": [
+    "ECMO oxygenates blood and removes CO2 outside the body for severe respiratory or cardiac failure. Venovenous (VV) ECMO supports the lungs; venoarterial (VA) supports both the heart and lungs. Risks include bleeding and clots."
+   ],
+   "keyPoints": [
+    "VV ECMO = lungs",
+    "VA ECMO = heart + lungs",
+    "Anticoagulation needed",
+    "Rescue therapy"
+   ]
+  },
+  {
+   "number": 52,
+   "title": "Monitoring the Patient in the Intensive Care Unit",
+   "summary": [
+    "ICU monitoring includes airway pressures (peak and plateau), compliance, ABGs, capnography, hemodynamics (arterial line, central venous pressure, pulmonary artery catheter), and neurological status."
+   ],
+   "keyPoints": [
+    "Peak vs. plateau pressure",
+    "Compliance calculation",
+    "Arterial line",
+    "CVP and PA catheters"
+   ]
+  },
+  {
+   "number": 53,
+   "title": "Discontinuing Ventilatory Support",
+   "summary": [
+    "Weaning starts when the underlying problem improves. Spontaneous breathing trials (SBTs) with daily sedation interruption are used. The rapid shallow breathing index (RSBI = rate ÷ tidal volume in L) under 105 predicts success. After extubation, watch for stridor."
+   ],
+   "keyPoints": [
+    "Daily SBT",
+    "RSBI < 105",
+    "Sedation interruption",
+    "Post-extubation stridor"
+   ]
+  },
+  {
+   "number": 54,
+   "title": "Neonatal and Pediatric Respiratory Care",
+   "summary": [
+    "Neonatal care includes delivery room resuscitation, oxygen targets to avoid retinopathy of prematurity, CPAP, surfactant, and special ventilators (including high-frequency oscillatory ventilation). Children's smaller airways make them more vulnerable to obstruction."
+   ],
+   "keyPoints": [
+    "Avoid excess O2 in preemies",
+    "Bubble CPAP",
+    "HFOV",
+    "Small airways obstruct easily"
+   ]
+  },
+  {
+   "number": 55,
+   "title": "Health Promotion Through Patient Education",
+   "summary": [
+    "Patient education promotes self-management: inhaler technique, smoking cessation, asthma action plans, and recognizing warning signs. Teaching considers learning domains (cognitive, psychomotor, affective), health literacy, and teach-back."
+   ],
+   "keyPoints": [
+    "Teach-back confirms understanding",
+    "Asthma action plans",
+    "Smoking cessation",
+    "Consider health literacy"
+   ]
+  },
+  {
+   "number": 56,
+   "title": "Cardiopulmonary Rehabilitation",
+   "summary": [
+    "Pulmonary rehabilitation combines exercise training, education, breathing techniques (pursed-lip breathing), nutrition, and psychosocial support. It improves exercise tolerance and quality of life in COPD, but doesn't improve lung function tests."
+   ],
+   "keyPoints": [
+    "Exercise training is core",
+    "Pursed-lip breathing",
+    "Improves quality of life",
+    "Doesn't improve PFTs"
+   ]
+  },
+  {
+   "number": 57,
+   "title": "Respiratory Care in Alternative Settings",
+   "summary": [
+    "RTs work in home care, long-term care, and sleep labs. Home care includes oxygen concentrators, liquid oxygen, portable systems, home ventilators, and CPAP. Medicare covers home oxygen when PaO2 is 55 mm Hg or less, or SpO2 88% or less."
+   ],
+   "keyPoints": [
+    "Oxygen concentrators",
+    "Home oxygen: PaO2 ≤ 55 or SpO2 ≤ 88%",
+    "Home ventilators",
+    "No smoking near oxygen"
+   ]
+  },
+  {
+   "number": 58,
+   "title": "Ethics and the End of Life",
+   "summary": [
+    "End-of-life care respects patient wishes through advance directives, DNR orders, and surrogate decision makers. Palliative care manages symptoms like dyspnea (with opioids and oxygen). Withdrawal of ventilator support follows patient or family wishes with comfort measures."
+   ],
+   "keyPoints": [
+    "Advance directives",
+    "Palliative care eases dyspnea",
+    "Withdrawal of support",
+    "Respect patient wishes"
+   ]
+  }
+ ],
  "1": [
   {
    "number": 1,
@@ -390,6 +1146,2346 @@ window.CONTENT["respiratory-therapy"].summaries = {
  ]
 };
 window.CONTENT["respiratory-therapy"].quizzes = {
+ "0": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Oxygen was discovered in the:",
+     "options": [
+      "1900s",
+      "1950s",
+      "1770s",
+      "1600s"
+     ],
+     "answer": 2,
+     "explanation": "By Priestley and Scheele.",
+     "chapter": 1
+    },
+    {
+     "q": "The iron lung used during the polio epidemics was a:",
+     "options": [
+      "Negative-pressure ventilator",
+      "Nebulizer",
+      "Oxygen concentrator",
+      "Positive-pressure ventilator"
+     ],
+     "answer": 0,
+     "explanation": "It pulled the chest outward.",
+     "chapter": 1
+    },
+    {
+     "q": "The advanced respiratory therapy credential is:",
+     "options": [
+      "CNA",
+      "RRT",
+      "EMT",
+      "CRT"
+     ],
+     "answer": 1,
+     "explanation": "Registered Respiratory Therapist.",
+     "chapter": 2
+    },
+    {
+     "q": "Oxygen is a fire hazard because it:",
+     "options": [
+      "Supports combustion",
+      "Is explosive by itself",
+      "Is flammable gas",
+      "Is toxic"
+     ],
+     "answer": 0,
+     "explanation": "No open flames near oxygen.",
+     "chapter": 3
+    },
+    {
+     "q": "Respiratory therapy credentials (CRT, RRT) are granted by the:",
+     "options": [
+      "AARC",
+      "NBRC",
+      "CoARC",
+      "AMA"
+     ],
+     "answer": 1,
+     "explanation": "National Board for Respiratory Care.",
+     "chapter": 2
+    },
+    {
+     "q": "SBAR is used for:",
+     "options": [
+      "Billing",
+      "Drug dosing",
+      "Infection control",
+      "Handoff communication"
+     ],
+     "answer": 3,
+     "explanation": "Situation, Background, Assessment, Recommendation.",
+     "chapter": 3
+    },
+    {
+     "q": "Respiratory therapy programs are accredited by:",
+     "options": [
+      "AARC",
+      "NBRC",
+      "CoARC",
+      "OSHA"
+     ],
+     "answer": 2,
+     "explanation": "Commission on Accreditation for Respiratory Care.",
+     "chapter": 2
+    },
+    {
+     "q": "Before treatment, patients should be identified using:",
+     "options": [
+      "Bed number",
+      "Diagnosis",
+      "Room number only",
+      "Two identifiers"
+     ],
+     "answer": 3,
+     "explanation": "Name and date of birth, for example.",
+     "chapter": 3
+    },
+    {
+     "q": "The professional society for respiratory therapists is the:",
+     "options": [
+      "AARC",
+      "AMA",
+      "NBRC",
+      "ANA"
+     ],
+     "answer": 0,
+     "explanation": "American Association for Respiratory Care.",
+     "chapter": 2
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "Boyle's law states that at constant temperature:",
+     "options": [
+      "Flow equals pressure",
+      "Pressure and volume are inversely related",
+      "Partial pressures add up",
+      "Volume and temperature are directly related"
+     ],
+     "answer": 1,
+     "explanation": "This explains breathing.",
+     "chapter": 6
+    },
+    {
+     "q": "Dalton's law states that:",
+     "options": [
+      "Gases flow from low to high",
+      "Surface tension increases with size",
+      "Pressure and volume are inverse",
+      "Total pressure equals the sum of partial pressures"
+     ],
+     "answer": 3,
+     "explanation": "Used to calculate PO2.",
+     "chapter": 6
+    },
+    {
+     "q": "Failure to provide reasonable care that causes harm is:",
+     "options": [
+      "Libel",
+      "Battery",
+      "Assault",
+      "Negligence"
+     ],
+     "answer": 3,
+     "explanation": "Professional negligence is malpractice.",
+     "chapter": 5
+    },
+    {
+     "q": "Laplace's law explains:",
+     "options": [
+      "Temperature change",
+      "Surface tension effects in alveoli",
+      "Blood flow",
+      "Gas diffusion"
+     ],
+     "answer": 1,
+     "explanation": "Surfactant reduces surface tension.",
+     "chapter": 6
+    },
+    {
+     "q": "The single most important way to prevent infection is:",
+     "options": [
+      "Masks",
+      "Antibiotics",
+      "Hand hygiene",
+      "Gloves"
+     ],
+     "answer": 2,
+     "explanation": "Clean hands before and after patient contact.",
+     "chapter": 4
+    },
+    {
+     "q": "Respecting a patient's right to refuse treatment reflects:",
+     "options": [
+      "Autonomy",
+      "Justice",
+      "Veracity",
+      "Beneficence"
+     ],
+     "answer": 0,
+     "explanation": "Patients make their own decisions.",
+     "chapter": 5
+    },
+    {
+     "q": "Air entrainment in a Venturi mask is based on the:",
+     "options": [
+      "Bernoulli (Venturi) principle",
+      "Charles's law",
+      "Henry's law",
+      "Boyle's law"
+     ],
+     "answer": 0,
+     "explanation": "Fast flow lowers lateral pressure.",
+     "chapter": 6
+    },
+    {
+     "q": "Raising the head of the bed 30° or more helps prevent:",
+     "options": [
+      "Ventilator-associated pneumonia",
+      "Barotrauma",
+      "Pressure injuries",
+      "Hypoglycemia"
+     ],
+     "answer": 0,
+     "explanation": "Part of the VAP bundle.",
+     "chapter": 4
+    },
+    {
+     "q": "A patient with tuberculosis needs:",
+     "options": [
+      "No precautions",
+      "Droplet precautions only",
+      "Airborne precautions with an N95 and negative-pressure room",
+      "Contact precautions only"
+     ],
+     "answer": 2,
+     "explanation": "TB spreads through the air.",
+     "chapter": 4
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "Gas exchange occurs in the:",
+     "options": [
+      "Alveoli",
+      "Bronchi",
+      "Larynx",
+      "Trachea"
+     ],
+     "answer": 0,
+     "explanation": "Thin walls with capillaries.",
+     "chapter": 9
+    },
+    {
+     "q": "Research involving people is reviewed by an:",
+     "options": [
+      "IRB",
+      "FDA",
+      "AARC",
+      "NBRC"
+     ],
+     "answer": 0,
+     "explanation": "Institutional Review Board.",
+     "chapter": 8
+    },
+    {
+     "q": "Electronic systems that suggest care decisions are:",
+     "options": [
+      "Fax machines",
+      "Pagers",
+      "Paper charts",
+      "Clinical decision support"
+     ],
+     "answer": 3,
+     "explanation": "They alert clinicians.",
+     "chapter": 7
+    },
+    {
+     "q": "The diaphragm is controlled by the:",
+     "options": [
+      "Facial nerve",
+      "Vagus nerve",
+      "Phrenic nerve",
+      "Sciatic nerve"
+     ],
+     "answer": 2,
+     "explanation": "From C3–C5.",
+     "chapter": 9
+    },
+    {
+     "q": "The highest level of evidence is a:",
+     "options": [
+      "Single cohort study",
+      "Case report",
+      "Systematic review or meta-analysis",
+      "Expert opinion"
+     ],
+     "answer": 2,
+     "explanation": "It combines multiple studies.",
+     "chapter": 8
+    },
+    {
+     "q": "The upper airway's functions include:",
+     "options": [
+      "Making surfactant",
+      "Gas exchange",
+      "Pumping blood",
+      "Warming, humidifying, and filtering air"
+     ],
+     "answer": 3,
+     "explanation": "Bypassed by an ET tube.",
+     "chapter": 9
+    },
+    {
+     "q": "Delivering care at a distance using technology is:",
+     "options": [
+      "Bronchoscopy",
+      "Telehealth",
+      "Capnography",
+      "Spirometry"
+     ],
+     "answer": 1,
+     "explanation": "Includes remote monitoring.",
+     "chapter": 7
+    },
+    {
+     "q": "An endotracheal tube inserted too far usually enters the:",
+     "options": [
+      "Right mainstem bronchus",
+      "Esophagus",
+      "Stomach",
+      "Left mainstem bronchus"
+     ],
+     "answer": 0,
+     "explanation": "It is straighter and wider.",
+     "chapter": 9
+    },
+    {
+     "q": "Results are usually considered statistically significant when:",
+     "options": [
+      "p > 0.1",
+      "p < 0.05",
+      "p > 0.5",
+      "p = 1"
+     ],
+     "answer": 1,
+     "explanation": "Less than 5% chance by luck.",
+     "chapter": 8
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "A right shift of the oxyhemoglobin curve means:",
+     "options": [
+      "Less CO2",
+      "No change",
+      "Hemoglobin holds oxygen tighter",
+      "Hemoglobin releases oxygen more easily"
+     ],
+     "answer": 3,
+     "explanation": "Caused by acidosis, fever, high CO2.",
+     "chapter": 12
+    },
+    {
+     "q": "Most carbon dioxide is transported as:",
+     "options": [
+      "Bicarbonate",
+      "Dissolved CO2",
+      "Carbonic acid gas",
+      "Carbaminohemoglobin only"
+     ],
+     "answer": 0,
+     "explanation": "About 70%.",
+     "chapter": 12
+    },
+    {
+     "q": "Minute ventilation equals:",
+     "options": [
+      "Tidal volume × respiratory rate",
+      "Dead space × rate",
+      "Tidal volume ÷ rate",
+      "FEV1 × FVC"
+     ],
+     "answer": 0,
+     "explanation": "VE = VT × f.",
+     "chapter": 11
+    },
+    {
+     "q": "Cardiac output equals:",
+     "options": [
+      "Stroke volume ÷ rate",
+      "Heart rate × stroke volume",
+      "Heart rate × blood pressure",
+      "Preload + afterload"
+     ],
+     "answer": 1,
+     "explanation": "Normal is about 4–8 L/min.",
+     "chapter": 10
+    },
+    {
+     "q": "Normal exhalation at rest is:",
+     "options": [
+      "Active",
+      "Forced",
+      "Passive",
+      "Muscle-driven"
+     ],
+     "answer": 2,
+     "explanation": "Lungs recoil.",
+     "chapter": 11
+    },
+    {
+     "q": "The resistance the ventricle must pump against is:",
+     "options": [
+      "Contractility",
+      "Afterload",
+      "Stroke volume",
+      "Preload"
+     ],
+     "answer": 1,
+     "explanation": "Preload is the stretch before contraction.",
+     "chapter": 10
+    },
+    {
+     "q": "How easily the lungs stretch is:",
+     "options": [
+      "Resistance",
+      "Dead space",
+      "Elastance only",
+      "Compliance"
+     ],
+     "answer": 3,
+     "explanation": "Low compliance = stiff lungs.",
+     "chapter": 11
+    },
+    {
+     "q": "Most oxygen in blood is carried:",
+     "options": [
+      "Bound to hemoglobin",
+      "In platelets",
+      "As bicarbonate",
+      "Dissolved in plasma"
+     ],
+     "answer": 0,
+     "explanation": "About 98%.",
+     "chapter": 12
+    },
+    {
+     "q": "The heart's natural pacemaker is the:",
+     "options": [
+      "Purkinje fibers",
+      "Bundle of His",
+      "SA node",
+      "AV node"
+     ],
+     "answer": 2,
+     "explanation": "Sinoatrial node.",
+     "chapter": 10
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "Breathing is primarily controlled by the:",
+     "options": [
+      "Medulla",
+      "Cerebellum",
+      "Frontal lobe",
+      "Spinal cord"
+     ],
+     "answer": 0,
+     "explanation": "With the pons.",
+     "chapter": 15
+    },
+    {
+     "q": "Peripheral chemoreceptors respond mainly to:",
+     "options": [
+      "Low PaO2",
+      "Blood pressure",
+      "High PaO2",
+      "Low CO2"
+     ],
+     "answer": 0,
+     "explanation": "Carotid and aortic bodies.",
+     "chapter": 15
+    },
+    {
+     "q": "Vomiting can cause:",
+     "options": [
+      "Respiratory acidosis",
+      "Respiratory alkalosis",
+      "Metabolic alkalosis",
+      "Metabolic acidosis"
+     ],
+     "answer": 2,
+     "explanation": "Loss of stomach acid.",
+     "chapter": 14
+    },
+    {
+     "q": "Normal arterial pH is:",
+     "options": [
+      "7.35–7.45",
+      "7.5–7.6",
+      "7.0–7.2",
+      "6.8–7.0"
+     ],
+     "answer": 0,
+     "explanation": "Below 7.35 = acidosis.",
+     "chapter": 14
+    },
+    {
+     "q": "Low potassium can cause:",
+     "options": [
+      "Fever",
+      "Cough",
+      "Rash",
+      "Arrhythmias and muscle weakness"
+     ],
+     "answer": 3,
+     "explanation": "Hypokalemia.",
+     "chapter": 13
+    },
+    {
+     "q": "The main intracellular cation is:",
+     "options": [
+      "Calcium",
+      "Potassium",
+      "Chloride",
+      "Sodium"
+     ],
+     "answer": 1,
+     "explanation": "Sodium is main extracellular.",
+     "chapter": 13
+    },
+    {
+     "q": "Deep, rapid breathing in diabetic ketoacidosis is:",
+     "options": [
+      "Cheyne-Stokes",
+      "Kussmaul breathing",
+      "Biot breathing",
+      "Apnea"
+     ],
+     "answer": 1,
+     "explanation": "Blows off CO2.",
+     "chapter": 15
+    },
+    {
+     "q": "pH 7.28, PaCO2 58, HCO3 24 is:",
+     "options": [
+      "Respiratory alkalosis",
+      "Metabolic alkalosis",
+      "Metabolic acidosis",
+      "Respiratory acidosis"
+     ],
+     "answer": 3,
+     "explanation": "High CO2, normal bicarb.",
+     "chapter": 14
+    },
+    {
+     "q": "Normal saline (0.9%) is:",
+     "options": [
+      "Hypertonic",
+      "Hypotonic",
+      "Isotonic",
+      "Colloid"
+     ],
+     "answer": 2,
+     "explanation": "Same concentration as blood.",
+     "chapter": 13
+    }
+   ]
+  },
+  {
+   "chapters": [
+    16,
+    17,
+    18
+   ],
+   "questions": [
+    {
+     "q": "The QRS complex represents:",
+     "options": [
+      "Atrial depolarization",
+      "Atrial repolarization",
+      "Ventricular repolarization",
+      "Ventricular depolarization"
+     ],
+     "answer": 3,
+     "explanation": "P = atria; T = repolarization.",
+     "chapter": 18
+    },
+    {
+     "q": "Troponin indicates:",
+     "options": [
+      "Kidney failure",
+      "Lung infection",
+      "Liver disease",
+      "Heart muscle damage"
+     ],
+     "answer": 3,
+     "explanation": "Used to diagnose MI.",
+     "chapter": 17
+    },
+    {
+     "q": "An elevated WBC count suggests:",
+     "options": [
+      "Anemia",
+      "Infection",
+      "Dehydration",
+      "Heart failure"
+     ],
+     "answer": 1,
+     "explanation": "Leukocytosis.",
+     "chapter": 17
+    },
+    {
+     "q": "An irregular rhythm with no clear P waves is:",
+     "options": [
+      "Sinus bradycardia",
+      "Sinus rhythm",
+      "Atrial fibrillation",
+      "Ventricular tachycardia"
+     ],
+     "answer": 2,
+     "explanation": "Raises stroke risk.",
+     "chapter": 18
+    },
+    {
+     "q": "High-pitched sound from narrowed lower airways is:",
+     "options": [
+      "Wheezing",
+      "Pleural rub",
+      "Crackles",
+      "Stridor"
+     ],
+     "answer": 0,
+     "explanation": "Common in asthma.",
+     "chapter": 16
+    },
+    {
+     "q": "BNP is elevated in:",
+     "options": [
+      "Heart failure",
+      "Pneumothorax",
+      "Asthma",
+      "Hypoglycemia"
+     ],
+     "answer": 0,
+     "explanation": "B-type natriuretic peptide.",
+     "chapter": 17
+    },
+    {
+     "q": "A loud, high-pitched sound on inspiration from upper airway obstruction is:",
+     "options": [
+      "Wheezing",
+      "Stridor",
+      "Crackles",
+      "Rhonchi"
+     ],
+     "answer": 1,
+     "explanation": "It's an emergency.",
+     "chapter": 16
+    },
+    {
+     "q": "Ventricular fibrillation is treated with:",
+     "options": [
+      "Oxygen only",
+      "Synchronized cardioversion",
+      "Defibrillation",
+      "Pacing"
+     ],
+     "answer": 2,
+     "explanation": "Shock immediately.",
+     "chapter": 18
+    },
+    {
+     "q": "Normal adult respiratory rate is:",
+     "options": [
+      "12–20/min",
+      "6–10/min",
+      "25–35/min",
+      "40–60/min"
+     ],
+     "answer": 0,
+     "explanation": "Tachypnea is above 20.",
+     "chapter": 16
+    }
+   ]
+  },
+  {
+   "chapters": [
+    19,
+    20,
+    21
+   ],
+   "questions": [
+    {
+     "q": "The ET tube tip should be about:",
+     "options": [
+      "Above the vocal cords",
+      "In the right mainstem",
+      "3–5 cm above the carina",
+      "At the carina"
+     ],
+     "answer": 2,
+     "explanation": "Check on X-ray.",
+     "chapter": 21
+    },
+    {
+     "q": "An FEV1/FVC ratio below 70% indicates:",
+     "options": [
+      "Heart failure",
+      "Normal lungs",
+      "Restrictive disease",
+      "Obstructive disease"
+     ],
+     "answer": 3,
+     "explanation": "Seen in COPD and asthma.",
+     "chapter": 20
+    },
+    {
+     "q": "Normal PaO2 on room air is:",
+     "options": [
+      "80–100 mm Hg",
+      "150–200 mm Hg",
+      "22–26 mm Hg",
+      "35–45 mm Hg"
+     ],
+     "answer": 0,
+     "explanation": "35–45 is PaCO2.",
+     "chapter": 19
+    },
+    {
+     "q": "Before a radial arterial puncture, perform the:",
+     "options": [
+      "Lachman test",
+      "Phalen test",
+      "Romberg test",
+      "Modified Allen test"
+     ],
+     "answer": 3,
+     "explanation": "Checks ulnar collateral flow.",
+     "chapter": 19
+    },
+    {
+     "q": "On a chest X-ray, air appears:",
+     "options": [
+      "Invisible",
+      "White",
+      "Dark (radiolucent)",
+      "Gray"
+     ],
+     "answer": 2,
+     "explanation": "Dense tissue and fluid appear white.",
+     "chapter": 21
+    },
+    {
+     "q": "Pulse oximetry is falsely high in:",
+     "options": [
+      "Carbon monoxide poisoning",
+      "Pneumonia",
+      "Asthma",
+      "Anemia only"
+     ],
+     "answer": 0,
+     "explanation": "It can't tell COHb from O2Hb.",
+     "chapter": 19
+    },
+    {
+     "q": "Pulmonary fibrosis causes:",
+     "options": [
+      "Normal DLCO",
+      "A restrictive pattern with low TLC",
+      "Increased TLC",
+      "An obstructive pattern"
+     ],
+     "answer": 1,
+     "explanation": "Lungs are stiff and small.",
+     "chapter": 20
+    },
+    {
+     "q": "DLCO measures:",
+     "options": [
+      "Diffusing capacity of the lungs",
+      "Peak flow",
+      "Tidal volume",
+      "Airway resistance"
+     ],
+     "answer": 0,
+     "explanation": "Low in emphysema and fibrosis.",
+     "chapter": 20
+    },
+    {
+     "q": "The preferred chest X-ray view is:",
+     "options": [
+      "AP",
+      "PA",
+      "Lateral decubitus",
+      "Oblique"
+     ],
+     "answer": 1,
+     "explanation": "AP is used at the bedside.",
+     "chapter": 21
+    }
+   ]
+  },
+  {
+   "chapters": [
+    22,
+    23,
+    24
+   ],
+   "questions": [
+    {
+     "q": "The most common bacterial cause of community-acquired pneumonia is:",
+     "options": [
+      "Streptococcus pneumoniae",
+      "Pseudomonas",
+      "E. coli",
+      "Staph epidermidis"
+     ],
+     "answer": 0,
+     "explanation": "Vaccines help prevent it.",
+     "chapter": 24
+    },
+    {
+     "q": "A typical chest X-ray finding in pneumonia is:",
+     "options": [
+      "Normal",
+      "Hyperinflation",
+      "Steeple sign",
+      "Infiltrate (consolidation)"
+     ],
+     "answer": 3,
+     "explanation": "Fluid fills the alveoli.",
+     "chapter": 24
+    },
+    {
+     "q": "Pneumonia developing after 48 hours on a ventilator is:",
+     "options": [
+      "Community-acquired",
+      "Ventilator-associated pneumonia",
+      "Viral only",
+      "Aspiration only"
+     ],
+     "answer": 1,
+     "explanation": "VAP.",
+     "chapter": 24
+    },
+    {
+     "q": "A common complication of bronchoscopy is:",
+     "options": [
+      "Fever only",
+      "Hypertension only",
+      "Hypoxemia",
+      "Hyperglycemia"
+     ],
+     "answer": 2,
+     "explanation": "Monitor SpO2.",
+     "chapter": 22
+    },
+    {
+     "q": "Energy needs can be measured by:",
+     "options": [
+      "Indirect calorimetry",
+      "Capnography",
+      "Bronchoscopy",
+      "Spirometry"
+     ],
+     "answer": 0,
+     "explanation": "It measures O2 use and CO2 production.",
+     "chapter": 23
+    },
+    {
+     "q": "Malnutrition harms breathing by:",
+     "options": [
+      "Increasing compliance",
+      "Improving immunity",
+      "Weakening respiratory muscles",
+      "Lowering CO2"
+     ],
+     "answer": 2,
+     "explanation": "And reducing immunity.",
+     "chapter": 23
+    },
+    {
+     "q": "Therapeutic bronchoscopy can:",
+     "options": [
+      "Remove foreign bodies or secretions",
+      "Measure lung volumes",
+      "Replace intubation",
+      "Cure COPD"
+     ],
+     "answer": 0,
+     "explanation": "It's also used for biopsies.",
+     "chapter": 22
+    },
+    {
+     "q": "Overfeeding carbohydrates increases:",
+     "options": [
+      "Muscle strength",
+      "CO2 production",
+      "Oxygen levels",
+      "Compliance"
+     ],
+     "answer": 1,
+     "explanation": "Harder to wean.",
+     "chapter": 23
+    },
+    {
+     "q": "Washing a lung segment to collect samples during bronchoscopy is:",
+     "options": [
+      "Suctioning",
+      "Thoracentesis",
+      "Spirometry",
+      "Bronchoalveolar lavage"
+     ],
+     "answer": 3,
+     "explanation": "BAL.",
+     "chapter": 22
+    }
+   ]
+  },
+  {
+   "chapters": [
+    25,
+    26,
+    27
+   ],
+   "questions": [
+    {
+     "q": "Daily control of asthma inflammation uses:",
+     "options": [
+      "Diuretics",
+      "Antibiotics",
+      "Albuterol only",
+      "Inhaled corticosteroids"
+     ],
+     "answer": 3,
+     "explanation": "Albuterol is rescue.",
+     "chapter": 25
+    },
+    {
+     "q": "Interstitial lung diseases cause a:",
+     "options": [
+      "High DLCO",
+      "Hyperinflation",
+      "Obstructive pattern",
+      "Restrictive pattern"
+     ],
+     "answer": 3,
+     "explanation": "Lungs are stiff.",
+     "chapter": 26
+    },
+    {
+     "q": "The most important intervention for COPD is:",
+     "options": [
+      "Bed rest",
+      "Smoking cessation",
+      "Antibiotics",
+      "Surgery"
+     ],
+     "answer": 1,
+     "explanation": "It slows disease progression.",
+     "chapter": 25
+    },
+    {
+     "q": "Removing pleural fluid with a needle is:",
+     "options": [
+      "Paracentesis",
+      "Bronchoscopy",
+      "Thoracentesis",
+      "Pericardiocentesis"
+     ],
+     "answer": 2,
+     "explanation": "Treats effusion.",
+     "chapter": 27
+    },
+    {
+     "q": "Fibrosis with no known cause is:",
+     "options": [
+      "Idiopathic pulmonary fibrosis",
+      "Silicosis",
+      "Bronchitis",
+      "Asbestosis"
+     ],
+     "answer": 0,
+     "explanation": "Idiopathic = unknown cause.",
+     "chapter": 26
+    },
+    {
+     "q": "Asthma differs from COPD because its obstruction is:",
+     "options": [
+      "Largely reversible",
+      "Caused only by smoking",
+      "Restrictive",
+      "Always permanent"
+     ],
+     "answer": 0,
+     "explanation": "Responds to bronchodilators.",
+     "chapter": 25
+    },
+    {
+     "q": "Tracheal shift away from the affected side with hypotension suggests:",
+     "options": [
+      "Atelectasis",
+      "Tension pneumothorax",
+      "Pleural effusion",
+      "Pneumonia"
+     ],
+     "answer": 1,
+     "explanation": "Needle decompression.",
+     "chapter": 27
+    },
+    {
+     "q": "Pus in the pleural space is:",
+     "options": [
+      "Empyema",
+      "Hemothorax",
+      "Pneumothorax",
+      "Chylothorax"
+     ],
+     "answer": 0,
+     "explanation": "Needs drainage.",
+     "chapter": 27
+    },
+    {
+     "q": "Scarring from asbestos exposure is:",
+     "options": [
+      "Emphysema",
+      "Silicosis",
+      "Asbestosis",
+      "Sarcoidosis"
+     ],
+     "answer": 2,
+     "explanation": "Occupational lung disease.",
+     "chapter": 26
+    }
+   ]
+  },
+  {
+   "chapters": [
+    28,
+    29,
+    30
+   ],
+   "questions": [
+    {
+     "q": "Right heart failure caused by lung disease is:",
+     "options": [
+      "Pericarditis",
+      "Left heart failure",
+      "Cor pulmonale",
+      "Endocarditis"
+     ],
+     "answer": 2,
+     "explanation": "Due to pulmonary hypertension.",
+     "chapter": 28
+    },
+    {
+     "q": "In ARDS, plateau pressure should be kept below:",
+     "options": [
+      "60 cm H2O",
+      "10 cm H2O",
+      "30 cm H2O",
+      "50 cm H2O"
+     ],
+     "answer": 2,
+     "explanation": "Avoids overdistension.",
+     "chapter": 29
+    },
+    {
+     "q": "A flail chest causes:",
+     "options": [
+      "Stridor",
+      "Paradoxical chest movement",
+      "Barrel chest",
+      "Wheezing"
+     ],
+     "answer": 1,
+     "explanation": "Segment moves in on inspiration.",
+     "chapter": 30
+    },
+    {
+     "q": "Lung-protective ventilation uses a tidal volume of:",
+     "options": [
+      "10–15 mL/kg",
+      "15–20 mL/kg",
+      "Any volume",
+      "4–8 mL/kg ideal body weight"
+     ],
+     "answer": 3,
+     "explanation": "Prevents lung injury.",
+     "chapter": 29
+    },
+    {
+     "q": "Pulmonary embolism is usually diagnosed with:",
+     "options": [
+      "Sputum culture",
+      "CT pulmonary angiography",
+      "ECG only",
+      "Spirometry"
+     ],
+     "answer": 1,
+     "explanation": "Shows clots in vessels.",
+     "chapter": 28
+    },
+    {
+     "q": "Smoke inhalation with facial burns may need:",
+     "options": [
+      "Early intubation",
+      "Incentive spirometry",
+      "Only a nasal cannula",
+      "Discharge home"
+     ],
+     "answer": 0,
+     "explanation": "Airway swelling can worsen fast.",
+     "chapter": 30
+    },
+    {
+     "q": "ARDS is defined partly by a PaO2/FiO2 ratio of:",
+     "options": [
+      "Over 400",
+      "Exactly 100",
+      "Over 500",
+      "300 or less"
+     ],
+     "answer": 3,
+     "explanation": "Lower ratio = more severe.",
+     "chapter": 29
+    },
+    {
+     "q": "Most pulmonary emboli come from:",
+     "options": [
+      "Deep vein thrombosis",
+      "Air bubbles",
+      "Heart valves",
+      "Lung tumors"
+     ],
+     "answer": 0,
+     "explanation": "Clots from the legs.",
+     "chapter": 28
+    },
+    {
+     "q": "Carbon monoxide poisoning is treated with:",
+     "options": [
+      "100% oxygen",
+      "Antibiotics",
+      "Room air",
+      "Bronchodilators"
+     ],
+     "answer": 0,
+     "explanation": "Or hyperbaric oxygen.",
+     "chapter": 30
+    }
+   ]
+  },
+  {
+   "chapters": [
+    31,
+    32,
+    33
+   ],
+   "questions": [
+    {
+     "q": "In neuromuscular disease, a falling vital capacity suggests:",
+     "options": [
+      "Need for ventilatory support",
+      "Infection only",
+      "Asthma",
+      "Improvement"
+     ],
+     "answer": 0,
+     "explanation": "Also monitor MIP.",
+     "chapter": 33
+    },
+    {
+     "q": "The aggressive lung cancer type linked to smoking is:",
+     "options": [
+      "Small cell carcinoma",
+      "Hamartoma",
+      "Adenocarcinoma in situ",
+      "Lipoma"
+     ],
+     "answer": 0,
+     "explanation": "Spreads quickly.",
+     "chapter": 32
+    },
+    {
+     "q": "Noninvasive treatment that helps cardiogenic pulmonary edema is:",
+     "options": [
+      "Incentive spirometry",
+      "Chest percussion",
+      "Heliox",
+      "CPAP"
+     ],
+     "answer": 3,
+     "explanation": "Improves oxygenation and reduces preload.",
+     "chapter": 31
+    },
+    {
+     "q": "A spinal curvature that restricts the chest is:",
+     "options": [
+      "Emphysema",
+      "Kyphoscoliosis",
+      "Pneumothorax",
+      "Bronchiectasis"
+     ],
+     "answer": 1,
+     "explanation": "Restrictive disorder.",
+     "chapter": 33
+    },
+    {
+     "q": "Ascending muscle weakness after a viral illness suggests:",
+     "options": [
+      "Asthma",
+      "Guillain-Barré syndrome",
+      "ALS",
+      "Myasthenia gravis"
+     ],
+     "answer": 1,
+     "explanation": "Can cause respiratory failure.",
+     "chapter": 33
+    },
+    {
+     "q": "The leading cause of cancer death is:",
+     "options": [
+      "Skin cancer",
+      "Breast cancer",
+      "Lung cancer",
+      "Colon cancer"
+     ],
+     "answer": 2,
+     "explanation": "Mostly from smoking.",
+     "chapter": 32
+    },
+    {
+     "q": "High-risk smokers should be screened with:",
+     "options": [
+      "Sputum culture",
+      "Spirometry",
+      "Low-dose CT",
+      "Chest X-ray only"
+     ],
+     "answer": 2,
+     "explanation": "Catches cancer earlier.",
+     "chapter": 32
+    },
+    {
+     "q": "Left heart failure causes:",
+     "options": [
+      "Pulmonary edema",
+      "Ascites only",
+      "Hypoglycemia",
+      "Peripheral edema only"
+     ],
+     "answer": 0,
+     "explanation": "Fluid backs into the lungs.",
+     "chapter": 31
+    },
+    {
+     "q": "Jugular venous distension suggests:",
+     "options": [
+      "Pneumothorax only",
+      "Pneumonia",
+      "Asthma",
+      "Right heart failure"
+     ],
+     "answer": 3,
+     "explanation": "Along with peripheral edema.",
+     "chapter": 31
+    }
+   ]
+  },
+  {
+   "chapters": [
+    34,
+    35,
+    36
+   ],
+   "questions": [
+    {
+     "q": "The main treatment for OSA is:",
+     "options": [
+      "Oxygen only",
+      "CPAP",
+      "Bronchodilators",
+      "Antibiotics"
+     ],
+     "answer": 1,
+     "explanation": "Splints the airway open.",
+     "chapter": 34
+    },
+    {
+     "q": "Obstructive sleep apnea is diagnosed by:",
+     "options": [
+      "ABG",
+      "Chest X-ray",
+      "Spirometry",
+      "Polysomnography"
+     ],
+     "answer": 3,
+     "explanation": "An overnight sleep study.",
+     "chapter": 34
+    },
+    {
+     "q": "A 'thumb sign' on X-ray suggests:",
+     "options": [
+      "RDS",
+      "Bronchiolitis",
+      "Epiglottitis",
+      "Croup"
+     ],
+     "answer": 2,
+     "explanation": "Airway emergency.",
+     "chapter": 35
+    },
+    {
+     "q": "Ipratropium is a(n):",
+     "options": [
+      "Mucolytic",
+      "Anticholinergic bronchodilator",
+      "Beta-agonist",
+      "Steroid"
+     ],
+     "answer": 1,
+     "explanation": "Blocks acetylcholine.",
+     "chapter": 36
+    },
+    {
+     "q": "A 'steeple sign' on neck X-ray suggests:",
+     "options": [
+      "Pneumonia",
+      "Epiglottitis",
+      "Asthma",
+      "Croup"
+     ],
+     "answer": 3,
+     "explanation": "Barking cough.",
+     "chapter": 35
+    },
+    {
+     "q": "The rescue inhaler for asthma attacks is:",
+     "options": [
+      "Albuterol",
+      "Tiotropium",
+      "Fluticasone",
+      "Montelukast"
+     ],
+     "answer": 0,
+     "explanation": "Short-acting beta-2 agonist.",
+     "chapter": 36
+    },
+    {
+     "q": "Common side effects of albuterol include:",
+     "options": [
+      "Tachycardia and tremor",
+      "Sleepiness",
+      "Bradycardia",
+      "Hypertension only"
+     ],
+     "answer": 0,
+     "explanation": "Beta stimulation.",
+     "chapter": 36
+    },
+    {
+     "q": "Severity of sleep apnea is measured by the:",
+     "options": [
+      "Apgar score",
+      "P/F ratio",
+      "Apnea-hypopnea index",
+      "RSBI"
+     ],
+     "answer": 2,
+     "explanation": "Events per hour.",
+     "chapter": 34
+    },
+    {
+     "q": "Respiratory distress syndrome in preemies is caused by lack of:",
+     "options": [
+      "Surfactant",
+      "Hemoglobin",
+      "Insulin",
+      "Antibodies"
+     ],
+     "answer": 0,
+     "explanation": "Treated with surfactant.",
+     "chapter": 35
+    }
+   ]
+  },
+  {
+   "chapters": [
+    37,
+    38,
+    39
+   ],
+   "questions": [
+    {
+     "q": "Hypertonic saline aerosol is used for:",
+     "options": [
+      "Bronchodilation",
+      "Pain relief",
+      "Sedation",
+      "Sputum induction"
+     ],
+     "answer": 3,
+     "explanation": "Helps produce a sample.",
+     "chapter": 39
+    },
+    {
+     "q": "The best way to confirm ET tube placement is:",
+     "options": [
+      "Capnography (exhaled CO2)",
+      "Tube depth only",
+      "Listening to the stomach only",
+      "Patient color"
+     ],
+     "answer": 0,
+     "explanation": "Plus breath sounds and X-ray.",
+     "chapter": 37
+    },
+    {
+     "q": "ET tube cuff pressure should be:",
+     "options": [
+      "20–30 cm H2O",
+      "5–10 cm H2O",
+      "40–50 cm H2O",
+      "Over 60 cm H2O"
+     ],
+     "answer": 0,
+     "explanation": "Prevents leaks and tracheal damage.",
+     "chapter": 37
+    },
+    {
+     "q": "A sudden rise in PetCO2 during CPR suggests:",
+     "options": [
+      "Tube in esophagus",
+      "Return of spontaneous circulation",
+      "Hypothermia",
+      "Worsening arrest"
+     ],
+     "answer": 1,
+     "explanation": "ROSC.",
+     "chapter": 38
+    },
+    {
+     "q": "Suctioning should last no longer than:",
+     "options": [
+      "30 seconds",
+      "10–15 seconds",
+      "60 seconds",
+      "2 minutes"
+     ],
+     "answer": 1,
+     "explanation": "Preoxygenate first.",
+     "chapter": 37
+    },
+    {
+     "q": "A heat and moisture exchanger is also called an:",
+     "options": [
+      "Flutter",
+      "Spacer",
+      "Artificial nose",
+      "Iron lung"
+     ],
+     "answer": 2,
+     "explanation": "It recycles the patient's heat and moisture.",
+     "chapter": 39
+    },
+    {
+     "q": "Humidity is especially needed when:",
+     "options": [
+      "SpO2 is normal",
+      "The patient is breathing room air",
+      "The upper airway is bypassed",
+      "The patient is asleep"
+     ],
+     "answer": 2,
+     "explanation": "ET tubes and tracheostomies.",
+     "chapter": 39
+    },
+    {
+     "q": "Adult CPR compression rate is:",
+     "options": [
+      "60–80/min",
+      "150/min",
+      "80–90/min",
+      "100–120/min"
+     ],
+     "answer": 3,
+     "explanation": "Push hard and fast.",
+     "chapter": 38
+    },
+    {
+     "q": "The drug given in all cardiac arrest rhythms is:",
+     "options": [
+      "Epinephrine",
+      "Insulin",
+      "Adenosine",
+      "Atropine"
+     ],
+     "answer": 0,
+     "explanation": "Every 3–5 minutes.",
+     "chapter": 38
+    }
+   ]
+  },
+  {
+   "chapters": [
+    40,
+    41,
+    42
+   ],
+   "questions": [
+    {
+     "q": "Gas cylinders should be stored:",
+     "options": [
+      "Near open flames",
+      "Secured upright",
+      "Near heat",
+      "Lying loose"
+     ],
+     "answer": 1,
+     "explanation": "Prevents falls and damage.",
+     "chapter": 41
+    },
+    {
+     "q": "A nasal cannula is usually run at:",
+     "options": [
+      "1–6 L/min",
+      "0.1 L/min only",
+      "20–40 L/min",
+      "10–15 L/min"
+     ],
+     "answer": 0,
+     "explanation": "About 24–44% FiO2.",
+     "chapter": 42
+    },
+    {
+     "q": "Too much oxygen in premature infants can cause:",
+     "options": [
+      "Asthma",
+      "Epiglottitis",
+      "Croup",
+      "Retinopathy of prematurity"
+     ],
+     "answer": 3,
+     "explanation": "Damages the retina.",
+     "chapter": 42
+    },
+    {
+     "q": "In the U.S., oxygen cylinders are colored:",
+     "options": [
+      "Blue",
+      "Gray",
+      "Green",
+      "Brown"
+     ],
+     "answer": 2,
+     "explanation": "Blue = nitrous oxide.",
+     "chapter": 41
+    },
+    {
+     "q": "A spacer is used with a:",
+     "options": [
+      "Dry powder inhaler",
+      "Incentive spirometer",
+      "Nebulizer",
+      "Metered-dose inhaler"
+     ],
+     "answer": 3,
+     "explanation": "Improves delivery.",
+     "chapter": 40
+    },
+    {
+     "q": "The safety system for small cylinder valves is the:",
+     "options": [
+      "Pin Index Safety System",
+      "Quick-connect",
+      "DISS",
+      "Bourdon gauge"
+     ],
+     "answer": 0,
+     "explanation": "PISS.",
+     "chapter": 41
+    },
+    {
+     "q": "The device that delivers a precise FiO2 is the:",
+     "options": [
+      "Nonrebreather",
+      "Nasal cannula",
+      "Venturi (air-entrainment) mask",
+      "Simple mask"
+     ],
+     "answer": 2,
+     "explanation": "High-flow device.",
+     "chapter": 42
+    },
+    {
+     "q": "Dry powder inhalers need:",
+     "options": [
+      "A fast, strong inhalation",
+      "Slow, gentle breaths",
+      "Compressed gas",
+      "A spacer"
+     ],
+     "answer": 0,
+     "explanation": "Patient's breath disperses the powder.",
+     "chapter": 40
+    },
+    {
+     "q": "Particles that reach the lower airways are about:",
+     "options": [
+      "10–20 microns",
+      "1–5 microns",
+      "50 microns",
+      "100 microns"
+     ],
+     "answer": 1,
+     "explanation": "Larger particles land in the upper airway.",
+     "chapter": 40
+    }
+   ]
+  },
+  {
+   "chapters": [
+    43,
+    44,
+    45
+   ],
+   "questions": [
+    {
+     "q": "Hypoxemic (type I) respiratory failure is a PaO2 below:",
+     "options": [
+      "90 mm Hg",
+      "80 mm Hg",
+      "60 mm Hg",
+      "100 mm Hg"
+     ],
+     "answer": 2,
+     "explanation": "Despite oxygen.",
+     "chapter": 45
+    },
+    {
+     "q": "The first-choice lung expansion therapy for alert post-op patients is:",
+     "options": [
+      "Mechanical ventilation",
+      "Incentive spirometry",
+      "Bronchoscopy",
+      "IPPB"
+     ],
+     "answer": 1,
+     "explanation": "Sustained maximal inspiration.",
+     "chapter": 43
+    },
+    {
+     "q": "IPPB stands for:",
+     "options": [
+      "Intermittent positive-pressure breathing",
+      "Incentive positive pulmonary breathing",
+      "Internal pressure breathing",
+      "Inspiratory peak pressure breathing"
+     ],
+     "answer": 0,
+     "explanation": "A lung expansion therapy.",
+     "chapter": 43
+    },
+    {
+     "q": "Lung expansion therapy mainly prevents:",
+     "options": [
+      "Asthma",
+      "Heart failure",
+      "Pneumothorax",
+      "Atelectasis"
+     ],
+     "answer": 3,
+     "explanation": "Collapsed alveoli.",
+     "chapter": 43
+    },
+    {
+     "q": "A forced exhalation with an open glottis is a:",
+     "options": [
+      "Huff cough",
+      "Sigh",
+      "Valsalva",
+      "Sneeze"
+     ],
+     "answer": 0,
+     "explanation": "Helps move secretions.",
+     "chapter": 44
+    },
+    {
+     "q": "The vest used for airway clearance provides:",
+     "options": [
+      "High-frequency chest wall oscillation",
+      "CPAP",
+      "Oxygen",
+      "Humidity"
+     ],
+     "answer": 0,
+     "explanation": "Common in cystic fibrosis.",
+     "chapter": 44
+    },
+    {
+     "q": "Hypercapnic (type II) respiratory failure is a PaCO2 above:",
+     "options": [
+      "40 mm Hg",
+      "35 mm Hg",
+      "45 mm Hg with alkalosis",
+      "50 mm Hg with acidosis"
+     ],
+     "answer": 3,
+     "explanation": "Ventilation fails.",
+     "chapter": 45
+    },
+    {
+     "q": "Positioning patients so gravity drains secretions is:",
+     "options": [
+      "Prone ventilation",
+      "Suctioning",
+      "Postural drainage",
+      "Incentive spirometry"
+     ],
+     "answer": 2,
+     "explanation": "Often combined with percussion.",
+     "chapter": 44
+    },
+    {
+     "q": "A sign a patient needs ventilatory support is:",
+     "options": [
+      "Talking in full sentences",
+      "Inability to protect the airway",
+      "Normal ABGs",
+      "SpO2 99%"
+     ],
+     "answer": 1,
+     "explanation": "Also apnea and fatigue.",
+     "chapter": 45
+    }
+   ]
+  },
+  {
+   "chapters": [
+    46,
+    47,
+    48
+   ],
+   "questions": [
+    {
+     "q": "A high-pressure alarm may be caused by:",
+     "options": [
+      "Low tidal volume",
+      "Secretions or coughing",
+      "Cuff leak",
+      "Disconnection"
+     ],
+     "answer": 1,
+     "explanation": "Suction if needed.",
+     "chapter": 46
+    },
+    {
+     "q": "If the patient struggles to trigger breaths, adjust the:",
+     "options": [
+      "Trigger sensitivity",
+      "Humidifier",
+      "Alarm volume",
+      "FiO2"
+     ],
+     "answer": 0,
+     "explanation": "Make triggering easier.",
+     "chapter": 48
+    },
+    {
+     "q": "A low-pressure ventilator alarm usually indicates:",
+     "options": [
+      "A disconnect or leak",
+      "Secretions",
+      "Coughing",
+      "Biting the tube"
+     ],
+     "answer": 0,
+     "explanation": "Check the circuit.",
+     "chapter": 46
+    },
+    {
+     "q": "Trapped air at end exhalation is:",
+     "options": [
+      "Set PEEP",
+      "Auto-PEEP",
+      "Plateau pressure",
+      "Compliance"
+     ],
+     "answer": 1,
+     "explanation": "Common in COPD.",
+     "chapter": 47
+    },
+    {
+     "q": "When the patient and ventilator are out of sync, it's called:",
+     "options": [
+      "Asynchrony",
+      "Weaning",
+      "Compliance",
+      "Recruitment"
+     ],
+     "answer": 0,
+     "explanation": "Increases work of breathing.",
+     "chapter": 48
+    },
+    {
+     "q": "In assist-control mode, every breath delivers:",
+     "options": [
+      "CPAP only",
+      "No support",
+      "The set tidal volume or pressure",
+      "Only spontaneous breaths"
+     ],
+     "answer": 2,
+     "explanation": "Even patient-triggered breaths.",
+     "chapter": 46
+    },
+    {
+     "q": "Asynchrony increases the patient's:",
+     "options": [
+      "Compliance",
+      "Comfort",
+      "Oxygen levels",
+      "Work of breathing"
+     ],
+     "answer": 3,
+     "explanation": "It also causes distress.",
+     "chapter": 48
+    },
+    {
+     "q": "Positive pressure ventilation can lower:",
+     "options": [
+      "Oxygen levels always",
+      "Airway pressure",
+      "Intrathoracic pressure",
+      "Venous return and cardiac output"
+     ],
+     "answer": 3,
+     "explanation": "Watch blood pressure.",
+     "chapter": 47
+    },
+    {
+     "q": "Lung injury from high pressure is:",
+     "options": [
+      "Atelectrauma",
+      "Biotrauma",
+      "Barotrauma",
+      "Volutrauma only"
+     ],
+     "answer": 2,
+     "explanation": "Can cause pneumothorax.",
+     "chapter": 47
+    }
+   ]
+  },
+  {
+   "chapters": [
+    49,
+    50,
+    51
+   ],
+   "questions": [
+    {
+     "q": "ECMO is generally used as:",
+     "options": [
+      "Routine post-op care",
+      "Rescue therapy when ventilation fails",
+      "First-line treatment for asthma",
+      "Home therapy"
+     ],
+     "answer": 1,
+     "explanation": "For severe failure.",
+     "chapter": 51
+    },
+    {
+     "q": "A major risk of ECMO is:",
+     "options": [
+      "Hypothermia only",
+      "Dehydration",
+      "Asthma",
+      "Bleeding"
+     ],
+     "answer": 3,
+     "explanation": "Patients need anticoagulation.",
+     "chapter": 51
+    },
+    {
+     "q": "To lower PaCO2, increase the:",
+     "options": [
+      "PEEP",
+      "FiO2",
+      "Respiratory rate or tidal volume",
+      "Humidity"
+     ],
+     "answer": 2,
+     "explanation": "More ventilation removes CO2.",
+     "chapter": 49
+    },
+    {
+     "q": "NIV works especially well for:",
+     "options": [
+      "Facial trauma",
+      "COPD exacerbations",
+      "Cardiac arrest",
+      "Vomiting patients"
+     ],
+     "answer": 1,
+     "explanation": "Avoids intubation.",
+     "chapter": 50
+    },
+    {
+     "q": "A contraindication to NIV is:",
+     "options": [
+      "Inability to protect the airway",
+      "CHF",
+      "Alertness",
+      "Mild COPD"
+     ],
+     "answer": 0,
+     "explanation": "Also vomiting and facial trauma.",
+     "chapter": 50
+    },
+    {
+     "q": "To raise PaO2, increase the:",
+     "options": [
+      "FiO2 or PEEP",
+      "Alarm limits",
+      "Tidal volume only",
+      "Rate"
+     ],
+     "answer": 0,
+     "explanation": "Oxygenation controls.",
+     "chapter": 49
+    },
+    {
+     "q": "In BiPAP, the pressure that supports inspiration is:",
+     "options": [
+      "PEEP only",
+      "EPAP",
+      "CPAP",
+      "IPAP"
+     ],
+     "answer": 3,
+     "explanation": "EPAP keeps alveoli open.",
+     "chapter": 50
+    },
+    {
+     "q": "ECMO that supports only the lungs is:",
+     "options": [
+      "Arteriovenous",
+      "Hyperbaric",
+      "Venovenous",
+      "Venoarterial"
+     ],
+     "answer": 2,
+     "explanation": "VA supports heart and lungs.",
+     "chapter": 51
+    },
+    {
+     "q": "Initial tidal volume for most adults is:",
+     "options": [
+      "6–8 mL/kg ideal body weight",
+      "12–15 mL/kg",
+      "20 mL/kg",
+      "2–3 mL/kg"
+     ],
+     "answer": 0,
+     "explanation": "Based on height, not actual weight.",
+     "chapter": 49
+    }
+   ]
+  },
+  {
+   "chapters": [
+    52,
+    53,
+    54
+   ],
+   "questions": [
+    {
+     "q": "High oxygen in premature infants must be avoided to prevent:",
+     "options": [
+      "Croup",
+      "Asthma",
+      "Retinopathy of prematurity",
+      "Pneumonia"
+     ],
+     "answer": 2,
+     "explanation": "Target modest SpO2.",
+     "chapter": 54
+    },
+    {
+     "q": "A high peak pressure with normal plateau pressure suggests:",
+     "options": [
+      "Disconnect",
+      "Increased airway resistance",
+      "Decreased compliance",
+      "Leak"
+     ],
+     "answer": 1,
+     "explanation": "Like bronchospasm or secretions.",
+     "chapter": 52
+    },
+    {
+     "q": "A ventilator mode often used for neonates with very small breaths is:",
+     "options": [
+      "High-frequency oscillatory ventilation",
+      "IPPB",
+      "Incentive spirometry",
+      "Iron lung"
+     ],
+     "answer": 0,
+     "explanation": "HFOV.",
+     "chapter": 54
+    },
+    {
+     "q": "Infants are prone to airway obstruction because their airways are:",
+     "options": [
+      "Small",
+      "Rigid",
+      "Fully developed",
+      "Large"
+     ],
+     "answer": 0,
+     "explanation": "A little swelling narrows them greatly.",
+     "chapter": 54
+    },
+    {
+     "q": "After extubation, watch for:",
+     "options": [
+      "Hypertension only",
+      "Bradycardia only",
+      "Rash",
+      "Stridor"
+     ],
+     "answer": 3,
+     "explanation": "Laryngeal swelling.",
+     "chapter": 53
+    },
+    {
+     "q": "An RSBI under 105 predicts:",
+     "options": [
+      "Failure to wean",
+      "Successful weaning",
+      "ARDS",
+      "Need for ECMO"
+     ],
+     "answer": 1,
+     "explanation": "RSBI = f ÷ VT (L).",
+     "chapter": 53
+    },
+    {
+     "q": "Continuous blood pressure monitoring uses an:",
+     "options": [
+      "Nasal cannula",
+      "Incentive spirometer",
+      "Peak flow meter",
+      "Arterial line"
+     ],
+     "answer": 3,
+     "explanation": "Also allows ABG sampling.",
+     "chapter": 52
+    },
+    {
+     "q": "Pressure measured during an inspiratory hold is the:",
+     "options": [
+      "Mean pressure",
+      "Peak pressure",
+      "Plateau pressure",
+      "PEEP"
+     ],
+     "answer": 2,
+     "explanation": "Reflects alveolar pressure.",
+     "chapter": 52
+    },
+    {
+     "q": "Weaning readiness is tested with a:",
+     "options": [
+      "Spontaneous breathing trial",
+      "Chest X-ray only",
+      "Sleep study",
+      "Bronchoscopy"
+     ],
+     "answer": 0,
+     "explanation": "Daily SBTs.",
+     "chapter": 53
+    }
+   ]
+  },
+  {
+   "chapters": [
+    55,
+    56,
+    57
+   ],
+   "questions": [
+    {
+     "q": "Having patients repeat instructions in their own words is:",
+     "options": [
+      "Teach-back",
+      "Return demonstration only",
+      "Pamphlet",
+      "Lecture"
+     ],
+     "answer": 0,
+     "explanation": "Confirms understanding.",
+     "chapter": 55
+    },
+    {
+     "q": "The core component of pulmonary rehab is:",
+     "options": [
+      "Antibiotics",
+      "Surgery",
+      "Exercise training",
+      "Bed rest"
+     ],
+     "answer": 2,
+     "explanation": "Builds endurance.",
+     "chapter": 56
+    },
+    {
+     "q": "A home device that makes oxygen from room air is an:",
+     "options": [
+      "Liquid oxygen reservoir",
+      "Nebulizer",
+      "Cylinder",
+      "Oxygen concentrator"
+     ],
+     "answer": 3,
+     "explanation": "Runs on electricity.",
+     "chapter": 57
+    },
+    {
+     "q": "A written plan for managing asthma symptoms is an:",
+     "options": [
+      "Asthma action plan",
+      "Prescription",
+      "Care plan only",
+      "Advance directive"
+     ],
+     "answer": 0,
+     "explanation": "Green, yellow, red zones.",
+     "chapter": 55
+    },
+    {
+     "q": "Patients on home oxygen should:",
+     "options": [
+      "Smoke outside only",
+      "Avoid smoking and open flames",
+      "Use candles",
+      "Store tanks near heaters"
+     ],
+     "answer": 1,
+     "explanation": "Fire risk.",
+     "chapter": 57
+    },
+    {
+     "q": "Medicare covers home oxygen when SpO2 is:",
+     "options": [
+      "92% or less",
+      "88% or less",
+      "95% or less",
+      "Any level"
+     ],
+     "answer": 1,
+     "explanation": "Or PaO2 ≤ 55 mm Hg.",
+     "chapter": 57
+    },
+    {
+     "q": "Learning a skill like using an inhaler is in which domain?",
+     "options": [
+      "Affective",
+      "Social",
+      "Psychomotor",
+      "Cognitive"
+     ],
+     "answer": 2,
+     "explanation": "Hands-on skills.",
+     "chapter": 55
+    },
+    {
+     "q": "A breathing technique that helps COPD patients is:",
+     "options": [
+      "Pursed-lip breathing",
+      "Rapid shallow breathing",
+      "Breath holding",
+      "Valsalva"
+     ],
+     "answer": 0,
+     "explanation": "Slows exhalation, prevents air trapping.",
+     "chapter": 56
+    },
+    {
+     "q": "Pulmonary rehab improves:",
+     "options": [
+      "FEV1 dramatically",
+      "Lung cancer",
+      "Infections",
+      "Exercise tolerance and quality of life"
+     ],
+     "answer": 3,
+     "explanation": "Lung function itself doesn't improve much.",
+     "chapter": 56
+    }
+   ]
+  },
+  {
+   "chapters": [
+    58
+   ],
+   "questions": [
+    {
+     "q": "Withdrawing ventilator support should include:",
+     "options": [
+      "Leaving the family out",
+      "Comfort measures",
+      "Ignoring symptoms",
+      "No medication"
+     ],
+     "answer": 1,
+     "explanation": "Manage dyspnea and anxiety.",
+     "chapter": 58
+    },
+    {
+     "q": "Dyspnea at the end of life is often relieved with:",
+     "options": [
+      "Opioids and oxygen",
+      "Bronchoscopy",
+      "Exercise",
+      "Antibiotics"
+     ],
+     "answer": 0,
+     "explanation": "Palliative care.",
+     "chapter": 58
+    },
+    {
+     "q": "A DNR order means:",
+     "options": [
+      "Do not record",
+      "Do not resuscitate",
+      "Do not refer",
+      "Do not respond"
+     ],
+     "answer": 1,
+     "explanation": "No CPR in arrest.",
+     "chapter": 58
+    },
+    {
+     "q": "Respecting a patient's end-of-life wishes reflects:",
+     "options": [
+      "Autonomy",
+      "Veracity",
+      "Justice",
+      "Fidelity only"
+     ],
+     "answer": 0,
+     "explanation": "Patients decide their care.",
+     "chapter": 58
+    },
+    {
+     "q": "A legal document stating a patient's wishes for future care is an:",
+     "options": [
+      "Prescription",
+      "Consent for research",
+      "Advance directive",
+      "Incident report"
+     ],
+     "answer": 2,
+     "explanation": "Includes living wills.",
+     "chapter": 58
+    },
+    {
+     "q": "Care focused on comfort rather than cure is:",
+     "options": [
+      "Intensive care",
+      "Curative care",
+      "Palliative care",
+      "Rehabilitation"
+     ],
+     "answer": 2,
+     "explanation": "Can happen alongside treatment.",
+     "chapter": 58
+    },
+    {
+     "q": "When a patient can't decide, decisions are made by a:",
+     "options": [
+      "Surrogate decision maker",
+      "Respiratory therapist",
+      "Hospital billing office",
+      "Random staff member"
+     ],
+     "answer": 0,
+     "explanation": "Often family or a health care proxy.",
+     "chapter": 58
+    },
+    {
+     "q": "Hospice care is for patients who:",
+     "options": [
+      "Need ICU care",
+      "Are recovering from surgery",
+      "Have mild asthma",
+      "Have a terminal illness"
+     ],
+     "answer": 3,
+     "explanation": "Usually with a prognosis of 6 months or less.",
+     "chapter": 58
+    },
+    {
+     "q": "Futile treatment is treatment that:",
+     "options": [
+      "Cures the disease",
+      "Is free",
+      "Is always required",
+      "Won't benefit the patient"
+     ],
+     "answer": 3,
+     "explanation": "Raises ethical questions.",
+     "chapter": 58
+    }
+   ]
+  }
+ ],
  "1": [
   {
    "chapters": [
@@ -1906,6 +5002,12 @@ window.CONTENT["respiratory-therapy"].quizzes = {
  ]
 };
 window.CONTENT["respiratory-therapy"].bookInfo = {
+ "0": {
+  "edition": "13th edition",
+  "source": "Elsevier table of contents",
+  "chapters": 58,
+  "unit": "Chapter"
+ },
  "1": {
   "edition": "10th edition (2026)",
   "source": "Cengage / National Geographic Learning table of contents",
