@@ -44,7 +44,7 @@ def build(event_id):
         total = sum(p for _, items in r["sections"] for _, p in items)
         assert total == r["total"], f"{event_id}: rubric '{r['title']}' adds to {total}, official total is {r['total']}"
         rubrics.append({
-            "title": r["title"], "total": r["total"], "note": r.get("note", ""),
+            "title": r["title"], "total": r["total"], "note": r.get("note", ""), "pill": r.get("pill", ""),
             "sections": [{"name": n, "items": [{"criterion": c, "points": p} for c, p in items]} for n, items in r["sections"]],
         })
     out = {

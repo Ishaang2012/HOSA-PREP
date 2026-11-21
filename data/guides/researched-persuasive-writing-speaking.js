@@ -52,6 +52,7 @@ window.CONTENT["researched-persuasive-writing-speaking"].guide = {
    "title": "Round One: research paper",
    "total": 90,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Written paper",
@@ -108,6 +109,7 @@ window.CONTENT["researched-persuasive-writing-speaking"].guide = {
    "title": "Round Two: speech",
    "total": 80,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Speech content",

@@ -68,6 +68,7 @@ window.CONTENT["medical-innovation"].guide = {
    "title": "Round One: digital outline",
    "total": 110,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Outline",
@@ -120,6 +121,7 @@ window.CONTENT["medical-innovation"].guide = {
    "title": "Round Two: presentation and exhibit",
    "total": 130,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Content",

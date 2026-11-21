@@ -61,6 +61,7 @@ window.CONTENT["mental-health-promotion"].guide = {
    "title": "Round One: social media campaign",
    "total": 115,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Submission",
@@ -123,6 +124,7 @@ window.CONTENT["mental-health-promotion"].guide = {
    "title": "Round Two: presentation",
    "total": 105,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Content",

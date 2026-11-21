@@ -73,6 +73,7 @@ window.CONTENT["public-service-announcement"].guide = {
    "title": "Round One: PSA video",
    "total": 115,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "PSA overview",
@@ -155,6 +156,7 @@ window.CONTENT["public-service-announcement"].guide = {
    "title": "Round Two: presentation",
    "total": 85,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Content",

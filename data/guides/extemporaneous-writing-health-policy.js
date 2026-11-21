@@ -58,6 +58,7 @@ window.CONTENT["extemporaneous-writing-health-policy"].guide = {
    "title": "Written policy letter rubric",
    "total": 120,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Adherence to guidelines",

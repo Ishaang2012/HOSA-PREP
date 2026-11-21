@@ -63,6 +63,7 @@ window.CONTENT["health-career-photography"].guide = {
    "title": "Round One: portfolio",
    "total": 165,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Overall portfolio",
@@ -166,6 +167,7 @@ window.CONTENT["health-career-photography"].guide = {
    "title": "Round Two: presentation",
    "total": 110,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Photo #1",

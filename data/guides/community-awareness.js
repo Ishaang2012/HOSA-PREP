@@ -62,6 +62,7 @@ window.CONTENT["community-awareness"].guide = {
    "title": "Round One: portfolio",
    "total": 80,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Portfolio",
@@ -118,6 +119,7 @@ window.CONTENT["community-awareness"].guide = {
    "title": "Round Two: presentation",
    "total": 80,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Content",

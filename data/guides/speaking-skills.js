@@ -50,6 +50,7 @@ window.CONTENT["speaking-skills"].guide = {
    "title": "Speech rubric",
    "total": 105,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Content",

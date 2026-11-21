@@ -66,6 +66,7 @@ window.CONTENT["research-poster"].guide = {
    "title": "Round One: research poster",
    "total": 95,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Overview",
@@ -132,6 +133,7 @@ window.CONTENT["research-poster"].guide = {
    "title": "Round Two: presentation",
    "total": 70,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Content",

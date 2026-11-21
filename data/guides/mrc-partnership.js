@@ -69,6 +69,7 @@ window.CONTENT["mrc-partnership"].guide = {
    "title": "Round One: portfolio",
    "total": 60,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Required documents",
@@ -131,6 +132,7 @@ window.CONTENT["mrc-partnership"].guide = {
    "title": "Round Two: presentation",
    "total": 70,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "HOSA/MRC partnership",

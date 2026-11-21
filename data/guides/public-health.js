@@ -68,6 +68,7 @@ window.CONTENT["public-health"].guide = {
    "title": "Round One: video trailer",
    "total": 90,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Video overview",
@@ -113,6 +114,7 @@ window.CONTENT["public-health"].guide = {
    "title": "Round Two: presentation",
    "total": 115,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Content",

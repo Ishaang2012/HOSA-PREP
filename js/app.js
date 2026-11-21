@@ -157,7 +157,7 @@
       {
         href: "guide", title: "Study Guide", icon: icon.guide, color: "#8b5cf6",
         text: "How the event runs, exactly how judges score it, and the tips and checklist to prepare.",
-        meta: guide ? `${guide.rubrics.reduce((n, r) => n + r.total, 0)} rubric points broken down` : "",
+        meta: guide ? `${guide.rubrics.length} official rating sheet${guide.rubrics.length === 1 ? "" : "s"} broken down` : "",
         skip: !guide,
       },
       {
@@ -760,12 +760,12 @@
     const rubric = (r) => {
       const max = Math.max(...r.sections.flatMap((s) => s.items.map((i) => i.points)));
       return `<section class="card guide-block">
-        <div class="rubric-head"><h3>${esc(r.title)}</h3><span class="pill">${r.total} points</span></div>
+        <div class="rubric-head"><h3>${esc(r.title)}</h3><span class="pill">${esc(r.pill || `${r.total} points`)}</span></div>
         ${r.note ? `<p class="muted">${esc(r.note)}</p>` : ""}
         ${r.sections.map((s) => {
           const sub = s.items.reduce((n, i) => n + i.points, 0);
           return `<div class="rubric-sec">
-            <div class="rubric-sec-head"><span>${esc(s.name)}</span><span>${sub} pts</span></div>
+            <div class="rubric-sec-head"><span>${esc(s.name)}</span>${r.pill ? "" : `<span>${sub} pts</span>`}</div>
             <ul class="rubric-items">${s.items.map((i) => `<li>
               <span class="crit">${esc(i.criterion)}</span>
               <span class="bar"><span style="width:${(i.points / max) * 100}%"></span></span>

@@ -60,6 +60,7 @@ window.CONTENT["health-education"].guide = {
    "title": "Round One: portfolio",
    "total": 65,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Portfolio",
@@ -108,6 +109,7 @@ window.CONTENT["health-education"].guide = {
    "title": "Round Two: presentation",
    "total": 90,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Content",

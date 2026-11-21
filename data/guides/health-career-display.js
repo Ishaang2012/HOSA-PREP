@@ -65,6 +65,7 @@ window.CONTENT["health-career-display"].guide = {
    "title": "Round One: display outline",
    "total": 110,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Overview",
@@ -138,6 +139,7 @@ window.CONTENT["health-career-display"].guide = {
    "title": "Round Two: display and presentation",
    "total": 115,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Display rules",

@@ -52,6 +52,7 @@ window.CONTENT["interviewing-skills"].guide = {
    "title": "Round One: personal statement and resume",
    "total": 105,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Personal statement",
@@ -113,6 +114,7 @@ window.CONTENT["interviewing-skills"].guide = {
    "title": "Round Two: interview",
    "total": 80,
    "note": "",
+   "pill": "",
    "sections": [
     {
      "name": "Interview",
