@@ -272,12 +272,12 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "The transverse plane divides the body into:",
      "options": [
-      "Left and right parts",
-      "Front and back parts",
       "Equal left and right halves",
-      "Upper and lower parts"
+      "Front and back parts",
+      "Upper and lower parts",
+      "Left and right parts"
      ],
-     "answer": 3,
+     "answer": 2,
      "explanation": "Transverse = horizontal. Sagittal = left/right; frontal (coronal) = front/back; midsagittal = equal halves.",
      "chapter": 2
     },
@@ -286,8 +286,8 @@ window.CONTENT["medical-terminology"].quizzes = {
      "options": [
       "Combining vowel",
       "Suffix",
-      "Word root",
-      "Prefix"
+      "Prefix",
+      "Word root"
      ],
      "answer": 0,
      "explanation": "A combining form is a word root plus a combining vowel, usually o.",
@@ -297,11 +297,11 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "A disease named after a person, such as Alzheimer disease, is called an:",
      "options": [
       "Acronym",
+      "Eponym",
       "Homonym",
-      "Synonym",
-      "Eponym"
+      "Synonym"
      ],
-     "answer": 3,
+     "answer": 1,
      "explanation": "An eponym is named after a person. An acronym is formed from initial letters, such as AIDS.",
      "chapter": 1
     },
@@ -333,23 +333,23 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "Which body cavity contains the heart and lungs?",
      "options": [
       "Pelvic cavity",
+      "Abdominal cavity",
       "Thoracic cavity",
-      "Cranial cavity",
-      "Abdominal cavity"
+      "Cranial cavity"
      ],
-     "answer": 1,
+     "answer": 2,
      "explanation": "The thoracic (chest) cavity is part of the ventral cavity and holds the heart and lungs.",
      "chapter": 2
     },
     {
      "q": "When is the combining vowel usually dropped?",
      "options": [
-      "When the suffix begins with a consonant",
       "When the term has a prefix",
-      "When the suffix begins with a vowel",
-      "When two word roots are joined"
+      "When the suffix begins with a consonant",
+      "When two word roots are joined",
+      "When the suffix begins with a vowel"
      ],
-     "answer": 2,
+     "answer": 3,
      "explanation": "Gastr/o + -itis = gastritis (vowel dropped). Gastr/o + -logy = gastrology (vowel kept).",
      "chapter": 1
     },
@@ -358,8 +358,8 @@ window.CONTENT["medical-terminology"].quizzes = {
      "options": [
       "Nutritional disorder",
       "Genetic (hereditary) disorder",
-      "Iatrogenic disorder",
-      "Infectious disease"
+      "Infectious disease",
+      "Iatrogenic disorder"
      ],
      "answer": 1,
      "explanation": "Hemophilia is an inherited blood-clotting disorder passed from parent to child.",
@@ -368,10 +368,10 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "Which term is built correctly from \"gastr/o\" + \"-itis\"?",
      "options": [
-      "Gastroitis",
+      "Gastritiis",
       "Gastritis",
       "Gastrotitis",
-      "Gastritiis"
+      "Gastroitis"
      ],
      "answer": 1,
      "explanation": "The combining vowel is dropped because -itis begins with a vowel.",
@@ -380,44 +380,44 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "An open (compound) fracture is one in which:",
      "options": [
-      "The bone is crushed into several pieces",
-      "The bone stays in place under intact skin",
       "The broken bone pierces the skin",
-      "The bone is bent and only partly broken"
+      "The bone is crushed into several pieces",
+      "The bone is bent and only partly broken",
+      "The bone stays in place under intact skin"
      ],
-     "answer": 2,
+     "answer": 0,
      "explanation": "Greenstick = bent and partly broken; comminuted = crushed; closed = skin intact.",
      "chapter": 3
     },
     {
      "q": "Which list shows the levels of body organization from simplest to most complex?",
      "options": [
-      "Cells, organs, tissues, body systems",
       "Organs, tissues, cells, body systems",
       "Tissues, cells, organs, body systems",
-      "Cells, tissues, organs, body systems"
+      "Cells, tissues, organs, body systems",
+      "Cells, organs, tissues, body systems"
      ],
-     "answer": 3,
+     "answer": 2,
      "explanation": "Cells form tissues, tissues form organs, and organs work together as body systems.",
      "chapter": 2
     },
     {
      "q": "When defining a medical term, you usually start with the:",
      "options": [
+      "Combining vowel",
       "Prefix",
       "Suffix",
-      "Combining vowel",
       "Word root"
      ],
-     "answer": 1,
+     "answer": 2,
      "explanation": "Define the suffix first, then the prefix, then the root(s): pericarditis = inflammation, around, heart.",
      "chapter": 1
     },
     {
      "q": "Red bone marrow is responsible for:",
      "options": [
-      "Connecting bones to each other",
       "Producing synovial fluid",
+      "Connecting bones to each other",
       "Storing fat",
       "Making blood cells (hematopoiesis)"
      ],
@@ -429,23 +429,23 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "\"Arthroscopy\" is:",
      "options": [
       "Puncture of a joint to remove fluid",
-      "Surgical repair of a joint",
       "A visual examination of the inside of a joint",
-      "Surgical fusion of a joint"
+      "Surgical fusion of a joint",
+      "Surgical repair of a joint"
      ],
-     "answer": 2,
+     "answer": 1,
      "explanation": "arthr/o (joint) + -scopy. Arthroplasty = repair, arthrodesis = fusion, arthrocentesis = fluid removal.",
      "chapter": 3
     },
     {
      "q": "\"Osteoporosis\" is:",
      "options": [
-      "Inflammation of bone and bone marrow",
-      "Softening of bone from lack of vitamin D",
       "Loss of bone density that makes bones fragile",
-      "A degenerative joint disease"
+      "A degenerative joint disease",
+      "Softening of bone from lack of vitamin D",
+      "Inflammation of bone and bone marrow"
      ],
-     "answer": 2,
+     "answer": 0,
      "explanation": "Osteomyelitis = bone and marrow inflammation; osteomalacia = softening; osteoarthritis = joint degeneration.",
      "chapter": 3
     }
@@ -461,36 +461,36 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "Which blood cells carry oxygen?",
      "options": [
-      "Lymphocytes",
+      "Erythrocytes",
       "Thrombocytes",
       "Leukocytes",
-      "Erythrocytes"
+      "Lymphocytes"
      ],
-     "answer": 3,
+     "answer": 0,
      "explanation": "Erythrocytes (red cells) carry oxygen on hemoglobin.",
      "chapter": 5
     },
     {
      "q": "Receiving antibodies from another source, such as from mother to baby, is:",
      "options": [
-      "Natural killer immunity",
       "Passive immunity",
-      "Autoimmunity",
-      "Active immunity"
+      "Natural killer immunity",
+      "Active immunity",
+      "Autoimmunity"
      ],
-     "answer": 1,
+     "answer": 0,
      "explanation": "In active immunity your own body makes the antibodies; in passive immunity you receive them.",
      "chapter": 6
     },
     {
      "q": "Moving an arm away from the midline of the body is called:",
      "options": [
-      "Flexion",
-      "Adduction",
       "Pronation",
-      "Abduction"
+      "Abduction",
+      "Adduction",
+      "Flexion"
      ],
-     "answer": 3,
+     "answer": 1,
      "explanation": "Ab- means away from; ad- means toward.",
      "chapter": 4
     },
@@ -498,9 +498,9 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "'Myasthenia gravis' literally refers to:",
      "options": [
       "Serious muscle weakness",
-      "Muscle pain",
+      "Muscle wasting",
       "Muscle inflammation",
-      "Muscle wasting"
+      "Muscle pain"
      ],
      "answer": 0,
      "explanation": "my/o (muscle) + -asthenia (weakness); gravis means serious. It is an autoimmune disease.",
@@ -510,57 +510,57 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "Where do T lymphocytes mature?",
      "options": [
       "Spleen",
-      "Thymus",
       "Bone marrow",
+      "Thymus",
       "Tonsils"
      ],
-     "answer": 1,
+     "answer": 2,
      "explanation": "T cells are named for the thymus, where they mature.",
      "chapter": 6
     },
     {
      "q": "Paralysis of the lower half of the body is:",
      "options": [
-      "Hemiplegia",
-      "Paraplegia",
       "Quadriplegia",
-      "Myoparesis"
+      "Myoparesis",
+      "Paraplegia",
+      "Hemiplegia"
      ],
-     "answer": 1,
+     "answer": 2,
      "explanation": "Hemiplegia = one side; quadriplegia = all four limbs.",
      "chapter": 4
     },
     {
      "q": "A malignant tumor that begins in connective tissue such as bone is a:",
      "options": [
+      "Adenoma",
       "Carcinoma",
       "Lymphoma",
-      "Sarcoma",
-      "Adenoma"
+      "Sarcoma"
      ],
-     "answer": 2,
+     "answer": 3,
      "explanation": "Carcinoma = epithelial tissue; lymphoma = lymphatic tissue; adenoma is a benign gland tumor.",
      "chapter": 6
     },
     {
      "q": "The muscle attachment that moves when the muscle contracts is the:",
      "options": [
-      "Belly",
-      "Fascia",
       "Origin",
-      "Insertion"
+      "Belly",
+      "Insertion",
+      "Fascia"
      ],
-     "answer": 3,
+     "answer": 2,
      "explanation": "The origin stays still; the insertion moves.",
      "chapter": 4
     },
     {
      "q": "A sprain is an injury to a:",
      "options": [
-      "Bone",
-      "Ligament",
       "Tendon only",
-      "Muscle"
+      "Ligament",
+      "Muscle",
+      "Bone"
      ],
      "answer": 1,
      "explanation": "Sprains injure ligaments; strains injure muscles or tendons.",
@@ -569,12 +569,12 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "The heart's natural pacemaker is the:",
      "options": [
-      "Bundle of His",
-      "Atrioventricular (AV) node",
+      "Purkinje fibers",
       "Sinoatrial (SA) node",
-      "Purkinje fibers"
+      "Bundle of His",
+      "Atrioventricular (AV) node"
      ],
-     "answer": 2,
+     "answer": 1,
      "explanation": "The SA node starts each heartbeat; the signal then passes to the AV node, bundle of His and Purkinje fibers.",
      "chapter": 5
     },
@@ -582,11 +582,11 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "A myocardial infarction is:",
      "options": [
       "Inflammation of the heart lining",
-      "A heart attack caused by blocked blood flow to heart muscle",
+      "An abnormal heart rhythm",
       "A weakened, bulging artery",
-      "An abnormal heart rhythm"
+      "A heart attack caused by blocked blood flow to heart muscle"
      ],
-     "answer": 1,
+     "answer": 3,
      "explanation": "myo (muscle) + cardi (heart); infarction is tissue death from lack of blood.",
      "chapter": 5
     },
@@ -607,31 +607,31 @@ window.CONTENT["medical-terminology"].quizzes = {
      "options": [
       "Smooth muscle",
       "Visceral muscle",
-      "Cardiac muscle",
-      "Skeletal muscle"
+      "Skeletal muscle",
+      "Cardiac muscle"
      ],
-     "answer": 3,
+     "answer": 2,
      "explanation": "Skeletal muscle is under conscious control. Smooth (visceral) and cardiac muscle are involuntary.",
      "chapter": 4
     },
     {
      "q": "Blood leaving the right ventricle goes to the:",
      "options": [
+      "Left atrium, through the mitral valve",
       "Lungs, through the pulmonary artery",
       "Body, through the aorta",
-      "Right atrium, through the venae cavae",
-      "Left atrium, through the mitral valve"
+      "Right atrium, through the venae cavae"
      ],
-     "answer": 0,
+     "answer": 1,
      "explanation": "The right side pumps blood to the lungs; the left side pumps it to the body.",
      "chapter": 5
     },
     {
      "q": "Antibodies are produced by:",
      "options": [
-      "Erythrocytes",
       "Platelets",
       "T cells",
+      "Erythrocytes",
       "B cells (plasma cells)"
      ],
      "answer": 3,
@@ -651,23 +651,23 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "Lithotripsy is used to:",
      "options": [
       "Remove the bladder",
-      "Break up kidney stones",
       "Insert a urinary catheter",
+      "Break up kidney stones",
       "Filter blood when kidneys fail"
      ],
-     "answer": 1,
+     "answer": 2,
      "explanation": "-tripsy means crushing. Dialysis filters blood when the kidneys fail.",
      "chapter": 9
     },
     {
      "q": "Urine travels from the kidneys to the bladder through the:",
      "options": [
-      "Ureters",
       "Renal arteries",
-      "Glomeruli",
-      "Urethra"
+      "Ureters",
+      "Urethra",
+      "Glomeruli"
      ],
-     "answer": 0,
+     "answer": 1,
      "explanation": "Ureters (two) go kidney to bladder; the urethra (one) carries urine out of the body.",
      "chapter": 9
     },
@@ -675,9 +675,9 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "COPD includes chronic bronchitis and:",
      "options": [
       "Emphysema",
-      "Asthma",
       "Tuberculosis",
-      "Pneumonia"
+      "Pneumonia",
+      "Asthma"
      ],
      "answer": 0,
      "explanation": "Chronic obstructive pulmonary disease is mainly chronic bronchitis plus emphysema.",
@@ -686,22 +686,22 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "Bile is made by the:",
      "options": [
-      "Stomach",
       "Gallbladder",
-      "Liver",
-      "Pancreas"
+      "Stomach",
+      "Pancreas",
+      "Liver"
      ],
-     "answer": 2,
+     "answer": 3,
      "explanation": "The liver makes bile; the gallbladder stores and releases it.",
      "chapter": 8
     },
     {
      "q": "The structure that covers the larynx during swallowing is the:",
      "options": [
-      "Pharynx",
+      "Diaphragm",
       "Epiglottis",
       "Uvula",
-      "Diaphragm"
+      "Pharynx"
      ],
      "answer": 1,
      "explanation": "The epiglottis keeps food out of the airway.",
@@ -710,57 +710,57 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "Gas exchange in the lungs takes place in the:",
      "options": [
-      "Alveoli",
-      "Trachea",
       "Pleura",
-      "Bronchi"
+      "Trachea",
+      "Bronchi",
+      "Alveoli"
      ],
-     "answer": 0,
+     "answer": 3,
      "explanation": "Alveoli are tiny air sacs surrounded by capillaries.",
      "chapter": 7
     },
     {
      "q": "'Oliguria' means:",
      "options": [
-      "No urine output",
-      "Scanty urine output",
+      "Excessive urine output",
       "Painful urination",
-      "Excessive urine output"
+      "Scanty urine output",
+      "No urine output"
      ],
-     "answer": 1,
+     "answer": 2,
      "explanation": "olig/o = few or scanty. Anuria = none; polyuria = excessive; dysuria = painful.",
      "chapter": 9
     },
     {
      "q": "The wave-like contractions that move food through the digestive tract are called:",
      "options": [
-      "Peristalsis",
       "Emesis",
-      "Deglutition",
-      "Mastication"
+      "Mastication",
+      "Peristalsis",
+      "Deglutition"
      ],
-     "answer": 0,
+     "answer": 2,
      "explanation": "Mastication = chewing; deglutition = swallowing; emesis = vomiting.",
      "chapter": 8
     },
     {
      "q": "The functional unit of the kidney is the:",
      "options": [
-      "Ureter",
-      "Neuron",
+      "Nephron",
       "Alveolus",
-      "Nephron"
+      "Ureter",
+      "Neuron"
      ],
-     "answer": 3,
+     "answer": 0,
      "explanation": "Each kidney has about a million nephrons.",
      "chapter": 9
     },
     {
      "q": "The first part of the small intestine is the:",
      "options": [
-      "Ileum",
       "Jejunum",
       "Cecum",
+      "Ileum",
       "Duodenum"
      ],
      "answer": 3,
@@ -772,8 +772,8 @@ window.CONTENT["medical-terminology"].quizzes = {
      "options": [
       "Breathing only when upright",
       "Difficult or labored breathing",
-      "No breathing",
-      "Rapid breathing"
+      "Rapid breathing",
+      "No breathing"
      ],
      "answer": 1,
      "explanation": "dys- (difficult) + -pnea (breathing). Apnea = none; tachypnea = rapid; orthopnea = only upright.",
@@ -782,12 +782,12 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "'Dysphagia' means:",
      "options": [
-      "Difficulty speaking",
       "Difficulty swallowing",
       "Indigestion",
+      "Difficulty speaking",
       "Loss of appetite"
      ],
-     "answer": 1,
+     "answer": 0,
      "explanation": "phag/o = eat or swallow. Dysphasia (with an s) is difficulty speaking.",
      "chapter": 8
     },
@@ -807,9 +807,9 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "Pyelonephritis is an infection of the:",
      "options": [
       "Bladder",
-      "Prostate",
+      "Urethra",
       "Kidney and renal pelvis",
-      "Urethra"
+      "Prostate"
      ],
      "answer": 2,
      "explanation": "pyel/o (renal pelvis) + nephr (kidney) + -itis. Cystitis is a bladder infection.",
@@ -818,12 +818,12 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "'Cholelithiasis' means:",
      "options": [
-      "Gallstones",
       "Liver scarring",
-      "Inflamed gallbladder",
-      "Kidney stones"
+      "Gallstones",
+      "Kidney stones",
+      "Inflamed gallbladder"
      ],
-     "answer": 0,
+     "answer": 1,
      "explanation": "chol/e (bile) + lith (stone) + -iasis (condition).",
      "chapter": 8
     }
@@ -840,11 +840,11 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "A stroke is abbreviated:",
      "options": [
       "CNS",
+      "MS",
       "CVA",
-      "TIA",
-      "MS"
+      "TIA"
      ],
-     "answer": 1,
+     "answer": 2,
      "explanation": "Cerebrovascular accident. A TIA is a brief, temporary stroke-like episode.",
      "chapter": 10
     },
@@ -852,9 +852,9 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "A small fluid-filled blister is a:",
      "options": [
       "Vesicle",
+      "Papule",
       "Macule",
-      "Wheal",
-      "Papule"
+      "Wheal"
      ],
      "answer": 0,
      "explanation": "A macule is flat, a papule is a solid raised bump, and a wheal is a hive.",
@@ -863,56 +863,56 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "The central nervous system is made up of the:",
      "options": [
-      "Sympathetic and parasympathetic nerves",
+      "Brain and spinal cord",
       "Brain and cranial nerves",
-      "Cranial and spinal nerves",
-      "Brain and spinal cord"
+      "Sympathetic and parasympathetic nerves",
+      "Cranial and spinal nerves"
      ],
-     "answer": 3,
+     "answer": 0,
      "explanation": "The peripheral nervous system is the cranial and spinal nerves.",
      "chapter": 10
     },
     {
      "q": "Ringing in the ears is called:",
      "options": [
+      "Otalgia",
       "Tinnitus",
       "Presbycusis",
-      "Vertigo",
-      "Otalgia"
+      "Vertigo"
      ],
-     "answer": 0,
+     "answer": 1,
      "explanation": "Vertigo = spinning dizziness; presbycusis = age-related hearing loss; otalgia = ear pain.",
      "chapter": 11
     },
     {
      "q": "The outermost layer of the skin is the:",
      "options": [
+      "Dermis",
       "Hypodermis",
       "Epidermis",
-      "Subcutaneous layer",
-      "Dermis"
+      "Subcutaneous layer"
      ],
-     "answer": 1,
+     "answer": 2,
      "explanation": "epi- means upon. The dermis is below it, then the subcutaneous fat layer.",
      "chapter": 12
     },
     {
      "q": "A burn with blisters that involves the epidermis and part of the dermis is a:",
      "options": [
-      "Full-thickness (third-degree) burn",
-      "Partial-thickness (second-degree) burn",
+      "Superficial (first-degree) burn",
       "Fourth-degree burn",
-      "Superficial (first-degree) burn"
+      "Partial-thickness (second-degree) burn",
+      "Full-thickness (third-degree) burn"
      ],
-     "answer": 1,
+     "answer": 2,
      "explanation": "Superficial burns involve only the epidermis; full-thickness burns destroy all layers.",
      "chapter": 12
     },
     {
      "q": "The three tiny bones of the middle ear are the:",
      "options": [
-      "Cochlea, vestibule, stapes",
       "Malleus, cochlea, tympanum",
+      "Cochlea, vestibule, stapes",
       "Incus, auricle, labyrinth",
       "Malleus, incus, stapes"
      ],
@@ -923,33 +923,33 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "Glaucoma is usually caused by:",
      "options": [
+      "Detachment of the retina",
       "Increased pressure inside the eye",
-      "Inflammation of the conjunctiva",
       "Clouding of the lens",
-      "Detachment of the retina"
+      "Inflammation of the conjunctiva"
      ],
-     "answer": 0,
+     "answer": 1,
      "explanation": "Untreated glaucoma damages the optic nerve. A clouded lens is a cataract.",
      "chapter": 11
     },
     {
      "q": "The three layers of the meninges, from outer to inner, are:",
      "options": [
+      "Arachnoid, dura mater, pia mater",
       "Dura mater, arachnoid, pia mater",
       "Pia mater, arachnoid, dura mater",
-      "Arachnoid, dura mater, pia mater",
       "Dura mater, pia mater, arachnoid"
      ],
-     "answer": 0,
+     "answer": 1,
      "explanation": "Remember 'DAP' from the outside in.",
      "chapter": 10
     },
     {
      "q": "Which structure is responsible for hearing?",
      "options": [
-      "Eustachian tube",
       "Auricle",
       "Semicircular canals",
+      "Eustachian tube",
       "Cochlea"
      ],
      "answer": 3,
@@ -959,34 +959,34 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "Nearsightedness is called:",
      "options": [
-      "Presbyopia",
       "Myopia",
       "Astigmatism",
+      "Presbyopia",
       "Hyperopia"
      ],
-     "answer": 1,
+     "answer": 0,
      "explanation": "In myopia, distant objects are blurry. Hyperopia = farsighted; presbyopia = age-related near-focus loss.",
      "chapter": 11
     },
     {
      "q": "The most dangerous form of skin cancer is:",
      "options": [
-      "Actinic keratosis",
+      "Malignant melanoma",
       "Basal cell carcinoma",
       "Squamous cell carcinoma",
-      "Malignant melanoma"
+      "Actinic keratosis"
      ],
-     "answer": 3,
+     "answer": 0,
      "explanation": "Basal cell carcinoma is the most common but rarely spreads.",
      "chapter": 12
     },
     {
      "q": "The 'fight or flight' response is controlled by the:",
      "options": [
-      "Parasympathetic nervous system",
+      "Somatic nervous system",
       "Central canal",
       "Sympathetic nervous system",
-      "Somatic nervous system"
+      "Parasympathetic nervous system"
      ],
      "answer": 2,
      "explanation": "The parasympathetic system handles 'rest and digest.'",
@@ -995,24 +995,24 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "'Onych/o' refers to the:",
      "options": [
-      "Hair",
       "Oil glands",
-      "Nail",
-      "Sweat"
+      "Hair",
+      "Sweat",
+      "Nail"
      ],
-     "answer": 2,
+     "answer": 3,
      "explanation": "trich/o = hair; hidr/o = sweat; seb/o = sebum (oil).",
      "chapter": 12
     },
     {
      "q": "Which part of the brain coordinates balance and movement?",
      "options": [
-      "Hypothalamus",
       "Medulla oblongata",
-      "Cerebrum",
-      "Cerebellum"
+      "Cerebellum",
+      "Hypothalamus",
+      "Cerebrum"
      ],
-     "answer": 3,
+     "answer": 1,
      "explanation": "The cerebellum coordinates muscle movement and balance.",
      "chapter": 10
     }
@@ -1028,22 +1028,22 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "A contraindication is:",
      "options": [
-      "A reason a drug or treatment should not be used",
-      "A drug's brand name",
       "An expected side effect",
-      "The usual dose of a drug"
+      "The usual dose of a drug",
+      "A reason a drug or treatment should not be used",
+      "A drug's brand name"
      ],
-     "answer": 0,
+     "answer": 2,
      "explanation": "For example, a known allergy is a contraindication to that drug.",
      "chapter": 15
     },
     {
      "q": "Listening to body sounds with a stethoscope is called:",
      "options": [
-      "Percussion",
+      "Inspection",
       "Palpation",
       "Auscultation",
-      "Inspection"
+      "Percussion"
      ],
      "answer": 2,
      "explanation": "Palpation = feeling; percussion = tapping; inspection = looking.",
@@ -1053,9 +1053,9 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "Insulin is produced by the:",
      "options": [
       "Pancreatic islets",
-      "Liver",
+      "Thyroid",
       "Adrenal cortex",
-      "Thyroid"
+      "Liver"
      ],
      "answer": 0,
      "explanation": "Beta cells in the islets of Langerhans make insulin; alpha cells make glucagon.",
@@ -1064,9 +1064,9 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "Type 1 diabetes mellitus is caused by:",
      "options": [
-      "An overactive thyroid",
-      "Insulin resistance in body cells",
       "Too much antidiuretic hormone",
+      "Insulin resistance in body cells",
+      "An overactive thyroid",
       "The pancreas making little or no insulin"
      ],
      "answer": 3,
@@ -1077,21 +1077,21 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "Excessive thirst is called:",
      "options": [
       "Polyphagia",
+      "Polycythemia",
       "Polyuria",
-      "Polydipsia",
-      "Polycythemia"
+      "Polydipsia"
      ],
-     "answer": 2,
+     "answer": 3,
      "explanation": "dips/o = thirst. Polyuria = excessive urine; polyphagia = excessive hunger.",
      "chapter": 13
     },
     {
      "q": "Too much cortisol produced over a long time causes:",
      "options": [
-      "Graves disease",
+      "Acromegaly",
       "Cushing syndrome",
       "Addison disease",
-      "Acromegaly"
+      "Graves disease"
      ],
      "answer": 1,
      "explanation": "Addison disease is too little cortisol; Graves is hyperthyroidism; acromegaly is excess growth hormone in adults.",
@@ -1100,12 +1100,12 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "The abbreviation 'NPO' means:",
      "options": [
-      "By mouth",
-      "Every night",
+      "Nothing by mouth",
       "As needed",
-      "Nothing by mouth"
+      "Every night",
+      "By mouth"
      ],
-     "answer": 3,
+     "answer": 0,
      "explanation": "PO = by mouth; PRN = as needed.",
      "chapter": 15
     },
@@ -1114,22 +1114,22 @@ window.CONTENT["medical-terminology"].quizzes = {
      "options": [
       "Miscarriages",
       "Live births",
-      "Cesarean deliveries",
-      "Pregnancies"
+      "Pregnancies",
+      "Cesarean deliveries"
      ],
-     "answer": 3,
+     "answer": 2,
      "explanation": "Para refers to the number of births.",
      "chapter": 14
     },
     {
      "q": "Surgical removal of the uterus is a:",
      "options": [
-      "Hysterectomy",
-      "Salpingectomy",
+      "Oophorectomy",
       "Mastectomy",
-      "Oophorectomy"
+      "Salpingectomy",
+      "Hysterectomy"
      ],
-     "answer": 0,
+     "answer": 3,
      "explanation": "hyster/o = uterus; oophor/o = ovary; salping/o = fallopian tube; mast/o = breast.",
      "chapter": 14
     },
@@ -1137,23 +1137,23 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "Which route of administration is parenteral?",
      "options": [
       "Rectal suppository",
+      "Intramuscular injection",
       "Sublingual tablet",
-      "Oral tablet",
-      "Intramuscular injection"
+      "Oral tablet"
      ],
-     "answer": 3,
+     "answer": 1,
      "explanation": "Parenteral means by injection, bypassing the digestive tract.",
      "chapter": 15
     },
     {
      "q": "A pregnancy that implants outside the uterus is:",
      "options": [
+      "Preeclampsia",
       "An ectopic pregnancy",
       "Placenta previa",
-      "Endometriosis",
-      "Preeclampsia"
+      "Endometriosis"
      ],
-     "answer": 0,
+     "answer": 1,
      "explanation": "Ectopic pregnancies most often occur in a fallopian tube and are a medical emergency.",
      "chapter": 14
     },
@@ -1162,8 +1162,8 @@ window.CONTENT["medical-terminology"].quizzes = {
      "options": [
       "Fallopian tube",
       "Uterus",
-      "Cervix",
-      "Ovary"
+      "Ovary",
+      "Cervix"
      ],
      "answer": 0,
      "explanation": "The fertilized egg then travels to the uterus to implant.",
@@ -1172,12 +1172,12 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "Which sexually transmitted infection can cause cervical cancer?",
      "options": [
-      "Gonorrhea",
       "Chlamydia",
-      "Trichomoniasis",
-      "HPV"
+      "Gonorrhea",
+      "HPV",
+      "Trichomoniasis"
      ],
-     "answer": 3,
+     "answer": 2,
      "explanation": "Human papillomavirus; Pap tests and the HPV vaccine help prevent cervical cancer.",
      "chapter": 14
     },
@@ -1185,9 +1185,9 @@ window.CONTENT["medical-terminology"].quizzes = {
      "q": "Which imaging test uses magnets and radio waves instead of radiation?",
      "options": [
       "MRI",
-      "CT scan",
       "X-ray",
-      "PET scan"
+      "PET scan",
+      "CT scan"
      ],
      "answer": 0,
      "explanation": "CT and X-ray use ionizing radiation; PET uses a radioactive tracer.",
@@ -1196,10 +1196,10 @@ window.CONTENT["medical-terminology"].quizzes = {
     {
      "q": "Which gland is called the 'master gland'?",
      "options": [
-      "Adrenal",
+      "Thyroid",
       "Pituitary",
       "Pineal",
-      "Thyroid"
+      "Adrenal"
      ],
      "answer": 1,
      "explanation": "The pituitary controls many other glands and is regulated by the hypothalamus.",

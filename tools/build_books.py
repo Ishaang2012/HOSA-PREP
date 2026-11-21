@@ -64,11 +64,15 @@ def build_quiz(slug, chs, rows):
     rng = random.Random(zlib.crc32(f"{slug}:{chs}".encode()))
     rows = rows[:]
     rng.shuffle(rows)
+    # Spread correct answers evenly over A-D, in a shuffled order.
+    slots = [i % 4 for i in range(len(rows))]
+    rng.shuffle(slots)
     out = []
-    for ch, q, right, wrong, expl in rows:
-        opts = [right] + list(wrong)
-        rng.shuffle(opts)
-        out.append({"q": q, "options": opts, "answer": opts.index(right), "explanation": expl, "chapter": ch})
+    for (ch, q, right, wrong, expl), slot in zip(rows, slots):
+        others = list(wrong)
+        rng.shuffle(others)
+        opts = others[:slot] + [right] + others[slot:]
+        out.append({"q": q, "options": opts, "answer": slot, "explanation": expl, "chapter": ch})
     return {"chapters": list(chs), "questions": out}
 
 
