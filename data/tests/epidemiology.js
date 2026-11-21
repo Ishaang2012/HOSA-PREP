@@ -1256,7 +1256,7 @@ window.CONTENT["epidemiology"].tests = {
    "topic": "CDC: Morbidity and Mortality Weekly Report"
   },
   {
-   "q": "A ecological study analyzes data at the level of:",
+   "q": "An ecological study analyzes data at the level of:",
    "options": [
     "Genes",
     "Groups or populations, not individuals",

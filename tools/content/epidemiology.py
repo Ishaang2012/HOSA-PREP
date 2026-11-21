@@ -129,7 +129,7 @@ HARD = [
     ("I", "R0 (basic reproduction number) is:", "Average number of new infections from one case in a fully susceptible population", ["Number of deaths", "Number of vaccinated", "Time to recovery"], "Measles ~12–18."),
     ("I", "If R0 = 4, the herd immunity threshold is about:", "75%", ["25%", "40%", "96%"], "1 − 1/R0."),
     ("I", "The secondary attack rate measures spread:", "Among contacts of a primary case", ["Across the whole country", "In hospitals only", "Among animals"], "Household transmission."),
-    ("I", "A ecological study analyzes data at the level of:", "Groups or populations, not individuals", ["Individual patients", "Cells", "Genes"], "Risk of ecological fallacy."),
+    ("I", "An ecological study analyzes data at the level of:", "Groups or populations, not individuals", ["Individual patients", "Cells", "Genes"], "Risk of ecological fallacy."),
     ("I", "Years of potential life lost (YPLL) gives more weight to:", "Deaths at younger ages", ["Deaths at older ages", "Births", "Chronic illness"], "Premature mortality."),
     ("W", "WHO's Global Polio Eradication Initiative began in:", "1988", ["1955", "2000", "1980"], "Cases down over 99%."),
     ("W", "The Global Health Security Agenda launched in 2014 aims to:", "Strengthen countries' ability to prevent, detect, and respond to outbreaks", ["Fund only cancer research", "Close borders", "Replace WHO"], "Multinational."),
