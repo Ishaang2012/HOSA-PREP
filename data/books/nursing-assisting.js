@@ -395,6 +395,320 @@ window.CONTENT["nursing-assisting"].summaries = {
     "Manage stress"
    ]
   }
+ ],
+ "1": [
+  {
+   "number": 1,
+   "title": "The Holistic Nursing Assistant",
+   "summary": [
+    "Nursing assistants provide basic care under the supervision of a licensed nurse. Holistic care treats the whole person—body, mind, and spirit. NAs must complete state-approved training (at least 75 hours under federal law) and pass a competency exam to be listed on the state registry."
+   ],
+   "keyPoints": [
+    "Work under nurse supervision",
+    "Holistic = whole person",
+    "75-hour minimum training",
+    "State registry"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Healthcare Facilities and Environments",
+   "summary": [
+    "Settings include hospitals (acute care), long-term care facilities, assisted living, home health, hospice, and rehabilitation centers. The health care team includes nurses, physicians, therapists, and others. Facilities follow a chain of command."
+   ],
+   "keyPoints": [
+    "Acute vs. long-term care",
+    "Health care team",
+    "Chain of command",
+    "Many settings"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Holistic Practice",
+   "summary": [
+    "Holistic care respects each resident's physical, emotional, social, cultural, and spiritual needs. Person-centered care puts the resident's preferences first. Complementary therapies may be part of care."
+   ],
+   "keyPoints": [
+    "Person-centered care",
+    "Respect preferences",
+    "Cultural and spiritual needs",
+    "Whole-person approach"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Legal and Ethical Practice",
+   "summary": [
+    "Residents have rights under OBRA, including privacy, dignity, and freedom from abuse and restraints. NAs must keep information confidential (HIPAA), stay within scope of practice, and report abuse or neglect. Negligence and malpractice are legal risks."
+   ],
+   "keyPoints": [
+    "Residents' rights (OBRA)",
+    "HIPAA confidentiality",
+    "Report abuse",
+    "Scope of practice"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Safe Practice",
+   "summary": [
+    "Safety includes preventing falls (call light within reach, bed low, nonskid footwear), using proper body mechanics, fire safety (RACE and PASS), and avoiding restraints. Identify residents before care."
+   ],
+   "keyPoints": [
+    "Call light in reach",
+    "RACE and PASS",
+    "Body mechanics",
+    "Restraint alternatives"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Infection Prevention and Control",
+   "summary": [
+    "The chain of infection links agent, reservoir, portal of exit, mode of transmission, portal of entry, and susceptible host. Hand hygiene is the most important measure. Standard precautions and transmission-based precautions use PPE appropriately."
+   ],
+   "keyPoints": [
+    "Chain of infection",
+    "Hand hygiene",
+    "Standard precautions",
+    "PPE"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Human Behavior, Needs, and Health and Wellness",
+   "summary": [
+    "Maslow's hierarchy of needs places physical needs first, then safety, love and belonging, esteem, and self-actualization. Growth and development continue through the life span. Defense mechanisms and coping affect behavior."
+   ],
+   "keyPoints": [
+    "Maslow's hierarchy",
+    "Physical needs first",
+    "Life span development",
+    "Coping"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "The Body's Anatomy and Physiology",
+   "summary": [
+    "NAs need basic knowledge of body systems—integumentary, musculoskeletal, nervous, cardiovascular, respiratory, digestive, urinary, endocrine, reproductive, and immune—and how aging affects them."
+   ],
+   "keyPoints": [
+    "Body systems",
+    "Aging changes",
+    "Normal function",
+    "Report changes"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Diseases, Conditions, and Pain",
+   "summary": [
+    "Common conditions include diabetes, heart disease, stroke, COPD, arthritis, and cancer. Pain is subjective; NAs observe and report signs of pain and use comfort measures."
+   ],
+   "keyPoints": [
+    "Common chronic diseases",
+    "Pain is subjective",
+    "Observe and report",
+    "Comfort measures"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Communication, Caring, and Appreciating Differences",
+   "summary": [
+    "Effective communication uses active listening, clear language, and nonverbal cues. Adapt for hearing or vision loss and cognitive impairment. Cultural humility helps respect differences."
+   ],
+   "keyPoints": [
+    "Active listening",
+    "Nonverbal communication",
+    "Adapt for impairments",
+    "Cultural humility"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Planning, Observing, and Documenting Care",
+   "summary": [
+    "The nursing process guides care. NAs make objective (signs) and subjective (symptoms) observations, report changes promptly, and document accurately. 'If it wasn't documented, it wasn't done.'"
+   ],
+   "keyPoints": [
+    "Objective vs. subjective",
+    "Report changes",
+    "Accurate documentation",
+    "Care plan"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Vital Signs, Height, and Weight",
+   "summary": [
+    "Vital signs: temperature (oral normal ~98.6°F), pulse (60–100), respirations (12–20), blood pressure (normal under 120/80), and pain. Weigh residents at the same time, with the same scale and clothing."
+   ],
+   "keyPoints": [
+    "Pulse 60–100",
+    "Respirations 12–20",
+    "BP < 120/80",
+    "Consistent weighing"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Mathematics for Holistic Nursing Assistants",
+   "summary": [
+    "NAs use math for intake and output (1 oz = 30 mL), military (24-hour) time, conversions, and measuring. Accuracy is essential."
+   ],
+   "keyPoints": [
+    "1 oz = 30 mL",
+    "24-hour time",
+    "Intake and output",
+    "Conversions"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Physical Examination and Specimen Collection",
+   "summary": [
+    "NAs assist with exams by positioning and draping. They collect specimens such as clean-catch urine, stool, and sputum (best collected in the morning), labeling them correctly."
+   ],
+   "keyPoints": [
+    "Positioning and draping",
+    "Clean-catch urine",
+    "Sputum in the morning",
+    "Label specimens"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Restful Environment",
+   "summary": [
+    "A restful environment includes a clean, comfortable unit, proper bedmaking (occupied and unoccupied), comfortable temperature, and reduced noise. Sleep is essential for health."
+   ],
+   "keyPoints": [
+    "Bedmaking",
+    "Comfortable unit",
+    "Reduce noise",
+    "Promote sleep"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Personal Hygiene",
+   "summary": [
+    "Hygiene care includes bathing, oral care (including for unconscious residents and dentures), perineal care (front to back), shaving, hair and nail care, and dressing (weak side first). Check skin for pressure injuries."
+   ],
+   "keyPoints": [
+    "Perineal care front to back",
+    "Dress weak side first",
+    "Oral care",
+    "Check skin"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Mobility",
+   "summary": [
+    "Mobility care includes repositioning every 2 hours, range-of-motion exercises, transfers with a gait belt, ambulation with assistive devices, and preventing complications of immobility like pressure injuries and contractures."
+   ],
+   "keyPoints": [
+    "Reposition every 2 hours",
+    "Gait belt",
+    "ROM exercises",
+    "Prevent contractures"
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Healthy Eating and Nutritional Challenges",
+   "summary": [
+    "NAs serve meals, assist with feeding (sit at eye level, small bites), follow therapeutic diets, and watch for dysphagia (swallowing problems) and aspiration. Record meal percentages."
+   ],
+   "keyPoints": [
+    "Therapeutic diets",
+    "Dysphagia precautions",
+    "Upright for meals",
+    "Record intake"
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Hydration and Elimination",
+   "summary": [
+    "NAs encourage fluids, measure intake and output, assist with toileting, bedpans, and urinals, provide catheter care (keep bag below the bladder), and report changes in urine or stool."
+   ],
+   "keyPoints": [
+    "Encourage fluids",
+    "Measure I&O",
+    "Catheter bag below bladder",
+    "Report changes"
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Mental and Emotional Health, Disabilities, and Cognitive Disorders",
+   "summary": [
+    "NAs care for residents with depression, anxiety, intellectual and developmental disabilities, and dementia including Alzheimer's disease. Use calm, simple communication and validation; avoid arguing."
+   ],
+   "keyPoints": [
+    "Dementia care",
+    "Validation",
+    "Simple communication",
+    "Don't argue"
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Special Populations—Mothers, Infants, and Surgery",
+   "summary": [
+    "NAs may care for new mothers (watch for bleeding), newborns (safe sleep on back), and surgical patients (preoperative preparation and postoperative care such as deep breathing and preventing blood clots)."
+   ],
+   "keyPoints": [
+    "Postpartum bleeding",
+    "Newborn safe sleep",
+    "Post-op deep breathing",
+    "Prevent blood clots"
+   ]
+  },
+  {
+   "number": 22,
+   "title": "Emergencies and Disasters",
+   "summary": [
+    "NAs respond to emergencies such as choking (abdominal thrusts), cardiac arrest (CPR), falls, seizures (protect from injury, don't restrain), and disasters following facility plans."
+   ],
+   "keyPoints": [
+    "Choking: abdominal thrusts",
+    "CPR",
+    "Seizures: protect, don't restrain",
+    "Disaster plans"
+   ]
+  },
+  {
+   "number": 23,
+   "title": "End-of-Life Care",
+   "summary": [
+    "End-of-life care provides comfort and dignity through hospice and palliative care. Respect advance directives and DNR orders. Postmortem care treats the body with respect. Kübler-Ross's grief stages describe common reactions."
+   ],
+   "keyPoints": [
+    "Hospice and palliative care",
+    "Advance directives",
+    "Postmortem care",
+    "Grief stages"
+   ]
+  },
+  {
+   "number": 24,
+   "title": "Certification, Employment, the Workplace, and Lifelong Learning",
+   "summary": [
+    "NAs pass a state competency exam (written and skills) to be certified and listed on the registry. Job seeking includes résumés and interviews. Professionalism, continuing education (12 hours yearly under federal rules), and teamwork support career growth."
+   ],
+   "keyPoints": [
+    "Competency exam",
+    "State registry",
+    "12 hours CE per year",
+    "Professionalism"
+   ]
+  }
  ]
 };
 window.CONTENT["nursing-assisting"].quizzes = {
@@ -1675,6 +1989,944 @@ window.CONTENT["nursing-assisting"].quizzes = {
     }
    ]
   }
+ ],
+ "1": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Holistic practice considers cultural background because:",
+     "options": [
+      "It affects health beliefs and preferences",
+      "It's required for billing",
+      "It changes diagnoses",
+      "It doesn't matter"
+     ],
+     "answer": 0,
+     "explanation": "Respect differences.",
+     "chapter": 3
+    },
+    {
+     "q": "Holistic care focuses on the:",
+     "options": [
+      "Disease only",
+      "Whole person",
+      "Paperwork",
+      "Equipment"
+     ],
+     "answer": 1,
+     "explanation": "Body, mind, and spirit.",
+     "chapter": 1
+    },
+    {
+     "q": "A hospital that treats short-term illness is an:",
+     "options": [
+      "Acute care facility",
+      "Adult day center",
+      "Assisted living facility",
+      "Long-term care facility"
+     ],
+     "answer": 0,
+     "explanation": "Short stays.",
+     "chapter": 2
+    },
+    {
+     "q": "Respecting a resident's religious practices addresses:",
+     "options": [
+      "Physical needs only",
+      "Financial needs",
+      "Spiritual needs",
+      "Safety needs"
+     ],
+     "answer": 2,
+     "explanation": "Part of holistic care.",
+     "chapter": 3
+    },
+    {
+     "q": "Nursing assistants work under the supervision of a:",
+     "options": [
+      "Pharmacist",
+      "Dietitian",
+      "Licensed nurse",
+      "Social worker"
+     ],
+     "answer": 2,
+     "explanation": "RN or LPN.",
+     "chapter": 1
+    },
+    {
+     "q": "Care that puts the resident's preferences first is:",
+     "options": [
+      "Task-centered care",
+      "Person-centered care",
+      "Staff-centered care",
+      "Routine care"
+     ],
+     "answer": 1,
+     "explanation": "Respects choices.",
+     "chapter": 3
+    },
+    {
+     "q": "The line of authority in a facility is the:",
+     "options": [
+      "Chain of command",
+      "Kardex",
+      "Care plan",
+      "Registry"
+     ],
+     "answer": 0,
+     "explanation": "Report through it.",
+     "chapter": 2
+    },
+    {
+     "q": "Federal law requires nursing assistant training of at least:",
+     "options": [
+      "10 hours",
+      "20 hours",
+      "200 hours",
+      "75 hours"
+     ],
+     "answer": 3,
+     "explanation": "Some states require more.",
+     "chapter": 1
+    },
+    {
+     "q": "Care for terminally ill people focused on comfort is:",
+     "options": [
+      "Surgery",
+      "Acute care",
+      "Rehabilitation",
+      "Hospice"
+     ],
+     "answer": 3,
+     "explanation": "End-of-life care.",
+     "chapter": 2
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "Restraints should be:",
+     "options": [
+      "A last resort with an order",
+      "Used for convenience",
+      "Used freely",
+      "Used as punishment"
+     ],
+     "answer": 0,
+     "explanation": "Try alternatives first.",
+     "chapter": 5
+    },
+    {
+     "q": "Sharing resident information without permission violates:",
+     "options": [
+      "OBRA only",
+      "HIPAA",
+      "OSHA",
+      "ADA"
+     ],
+     "answer": 1,
+     "explanation": "Confidentiality.",
+     "chapter": 4
+    },
+    {
+     "q": "Residents' rights are protected by:",
+     "options": [
+      "OBRA",
+      "FDA",
+      "OSHA",
+      "EMTALA"
+     ],
+     "answer": 0,
+     "explanation": "Omnibus Budget Reconciliation Act of 1987.",
+     "chapter": 4
+    },
+    {
+     "q": "Gloves should be removed:",
+     "options": [
+      "At the end of the shift",
+      "After charting",
+      "Never",
+      "Before leaving the room"
+     ],
+     "answer": 3,
+     "explanation": "Then wash hands.",
+     "chapter": 6
+    },
+    {
+     "q": "Treating all body fluids as infectious is:",
+     "options": [
+      "Isolation",
+      "Droplet precautions",
+      "Standard precautions",
+      "Airborne precautions"
+     ],
+     "answer": 2,
+     "explanation": "For every resident.",
+     "chapter": 6
+    },
+    {
+     "q": "In a fire, RACE stands for Rescue, Alarm, Contain, and:",
+     "options": [
+      "Escape only",
+      "Evaluate",
+      "Extinguish/Evacuate",
+      "Exit"
+     ],
+     "answer": 2,
+     "explanation": "Then PASS for extinguishers.",
+     "chapter": 5
+    },
+    {
+     "q": "If you suspect abuse, you must:",
+     "options": [
+      "Confront the abuser",
+      "Report it",
+      "Ignore it",
+      "Wait for proof"
+     ],
+     "answer": 1,
+     "explanation": "Mandatory reporting.",
+     "chapter": 4
+    },
+    {
+     "q": "The most important way to prevent infection is:",
+     "options": [
+      "Antibiotics",
+      "Gloves",
+      "Masks",
+      "Hand hygiene"
+     ],
+     "answer": 3,
+     "explanation": "Before and after care.",
+     "chapter": 6
+    },
+    {
+     "q": "To prevent falls, the call light should be:",
+     "options": [
+      "Within reach",
+      "On the floor",
+      "Unplugged",
+      "Out of reach"
+     ],
+     "answer": 0,
+     "explanation": "Answer promptly.",
+     "chapter": 5
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "According to Maslow, which needs come first?",
+     "options": [
+      "Physical needs",
+      "Esteem",
+      "Love and belonging",
+      "Self-actualization"
+     ],
+     "answer": 0,
+     "explanation": "Food, water, oxygen.",
+     "chapter": 7
+    },
+    {
+     "q": "A common chronic disease in older adults is:",
+     "options": [
+      "Arthritis",
+      "Strep throat",
+      "Chickenpox",
+      "Measles"
+     ],
+     "answer": 0,
+     "explanation": "Joint pain and stiffness.",
+     "chapter": 9
+    },
+    {
+     "q": "The body system that removes urine is the:",
+     "options": [
+      "Digestive system",
+      "Urinary system",
+      "Integumentary system",
+      "Endocrine system"
+     ],
+     "answer": 1,
+     "explanation": "Kidneys and bladder.",
+     "chapter": 8
+    },
+    {
+     "q": "Pain is:",
+     "options": [
+      "Only physical",
+      "Whatever the person says it is",
+      "Always visible",
+      "Easy to measure objectively"
+     ],
+     "answer": 1,
+     "explanation": "Subjective.",
+     "chapter": 9
+    },
+    {
+     "q": "Coping strategies help people:",
+     "options": [
+      "Increase stress",
+      "Avoid all feelings",
+      "Ignore problems",
+      "Handle stress"
+     ],
+     "answer": 3,
+     "explanation": "Healthy coping supports wellness.",
+     "chapter": 7
+    },
+    {
+     "q": "The highest level of Maslow's hierarchy is:",
+     "options": [
+      "Safety",
+      "Physical needs",
+      "Self-actualization",
+      "Esteem"
+     ],
+     "answer": 2,
+     "explanation": "Reaching one's potential.",
+     "chapter": 7
+    },
+    {
+     "q": "With aging, skin becomes:",
+     "options": [
+      "Stronger",
+      "Thicker",
+      "Oilier",
+      "Thinner and more fragile"
+     ],
+     "answer": 3,
+     "explanation": "Easily injured.",
+     "chapter": 8
+    },
+    {
+     "q": "If a resident reports pain, the NA should:",
+     "options": [
+      "Report it to the nurse",
+      "Give medication",
+      "Tell them to wait",
+      "Ignore it"
+     ],
+     "answer": 0,
+     "explanation": "Then provide comfort measures.",
+     "chapter": 9
+    },
+    {
+     "q": "The system that includes the heart and blood vessels is:",
+     "options": [
+      "Digestive",
+      "Respiratory",
+      "Cardiovascular",
+      "Urinary"
+     ],
+     "answer": 2,
+     "explanation": "Pumps blood.",
+     "chapter": 8
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "For a resident with hearing loss, you should:",
+     "options": [
+      "Face them and speak clearly",
+      "Talk from behind",
+      "Cover your mouth",
+      "Shout"
+     ],
+     "answer": 0,
+     "explanation": "Reduce background noise.",
+     "chapter": 10
+    },
+    {
+     "q": "A rash you can see is:",
+     "options": [
+      "A symptom only",
+      "Objective information",
+      "Hearsay",
+      "Subjective information"
+     ],
+     "answer": 1,
+     "explanation": "Signs are observed.",
+     "chapter": 11
+    },
+    {
+     "q": "A resident saying 'I feel dizzy' is:",
+     "options": [
+      "Objective information",
+      "A vital sign",
+      "Subjective information",
+      "A sign"
+     ],
+     "answer": 2,
+     "explanation": "Symptoms are reported.",
+     "chapter": 11
+    },
+    {
+     "q": "The rule 'If it wasn't documented, it wasn't done' stresses:",
+     "options": [
+      "Accurate documentation",
+      "Skipping charting",
+      "Speed",
+      "Verbal reports only"
+     ],
+     "answer": 0,
+     "explanation": "Legal record.",
+     "chapter": 11
+    },
+    {
+     "q": "Fully focusing on what a resident says is:",
+     "options": [
+      "Active listening",
+      "Lecturing",
+      "Assuming",
+      "Interrupting"
+     ],
+     "answer": 0,
+     "explanation": "Shows respect.",
+     "chapter": 10
+    },
+    {
+     "q": "Normal adult pulse range is:",
+     "options": [
+      "150–180",
+      "100–140",
+      "40–50",
+      "60–100 beats/min"
+     ],
+     "answer": 3,
+     "explanation": "Count for a full minute if irregular.",
+     "chapter": 12
+    },
+    {
+     "q": "Facial expressions and posture are:",
+     "options": [
+      "Verbal communication",
+      "Documentation",
+      "Charting",
+      "Nonverbal communication"
+     ],
+     "answer": 3,
+     "explanation": "Can say more than words.",
+     "chapter": 10
+    },
+    {
+     "q": "To weigh accurately, use the same scale, time, and:",
+     "options": [
+      "Room",
+      "Shoes always on",
+      "Clothing",
+      "Staff member"
+     ],
+     "answer": 2,
+     "explanation": "Consistency.",
+     "chapter": 12
+    },
+    {
+     "q": "A normal adult respiratory rate is:",
+     "options": [
+      "25–35",
+      "12–20 breaths/min",
+      "40",
+      "5–8"
+     ],
+     "answer": 1,
+     "explanation": "Count without telling the person.",
+     "chapter": 12
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "An occupied bed is made when the resident:",
+     "options": [
+      "Can't get out of bed",
+      "Is discharged",
+      "Is in the dining room",
+      "Is walking"
+     ],
+     "answer": 0,
+     "explanation": "Turn them side to side.",
+     "chapter": 15
+    },
+    {
+     "q": "A resident drank 6 oz of juice. That is:",
+     "options": [
+      "240 mL",
+      "60 mL",
+      "180 mL",
+      "120 mL"
+     ],
+     "answer": 2,
+     "explanation": "6 × 30.",
+     "chapter": 13
+    },
+    {
+     "q": "Sputum specimens are best collected:",
+     "options": [
+      "In the early morning",
+      "After meals",
+      "At bedtime",
+      "After brushing teeth with toothpaste"
+     ],
+     "answer": 0,
+     "explanation": "Secretions collect overnight.",
+     "chapter": 14
+    },
+    {
+     "q": "All specimens must be:",
+     "options": [
+      "Stored warm",
+      "Left unlabeled",
+      "Mixed together",
+      "Labeled correctly"
+     ],
+     "answer": 3,
+     "explanation": "Name, date, time.",
+     "chapter": 14
+    },
+    {
+     "q": "Linens should be held:",
+     "options": [
+      "On the floor",
+      "Shaken in the air",
+      "Away from your uniform",
+      "Against your body"
+     ],
+     "answer": 2,
+     "explanation": "Prevents spreading germs.",
+     "chapter": 15
+    },
+    {
+     "q": "In 24-hour time, 3:00 p.m. is:",
+     "options": [
+      "1300",
+      "1500",
+      "1800",
+      "0300"
+     ],
+     "answer": 1,
+     "explanation": "Add 12 to p.m. hours.",
+     "chapter": 13
+    },
+    {
+     "q": "A clean-catch urine specimen requires:",
+     "options": [
+      "The first drops only",
+      "Cleaning the area and catching midstream urine",
+      "No cleaning",
+      "Urine from the toilet bowl"
+     ],
+     "answer": 1,
+     "explanation": "Reduces contamination.",
+     "chapter": 14
+    },
+    {
+     "q": "One ounce equals:",
+     "options": [
+      "30 mL",
+      "5 mL",
+      "100 mL",
+      "10 mL"
+     ],
+     "answer": 0,
+     "explanation": "Used for intake and output.",
+     "chapter": 13
+    },
+    {
+     "q": "A restful environment includes:",
+     "options": [
+      "Loud TV",
+      "Bright lights all night",
+      "Cold rooms",
+      "Reduced noise and comfortable temperature"
+     ],
+     "answer": 3,
+     "explanation": "Promotes sleep.",
+     "chapter": 15
+    }
+   ]
+  },
+  {
+   "chapters": [
+    16,
+    17,
+    18
+   ],
+   "questions": [
+    {
+     "q": "Residents in bed should be repositioned at least every:",
+     "options": [
+      "2 hours",
+      "8 hours",
+      "12 hours",
+      "6 hours"
+     ],
+     "answer": 0,
+     "explanation": "Prevents pressure injuries.",
+     "chapter": 17
+    },
+    {
+     "q": "A belt used for safe transfers and walking is a:",
+     "options": [
+      "Gait belt",
+      "Binder",
+      "Seat belt",
+      "Restraint"
+     ],
+     "answer": 0,
+     "explanation": "Hold from behind.",
+     "chapter": 17
+    },
+    {
+     "q": "Perineal care for females is done:",
+     "options": [
+      "In circles",
+      "Front to back",
+      "Any direction",
+      "Back to front"
+     ],
+     "answer": 1,
+     "explanation": "Prevents UTIs.",
+     "chapter": 16
+    },
+    {
+     "q": "When dressing a resident with a weak side, dress the:",
+     "options": [
+      "Either side",
+      "Strong side first",
+      "Weak side first",
+      "Head first"
+     ],
+     "answer": 2,
+     "explanation": "Undress the strong side first.",
+     "chapter": 16
+    },
+    {
+     "q": "Range-of-motion exercises prevent:",
+     "options": [
+      "Dehydration",
+      "Fever",
+      "Infections",
+      "Contractures"
+     ],
+     "answer": 3,
+     "explanation": "Keep joints flexible.",
+     "chapter": 17
+    },
+    {
+     "q": "When feeding a resident, sit:",
+     "options": [
+      "Across the room",
+      "Behind them",
+      "Standing over them",
+      "At eye level"
+     ],
+     "answer": 3,
+     "explanation": "Use small bites.",
+     "chapter": 18
+    },
+    {
+     "q": "During bathing, check the skin for:",
+     "options": [
+      "Redness or breakdown",
+      "Hair color",
+      "Freckles only",
+      "Tattoos"
+     ],
+     "answer": 0,
+     "explanation": "Report pressure injury signs.",
+     "chapter": 16
+    },
+    {
+     "q": "During meals, residents should sit:",
+     "options": [
+      "Head down",
+      "On their side",
+      "Upright",
+      "Flat on their backs"
+     ],
+     "answer": 2,
+     "explanation": "Prevents choking.",
+     "chapter": 18
+    },
+    {
+     "q": "Difficulty swallowing is:",
+     "options": [
+      "Dysuria",
+      "Dysphagia",
+      "Dyspnea",
+      "Aphasia"
+     ],
+     "answer": 1,
+     "explanation": "Risk of aspiration.",
+     "chapter": 18
+    }
+   ]
+  },
+  {
+   "chapters": [
+    19,
+    20,
+    21
+   ],
+   "questions": [
+    {
+     "q": "Use simple, one-step directions for residents with:",
+     "options": [
+      "Hearing aids only",
+      "Colds",
+      "Cognitive impairment",
+      "Broken arms"
+     ],
+     "answer": 2,
+     "explanation": "Reduces confusion.",
+     "chapter": 20
+    },
+    {
+     "q": "A urinary catheter bag should be kept:",
+     "options": [
+      "Below the bladder",
+      "On the floor",
+      "Above the bladder",
+      "On the bed"
+     ],
+     "answer": 0,
+     "explanation": "Prevents backflow.",
+     "chapter": 19
+    },
+    {
+     "q": "After childbirth, watch new mothers for:",
+     "options": [
+      "Hair loss",
+      "Heavy bleeding",
+      "Rash",
+      "Fever only"
+     ],
+     "answer": 1,
+     "explanation": "Report immediately.",
+     "chapter": 21
+    },
+    {
+     "q": "Measuring all fluids taken in and given off is:",
+     "options": [
+      "Intake and output",
+      "Weight",
+      "BMI",
+      "Vital signs"
+     ],
+     "answer": 0,
+     "explanation": "I&O.",
+     "chapter": 19
+    },
+    {
+     "q": "After surgery, deep breathing and coughing help prevent:",
+     "options": [
+      "Pneumonia",
+      "Diabetes",
+      "Rashes",
+      "Fractures"
+     ],
+     "answer": 0,
+     "explanation": "Keep lungs clear.",
+     "chapter": 21
+    },
+    {
+     "q": "Newborns should be placed to sleep:",
+     "options": [
+      "With pillows",
+      "On their sides",
+      "On their stomachs",
+      "On their backs"
+     ],
+     "answer": 3,
+     "explanation": "Reduces SIDS.",
+     "chapter": 21
+    },
+    {
+     "q": "Report urine that is:",
+     "options": [
+      "Clear",
+      "Pale yellow",
+      "Cloudy, bloody, or foul-smelling",
+      "Odorless"
+     ],
+     "answer": 2,
+     "explanation": "May signal infection.",
+     "chapter": 19
+    },
+    {
+     "q": "When a resident with dementia is confused, you should:",
+     "options": [
+      "Argue the facts",
+      "Stay calm and not argue",
+      "Correct them firmly",
+      "Ignore them"
+     ],
+     "answer": 1,
+     "explanation": "Validation helps.",
+     "chapter": 20
+    },
+    {
+     "q": "The most common type of dementia is:",
+     "options": [
+      "Delirium",
+      "Stroke",
+      "Parkinson's disease",
+      "Alzheimer's disease"
+     ],
+     "answer": 3,
+     "explanation": "Progressive.",
+     "chapter": 20
+    }
+   ]
+  },
+  {
+   "chapters": [
+    22,
+    23,
+    24
+   ],
+   "questions": [
+    {
+     "q": "During disasters, NAs should follow:",
+     "options": [
+      "Residents' wishes only",
+      "Social media",
+      "Their own plan",
+      "The facility's disaster plan"
+     ],
+     "answer": 3,
+     "explanation": "Know your role.",
+     "chapter": 22
+    },
+    {
+     "q": "Care focused on comfort for the dying is:",
+     "options": [
+      "Palliative or hospice care",
+      "Surgical care",
+      "Acute care",
+      "Rehab"
+     ],
+     "answer": 0,
+     "explanation": "Dignity and comfort.",
+     "chapter": 23
+    },
+    {
+     "q": "Care of the body after death is:",
+     "options": [
+      "Postmortem care",
+      "Hospice care",
+      "Respite care",
+      "Palliative care"
+     ],
+     "answer": 0,
+     "explanation": "Treat with respect.",
+     "chapter": 23
+    },
+    {
+     "q": "A legal document stating end-of-life wishes is an:",
+     "options": [
+      "Admission form",
+      "Care plan",
+      "Advance directive",
+      "Incident report"
+     ],
+     "answer": 2,
+     "explanation": "Like a living will.",
+     "chapter": 23
+    },
+    {
+     "q": "To be certified, NAs must pass a:",
+     "options": [
+      "Driving test",
+      "Medical school test",
+      "State competency exam",
+      "College entrance exam"
+     ],
+     "answer": 2,
+     "explanation": "Written and skills.",
+     "chapter": 24
+    },
+    {
+     "q": "Federal rules require NAs to complete how many hours of continuing education yearly?",
+     "options": [
+      "2",
+      "50",
+      "100",
+      "12"
+     ],
+     "answer": 3,
+     "explanation": "In-service training.",
+     "chapter": 24
+    },
+    {
+     "q": "For a conscious adult who is choking, give:",
+     "options": [
+      "Abdominal thrusts",
+      "Water",
+      "Back slaps only",
+      "CPR first"
+     ],
+     "answer": 0,
+     "explanation": "Heimlich maneuver.",
+     "chapter": 22
+    },
+    {
+     "q": "During a seizure, you should:",
+     "options": [
+      "Restrain them",
+      "Protect the person from injury",
+      "Put something in their mouth",
+      "Give water"
+     ],
+     "answer": 1,
+     "explanation": "Time it and report.",
+     "chapter": 22
+    },
+    {
+     "q": "Certified NAs are listed on the:",
+     "options": [
+      "Federal ballot",
+      "State registry",
+      "Hospital directory",
+      "Insurance list"
+     ],
+     "answer": 1,
+     "explanation": "Employers check it.",
+     "chapter": 24
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["nursing-assisting"].bookInfo = {
@@ -1682,6 +2934,12 @@ window.CONTENT["nursing-assisting"].bookInfo = {
   "edition": "6th edition",
   "source": "Hartman Publishing table of contents",
   "chapters": 28,
+  "unit": "Chapter"
+ },
+ "1": {
+  "edition": "2nd edition (2027), published as \"The Nursing Assistant: Foundations of Holistic Caregiving\"",
+  "source": "Goodheart-Willcox table of contents",
+  "chapters": 24,
   "unit": "Chapter"
  }
 };

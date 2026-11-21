@@ -297,6 +297,307 @@ window.CONTENT["nutrition"].summaries = {
     "Dysphagia may require thickened liquids"
    ]
   }
+ ],
+ "1": [
+  {
+   "number": 1,
+   "title": "Making Wellness a Lifestyle",
+   "summary": [
+    "Wellness is a state of being that includes physical, mental, social, emotional, and other dimensions. Lifestyle choices—diet, activity, sleep, avoiding tobacco—affect risk of chronic diseases such as heart disease, type 2 diabetes, and cancer. Making changes involves setting SMART goals."
+   ],
+   "keyPoints": [
+    "Dimensions of wellness",
+    "Lifestyle affects chronic disease",
+    "SMART goals",
+    "Prevention"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Factors Affecting Food Habits",
+   "summary": [
+    "Food choices are shaped by culture, family, religion, emotions, social influences, media and advertising, cost, and availability. Hunger is the physical need for food; appetite is the psychological desire to eat."
+   ],
+   "keyPoints": [
+    "Hunger vs. appetite",
+    "Culture and family",
+    "Media influence",
+    "Cost and availability"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Practicing Safe Food Habits",
+   "summary": [
+    "Foodborne illness is caused by pathogens such as Salmonella, E. coli, and Listeria. Prevent it with the four steps: clean, separate, cook (to safe internal temperatures, e.g., poultry 165°F), and chill (refrigerate within 2 hours). The temperature danger zone is 40–140°F."
+   ],
+   "keyPoints": [
+    "Clean, separate, cook, chill",
+    "Danger zone 40–140°F",
+    "Poultry 165°F",
+    "Refrigerate within 2 hours"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Nutrients and You",
+   "summary": [
+    "The six nutrient classes are carbohydrates, lipids, proteins, vitamins, minerals, and water. Energy-yielding nutrients provide calories: carbohydrates and protein (4 cal/g), fat (9 cal/g); alcohol gives 7 cal/g. Digestion breaks food down; absorption mostly occurs in the small intestine."
+   ],
+   "keyPoints": [
+    "Six nutrient classes",
+    "Carbs/protein 4 cal/g",
+    "Fat 9 cal/g",
+    "Small intestine absorbs"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Nutrition Guidelines",
+   "summary": [
+    "Tools include the Dietary Guidelines for Americans, MyPlate (fruits, vegetables, grains, protein, dairy), Dietary Reference Intakes (RDA, AI, UL), and the Nutrition Facts label (serving size and % Daily Value; 5% DV is low, 20% is high)."
+   ],
+   "keyPoints": [
+    "MyPlate",
+    "Dietary Guidelines",
+    "DRIs: RDA, AI, UL",
+    "%DV: 5% low, 20% high"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Carbohydrates",
+   "summary": [
+    "Carbohydrates are the body's main energy source. Simple carbs are sugars; complex carbs include starch and fiber. Fiber (soluble and insoluble) aids digestion and lowers cholesterol. Limit added sugars. Glucose is stored as glycogen."
+   ],
+   "keyPoints": [
+    "Main energy source",
+    "Simple vs. complex",
+    "Fiber benefits",
+    "Limit added sugars"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Lipids: Fats and Oils",
+   "summary": [
+    "Lipids include triglycerides, phospholipids, and sterols (cholesterol). Saturated fats (solid at room temperature, mostly animal) and trans fats raise LDL ('bad') cholesterol; unsaturated fats (mono and poly; oils) are healthier. Omega-3 fatty acids support heart health. HDL is 'good' cholesterol."
+   ],
+   "keyPoints": [
+    "Saturated and trans fats raise LDL",
+    "Unsaturated fats healthier",
+    "Omega-3s",
+    "HDL is good"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Proteins",
+   "summary": [
+    "Proteins are made of amino acids; nine are essential and must come from food. Complete proteins (animal foods, soy) contain all essential amino acids; incomplete proteins can be combined (complementary proteins). Protein builds and repairs tissue. Deficiency causes kwashiorkor or marasmus."
+   ],
+   "keyPoints": [
+    "20 amino acids, 9 essential",
+    "Complete vs. incomplete",
+    "Complementary proteins",
+    "Build and repair"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Vitamins",
+   "summary": [
+    "Fat-soluble vitamins (A, D, E, K) are stored in the body; water-soluble vitamins (B vitamins and C) aren't stored well. Deficiencies include scurvy (vitamin C), rickets (vitamin D), night blindness (vitamin A), and neural tube defects (folate). Vitamin K helps clotting."
+   ],
+   "keyPoints": [
+    "Fat-soluble: A, D, E, K",
+    "Water-soluble: B, C",
+    "Vitamin C → scurvy",
+    "Folate prevents neural tube defects"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Minerals",
+   "summary": [
+    "Major minerals include calcium (bones, teeth), phosphorus, magnesium, sodium, potassium, and chloride. Trace minerals include iron (hemoglobin; deficiency causes anemia), zinc, iodine (thyroid; goiter), and fluoride (teeth). Too much sodium raises blood pressure."
+   ],
+   "keyPoints": [
+    "Calcium for bones",
+    "Iron deficiency → anemia",
+    "Iodine → goiter",
+    "Limit sodium"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Water",
+   "summary": [
+    "Water is the most essential nutrient: it regulates temperature, transports nutrients, and removes waste. Needs increase with heat and activity. Signs of dehydration include thirst, dark urine, fatigue, and dizziness."
+   ],
+   "keyPoints": [
+    "Most essential nutrient",
+    "Regulates temperature",
+    "Dark urine = dehydration",
+    "Needs rise with activity"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Energy Balance",
+   "summary": [
+    "Energy balance compares calories eaten to calories used. Energy use includes basal metabolism (largest part), physical activity, and the thermic effect of food. One pound of body fat is about 3,500 calories."
+   ],
+   "keyPoints": [
+    "Calories in vs. out",
+    "Basal metabolism largest",
+    "Thermic effect of food",
+    "1 lb ≈ 3,500 calories"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Healthy Weight Management",
+   "summary": [
+    "BMI (weight relative to height) screens weight status. Healthy weight management combines balanced eating, portion control, and physical activity. Fad diets are unsafe or unsustainable. Obesity raises risk of chronic diseases."
+   ],
+   "keyPoints": [
+    "BMI screening",
+    "Portion control",
+    "Avoid fad diets",
+    "Activity + diet"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Nutrition Across the Life Span",
+   "summary": [
+    "Needs change with age: pregnancy (folate, iron, extra calories), infancy (breast milk or formula; solids around 6 months), childhood, adolescence (calcium, iron for growth), adulthood, and older adulthood (vitamin D, B12, fewer calories)."
+   ],
+   "keyPoints": [
+    "Pregnancy: folate and iron",
+    "Solids ~6 months",
+    "Teens: calcium and iron",
+    "Older adults: B12, vitamin D"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Eating for Sports Performance",
+   "summary": [
+    "Athletes need extra calories and carbohydrates (stored as glycogen), adequate protein, and fluids before, during, and after activity. Pre-game meals are eaten 2–4 hours before. Supplements and steroids can be dangerous."
+   ],
+   "keyPoints": [
+    "Carbs fuel exercise",
+    "Hydrate before, during, after",
+    "Pre-game meal 2–4 hours before",
+    "Avoid risky supplements"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Eating Disorders",
+   "summary": [
+    "Eating disorders include anorexia nervosa (self-starvation), bulimia nervosa (bingeing and purging), and binge eating disorder. They have serious health effects and need professional treatment. The female athlete triad links low energy, menstrual problems, and bone loss."
+   ],
+   "keyPoints": [
+    "Anorexia: self-starvation",
+    "Bulimia: binge and purge",
+    "Binge eating disorder",
+    "Seek professional help"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Planning Healthy Meals",
+   "summary": [
+    "Meal planning considers nutrition, budget, time, and preferences, using MyPlate as a guide. Variety, balance, and moderation are key. Healthy snacks and breakfast support energy and focus."
+   ],
+   "keyPoints": [
+    "Use MyPlate",
+    "Variety, balance, moderation",
+    "Budget planning",
+    "Healthy snacks"
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Shopping for Food",
+   "summary": [
+    "Smart shopping includes making a list, comparing unit prices, reading labels, choosing store brands, and understanding dates ('sell by,' 'use by'). Organic and other label claims have specific meanings."
+   ],
+   "keyPoints": [
+    "Shopping lists",
+    "Unit pricing",
+    "Read labels",
+    "Date labels"
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Preparing Food",
+   "summary": [
+    "Healthy cooking methods include baking, broiling, grilling, steaming, and microwaving, which keep nutrients and limit fat. Kitchen safety prevents burns, cuts, and fires. Recipes can be modified to lower fat, sugar, and sodium."
+   ],
+   "keyPoints": [
+    "Steam to keep nutrients",
+    "Limit frying",
+    "Kitchen safety",
+    "Modify recipes"
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Staying Physically Active",
+   "summary": [
+    "Regular activity improves heart and lung health, strength, flexibility, and mood. Teens need 60 minutes of activity daily; adults 150 minutes of moderate activity weekly. The FITT principle (frequency, intensity, time, type) guides exercise."
+   ],
+   "keyPoints": [
+    "Teens: 60 min/day",
+    "Adults: 150 min/week",
+    "FITT principle",
+    "Warm up and cool down"
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Mental and Social Wellness",
+   "summary": [
+    "Mental wellness includes self-esteem, coping, and managing emotions. Social wellness involves healthy relationships and communication. Depression and anxiety are treatable; seek help from trusted adults or professionals."
+   ],
+   "keyPoints": [
+    "Self-esteem",
+    "Healthy relationships",
+    "Seek help",
+    "Coping skills"
+   ]
+  },
+  {
+   "number": 22,
+   "title": "Stress and Wellness",
+   "summary": [
+    "Stress triggers the fight-or-flight response. Chronic stress harms health. Management strategies include exercise, sleep, time management, relaxation, and talking to others."
+   ],
+   "keyPoints": [
+    "Fight-or-flight",
+    "Chronic stress harms health",
+    "Exercise and sleep",
+    "Time management"
+   ]
+  },
+  {
+   "number": 23,
+   "title": "Drug and Supplement Use and Your Health",
+   "summary": [
+    "Misuse of drugs, alcohol, tobacco, and vaping harms health and can lead to addiction. Dietary supplements aren't regulated like drugs and may be unnecessary or unsafe. Caffeine and energy drinks have risks."
+   ],
+   "keyPoints": [
+    "Avoid tobacco and vaping",
+    "Alcohol harms",
+    "Supplements loosely regulated",
+    "Energy drink risks"
+   ]
+  }
  ]
 };
 window.CONTENT["nutrition"].quizzes = {
@@ -1204,6 +1505,943 @@ window.CONTENT["nutrition"].quizzes = {
     }
    ]
   }
+ ],
+ "1": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Poultry should be cooked to an internal temperature of:",
+     "options": [
+      "100°F",
+      "140°F",
+      "165°F",
+      "120°F"
+     ],
+     "answer": 2,
+     "explanation": "Use a food thermometer.",
+     "chapter": 3
+    },
+    {
+     "q": "The temperature danger zone for bacterial growth is:",
+     "options": [
+      "40–140°F",
+      "150–200°F",
+      "212°F and above",
+      "0–32°F"
+     ],
+     "answer": 0,
+     "explanation": "Keep food out of this range.",
+     "chapter": 3
+    },
+    {
+     "q": "The physical need for food is:",
+     "options": [
+      "Satiety",
+      "Hunger",
+      "Appetite",
+      "Craving"
+     ],
+     "answer": 1,
+     "explanation": "Appetite is the desire to eat.",
+     "chapter": 2
+    },
+    {
+     "q": "Which factor affects food choices?",
+     "options": [
+      "Eye color",
+      "Culture",
+      "Height",
+      "Blood type"
+     ],
+     "answer": 1,
+     "explanation": "Also family, media, cost.",
+     "chapter": 2
+    },
+    {
+     "q": "Goals that are specific, measurable, achievable, relevant, and time-bound are:",
+     "options": [
+      "DRI goals",
+      "FITT goals",
+      "BMI goals",
+      "SMART goals"
+     ],
+     "answer": 3,
+     "explanation": "Easier to reach.",
+     "chapter": 1
+    },
+    {
+     "q": "Perishable food should be refrigerated within:",
+     "options": [
+      "12 hours",
+      "6 hours",
+      "24 hours",
+      "2 hours"
+     ],
+     "answer": 3,
+     "explanation": "1 hour if above 90°F.",
+     "chapter": 3
+    },
+    {
+     "q": "Advertising that targets kids mostly promotes:",
+     "options": [
+      "High-sugar foods",
+      "Whole grains",
+      "Vegetables",
+      "Water"
+     ],
+     "answer": 0,
+     "explanation": "Media influences choices.",
+     "chapter": 2
+    },
+    {
+     "q": "A diet high in processed food and low in activity increases risk of:",
+     "options": [
+      "Chronic diseases",
+      "Fewer illnesses",
+      "Better sleep",
+      "Stronger bones"
+     ],
+     "answer": 0,
+     "explanation": "Like heart disease and type 2 diabetes.",
+     "chapter": 1
+    },
+    {
+     "q": "The four steps to food safety are clean, separate, cook, and:",
+     "options": [
+      "Check",
+      "Chop",
+      "Chill",
+      "Cover"
+     ],
+     "answer": 2,
+     "explanation": "Refrigerate promptly.",
+     "chapter": 3
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "A food with 20% Daily Value of a nutrient is:",
+     "options": [
+      "Free of it",
+      "Low in that nutrient",
+      "Unsafe",
+      "High in that nutrient"
+     ],
+     "answer": 3,
+     "explanation": "5% or less is low.",
+     "chapter": 5
+    },
+    {
+     "q": "Which is NOT an energy-yielding nutrient?",
+     "options": [
+      "Proteins",
+      "Vitamins",
+      "Carbohydrates",
+      "Fats"
+     ],
+     "answer": 1,
+     "explanation": "Vitamins don't provide calories.",
+     "chapter": 4
+    },
+    {
+     "q": "Carbohydrates are stored in the liver and muscles as:",
+     "options": [
+      "Glycogen",
+      "Protein",
+      "Fat only",
+      "Cholesterol"
+     ],
+     "answer": 0,
+     "explanation": "Used for quick energy.",
+     "chapter": 6
+    },
+    {
+     "q": "The highest daily intake likely to cause no harm is the:",
+     "options": [
+      "UL",
+      "EAR",
+      "RDA",
+      "AI"
+     ],
+     "answer": 0,
+     "explanation": "Tolerable Upper Intake Level.",
+     "chapter": 5
+    },
+    {
+     "q": "The body's main source of energy is:",
+     "options": [
+      "Vitamins",
+      "Water",
+      "Protein",
+      "Carbohydrates"
+     ],
+     "answer": 3,
+     "explanation": "Especially for the brain.",
+     "chapter": 6
+    },
+    {
+     "q": "Fiber that helps lower cholesterol is:",
+     "options": [
+      "Insoluble fiber",
+      "Starch only",
+      "Soluble fiber",
+      "Added sugar"
+     ],
+     "answer": 2,
+     "explanation": "Found in oats and beans.",
+     "chapter": 6
+    },
+    {
+     "q": "How many calories does 1 gram of fat provide?",
+     "options": [
+      "2",
+      "4",
+      "9",
+      "7"
+     ],
+     "answer": 2,
+     "explanation": "Carbs and protein provide 4.",
+     "chapter": 4
+    },
+    {
+     "q": "The current USDA food guide is:",
+     "options": [
+      "Basic Four",
+      "MyPlate",
+      "Food Pyramid",
+      "Food Wheel"
+     ],
+     "answer": 1,
+     "explanation": "Shows food groups as a plate.",
+     "chapter": 5
+    },
+    {
+     "q": "Most nutrient absorption occurs in the:",
+     "options": [
+      "Small intestine",
+      "Large intestine",
+      "Mouth",
+      "Stomach"
+     ],
+     "answer": 0,
+     "explanation": "Villi increase surface area.",
+     "chapter": 4
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "Folate before and during pregnancy prevents:",
+     "options": [
+      "Goiter",
+      "Neural tube defects",
+      "Scurvy",
+      "Night blindness"
+     ],
+     "answer": 1,
+     "explanation": "Such as spina bifida.",
+     "chapter": 9
+    },
+    {
+     "q": "Vitamin C deficiency causes:",
+     "options": [
+      "Scurvy",
+      "Goiter",
+      "Anemia",
+      "Rickets"
+     ],
+     "answer": 0,
+     "explanation": "Bleeding gums.",
+     "chapter": 9
+    },
+    {
+     "q": "Foods with all essential amino acids are:",
+     "options": [
+      "Carbohydrates",
+      "Complete proteins",
+      "Incomplete proteins",
+      "Lipids"
+     ],
+     "answer": 1,
+     "explanation": "Animal foods and soy.",
+     "chapter": 8
+    },
+    {
+     "q": "Rice and beans together provide:",
+     "options": [
+      "Complementary proteins",
+      "Only vitamins",
+      "Only carbohydrates",
+      "Trans fats"
+     ],
+     "answer": 0,
+     "explanation": "Fill each other's gaps.",
+     "chapter": 8
+    },
+    {
+     "q": "'Good' cholesterol is:",
+     "options": [
+      "LDL",
+      "Triglycerides",
+      "HDL",
+      "Trans fat"
+     ],
+     "answer": 2,
+     "explanation": "Removes cholesterol from arteries.",
+     "chapter": 7
+    },
+    {
+     "q": "The most harmful fat for heart health is:",
+     "options": [
+      "Omega-3",
+      "Polyunsaturated fat",
+      "Monounsaturated fat",
+      "Trans fat"
+     ],
+     "answer": 3,
+     "explanation": "Raises LDL and lowers HDL.",
+     "chapter": 7
+    },
+    {
+     "q": "Fats that are solid at room temperature and mostly from animals are:",
+     "options": [
+      "Unsaturated fats",
+      "Omega-3 fats",
+      "Saturated fats",
+      "Polyunsaturated oils"
+     ],
+     "answer": 2,
+     "explanation": "Raise LDL.",
+     "chapter": 7
+    },
+    {
+     "q": "Proteins are made of:",
+     "options": [
+      "Amino acids",
+      "Glucose",
+      "Fatty acids",
+      "Minerals"
+     ],
+     "answer": 0,
+     "explanation": "Nine are essential.",
+     "chapter": 8
+    },
+    {
+     "q": "Which vitamin group is stored in body fat?",
+     "options": [
+      "B12 only",
+      "B and C",
+      "C only",
+      "A, D, E, K"
+     ],
+     "answer": 3,
+     "explanation": "Fat-soluble.",
+     "chapter": 9
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "Water helps regulate:",
+     "options": [
+      "Hair color",
+      "Height",
+      "Blood type",
+      "Body temperature"
+     ],
+     "answer": 3,
+     "explanation": "Through sweat.",
+     "chapter": 11
+    },
+    {
+     "q": "Eating more calories than you use leads to:",
+     "options": [
+      "Weight loss",
+      "No change",
+      "Weight gain",
+      "Dehydration"
+     ],
+     "answer": 2,
+     "explanation": "Positive energy balance.",
+     "chapter": 12
+    },
+    {
+     "q": "Too much sodium can raise:",
+     "options": [
+      "Hearing",
+      "Bone density",
+      "Vision",
+      "Blood pressure"
+     ],
+     "answer": 3,
+     "explanation": "Limit salt.",
+     "chapter": 10
+    },
+    {
+     "q": "Iron deficiency causes:",
+     "options": [
+      "Scurvy",
+      "Anemia",
+      "Goiter",
+      "Rickets"
+     ],
+     "answer": 1,
+     "explanation": "Iron is in hemoglobin.",
+     "chapter": 10
+    },
+    {
+     "q": "One pound of body fat equals about:",
+     "options": [
+      "3,500 calories",
+      "500 calories",
+      "10,000 calories",
+      "1,000 calories"
+     ],
+     "answer": 0,
+     "explanation": "Energy balance math.",
+     "chapter": 12
+    },
+    {
+     "q": "A sign of dehydration is:",
+     "options": [
+      "Pale urine",
+      "Dark urine",
+      "Cool skin",
+      "Weight gain"
+     ],
+     "answer": 1,
+     "explanation": "Drink fluids.",
+     "chapter": 11
+    },
+    {
+     "q": "The most essential nutrient is:",
+     "options": [
+      "Water",
+      "Protein",
+      "Fat",
+      "Vitamin C"
+     ],
+     "answer": 0,
+     "explanation": "You can't live long without it.",
+     "chapter": 11
+    },
+    {
+     "q": "The largest part of daily energy use is:",
+     "options": [
+      "Basal metabolism",
+      "Physical activity",
+      "Sleep only",
+      "Thermic effect of food"
+     ],
+     "answer": 0,
+     "explanation": "Keeps body functioning at rest.",
+     "chapter": 12
+    },
+    {
+     "q": "Iodine deficiency can cause:",
+     "options": [
+      "Scurvy",
+      "Anemia",
+      "Goiter",
+      "Rickets"
+     ],
+     "answer": 2,
+     "explanation": "Enlarged thyroid.",
+     "chapter": 10
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "Older adults often need more:",
+     "options": [
+      "Sugar",
+      "Calories",
+      "Vitamin D and B12",
+      "Sodium"
+     ],
+     "answer": 2,
+     "explanation": "Absorption decreases.",
+     "chapter": 14
+    },
+    {
+     "q": "Infants usually start solid foods around:",
+     "options": [
+      "1 month",
+      "2 years",
+      "6 months",
+      "1 week"
+     ],
+     "answer": 2,
+     "explanation": "Breast milk or formula first.",
+     "chapter": 14
+    },
+    {
+     "q": "Pregnant people need extra:",
+     "options": [
+      "Alcohol",
+      "Caffeine",
+      "Sodium",
+      "Folate and iron"
+     ],
+     "answer": 3,
+     "explanation": "Supports baby's growth.",
+     "chapter": 14
+    },
+    {
+     "q": "A key part of healthy weight management is:",
+     "options": [
+      "Portion control",
+      "Skipping meals",
+      "Eliminating all fats",
+      "Fasting for days"
+     ],
+     "answer": 0,
+     "explanation": "Plus activity.",
+     "chapter": 13
+    },
+    {
+     "q": "Athletes should drink fluids:",
+     "options": [
+      "Never during",
+      "Before, during, and after exercise",
+      "Only after",
+      "Only when thirsty"
+     ],
+     "answer": 1,
+     "explanation": "Prevents dehydration.",
+     "chapter": 15
+    },
+    {
+     "q": "A pre-game meal should be eaten about:",
+     "options": [
+      "During the game",
+      "10 minutes before",
+      "The day before only",
+      "2–4 hours before"
+     ],
+     "answer": 3,
+     "explanation": "Time to digest.",
+     "chapter": 15
+    },
+    {
+     "q": "BMI compares weight to:",
+     "options": [
+      "Muscle mass",
+      "Height",
+      "Waist size only",
+      "Age"
+     ],
+     "answer": 1,
+     "explanation": "A screening tool.",
+     "chapter": 13
+    },
+    {
+     "q": "Athletes rely mainly on which nutrient for fuel?",
+     "options": [
+      "Carbohydrates",
+      "Protein",
+      "Vitamins",
+      "Minerals"
+     ],
+     "answer": 0,
+     "explanation": "Stored as glycogen.",
+     "chapter": 15
+    },
+    {
+     "q": "Diets promising rapid weight loss are often:",
+     "options": [
+      "Fad diets",
+      "MyPlate plans",
+      "Medical diets",
+      "Balanced diets"
+     ],
+     "answer": 0,
+     "explanation": "Unsafe or unsustainable.",
+     "chapter": 13
+    }
+   ]
+  },
+  {
+   "chapters": [
+    16,
+    17,
+    18
+   ],
+   "questions": [
+    {
+     "q": "Bingeing followed by purging is:",
+     "options": [
+      "Bulimia nervosa",
+      "Pica",
+      "Binge eating disorder",
+      "Anorexia nervosa"
+     ],
+     "answer": 0,
+     "explanation": "Damages teeth and esophagus.",
+     "chapter": 16
+    },
+    {
+     "q": "Meals should emphasize variety, balance, and:",
+     "options": [
+      "Moderation",
+      "Fried foods",
+      "Large portions",
+      "Restriction"
+     ],
+     "answer": 0,
+     "explanation": "Key planning principles.",
+     "chapter": 17
+    },
+    {
+     "q": "A good meal planning guide is:",
+     "options": [
+      "Vending machine",
+      "Fast food menu",
+      "MyPlate",
+      "Candy chart"
+     ],
+     "answer": 2,
+     "explanation": "Fill half with fruits and vegetables.",
+     "chapter": 17
+    },
+    {
+     "q": "Making a shopping list helps:",
+     "options": [
+      "Buy junk food",
+      "Forget items",
+      "Spend more",
+      "Avoid impulse buying"
+     ],
+     "answer": 3,
+     "explanation": "Saves money.",
+     "chapter": 18
+    },
+    {
+     "q": "Store brands are usually:",
+     "options": [
+      "Cheaper with similar quality",
+      "More expensive",
+      "Unsafe",
+      "Always lower quality"
+     ],
+     "answer": 0,
+     "explanation": "Compare labels.",
+     "chapter": 18
+    },
+    {
+     "q": "Eating disorders require:",
+     "options": [
+      "Ignoring them",
+      "Dieting harder",
+      "Professional treatment",
+      "Willpower alone"
+     ],
+     "answer": 2,
+     "explanation": "Medical and mental health care.",
+     "chapter": 16
+    },
+    {
+     "q": "A healthy breakfast helps:",
+     "options": [
+      "Lower grades",
+      "Energy and focus",
+      "Increase hunger later only",
+      "Cause fatigue"
+     ],
+     "answer": 1,
+     "explanation": "Fuels the morning.",
+     "chapter": 17
+    },
+    {
+     "q": "Self-starvation and fear of weight gain describe:",
+     "options": [
+      "Obesity",
+      "Anorexia nervosa",
+      "Binge eating disorder",
+      "Bulimia nervosa"
+     ],
+     "answer": 1,
+     "explanation": "Serious health risks.",
+     "chapter": 16
+    },
+    {
+     "q": "Comparing cost per ounce uses:",
+     "options": [
+      "Brand name",
+      "Total price",
+      "Coupons only",
+      "Unit pricing"
+     ],
+     "answer": 3,
+     "explanation": "Finds best value.",
+     "chapter": 18
+    }
+   ]
+  },
+  {
+   "chapters": [
+    19,
+    20,
+    21
+   ],
+   "questions": [
+    {
+     "q": "Before exercise, you should:",
+     "options": [
+      "Skip stretching",
+      "Eat a large meal",
+      "Warm up",
+      "Lie down"
+     ],
+     "answer": 2,
+     "explanation": "Prepares muscles.",
+     "chapter": 20
+    },
+    {
+     "q": "Healthy relationships are part of:",
+     "options": [
+      "Financial wellness",
+      "Social wellness",
+      "Environmental wellness",
+      "Physical wellness only"
+     ],
+     "answer": 1,
+     "explanation": "Communication and respect.",
+     "chapter": 21
+    },
+    {
+     "q": "Feeling good about yourself is:",
+     "options": [
+      "Anxiety",
+      "Self-esteem",
+      "Depression",
+      "Stress"
+     ],
+     "answer": 1,
+     "explanation": "Part of mental wellness.",
+     "chapter": 21
+    },
+    {
+     "q": "In FITT, the 'I' stands for:",
+     "options": [
+      "Intake",
+      "Interval",
+      "Interest",
+      "Intensity"
+     ],
+     "answer": 3,
+     "explanation": "Frequency, intensity, time, type.",
+     "chapter": 20
+    },
+    {
+     "q": "A cooking method that keeps the most nutrients is:",
+     "options": [
+      "Deep frying",
+      "Boiling for a long time",
+      "Charring",
+      "Steaming"
+     ],
+     "answer": 3,
+     "explanation": "Less nutrient loss.",
+     "chapter": 19
+    },
+    {
+     "q": "Teens should get at least how much physical activity daily?",
+     "options": [
+      "60 minutes",
+      "3 hours",
+      "30 minutes",
+      "15 minutes"
+     ],
+     "answer": 0,
+     "explanation": "Moderate to vigorous.",
+     "chapter": 20
+    },
+    {
+     "q": "To make a recipe healthier, you can:",
+     "options": [
+      "Add more butter",
+      "Fry instead of bake",
+      "Reduce sugar, fat, and sodium",
+      "Add more salt"
+     ],
+     "answer": 2,
+     "explanation": "Modify ingredients.",
+     "chapter": 19
+    },
+    {
+     "q": "If you feel depressed for weeks, you should:",
+     "options": [
+      "Talk to a trusted adult or professional",
+      "Stop eating",
+      "Keep it secret",
+      "Ignore it"
+     ],
+     "answer": 0,
+     "explanation": "Treatment helps.",
+     "chapter": 21
+    },
+    {
+     "q": "A grease fire should be put out by:",
+     "options": [
+      "Covering it with a lid",
+      "Fanning it",
+      "Pouring water on it",
+      "Carrying the pan outside"
+     ],
+     "answer": 0,
+     "explanation": "Cuts off oxygen.",
+     "chapter": 19
+    }
+   ]
+  },
+  {
+   "chapters": [
+    22,
+    23
+   ],
+   "questions": [
+    {
+     "q": "The body's automatic response to a threat is:",
+     "options": [
+      "Rest-and-digest",
+      "Fight-or-flight",
+      "Hibernation",
+      "Homeostasis"
+     ],
+     "answer": 1,
+     "explanation": "Adrenaline is released.",
+     "chapter": 22
+    },
+    {
+     "q": "Good time management helps reduce:",
+     "options": [
+      "Stress",
+      "Health",
+      "Friendships",
+      "Sleep"
+     ],
+     "answer": 0,
+     "explanation": "Plan ahead.",
+     "chapter": 22
+    },
+    {
+     "q": "Getting enough sleep helps the body:",
+     "options": [
+      "Gain stress",
+      "Lose immunity",
+      "Feel worse",
+      "Recover and manage stress"
+     ],
+     "answer": 3,
+     "explanation": "Teens need 8–10 hours.",
+     "chapter": 22
+    },
+    {
+     "q": "Alcohol provides how many calories per gram?",
+     "options": [
+      "9",
+      "0",
+      "7",
+      "4"
+     ],
+     "answer": 2,
+     "explanation": "Empty calories.",
+     "chapter": 23
+    },
+    {
+     "q": "Energy drinks can cause:",
+     "options": [
+      "Hydration",
+      "Lower heart rate",
+      "Rapid heart rate and sleep problems",
+      "Better sleep"
+     ],
+     "answer": 2,
+     "explanation": "High caffeine.",
+     "chapter": 23
+    },
+    {
+     "q": "Dietary supplements are:",
+     "options": [
+      "Required for everyone",
+      "FDA-approved before sale",
+      "Always safe",
+      "Not regulated like drugs"
+     ],
+     "answer": 3,
+     "explanation": "May contain hidden ingredients.",
+     "chapter": 23
+    },
+    {
+     "q": "Nicotine in vapes and cigarettes is:",
+     "options": [
+      "Addictive",
+      "Harmless",
+      "A vitamin",
+      "Healthy"
+     ],
+     "answer": 0,
+     "explanation": "Harms the developing brain.",
+     "chapter": 23
+    },
+    {
+     "q": "Long-term stress can lead to:",
+     "options": [
+      "Stronger bones",
+      "Health problems like high blood pressure",
+      "Better immunity",
+      "More energy"
+     ],
+     "answer": 1,
+     "explanation": "Manage it.",
+     "chapter": 22
+    },
+    {
+     "q": "A healthy way to manage stress is:",
+     "options": [
+      "Regular exercise",
+      "Skipping sleep",
+      "Isolating yourself",
+      "Using drugs"
+     ],
+     "answer": 0,
+     "explanation": "Also time management.",
+     "chapter": 22
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["nutrition"].bookInfo = {
@@ -1211,6 +2449,12 @@ window.CONTENT["nutrition"].bookInfo = {
   "edition": "12th edition (2018)",
   "source": "Cengage table of contents",
   "chapters": 21,
+  "unit": "Chapter"
+ },
+ "1": {
+  "edition": "6th edition (2023)",
+  "source": "Goodheart-Willcox table of contents",
+  "chapters": 23,
   "unit": "Chapter"
  }
 };
