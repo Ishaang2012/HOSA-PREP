@@ -33,6 +33,7 @@
     test: '<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>',
     quiz: '<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.1 9a3 3 0 0 1 5.8 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg>',
     cards: '<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="6" width="15" height="14" rx="2"/><path d="M7 2h13a2 2 0 0 1 2 2v12"/></svg>',
+    guide: '<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4h6a1 1 0 0 1 1 1v1H8V5a1 1 0 0 1 1-1z"/><path d="M16 5h2a2 2 0 0 1 2 2v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h2"/><path d="M8.5 12.5l2 2 4-4"/><path d="M8 18h8"/></svg>',
     arrow: '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>',
     left: '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>',
     right: '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>',
@@ -65,8 +66,9 @@
       tests: LEVELS.filter((l) => testReady(ev, l.id)).length,
       cards: (c.flashcards || []).reduce((n, d) => n + d.cards.length, 0),
       quizzes: Object.values(c.quizzes || {}).reduce((n, list) => n + list.length, 0),
+      guide: !!c.guide,
     };
-    s.any = s.booksSummarized + s.tests + s.cards + s.quizzes > 0;
+    s.any = s.booksSummarized + s.tests + s.cards + s.quizzes > 0 || s.guide;
     return s;
   }
 
@@ -150,7 +152,14 @@
     setTitle(ev.name);
     const s = eventStats(ev.id);
     const cat = CATS[ev.category];
-    const modes = [
+    const guide = CONTENT[ev.id] && CONTENT[ev.id].guide;
+    let modes = [
+      {
+        href: "guide", title: "Study Guide", icon: icon.guide, color: "#8b5cf6",
+        text: "How the event runs, exactly how judges score it, and the tips and checklist to prepare.",
+        meta: guide ? `${guide.rubrics.reduce((n, r) => n + r.total, 0)} rubric points broken down` : "",
+        skip: !guide,
+      },
       {
         href: "summaries", title: "Chapter Summaries", icon: icon.book, color: "#0d9488",
         text: "Chapter-by-chapter summaries of each official reference for this event.",
@@ -177,6 +186,8 @@
         meta: s.cards ? `${s.cards} cards` : "Coming soon",
       },
     ];
+    // Events judged without a written test only show what applies to them.
+    modes = modes.filter((m) => !m.skip && (ev.hasTest || m.href === "guide" || (m.href === "summaries" && s.books)));
     const plan = ev.testPlan || [];
     app.innerHTML = `
       ${crumbs([{ label: "Events", href: "#/" }, { label: ev.name }])}
@@ -734,6 +745,83 @@
     draw();
   }
 
+  function renderGuide(ev) {
+    const g = CONTENT[ev.id] && CONTENT[ev.id].guide;
+    setTitle(`${ev.name} Study Guide`);
+    const head = `${crumbs([{ label: "Events", href: "#/" }, { label: ev.name, href: `#/event/${ev.id}` }, { label: "Study Guide" }])}
+      ${eventHeader(ev, "Study Guide")}`;
+    if (!g) {
+      app.innerHTML = head + emptyState("Coming soon", `A study guide for ${ev.name} hasn't been written yet.`);
+      return;
+    }
+    const key = `check:${ev.id}`;
+    const done = store.get(key, {});
+    const list = (items, cls) => `<ul class="${cls}">${items.map((t) => `<li>${esc(t)}</li>`).join("")}</ul>`;
+    const rubric = (r) => {
+      const max = Math.max(...r.sections.flatMap((s) => s.items.map((i) => i.points)));
+      return `<section class="card guide-block">
+        <div class="rubric-head"><h3>${esc(r.title)}</h3><span class="pill">${r.total} points</span></div>
+        ${r.note ? `<p class="muted">${esc(r.note)}</p>` : ""}
+        ${r.sections.map((s) => {
+          const sub = s.items.reduce((n, i) => n + i.points, 0);
+          return `<div class="rubric-sec">
+            <div class="rubric-sec-head"><span>${esc(s.name)}</span><span>${sub} pts</span></div>
+            <ul class="rubric-items">${s.items.map((i) => `<li>
+              <span class="crit">${esc(i.criterion)}</span>
+              <span class="bar"><span style="width:${(i.points / max) * 100}%"></span></span>
+              <span class="pts">${i.points}</span></li>`).join("")}</ul>
+          </div>`;
+        }).join("")}
+      </section>`;
+    };
+    app.innerHTML = `${head}
+      <div class="facts" style="margin:-12px 0 18px">
+        ${g.facts.map((f) => `<span class="pill"><strong>${esc(f.label)}:</strong>&nbsp;${esc(f.value)}</span>`).join("")}
+        <a class="pill pill-link" href="${esc(ev.guideline)}" target="_blank" rel="noopener">Official guidelines ↗</a>
+      </div>
+      <p class="guide-lede">${esc(g.overview)}</p>
+      <nav class="guide-toc">
+        <a href="#g-rounds">How it runs</a><a href="#g-score">How it's scored</a><a href="#g-tips">Tips</a><a href="#g-mistakes">Mistakes to avoid</a><a href="#g-check">Checklist</a>
+      </nav>
+      <h2 class="guide-h" id="g-rounds">How the event runs</h2>
+      <div class="rounds">
+        ${g.rounds.map((r, i) => `<section class="card guide-block round">
+          <div class="round-num">${i + 1}</div>
+          <div><h3>${esc(r.title)}</h3>${list(r.steps, "steps")}</div>
+        </section>`).join("")}
+      </div>
+      <h2 class="guide-h" id="g-score">How judges score it</h2>
+      <p class="muted" style="margin-top:-6px">Maximum points per item, from the official rating sheets. Bigger bars are where the points are.</p>
+      <div class="rubrics">${g.rubrics.map(rubric).join("")}</div>
+      <div class="about-grid">
+        <section class="card guide-block" id="g-tips"><h3>Tips to score high</h3>${list(g.tips, "tips")}</section>
+        <section class="card guide-block" id="g-mistakes"><h3>Common mistakes</h3>${list(g.mistakes, "mistakes")}</section>
+      </div>
+      <section class="card guide-block" id="g-check" style="margin-top:18px">
+        <div class="rubric-head"><h3>Prep checklist</h3><span class="pill" id="check-count"></span></div>
+        <ul class="checklist">${g.checklist.map((t, i) => `<li><label><input type="checkbox" data-i="${i}" ${done[i] ? "checked" : ""}/> <span>${esc(t)}</span></label></li>`).join("")}</ul>
+      </section>`;
+    const count = () => {
+      const n = app.querySelectorAll(".checklist input:checked").length;
+      document.getElementById("check-count").textContent = `${n} of ${g.checklist.length} done`;
+    };
+    app.querySelectorAll(".checklist input").forEach((cb) =>
+      cb.addEventListener("change", () => {
+        const d = store.get(key, {});
+        d[cb.dataset.i] = cb.checked;
+        store.set(key, d);
+        count();
+      })
+    );
+    app.querySelectorAll(".guide-toc a").forEach((a) =>
+      a.addEventListener("click", (e) => {
+        e.preventDefault();
+        document.querySelector(a.getAttribute("href")).scrollIntoView({ behavior: "smooth", block: "start" });
+      })
+    );
+    count();
+  }
+
   function renderNotFound() {
     setTitle("Not found");
     app.innerHTML = `${crumbs([{ label: "Events", href: "#/" }])}${emptyState("Page not found", "That page doesn't exist. Head back to the event list.")}`;
@@ -759,6 +847,7 @@
         else renderChapterQuiz(ev, +sub, +n);
       }
       else if (section === "flashcards") sub == null ? renderDecks(ev) : renderStudy(ev, +sub);
+      else if (section === "guide") renderGuide(ev);
       else renderNotFound();
     } else renderNotFound();
     window.scrollTo({ top: 0 });
