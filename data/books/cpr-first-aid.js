@@ -1909,6 +1909,7 @@ window.CONTENT["cpr-first-aid"].bookInfo = {
  "4": {
   "edition": "10th edition (2026)",
   "source": "Cengage / National Geographic Learning table of contents",
-  "chapters": 24
+  "chapters": 24,
+  "unit": "Chapter"
  }
 };

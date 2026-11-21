@@ -281,6 +281,7 @@
     const meta = ev.books[bookIdx];
     if (!meta) return renderNotFound();
     const book = { ...meta, chapters: ((CONTENT[ev.id] && CONTENT[ev.id].summaries) || {})[bookIdx] || [] };
+    const unitLabel = (bookInfo(ev, bookIdx) || {}).unit || "Chapter";
     setTitle(`${book.title} · ${ev.name}`);
     if (!book.chapters.length) {
       app.innerHTML = `
@@ -312,7 +313,7 @@
           ${book.chapters
             .map(
               (c, i) => `<article class="card chapter" id="ch-${i}">
-                <div class="num-label">Chapter ${c.number || i + 1}</div>
+                <div class="num-label">${esc(unitLabel)} ${c.number || i + 1}</div>
                 <h2>${esc(c.title)}</h2>
                 ${(c.summary || []).map((p) => `<p>${esc(p)}</p>`).join("")}
                 ${
@@ -399,11 +400,11 @@
   }
 
   // ---------- chapter quizzes (one per 3 chapters of a book) ----------
-  const chapterRange = (chs) => (chs.length > 1 ? `Chapters ${chs[0]}–${chs[chs.length - 1]}` : `Chapter ${chs[0]}`);
+  const chapterRange = (chs, unit = "Chapter") => (chs.length > 1 ? `${unit}s ${chs[0]}–${chs[chs.length - 1]}` : `${unit} ${chs[0]}`);
   const bookInfo = (ev, bookIdx) => ((CONTENT[ev.id] && CONTENT[ev.id].bookInfo) || {})[bookIdx];
   const editionNote = (info) =>
     info
-      ? `<p class="edition-note">Chapter list from the <strong>${esc(info.edition)}</strong> (${esc(info.source)}). Chapter numbers can differ in other editions. These summaries cover each chapter's topics; they don't replace reading the book.</p>`
+      ? `<p class="edition-note">${esc(info.unit || "Chapter")} list from the <strong>${esc(info.edition)}</strong> (${esc(info.source)}). ${esc(info.unit || "Chapter")} numbers can differ in other editions. These summaries cover each chapter's topics; they don't replace reading the book.</p>`
       : "";
   const bookQuizzes = (ev, bookIdx) => ((CONTENT[ev.id] && CONTENT[ev.id].quizzes) || {})[bookIdx] || [];
 
@@ -451,7 +452,7 @@
                 .map(
                   (z, i) => `<a class="card card-link deck-card" href="#/event/${ev.id}/quizzes/${bookIdx}/${i}">
                     <span class="pill" style="align-self:flex-start;margin-bottom:6px">Quiz ${i + 1}</span>
-                    <h3>${chapterRange(z.chapters)}</h3>
+                    <h3>${chapterRange(z.chapters, (bookInfo(ev, bookIdx) || {}).unit)}</h3>
                     <p>${z.questions.length} questions</p>
                     <div class="stack"><span>${best[i] != null ? `Best score ${best[i]}%` : "Not taken yet"}</span></div>
                   </a>`
@@ -471,7 +472,7 @@
     const book = ev.books[bookIdx];
     const z = book && bookQuizzes(ev, bookIdx)[quizIdx];
     if (!z || !z.questions.length) return renderNotFound();
-    const range = chapterRange(z.chapters);
+    const range = chapterRange(z.chapters, (bookInfo(ev, bookIdx) || {}).unit);
     setTitle(`${range} Quiz · ${book.title}`);
     runQuiz({
       qs: z.questions,

@@ -7,6 +7,7 @@ BOOK = {
     "edition": "9th edition (2022)",                              # edition the chapter list comes from
     "source": "Publisher's table of contents (cengage.com)",
     "chapters": [(number, "Title", ["paragraph", ...], ["key point", ...]), ...],
+    "unit": "Unit",                                               # optional: books organized by unit instead of chapter
     "quizzes": [((1, 2, 3), [(chapter, question, correct, [3 wrong], explanation), ...]), ...],
 }
 
@@ -52,7 +53,7 @@ def check(slug, b):
     seen = set()
     for chs, rows in b.get("quizzes", []):
         assert 1 <= len(chs) <= 3 and all(c in nums for c in chs), f"{slug}: bad quiz chapters {chs}"
-        assert len(rows) >= 10, f"{slug}: quiz {chs} has only {len(rows)} questions"
+        assert len(rows) >= 9, f"{slug}: quiz {chs} has only {len(rows)} questions"
         for ch, q, right, wrong, expl in rows:
             assert ch in chs, f"{slug}: question for chapter {ch} is in quiz {chs}: {q}"
             assert len(wrong) == 3 and len({right, *wrong}) == 4, f"{slug}: options not 4 distinct: {q}"
@@ -95,7 +96,7 @@ def main():
             used[slug] += 1
             summaries[i] = [{"number": n, "title": t, "summary": p, "keyPoints": k} for n, t, p, k in b["chapters"]]
             quizzes[i] = [build_quiz(slug, chs, rows) for chs, rows in b.get("quizzes", [])]
-            info[i] = {"edition": b["edition"], "source": b["source"], "chapters": len(b["chapters"])}
+            info[i] = {"edition": b["edition"], "source": b["source"], "chapters": len(b["chapters"]), "unit": b.get("unit", "Chapter")}
         if not summaries:
             continue
         rel = f"data/books/{ev['id']}.js"

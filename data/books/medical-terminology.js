@@ -1213,6 +1213,7 @@ window.CONTENT["medical-terminology"].bookInfo = {
  "0": {
   "edition": "9th edition (2022)",
   "source": "Cengage table of contents",
-  "chapters": 15
+  "chapters": 15,
+  "unit": "Chapter"
  }
 };
