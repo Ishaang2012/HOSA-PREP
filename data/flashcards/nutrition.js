@@ -317,5 +317,131 @@ window.CONTENT["nutrition"].flashcards = [
     "back": "Average blood sugar over 2–3 months"
    }
   ]
+ },
+ {
+  "section": "More Nutrition Concepts",
+  "description": "Guidelines, nutrients, and conditions.",
+  "cards": [
+   {
+    "front": "MyPlate",
+    "back": "Half the plate fruits and vegetables; make half your grains whole."
+   },
+   {
+    "front": "Dietary Guidelines for Americans",
+    "back": "USDA/HHS advice updated every 5 years."
+   },
+   {
+    "front": "DRI",
+    "back": "Dietary Reference Intakes: includes RDA, AI, and UL."
+   },
+   {
+    "front": "RDA",
+    "back": "Recommended Dietary Allowance: meets needs of 97–98% of healthy people."
+   },
+   {
+    "front": "UL",
+    "back": "Tolerable Upper Intake Level: highest intake unlikely to cause harm."
+   },
+   {
+    "front": "%DV",
+    "back": "Percent Daily Value: 5% or less is low; 20% or more is high."
+   },
+   {
+    "front": "Calorie density",
+    "back": "Calories per gram of food; fat is most calorie-dense (9 cal/g)."
+   },
+   {
+    "front": "Soluble fiber",
+    "back": "Dissolves in water; lowers cholesterol (oats, beans)."
+   },
+   {
+    "front": "Insoluble fiber",
+    "back": "Adds bulk and prevents constipation (whole wheat, vegetables)."
+   },
+   {
+    "front": "Essential amino acids",
+    "back": "Nine amino acids the body can't make; must come from food."
+   },
+   {
+    "front": "Omega-3 fatty acids",
+    "back": "Polyunsaturated fats in fish; reduce inflammation and heart risk."
+   },
+   {
+    "front": "Cholesterol",
+    "back": "Sterol made by the body and found in animal foods."
+   },
+   {
+    "front": "Vitamin B6",
+    "back": "Needed for protein metabolism; deficiency causes anemia and nerve problems."
+   },
+   {
+    "front": "Riboflavin (B2)",
+    "back": "Energy metabolism; deficiency causes cracks at mouth corners."
+   },
+   {
+    "front": "Vitamin E",
+    "back": "Antioxidant that protects cell membranes."
+   },
+   {
+    "front": "Magnesium",
+    "back": "Mineral for muscle and nerve function and bone health."
+   },
+   {
+    "front": "Fluoride",
+    "back": "Mineral that strengthens tooth enamel."
+   },
+   {
+    "front": "Phosphorus",
+    "back": "Works with calcium for bones and teeth; part of ATP."
+   },
+   {
+    "front": "Electrolyte replacement",
+    "back": "Needed after heavy sweating, vomiting, or diarrhea."
+   },
+   {
+    "front": "Dehydration signs",
+    "back": "Thirst, dark urine, dry mouth, dizziness."
+   },
+   {
+    "front": "Pica",
+    "back": "Eating nonfood items; can signal iron deficiency."
+   },
+   {
+    "front": "Anorexia nervosa",
+    "back": "Restricting food and fear of weight gain."
+   },
+   {
+    "front": "Bulimia nervosa",
+    "back": "Binge eating followed by purging."
+   },
+   {
+    "front": "Obesity",
+    "back": "BMI of 30 or higher."
+   },
+   {
+    "front": "Added sugars limit",
+    "back": "Less than 10% of daily calories, per the Dietary Guidelines."
+   },
+   {
+    "front": "High-fiber diet",
+    "back": "Prevents constipation and diverticulosis; increase fluids along with fiber."
+   },
+   {
+    "front": "Ketogenic diet",
+    "back": "Very low carbohydrate, high fat; used for some seizure disorders."
+   },
+   {
+    "front": "Food insecurity",
+    "back": "Lack of reliable access to enough nutritious food."
+   },
+   {
+    "front": "SNAP / WIC",
+    "back": "Federal food assistance programs; WIC serves pregnant women, infants, and children."
+   },
+   {
+    "front": "Probiotics",
+    "back": "Live beneficial bacteria found in yogurt and fermented foods."
+   }
+  ]
  }
 ];

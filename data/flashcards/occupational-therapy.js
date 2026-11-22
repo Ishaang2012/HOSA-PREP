@@ -267,5 +267,175 @@ window.CONTENT["occupational-therapy"].flashcards = [
     "back": "Check sensation and circulation first"
    }
   ]
+ },
+ {
+  "section": "More OT Practice",
+  "description": "Interventions, equipment, and conditions.",
+  "cards": [
+   {
+    "front": "Hand dominance retraining",
+    "back": "Teaching the nondominant hand to take over tasks after injury to the dominant hand."
+   },
+   {
+    "front": "Adaptive equipment",
+    "back": "Tools like reachers, sock aids, and built-up handles that support independence."
+   },
+   {
+    "front": "Reacher",
+    "back": "Long-handled grabber for picking up objects without bending."
+   },
+   {
+    "front": "Sock aid",
+    "back": "Device that helps put on socks without bending, e.g., after hip surgery."
+   },
+   {
+    "front": "Built-up utensils",
+    "back": "Utensils with thick handles for weak grip."
+   },
+   {
+    "front": "Plate guard",
+    "back": "Rim that helps scoop food with one hand."
+   },
+   {
+    "front": "Tub transfer bench",
+    "back": "Bench straddling the tub wall for safer bathing."
+   },
+   {
+    "front": "Splint (orthosis)",
+    "back": "Device supporting or positioning a body part."
+   },
+   {
+    "front": "Resting hand splint",
+    "back": "Keeps the hand in a functional position to prevent contractures."
+   },
+   {
+    "front": "Fine motor skills",
+    "back": "Small muscle movements of the hands, like buttoning."
+   },
+   {
+    "front": "Gross motor skills",
+    "back": "Large muscle movements, like walking."
+   },
+   {
+    "front": "Visual perception",
+    "back": "Interpreting what is seen, e.g., figure-ground, depth perception."
+   },
+   {
+    "front": "Cognition in OT",
+    "back": "Memory, attention, problem solving, and safety awareness."
+   },
+   {
+    "front": "Home safety evaluation",
+    "back": "Assessing the home for hazards and recommending changes."
+   },
+   {
+    "front": "Driver rehabilitation",
+    "back": "Evaluation and training for safe driving after illness or injury."
+   },
+   {
+    "front": "Spinal cord injury (C4)",
+    "back": "Needs mouth stick or sip-and-puff controls; dependent for most ADLs."
+   },
+   {
+    "front": "Traumatic brain injury",
+    "back": "OT addresses cognition, behavior, and daily skills."
+   },
+   {
+    "front": "Cerebral palsy",
+    "back": "OT focuses on positioning, motor skills, and adaptive equipment."
+   },
+   {
+    "front": "Parkinson disease in OT",
+    "back": "Large-amplitude movements and visual or auditory cues help with freezing and small handwriting."
+   },
+   {
+    "front": "Ulnar drift",
+    "back": "Fingers deviate toward the little-finger side; common in rheumatoid arthritis."
+   },
+   {
+    "front": "Hand therapy",
+    "back": "Specialized OT for hand and upper extremity injuries."
+   },
+   {
+    "front": "Lymphedema",
+    "back": "Swelling from lymph fluid buildup; OT may use compression and manual drainage."
+   },
+   {
+    "front": "Burn rehab",
+    "back": "Positioning, splinting, and pressure garments prevent contractures and scars."
+   },
+   {
+    "front": "Developmental milestones",
+    "back": "Expected skills by age; OT addresses delays."
+   },
+   {
+    "front": "Handwriting",
+    "back": "Common school-based OT goal; involves fine motor and visual-motor skills."
+   },
+   {
+    "front": "Sensory processing disorder",
+    "back": "Difficulty organizing and responding to sensory input."
+   },
+   {
+    "front": "Autism and OT",
+    "back": "OT supports sensory regulation, play, and daily routines."
+   },
+   {
+    "front": "Depression and OT",
+    "back": "OT uses structured, meaningful activities to rebuild routines."
+   },
+   {
+    "front": "Dementia care in OT",
+    "back": "Simplify tasks, use cues, and keep routines."
+   },
+   {
+    "front": "Low vision",
+    "back": "OT uses magnifiers, lighting, and contrast to support function."
+   },
+   {
+    "front": "Work hardening",
+    "back": "Program of real or simulated work tasks to prepare a person to return to work."
+   },
+   {
+    "front": "Documentation (SOAP)",
+    "back": "Subjective, objective, assessment, plan."
+   },
+   {
+    "front": "Goal writing",
+    "back": "Goals should be measurable, functional, and time-bound."
+   },
+   {
+    "front": "Telehealth in OT",
+    "back": "Delivering evaluations and interventions remotely."
+   },
+   {
+    "front": "Medicare and OT",
+    "back": "Covers OT when skilled services are needed under a plan of care."
+   },
+   {
+    "front": "Interprofessional team",
+    "back": "OT works with PT, speech, nursing, physicians, and social work."
+   },
+   {
+    "front": "Activity analysis",
+    "back": "Breaking an activity into steps and demands to understand and adapt it."
+   },
+   {
+    "front": "Occupational justice",
+    "back": "Everyone should have access to meaningful occupations."
+   },
+   {
+    "front": "Wheelchair seating",
+    "back": "Proper seating prevents pressure injuries and supports function."
+   },
+   {
+    "front": "Pressure relief",
+    "back": "Weight shifts every 15–30 minutes for wheelchair users."
+   },
+   {
+    "front": "Mirror therapy",
+    "back": "Uses a mirror to create a visual illusion of moving the affected limb, often after stroke."
+   }
+  ]
  }
 ];

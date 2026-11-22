@@ -259,5 +259,201 @@ window.CONTENT["parliamentary-procedure"].flashcards = [
     "back": "Filed; auditor's report adopted"
    }
   ]
+ },
+ {
+  "section": "More Motions & Procedures",
+  "description": "Additional details on motions, debate, and procedure.",
+  "cards": [
+   {
+    "front": "Main motion characteristics",
+    "back": "Needs a second, debatable, amendable, majority vote, can be reconsidered."
+   },
+   {
+    "front": "Incidental main motion",
+    "back": "Main motion about the assembly's own business, like adopting a committee recommendation."
+   },
+   {
+    "front": "Debatable motions",
+    "back": "Main motion, postpone indefinitely, amend, commit, postpone to a certain time, appeal (usually)."
+   },
+   {
+    "front": "Undebatable motions",
+    "back": "Lay on the table, previous question, limit/extend debate, adjourn, recess (when privileged)."
+   },
+   {
+    "front": "Request for information",
+    "back": "Asks the chair or a member for facts relevant to the business; not debatable."
+   },
+   {
+    "front": "Request to be excused from a duty",
+    "back": "Incidental motion used to resign or be relieved of an obligation."
+   },
+   {
+    "front": "Speaking order",
+    "back": "No member speaks a second time until all who wish have spoken once."
+   },
+   {
+    "front": "Amendment forms",
+    "back": "Insert, strike out, strike out and insert, substitute."
+   },
+   {
+    "front": "Substitute",
+    "back": "Replaces an entire paragraph or motion with new text."
+   },
+   {
+    "front": "Consider by paragraph (seriatim)",
+    "back": "Takes up a long document one section at a time before a single final vote."
+   },
+   {
+    "front": "Committee of the whole",
+    "back": "Entire assembly acts as a committee for more informal discussion."
+   },
+   {
+    "front": "Standing committee",
+    "back": "Permanent committee established by bylaws."
+   },
+   {
+    "front": "Special (ad hoc) committee",
+    "back": "Temporary committee for a specific task; dissolves when done."
+   },
+   {
+    "front": "Instructions to a committee",
+    "back": "When referring, the assembly can give directions on the committee's task."
+   },
+   {
+    "front": "Postpone indefinitely purpose",
+    "back": "Kills the main motion without a direct vote on it; lets opponents test strength."
+   },
+   {
+    "front": "Lay on the table purpose",
+    "back": "Temporarily sets aside a motion for something urgent; not to kill it."
+   },
+   {
+    "front": "Take from the table timing",
+    "back": "Same or next session (if within a quarterly interval)."
+   },
+   {
+    "front": "Adjourned meeting",
+    "back": "Continuation of the same session at a later time."
+   },
+   {
+    "front": "Mass meeting",
+    "back": "Meeting of people who aren't an organized society, called for a specific purpose."
+   },
+   {
+    "front": "Convention",
+    "back": "Assembly of delegates from local units, usually lasting one session."
+   },
+   {
+    "front": "Ratify",
+    "back": "Approves an action taken earlier without proper authority."
+   },
+   {
+    "front": "Dilatory motion",
+    "back": "Motion used only to obstruct; the chair can rule it out of order."
+   },
+   {
+    "front": "Renewal of motions",
+    "back": "A defeated main motion can't be renewed in the same session."
+   }
+  ]
+ },
+ {
+  "section": "Voting, Elections & Officers",
+  "description": "Voting methods, elections, and roles.",
+  "cards": [
+   {
+    "front": "Board",
+    "back": "Body with authority delegated by the organization to act between meetings."
+   },
+   {
+    "front": "Majority of the entire membership",
+    "back": "More than half of all members, whether present or not."
+   },
+   {
+    "front": "Small board rules",
+    "back": "In boards of about a dozen or fewer: members needn't stand, motions needn't be seconded, chair may debate."
+   },
+   {
+    "front": "Show of hands",
+    "back": "Voting method used for small groups or to verify a voice vote."
+   },
+   {
+    "front": "Counted vote",
+    "back": "Vote where each vote is counted, ordered by the chair or the assembly."
+   },
+   {
+    "front": "Roll call vote",
+    "back": "Each member's vote is recorded by name."
+   },
+   {
+    "front": "Voting by mail or electronically",
+    "back": "Allowed only if the bylaws authorize it."
+   },
+   {
+    "front": "Nominating committee",
+    "back": "Committee that proposes candidates for office."
+   },
+   {
+    "front": "Nominations from the floor",
+    "back": "Members may nominate candidates during the meeting when allowed."
+   },
+   {
+    "front": "Election by ballot",
+    "back": "Required if bylaws say so; a majority is needed to elect unless rules say plurality."
+   },
+   {
+    "front": "Teller",
+    "back": "Member who counts ballots and reports results."
+   },
+   {
+    "front": "Tellers' report",
+    "back": "States the number of votes cast, needed to elect, and votes per candidate."
+   },
+   {
+    "front": "Presiding officer duties",
+    "back": "Keeps order, recognizes speakers, states and puts questions, rules on points of order."
+   },
+   {
+    "front": "Impartiality of the chair",
+    "back": "Chair doesn't debate while presiding; must step down from the chair to do so."
+   },
+   {
+    "front": "Consent calendar",
+    "back": "Routine items adopted together without debate unless a member asks to remove one."
+   },
+   {
+    "front": "Secretary's minutes content",
+    "back": "Type of meeting, date, presiding officer, approval of previous minutes, motions and their outcomes."
+   },
+   {
+    "front": "Approving minutes",
+    "back": "Corrections are made, then minutes are approved by unanimous consent or vote."
+   },
+   {
+    "front": "Filling blanks",
+    "back": "Leaving a number or name blank so several proposals can be voted on in order."
+   },
+   {
+    "front": "Point of order timing",
+    "back": "Must be raised promptly when the breach happens, except for continuing breaches."
+   },
+   {
+    "front": "Proxy voting",
+    "back": "Not allowed under Robert's Rules unless the bylaws or governing law permit it."
+   },
+   {
+    "front": "Special rules of order",
+    "back": "Rules that change parliamentary procedure for the group; need notice and two-thirds."
+   },
+   {
+    "front": "Suspending bylaws",
+    "back": "Bylaws can't be suspended (except provisions that are rules of order)."
+   },
+   {
+    "front": "Disciplinary procedure",
+    "back": "Members have the right to notice and a fair hearing before discipline."
+   }
+  ]
  }
 ];

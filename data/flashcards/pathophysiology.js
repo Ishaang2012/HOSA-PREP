@@ -415,5 +415,39 @@ window.CONTENT["pathophysiology"].flashcards = [
     "back": "Excessive worry for 6+ months"
    }
   ]
+ },
+ {
+  "section": "More Pathophysiology",
+  "description": "Additional mechanisms and conditions.",
+  "cards": [
+   {
+    "front": "Inflammation signs",
+    "back": "Redness, heat, swelling, pain, and loss of function."
+   },
+   {
+    "front": "Hypersensitivity type I",
+    "back": "Immediate IgE-mediated reaction, e.g., anaphylaxis and hay fever."
+   },
+   {
+    "front": "Metastasis",
+    "back": "Spread of cancer cells to distant sites through blood or lymph."
+   },
+   {
+    "front": "Pulmonary embolism",
+    "back": "Blockage of a lung artery, usually by a clot from a deep vein."
+   },
+   {
+    "front": "Pneumonia",
+    "back": "Infection causing inflammation and fluid in the alveoli."
+   },
+   {
+    "front": "Appendicitis",
+    "back": "Inflamed appendix; right lower quadrant pain at McBurney's point."
+   },
+   {
+    "front": "Hypertension",
+    "back": "Persistently elevated blood pressure that damages vessels, heart, kidneys, and brain."
+   }
+  ]
  }
 ];

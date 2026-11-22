@@ -284,3 +284,15 @@ FLASHCARDS = [
         ("GAD", "Excessive worry for 6+ months"),
     ]),
 ]
+
+FLASHCARDS += [
+    ("More Pathophysiology", "Additional mechanisms and conditions.", [
+        ("Inflammation signs", "Redness, heat, swelling, pain, and loss of function."),
+        ("Hypersensitivity type I", "Immediate IgE-mediated reaction, e.g., anaphylaxis and hay fever."),
+        ("Metastasis", "Spread of cancer cells to distant sites through blood or lymph."),
+        ("Pulmonary embolism", "Blockage of a lung artery, usually by a clot from a deep vein."),
+        ("Pneumonia", "Infection causing inflammation and fluid in the alveoli."),
+        ("Appendicitis", "Inflamed appendix; right lower quadrant pain at McBurney's point."),
+        ("Hypertension", "Persistently elevated blood pressure that damages vessels, heart, kidneys, and brain."),
+    ]),
+]
