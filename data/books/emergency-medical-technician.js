@@ -2,6 +2,541 @@
 window.CONTENT = window.CONTENT || {};
 window.CONTENT["emergency-medical-technician"] = window.CONTENT["emergency-medical-technician"] || {};
 window.CONTENT["emergency-medical-technician"].summaries = {
+ "0": [
+  {
+   "number": 1,
+   "title": "EMS Systems",
+   "summary": [
+    "EMS is a coordinated system from dispatch to hospital. Provider levels are EMR, EMT, AEMT, and paramedic. Medical direction can be online or offline (protocols). Quality improvement and continuing education keep care up to standard."
+   ],
+   "keyPoints": [
+    "Provider levels",
+    "Medical direction",
+    "Quality improvement",
+    "EMT roles"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Workforce Safety and Wellness",
+   "summary": [
+    "Scene safety comes first. Standard precautions and PPE protect against infection; immunizations and post-exposure plans are required. Stress management, nutrition, sleep, and mental health support prevent burnout."
+   ],
+   "keyPoints": [
+    "Scene safety",
+    "Standard precautions",
+    "Stress management",
+    "Exposure plans"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Medical, Legal, and Ethical Issues",
+   "summary": [
+    "Key concepts: scope of practice, consent (expressed, implied, involuntary), refusal of care, abandonment, negligence, confidentiality (HIPAA), advance directives, and mandatory reporting."
+   ],
+   "keyPoints": [
+    "Consent types",
+    "Refusal of care",
+    "Negligence",
+    "HIPAA"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Communications and Documentation",
+   "summary": [
+    "EMTs communicate by radio with dispatch and hospitals and give clear handoff reports. The patient care report is a legal record; document objectively, including refusals."
+   ],
+   "keyPoints": [
+    "Radio reports",
+    "Handoff",
+    "Patient care report",
+    "Document refusals"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Medical Terminology",
+   "summary": [
+    "Medical terms use prefixes, roots, and suffixes. EMTs use standard anatomical terms, positions (supine, prone, Fowler's, recovery), and approved abbreviations."
+   ],
+   "keyPoints": [
+    "Word parts",
+    "Positions",
+    "Directional terms",
+    "Abbreviations"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "The Human Body",
+   "summary": [
+    "EMTs need knowledge of body systems: respiratory, cardiovascular, nervous, musculoskeletal, and others, plus anatomical landmarks used in assessment."
+   ],
+   "keyPoints": [
+    "Body systems",
+    "Anatomical landmarks",
+    "Cardiovascular basics",
+    "Respiratory basics"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Pathophysiology",
+   "summary": [
+    "Pathophysiology explains how disease disrupts normal function. Cells need oxygen and glucose; inadequate perfusion causes shock. The body compensates by increasing heart and breathing rates."
+   ],
+   "keyPoints": [
+    "Perfusion",
+    "Cellular metabolism",
+    "Compensation",
+    "Shock basics"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Life Span Development",
+   "summary": [
+    "Vital signs and behaviors change with age: infants have faster rates, toddlers fear separation, adolescents value privacy, and older adults have decreased reserves and atypical presentations."
+   ],
+   "keyPoints": [
+    "Age-based vital signs",
+    "Developmental stages",
+    "Adolescent privacy",
+    "Older adult changes"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Lifting and Moving Patients",
+   "summary": [
+    "Use body mechanics: lift with the legs, keep the load close, avoid twisting. Moves are emergency, urgent, or non-urgent. Equipment includes stretchers, stair chairs, and scoop stretchers."
+   ],
+   "keyPoints": [
+    "Body mechanics",
+    "Emergency vs. non-urgent moves",
+    "Power lift",
+    "Equipment"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Patient Assessment",
+   "summary": [
+    "Assessment includes scene size-up, primary assessment (life threats: XABC), history taking (SAMPLE, OPQRST), secondary assessment (DCAP-BTLS), monitoring devices, and reassessment (every 5 minutes unstable, 15 stable)."
+   ],
+   "keyPoints": [
+    "Scene size-up",
+    "Primary assessment",
+    "SAMPLE and OPQRST",
+    "Reassessment"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Airway Management",
+   "summary": [
+    "Open the airway with head-tilt chin-lift or jaw thrust. Use suction (adult ≤15 seconds), OPAs (no gag reflex), and NPAs. Ventilate with a BVM; give oxygen by nasal cannula or nonrebreather; CPAP helps respiratory distress."
+   ],
+   "keyPoints": [
+    "Head-tilt chin-lift vs. jaw thrust",
+    "OPA vs. NPA",
+    "BVM ventilation",
+    "Oxygen devices"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Principles of Pharmacology",
+   "summary": [
+    "EMTs may give or assist with oxygen, oral glucose, aspirin, activated charcoal, epinephrine auto-injectors, nitroglycerin, inhalers, and naloxone, following the rights of medication administration."
+   ],
+   "keyPoints": [
+    "Medication rights",
+    "EMT medications",
+    "Indications and contraindications",
+    "Routes"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Shock",
+   "summary": [
+    "Shock is inadequate tissue perfusion. Types: hypovolemic, cardiogenic, distributive (septic, anaphylactic, neurogenic), and obstructive. Early signs are anxiety and tachycardia; hypotension is late. Treat by controlling bleeding, keeping warm, and rapid transport."
+   ],
+   "keyPoints": [
+    "Types of shock",
+    "Early vs. late signs",
+    "Keep warm",
+    "Rapid transport"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "BLS Resuscitation",
+   "summary": [
+    "High-quality CPR: 100–120 compressions/min, at least 2 inches deep in adults, full recoil, minimal interruptions, and early AED use. Know adult, child, and infant differences and airway obstruction management."
+   ],
+   "keyPoints": [
+    "CPR rate and depth",
+    "Early AED",
+    "Child and infant CPR",
+    "Choking"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Medical Overview",
+   "summary": [
+    "Medical patients are assessed with focus on the history (nature of illness). Infectious disease precautions and recognizing time-sensitive conditions are emphasized."
+   ],
+   "keyPoints": [
+    "Nature of illness",
+    "History focus",
+    "Infection control",
+    "Time-sensitive conditions"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Respiratory Emergencies",
+   "summary": [
+    "Conditions include asthma, COPD, pneumonia, pulmonary edema, pulmonary embolism, and pneumothorax. Signs of distress: tripod position, accessory muscle use, cyanosis. Assist with inhalers and use CPAP when indicated."
+   ],
+   "keyPoints": [
+    "Asthma and COPD",
+    "Signs of distress",
+    "Assist with inhalers",
+    "CPAP"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Cardiovascular Emergencies",
+   "summary": [
+    "Acute coronary syndrome, heart failure, and hypertensive emergencies are common. Give aspirin and assist with nitroglycerin per protocol (not if systolic BP is low or after erectile dysfunction drugs)."
+   ],
+   "keyPoints": [
+    "Acute coronary syndrome",
+    "Aspirin",
+    "Nitro contraindications",
+    "Heart failure"
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Neurologic Emergencies",
+   "summary": [
+    "Stroke (use a stroke scale; time of onset matters), seizures, syncope, and altered mental status are covered. Protect seizing patients from injury."
+   ],
+   "keyPoints": [
+    "Stroke scales",
+    "Last known well",
+    "Seizures",
+    "Altered mental status"
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Gastrointestinal and Urologic Emergencies",
+   "summary": [
+    "Abdominal pain may be visceral, parietal, or referred; causes include appendicitis, bleeding, and aneurysm. Kidney stones and dialysis complications are urologic emergencies."
+   ],
+   "keyPoints": [
+    "Types of abdominal pain",
+    "GI bleeding",
+    "AAA",
+    "Dialysis issues"
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Endocrine and Hematologic Emergencies",
+   "summary": [
+    "Hypoglycemia (rapid onset; give oral glucose if able to swallow) and hyperglycemia/DKA (gradual, fruity breath). Hematologic emergencies include sickle cell crisis and clotting disorders."
+   ],
+   "keyPoints": [
+    "Hypoglycemia",
+    "DKA",
+    "Oral glucose",
+    "Sickle cell crisis"
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Immunologic Emergencies",
+   "summary": [
+    "Allergic reactions range from mild to anaphylaxis (airway swelling, wheezing, hypotension). Give epinephrine by auto-injector and transport rapidly."
+   ],
+   "keyPoints": [
+    "Anaphylaxis",
+    "Epinephrine auto-injector",
+    "Airway swelling",
+    "Rapid transport"
+   ]
+  },
+  {
+   "number": 22,
+   "title": "Toxicology",
+   "summary": [
+    "Poisons enter by ingestion, inhalation, injection, or absorption. Contact poison control and medical direction. Opioid overdose causes respiratory depression and pinpoint pupils; give naloxone and ventilate."
+   ],
+   "keyPoints": [
+    "Routes of poisoning",
+    "Poison control",
+    "Opioid overdose",
+    "Naloxone"
+   ]
+  },
+  {
+   "number": 23,
+   "title": "Psychiatric Emergencies",
+   "summary": [
+    "Behavioral emergencies require scene safety, calm communication, and ruling out medical causes. Assess suicide risk. Restraint follows protocol and must avoid positional asphyxia."
+   ],
+   "keyPoints": [
+    "Scene safety",
+    "Medical causes",
+    "Suicide risk",
+    "Safe restraint"
+   ]
+  },
+  {
+   "number": 24,
+   "title": "Gynecologic Emergencies",
+   "summary": [
+    "Gynecologic emergencies include vaginal bleeding, pelvic inflammatory disease, ectopic pregnancy, and sexual assault. Provide privacy, emotional support, and preserve evidence in assault cases."
+   ],
+   "keyPoints": [
+    "Vaginal bleeding",
+    "Ectopic pregnancy",
+    "Sexual assault care",
+    "Preserve evidence"
+   ]
+  },
+  {
+   "number": 25,
+   "title": "Trauma Overview",
+   "summary": [
+    "Mechanism of injury (blunt vs. penetrating, falls, vehicle crashes) predicts injuries. Field triage guidelines direct seriously injured patients to trauma centers. Keep scene time short."
+   ],
+   "keyPoints": [
+    "Mechanism of injury",
+    "Blunt vs. penetrating",
+    "Trauma centers",
+    "Short scene time"
+   ]
+  },
+  {
+   "number": 26,
+   "title": "Bleeding",
+   "summary": [
+    "Control external bleeding with direct pressure, then a tourniquet or wound packing. Recognize internal bleeding by signs of shock. Arterial bleeding is bright red and spurting."
+   ],
+   "keyPoints": [
+    "Direct pressure",
+    "Tourniquets",
+    "Wound packing",
+    "Internal bleeding signs"
+   ]
+  },
+  {
+   "number": 27,
+   "title": "Soft-Tissue Injuries",
+   "summary": [
+    "Closed injuries (contusions, hematomas) and open injuries (abrasions, lacerations, avulsions, punctures). Stabilize impaled objects; cover open chest wounds with occlusive dressings. Burns are classified by depth and the rule of nines."
+   ],
+   "keyPoints": [
+    "Open vs. closed",
+    "Impaled objects",
+    "Occlusive dressings",
+    "Burns and rule of nines"
+   ]
+  },
+  {
+   "number": 28,
+   "title": "Face and Neck Injuries",
+   "summary": [
+    "Face and neck injuries threaten the airway. Open neck wounds need occlusive dressings to prevent air embolism. Preserve avulsed teeth and protect eye injuries."
+   ],
+   "keyPoints": [
+    "Airway threats",
+    "Neck wound occlusive dressing",
+    "Eye injuries",
+    "Avulsed teeth"
+   ]
+  },
+  {
+   "number": 29,
+   "title": "Head and Spine Injuries",
+   "summary": [
+    "Head injuries include concussion and brain bleeding; Cushing's triad signals rising pressure. Use spinal motion restriction for suspected spine injury and monitor GCS."
+   ],
+   "keyPoints": [
+    "Concussion",
+    "Cushing's triad",
+    "Spinal motion restriction",
+    "GCS"
+   ]
+  },
+  {
+   "number": 30,
+   "title": "Chest Injuries",
+   "summary": [
+    "Chest injuries include rib fractures, flail chest, pneumothorax, tension pneumothorax, hemothorax, and cardiac tamponade. Support breathing and transport rapidly."
+   ],
+   "keyPoints": [
+    "Flail chest",
+    "Tension pneumothorax",
+    "Hemothorax",
+    "Cardiac tamponade"
+   ]
+  },
+  {
+   "number": 31,
+   "title": "Abdominal and Genitourinary Injuries",
+   "summary": [
+    "Abdominal injuries may cause hidden bleeding; eviscerations are covered with moist sterile dressings (don't push organs back). Genitourinary injuries need privacy and bleeding control."
+   ],
+   "keyPoints": [
+    "Internal bleeding",
+    "Evisceration care",
+    "Genitourinary injuries",
+    "Shock"
+   ]
+  },
+  {
+   "number": 32,
+   "title": "Orthopaedic Injuries",
+   "summary": [
+    "Fractures, dislocations, sprains, and strains. Check pulse, motor, and sensation before and after splinting; immobilize joints above and below. Traction splints are for midshaft femur fractures."
+   ],
+   "keyPoints": [
+    "Fractures and dislocations",
+    "PMS checks",
+    "Splinting rules",
+    "Traction splint"
+   ]
+  },
+  {
+   "number": 33,
+   "title": "Environmental Emergencies",
+   "summary": [
+    "Heat emergencies (heat exhaustion, heat stroke), cold emergencies (hypothermia, frostbite), drowning, bites and stings, diving and altitude injuries, and lightning strikes."
+   ],
+   "keyPoints": [
+    "Heat stroke",
+    "Hypothermia",
+    "Drowning",
+    "Bites and stings"
+   ]
+  },
+  {
+   "number": 34,
+   "title": "Obstetrics and Neonatal Care",
+   "summary": [
+    "Labor has three stages. Assist delivery, check for nuchal cord, dry and warm the newborn, and assess APGAR. Complications include breech, prolapsed cord, eclampsia, and postpartum hemorrhage."
+   ],
+   "keyPoints": [
+    "Stages of labor",
+    "Newborn care",
+    "APGAR",
+    "Delivery complications"
+   ]
+  },
+  {
+   "number": 35,
+   "title": "Pediatric Emergencies",
+   "summary": [
+    "Children differ in anatomy and vital signs. Use the Pediatric Assessment Triangle (appearance, work of breathing, circulation). Respiratory problems are the leading cause of pediatric cardiac arrest. Watch for signs of abuse."
+   ],
+   "keyPoints": [
+    "Pediatric Assessment Triangle",
+    "Respiratory causes of arrest",
+    "Age-based vitals",
+    "Child abuse signs"
+   ]
+  },
+  {
+   "number": 36,
+   "title": "Geriatric Emergencies",
+   "summary": [
+    "Older adults have decreased reserves, atypical presentations (silent MI, confusion with infection), polypharmacy, and fall risk. Watch for elder abuse."
+   ],
+   "keyPoints": [
+    "Atypical presentations",
+    "Polypharmacy",
+    "Falls",
+    "Elder abuse"
+   ]
+  },
+  {
+   "number": 37,
+   "title": "Patients With Special Challenges",
+   "summary": [
+    "Patients may have disabilities or depend on technology (home ventilators, tracheostomies, feeding tubes, VADs). Caregivers are valuable resources."
+   ],
+   "keyPoints": [
+    "Home medical devices",
+    "Caregivers as resources",
+    "Communication adaptations",
+    "Respect and dignity"
+   ]
+  },
+  {
+   "number": 38,
+   "title": "Transport Operations",
+   "summary": [
+    "Phases of an ambulance call include preparation, dispatch, en route, arrival, transfer, and post-run. Drive with due regard; clean and restock after calls. Air medical landing zones must be secured."
+   ],
+   "keyPoints": [
+    "Phases of a call",
+    "Due regard",
+    "Cleaning and restocking",
+    "Landing zones"
+   ]
+  },
+  {
+   "number": 39,
+   "title": "Vehicle Extrication and Special Rescue",
+   "summary": [
+    "Extrication steps: size-up, stabilize the vehicle, gain access, disentangle, and remove the patient. Special rescues include water, confined space, and trench rescues requiring specialized teams."
+   ],
+   "keyPoints": [
+    "Stabilize the vehicle",
+    "Gain access",
+    "Special rescue teams",
+    "Scene safety"
+   ]
+  },
+  {
+   "number": 40,
+   "title": "Incident Management",
+   "summary": [
+    "The Incident Command System and NIMS organize responses. Multiple-casualty incidents use triage (START, SALT). Hazmat scenes have hot, warm, and cold zones."
+   ],
+   "keyPoints": [
+    "ICS and NIMS",
+    "Triage systems",
+    "Hazmat zones",
+    "Mass casualty"
+   ]
+  },
+  {
+   "number": 41,
+   "title": "Terrorism Response and Disaster Management",
+   "summary": [
+    "Terrorism may involve CBRNE weapons. Recognize indicators, beware of secondary devices, protect yourself with time, distance, and shielding, and follow incident command. Nerve agents cause SLUDGEM signs."
+   ],
+   "keyPoints": [
+    "CBRNE",
+    "Secondary devices",
+    "Time, distance, shielding",
+    "Nerve agents"
+   ]
+  }
+ ],
  "2": [
   {
    "number": 1,
@@ -539,6 +1074,1645 @@ window.CONTENT["emergency-medical-technician"].summaries = {
  ]
 };
 window.CONTENT["emergency-medical-technician"].quizzes = {
+ "0": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Consent assumed for an unresponsive patient is:",
+     "options": [
+      "Informed refusal",
+      "Implied consent",
+      "Expressed consent",
+      "Involuntary consent"
+     ],
+     "answer": 1,
+     "explanation": "Emergency doctrine.",
+     "chapter": 3
+    },
+    {
+     "q": "The physician overseeing an EMS system is the:",
+     "options": [
+      "Fire chief",
+      "Dispatcher",
+      "Medical director",
+      "Shift supervisor"
+     ],
+     "answer": 2,
+     "explanation": "Sets protocols.",
+     "chapter": 1
+    },
+    {
+     "q": "Written protocols and standing orders are:",
+     "options": [
+      "Scope of practice",
+      "Offline medical direction",
+      "Quality improvement",
+      "Online medical direction"
+     ],
+     "answer": 1,
+     "explanation": "Online = direct contact.",
+     "chapter": 1
+    },
+    {
+     "q": "Treating all body fluids as infectious is:",
+     "options": [
+      "Decontamination",
+      "Triage",
+      "Airborne precautions",
+      "Standard precautions"
+     ],
+     "answer": 3,
+     "explanation": "Use PPE.",
+     "chapter": 2
+    },
+    {
+     "q": "The EMS level just above EMR is:",
+     "options": [
+      "Paramedic",
+      "AEMT",
+      "Nurse",
+      "EMT"
+     ],
+     "answer": 3,
+     "explanation": "Then AEMT, paramedic.",
+     "chapter": 1
+    },
+    {
+     "q": "The EMT's first priority on any call is:",
+     "options": [
+      "Personal safety",
+      "Equipment",
+      "Patient care",
+      "Paperwork"
+     ],
+     "answer": 0,
+     "explanation": "Scene safety.",
+     "chapter": 2
+    },
+    {
+     "q": "Leaving a patient without transferring care is:",
+     "options": [
+      "Battery",
+      "Negligence per se",
+      "Abandonment",
+      "Assault"
+     ],
+     "answer": 2,
+     "explanation": "Transfer to equal or higher level.",
+     "chapter": 3
+    },
+    {
+     "q": "A competent adult may refuse care after being:",
+     "options": [
+      "Informed of the risks",
+      "Ignored",
+      "Sedated",
+      "Restrained"
+     ],
+     "answer": 0,
+     "explanation": "Document it.",
+     "chapter": 3
+    },
+    {
+     "q": "A healthy way to manage job stress is:",
+     "options": [
+      "Exercise and talking with others",
+      "Skipping sleep",
+      "Using alcohol",
+      "Isolating"
+     ],
+     "answer": 0,
+     "explanation": "Prevents burnout.",
+     "chapter": 2
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "Sitting upright is:",
+     "options": [
+      "Prone",
+      "Fowler's position",
+      "Supine",
+      "Trendelenburg"
+     ],
+     "answer": 1,
+     "explanation": "Helps breathing.",
+     "chapter": 5
+    },
+    {
+     "q": "Closer to the trunk is:",
+     "options": [
+      "Inferior",
+      "Distal",
+      "Proximal",
+      "Lateral"
+     ],
+     "answer": 2,
+     "explanation": "The elbow is proximal to the wrist.",
+     "chapter": 5
+    },
+    {
+     "q": "Documentation should be:",
+     "options": [
+      "Opinion-based",
+      "Vague",
+      "Delayed",
+      "Objective"
+     ],
+     "answer": 3,
+     "explanation": "Write what you observe.",
+     "chapter": 4
+    },
+    {
+     "q": "The heart chamber pumping blood to the body is the:",
+     "options": [
+      "Right ventricle",
+      "Left ventricle",
+      "Left atrium",
+      "Right atrium"
+     ],
+     "answer": 1,
+     "explanation": "Thickest wall.",
+     "chapter": 6
+    },
+    {
+     "q": "When a patient refuses care, you should:",
+     "options": [
+      "Document it thoroughly",
+      "Leave immediately",
+      "Write nothing",
+      "Restrain them"
+     ],
+     "answer": 0,
+     "explanation": "Include risks explained.",
+     "chapter": 4
+    },
+    {
+     "q": "The central nervous system is the brain and:",
+     "options": [
+      "Spinal cord",
+      "Lungs",
+      "Heart",
+      "Peripheral nerves"
+     ],
+     "answer": 0,
+     "explanation": "CNS.",
+     "chapter": 6
+    },
+    {
+     "q": "Lying face down is:",
+     "options": [
+      "Fowler's",
+      "Recovery",
+      "Prone",
+      "Supine"
+     ],
+     "answer": 2,
+     "explanation": "Supine = face up.",
+     "chapter": 5
+    },
+    {
+     "q": "The patient care report is a:",
+     "options": [
+      "Legal record",
+      "Optional document",
+      "Personal note",
+      "Billing form only"
+     ],
+     "answer": 0,
+     "explanation": "Be accurate.",
+     "chapter": 4
+    },
+    {
+     "q": "Gas exchange occurs in the:",
+     "options": [
+      "Larynx",
+      "Bronchi",
+      "Trachea",
+      "Alveoli"
+     ],
+     "answer": 3,
+     "explanation": "Air sacs.",
+     "chapter": 6
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "Cells need oxygen and what to make energy?",
+     "options": [
+      "Water only",
+      "Calcium",
+      "Sodium",
+      "Glucose"
+     ],
+     "answer": 3,
+     "explanation": "Aerobic metabolism.",
+     "chapter": 7
+    },
+    {
+     "q": "Adolescents especially value:",
+     "options": [
+      "Toys",
+      "Privacy",
+      "Naps",
+      "Being with parents always"
+     ],
+     "answer": 1,
+     "explanation": "Ask parents to step out when appropriate.",
+     "chapter": 8
+    },
+    {
+     "q": "Delivery of oxygenated blood to tissues is:",
+     "options": [
+      "Perfusion",
+      "Respiration",
+      "Ventilation",
+      "Diffusion"
+     ],
+     "answer": 0,
+     "explanation": "Lack of it = shock.",
+     "chapter": 7
+    },
+    {
+     "q": "Older adults may have:",
+     "options": [
+      "Atypical signs of illness",
+      "Faster healing",
+      "Stronger bones",
+      "More reserve"
+     ],
+     "answer": 0,
+     "explanation": "E.g., silent MI.",
+     "chapter": 8
+    },
+    {
+     "q": "Compared to adults, infants have:",
+     "options": [
+      "Higher blood pressure",
+      "Slower rates",
+      "Faster heart and breathing rates",
+      "Same rates"
+     ],
+     "answer": 2,
+     "explanation": "Know age norms.",
+     "chapter": 8
+    },
+    {
+     "q": "An early compensation for shock is:",
+     "options": [
+      "Increased heart rate",
+      "Low blood pressure",
+      "Warm skin",
+      "Slow breathing"
+     ],
+     "answer": 0,
+     "explanation": "Hypotension is late.",
+     "chapter": 7
+    },
+    {
+     "q": "When lifting, keep the load:",
+     "options": [
+      "Behind you",
+      "Above your head",
+      "At arm's length",
+      "Close to your body"
+     ],
+     "answer": 3,
+     "explanation": "Reduces strain.",
+     "chapter": 9
+    },
+    {
+     "q": "The power lift uses:",
+     "options": [
+      "Twisting",
+      "Arms only",
+      "Legs, not the back",
+      "The back only"
+     ],
+     "answer": 2,
+     "explanation": "Safe lifting.",
+     "chapter": 9
+    },
+    {
+     "q": "An emergency move is used when:",
+     "options": [
+      "It's convenient",
+      "There's immediate danger",
+      "The patient is stable",
+      "The patient prefers walking"
+     ],
+     "answer": 1,
+     "explanation": "E.g., fire.",
+     "chapter": 9
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "In SAMPLE, 'L' stands for:",
+     "options": [
+      "Location",
+      "Last oral intake",
+      "Level of consciousness",
+      "Lung sounds"
+     ],
+     "answer": 1,
+     "explanation": "When they last ate or drank.",
+     "chapter": 10
+    },
+    {
+     "q": "Aspirin is given to EMS patients with:",
+     "options": [
+      "Suspected cardiac chest pain",
+      "Seizures",
+      "Bleeding",
+      "Asthma"
+     ],
+     "answer": 0,
+     "explanation": "Reduces clotting.",
+     "chapter": 12
+    },
+    {
+     "q": "Oral glucose requires that the patient:",
+     "options": [
+      "Has no gag reflex",
+      "Is unresponsive",
+      "Can swallow",
+      "Is seizing"
+     ],
+     "answer": 2,
+     "explanation": "Prevent aspiration.",
+     "chapter": 12
+    },
+    {
+     "q": "A drug EMTs give for opioid overdose is:",
+     "options": [
+      "Aspirin",
+      "Glucose",
+      "Naloxone",
+      "Nitroglycerin"
+     ],
+     "answer": 2,
+     "explanation": "Reverses opioids.",
+     "chapter": 12
+    },
+    {
+     "q": "An OPA is used only if the patient has:",
+     "options": [
+      "A broken nose",
+      "Clear speech",
+      "A gag reflex",
+      "No gag reflex"
+     ],
+     "answer": 3,
+     "explanation": "NPA tolerates gag.",
+     "chapter": 11
+    },
+    {
+     "q": "A nonrebreather mask is run at:",
+     "options": [
+      "10–15 L/min",
+      "1–6 L/min",
+      "0.5 L/min",
+      "25 L/min"
+     ],
+     "answer": 0,
+     "explanation": "High concentration.",
+     "chapter": 11
+    },
+    {
+     "q": "For a suspected spine injury, open the airway with the:",
+     "options": [
+      "Head-tilt chin-lift",
+      "Jaw-thrust maneuver",
+      "Neck extension",
+      "Recovery position"
+     ],
+     "answer": 1,
+     "explanation": "Minimizes movement.",
+     "chapter": 11
+    },
+    {
+     "q": "Unstable patients are reassessed every:",
+     "options": [
+      "Hour",
+      "30 minutes",
+      "15 minutes",
+      "5 minutes"
+     ],
+     "answer": 3,
+     "explanation": "Stable: every 15.",
+     "chapter": 10
+    },
+    {
+     "q": "AVPU assesses:",
+     "options": [
+      "Mental status",
+      "Pulse",
+      "Pupils",
+      "Airway"
+     ],
+     "answer": 0,
+     "explanation": "Alert, Verbal, Painful, Unresponsive.",
+     "chapter": 10
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "The AED should be used:",
+     "options": [
+      "After 10 minutes",
+      "Only by physicians",
+      "Never on adults",
+      "As soon as available"
+     ],
+     "answer": 3,
+     "explanation": "Early defibrillation.",
+     "chapter": 14
+    },
+    {
+     "q": "For medical patients, the most important part of assessment is often the:",
+     "options": [
+      "Extrication",
+      "History",
+      "Splinting",
+      "Rapid trauma exam"
+     ],
+     "answer": 1,
+     "explanation": "Nature of illness.",
+     "chapter": 15
+    },
+    {
+     "q": "Shock from blood or fluid loss is:",
+     "options": [
+      "Hypovolemic",
+      "Cardiogenic",
+      "Distributive",
+      "Obstructive"
+     ],
+     "answer": 0,
+     "explanation": "Most common in trauma.",
+     "chapter": 13
+    },
+    {
+     "q": "The 'nature of illness' describes:",
+     "options": [
+      "How the injury happened",
+      "Vehicle damage",
+      "What's medically wrong",
+      "Weather"
+     ],
+     "answer": 2,
+     "explanation": "Medical patients.",
+     "chapter": 15
+    },
+    {
+     "q": "Low blood pressure in shock is a:",
+     "options": [
+      "Sign of recovery",
+      "Late sign",
+      "Normal finding",
+      "Early sign"
+     ],
+     "answer": 1,
+     "explanation": "Tachycardia is early.",
+     "chapter": 13
+    },
+    {
+     "q": "Infectious disease precautions include:",
+     "options": [
+      "Skipping cleaning",
+      "Sharing equipment",
+      "Appropriate PPE and hand hygiene",
+      "No gloves"
+     ],
+     "answer": 2,
+     "explanation": "Protect yourself and others.",
+     "chapter": 15
+    },
+    {
+     "q": "Shock patients should be kept:",
+     "options": [
+      "Warm",
+      "Walking",
+      "Cold",
+      "Upright"
+     ],
+     "answer": 0,
+     "explanation": "Prevent hypothermia.",
+     "chapter": 13
+    },
+    {
+     "q": "Adult compression depth is at least:",
+     "options": [
+      "0.5 inch",
+      "3 inches",
+      "1 inch",
+      "2 inches"
+     ],
+     "answer": 3,
+     "explanation": "No more than 2.4.",
+     "chapter": 14
+    },
+    {
+     "q": "Adult CPR compression rate is:",
+     "options": [
+      "100–120/min",
+      "140–160/min",
+      "60–80/min",
+      "80–90/min"
+     ],
+     "answer": 0,
+     "explanation": "Push hard and fast.",
+     "chapter": 14
+    }
+   ]
+  },
+  {
+   "chapters": [
+    16,
+    17,
+    18
+   ],
+   "questions": [
+    {
+     "q": "Nitroglycerin is contraindicated after recent use of:",
+     "options": [
+      "Glucose",
+      "Oxygen",
+      "Aspirin",
+      "Erectile dysfunction drugs"
+     ],
+     "answer": 3,
+     "explanation": "Severe hypotension.",
+     "chapter": 17
+    },
+    {
+     "q": "For stroke, the most important time to record is:",
+     "options": [
+      "Meal time",
+      "Arrival time",
+      "Dispatch time",
+      "Last known well"
+     ],
+     "answer": 3,
+     "explanation": "Determines treatment.",
+     "chapter": 18
+    },
+    {
+     "q": "CPAP helps conscious patients with:",
+     "options": [
+      "Cardiac arrest",
+      "Apnea",
+      "Respiratory distress such as pulmonary edema",
+      "Unresponsiveness"
+     ],
+     "answer": 2,
+     "explanation": "Must be breathing.",
+     "chapter": 16
+    },
+    {
+     "q": "During a seizure, the EMT should:",
+     "options": [
+      "Protect the patient from injury",
+      "Put something in the mouth",
+      "Restrain them",
+      "Give water"
+     ],
+     "answer": 0,
+     "explanation": "Then manage airway.",
+     "chapter": 18
+    },
+    {
+     "q": "Facial droop, arm drift, and speech problems suggest:",
+     "options": [
+      "Stroke",
+      "Asthma",
+      "Fracture",
+      "Hypoglycemia only"
+     ],
+     "answer": 0,
+     "explanation": "Use a stroke scale.",
+     "chapter": 18
+    },
+    {
+     "q": "Heart failure often causes:",
+     "options": [
+      "Hearing loss",
+      "Rash",
+      "Shortness of breath and edema",
+      "Fever only"
+     ],
+     "answer": 2,
+     "explanation": "Fluid overload.",
+     "chapter": 17
+    },
+    {
+     "q": "Chest pain from reduced heart blood flow is:",
+     "options": [
+      "Acute coronary syndrome",
+      "GERD",
+      "Pneumothorax",
+      "Asthma"
+     ],
+     "answer": 0,
+     "explanation": "Includes MI.",
+     "chapter": 17
+    },
+    {
+     "q": "Leaning forward with hands on knees to breathe is:",
+     "options": [
+      "Fowler's",
+      "Tripod position",
+      "Supine",
+      "Recovery position"
+     ],
+     "answer": 1,
+     "explanation": "Sign of distress.",
+     "chapter": 16
+    },
+    {
+     "q": "EMTs may assist patients with their prescribed:",
+     "options": [
+      "Insulin",
+      "Inhaler",
+      "Antibiotics",
+      "Blood thinners"
+     ],
+     "answer": 1,
+     "explanation": "Per protocol.",
+     "chapter": 16
+    }
+   ]
+  },
+  {
+   "chapters": [
+    19,
+    20,
+    21
+   ],
+   "questions": [
+    {
+     "q": "Fruity breath and deep, rapid breathing suggest:",
+     "options": [
+      "DKA",
+      "Heart attack",
+      "Hypoglycemia",
+      "Asthma"
+     ],
+     "answer": 0,
+     "explanation": "High blood sugar.",
+     "chapter": 20
+    },
+    {
+     "q": "An epinephrine auto-injector is given in the:",
+     "options": [
+      "Abdomen",
+      "Buttock always",
+      "Arm vein",
+      "Lateral thigh"
+     ],
+     "answer": 3,
+     "explanation": "Through clothing if needed.",
+     "chapter": 21
+    },
+    {
+     "q": "Sharp, localized abdominal pain is:",
+     "options": [
+      "Parietal pain",
+      "Visceral pain",
+      "Referred pain",
+      "Phantom pain"
+     ],
+     "answer": 0,
+     "explanation": "Visceral is dull.",
+     "chapter": 19
+    },
+    {
+     "q": "Sickle cell crisis causes:",
+     "options": [
+      "Rash only",
+      "Hearing loss",
+      "Severe pain",
+      "Low blood sugar"
+     ],
+     "answer": 2,
+     "explanation": "Blocked blood flow.",
+     "chapter": 20
+    },
+    {
+     "q": "The drug for anaphylaxis is:",
+     "options": [
+      "Naloxone",
+      "Epinephrine",
+      "Aspirin",
+      "Nitroglycerin"
+     ],
+     "answer": 1,
+     "explanation": "Auto-injector.",
+     "chapter": 21
+    },
+    {
+     "q": "Rapid onset of confusion with cool, clammy skin suggests:",
+     "options": [
+      "Stroke only",
+      "Hypoglycemia",
+      "Fever",
+      "Hyperglycemia"
+     ],
+     "answer": 1,
+     "explanation": "Low blood sugar.",
+     "chapter": 20
+    },
+    {
+     "q": "Patients with abdominal pain should receive:",
+     "options": [
+      "Nothing by mouth",
+      "Food",
+      "Water freely",
+      "Pain pills"
+     ],
+     "answer": 0,
+     "explanation": "May need surgery.",
+     "chapter": 19
+    },
+    {
+     "q": "Tearing back pain with abdominal pain may be:",
+     "options": [
+      "Gallstones",
+      "Appendicitis",
+      "Ulcer",
+      "Abdominal aortic aneurysm"
+     ],
+     "answer": 3,
+     "explanation": "Life-threatening.",
+     "chapter": 19
+    },
+    {
+     "q": "Signs of anaphylaxis include:",
+     "options": [
+      "Fever only",
+      "Slow breathing only",
+      "Hives, wheezing, and low blood pressure",
+      "Rash only"
+     ],
+     "answer": 2,
+     "explanation": "Severe reaction.",
+     "chapter": 21
+    }
+   ]
+  },
+  {
+   "chapters": [
+    22,
+    23,
+    24
+   ],
+   "questions": [
+    {
+     "q": "Abdominal pain and vaginal bleeding in early pregnancy may be:",
+     "options": [
+      "Labor",
+      "Ectopic pregnancy",
+      "UTI",
+      "Menstruation"
+     ],
+     "answer": 1,
+     "explanation": "Emergency.",
+     "chapter": 24
+    },
+    {
+     "q": "For poisonings, contact:",
+     "options": [
+      "No one",
+      "The employer",
+      "Poison control and medical direction",
+      "Social media"
+     ],
+     "answer": 2,
+     "explanation": "Expert guidance.",
+     "chapter": 22
+    },
+    {
+     "q": "Restrained patients must be monitored to prevent:",
+     "options": [
+      "Positional asphyxia",
+      "Fever",
+      "Hunger",
+      "Boredom"
+     ],
+     "answer": 0,
+     "explanation": "Never face down.",
+     "chapter": 23
+    },
+    {
+     "q": "Behavior changes can be caused by:",
+     "options": [
+      "Only mental illness",
+      "Weather",
+      "Nothing medical",
+      "Hypoglycemia or hypoxia"
+     ],
+     "answer": 3,
+     "explanation": "Rule out medical causes.",
+     "chapter": 23
+    },
+    {
+     "q": "Before treating a behavioral emergency, ensure:",
+     "options": [
+      "Scene safety",
+      "Police leave",
+      "Restraints",
+      "Medication"
+     ],
+     "answer": 0,
+     "explanation": "Protect yourself.",
+     "chapter": 23
+    },
+    {
+     "q": "In sexual assault cases, EMTs should:",
+     "options": [
+      "Preserve evidence and provide support",
+      "Clean the patient",
+      "Ask for details repeatedly",
+      "Discard clothing"
+     ],
+     "answer": 0,
+     "explanation": "Respect privacy.",
+     "chapter": 24
+    },
+    {
+     "q": "Pinpoint pupils with slow breathing suggest:",
+     "options": [
+      "Stroke",
+      "Stimulant overdose",
+      "Opioid overdose",
+      "Hypoglycemia"
+     ],
+     "answer": 2,
+     "explanation": "Give naloxone.",
+     "chapter": 22
+    },
+    {
+     "q": "Pelvic inflammatory disease is usually caused by:",
+     "options": [
+      "Pregnancy",
+      "Medication",
+      "Trauma",
+      "Infection"
+     ],
+     "answer": 3,
+     "explanation": "Often STIs.",
+     "chapter": 24
+    },
+    {
+     "q": "Poisons enter by ingestion, inhalation, injection, and:",
+     "options": [
+      "Sound",
+      "Absorption",
+      "Digestion",
+      "Radiation"
+     ],
+     "answer": 1,
+     "explanation": "Through skin.",
+     "chapter": 22
+    }
+   ]
+  },
+  {
+   "chapters": [
+    25,
+    26,
+    27
+   ],
+   "questions": [
+    {
+     "q": "How an injury happened is the:",
+     "options": [
+      "Nature of illness",
+      "Mechanism of injury",
+      "Prognosis",
+      "Chief complaint"
+     ],
+     "answer": 1,
+     "explanation": "Predicts injuries.",
+     "chapter": 25
+    },
+    {
+     "q": "An open chest wound is covered with an:",
+     "options": [
+      "Occlusive dressing",
+      "Open gauze",
+      "Nothing",
+      "Tourniquet"
+     ],
+     "answer": 0,
+     "explanation": "Prevents air entry.",
+     "chapter": 27
+    },
+    {
+     "q": "The first step to control external bleeding is:",
+     "options": [
+      "Tourniquet",
+      "Elevation alone",
+      "Ice",
+      "Direct pressure"
+     ],
+     "answer": 3,
+     "explanation": "Then tourniquet if needed.",
+     "chapter": 26
+    },
+    {
+     "q": "Scene time for critical trauma should be:",
+     "options": [
+      "One hour",
+      "Unlimited",
+      "As short as possible",
+      "At least 30 minutes"
+     ],
+     "answer": 2,
+     "explanation": "Rapid transport.",
+     "chapter": 25
+    },
+    {
+     "q": "Bright red, spurting blood comes from an:",
+     "options": [
+      "Lymph vessel",
+      "Vein",
+      "Artery",
+      "Capillary"
+     ],
+     "answer": 2,
+     "explanation": "Most serious.",
+     "chapter": 26
+    },
+    {
+     "q": "Seriously injured patients should go to a:",
+     "options": [
+      "Pharmacy",
+      "Trauma center",
+      "Urgent care",
+      "Clinic"
+     ],
+     "answer": 1,
+     "explanation": "Field triage guidelines.",
+     "chapter": 25
+    },
+    {
+     "q": "Packing a deep wound with gauze is:",
+     "options": [
+      "Wound packing",
+      "Suturing",
+      "Splinting",
+      "Bandaging only"
+     ],
+     "answer": 0,
+     "explanation": "For junctional bleeding.",
+     "chapter": 26
+    },
+    {
+     "q": "An impaled object should be:",
+     "options": [
+      "Pushed in",
+      "Ignored",
+      "Removed",
+      "Stabilized in place"
+     ],
+     "answer": 3,
+     "explanation": "Unless it blocks the airway.",
+     "chapter": 27
+    },
+    {
+     "q": "Burn size in adults is estimated with the:",
+     "options": [
+      "Rule of nines",
+      "GCS",
+      "START",
+      "APGAR"
+     ],
+     "answer": 0,
+     "explanation": "9% areas.",
+     "chapter": 27
+    }
+   ]
+  },
+  {
+   "chapters": [
+    28,
+    29,
+    30
+   ],
+   "questions": [
+    {
+     "q": "A chest segment moving opposite to the rest is:",
+     "options": [
+      "Pneumothorax",
+      "Flail chest",
+      "Hemothorax",
+      "Tamponade"
+     ],
+     "answer": 1,
+     "explanation": "Paradoxical motion.",
+     "chapter": 30
+    },
+    {
+     "q": "Cushing's triad includes high BP, slow pulse, and:",
+     "options": [
+      "Irregular breathing",
+      "Fever",
+      "Fast pulse",
+      "Low BP"
+     ],
+     "answer": 0,
+     "explanation": "Rising pressure in the skull.",
+     "chapter": 29
+    },
+    {
+     "q": "Face and neck injuries threaten the:",
+     "options": [
+      "Airway",
+      "Legs",
+      "Hands",
+      "Feet"
+     ],
+     "answer": 0,
+     "explanation": "Priority.",
+     "chapter": 28
+    },
+    {
+     "q": "Level of consciousness is tracked with the:",
+     "options": [
+      "START",
+      "Glasgow Coma Scale",
+      "Rule of nines",
+      "APGAR"
+     ],
+     "answer": 1,
+     "explanation": "Eyes, verbal, motor.",
+     "chapter": 29
+    },
+    {
+     "q": "An open neck wound needs an occlusive dressing to prevent:",
+     "options": [
+      "Pain",
+      "Swelling only",
+      "Infection only",
+      "Air embolism"
+     ],
+     "answer": 3,
+     "explanation": "Air entering veins.",
+     "chapter": 28
+    },
+    {
+     "q": "Tracheal deviation and absent breath sounds on one side suggest:",
+     "options": [
+      "Tension pneumothorax",
+      "Asthma",
+      "Pneumonia",
+      "Rib bruise"
+     ],
+     "answer": 0,
+     "explanation": "Emergency.",
+     "chapter": 30
+    },
+    {
+     "q": "Blood in the chest cavity is:",
+     "options": [
+      "Tamponade",
+      "Pneumothorax",
+      "Hemothorax",
+      "Flail chest"
+     ],
+     "answer": 2,
+     "explanation": "Can cause shock.",
+     "chapter": 30
+    },
+    {
+     "q": "An avulsed tooth should be stored in:",
+     "options": [
+      "Water",
+      "Ice",
+      "Dry gauze",
+      "Milk or saline"
+     ],
+     "answer": 3,
+     "explanation": "Keep the root moist.",
+     "chapter": 28
+    },
+    {
+     "q": "Suspected spine injury requires:",
+     "options": [
+      "Walking the patient",
+      "No precautions",
+      "Spinal motion restriction",
+      "Sitting them up"
+     ],
+     "answer": 2,
+     "explanation": "Limit movement.",
+     "chapter": 29
+    }
+   ]
+  },
+  {
+   "chapters": [
+    31,
+    32,
+    33
+   ],
+   "questions": [
+    {
+     "q": "Long-bone splints immobilize:",
+     "options": [
+      "The joints above and below",
+      "The whole body always",
+      "Only the injury",
+      "Nothing"
+     ],
+     "answer": 0,
+     "explanation": "Prevents movement.",
+     "chapter": 32
+    },
+    {
+     "q": "Frostbitten tissue should not be:",
+     "options": [
+      "Protected",
+      "Covered",
+      "Rubbed",
+      "Transported"
+     ],
+     "answer": 2,
+     "explanation": "Causes damage.",
+     "chapter": 33
+    },
+    {
+     "q": "Hypothermic patients should be handled:",
+     "options": [
+      "Placed in snow",
+      "Roughly",
+      "Rubbed vigorously",
+      "Gently"
+     ],
+     "answer": 3,
+     "explanation": "Prevent V-fib.",
+     "chapter": 33
+    },
+    {
+     "q": "Genitourinary injuries require:",
+     "options": [
+      "Ignoring",
+      "Privacy and bleeding control",
+      "Ice only",
+      "No assessment"
+     ],
+     "answer": 1,
+     "explanation": "Respect dignity.",
+     "chapter": 31
+    },
+    {
+     "q": "Abdominal injuries may cause hidden:",
+     "options": [
+      "Internal bleeding",
+      "Rashes",
+      "Burns",
+      "Fractures only"
+     ],
+     "answer": 0,
+     "explanation": "Watch for shock.",
+     "chapter": 31
+    },
+    {
+     "q": "Hot skin with altered mental status after heat exposure suggests:",
+     "options": [
+      "Hypothermia",
+      "Frostbite",
+      "Heat stroke",
+      "Heat cramps"
+     ],
+     "answer": 2,
+     "explanation": "Cool rapidly.",
+     "chapter": 33
+    },
+    {
+     "q": "Organs protruding from an abdominal wound should be:",
+     "options": [
+      "Left uncovered",
+      "Washed with soap",
+      "Pushed back in",
+      "Covered with a moist sterile dressing"
+     ],
+     "answer": 3,
+     "explanation": "Don't replace them.",
+     "chapter": 31
+    },
+    {
+     "q": "Before and after splinting, check:",
+     "options": [
+      "Temperature",
+      "Pulse, motor, and sensation",
+      "Pupils",
+      "Blood sugar"
+     ],
+     "answer": 1,
+     "explanation": "PMS.",
+     "chapter": 32
+    },
+    {
+     "q": "A traction splint is used for:",
+     "options": [
+      "Midshaft femur fractures",
+      "Ankle fractures",
+      "Knee injuries",
+      "Hip dislocations"
+     ],
+     "answer": 0,
+     "explanation": "Reduces pain and bleeding.",
+     "chapter": 32
+    }
+   ]
+  },
+  {
+   "chapters": [
+    34,
+    35,
+    36
+   ],
+   "questions": [
+    {
+     "q": "Older adults may have heart attacks with:",
+     "options": [
+      "Fever only",
+      "Always severe pain",
+      "Rash",
+      "No chest pain"
+     ],
+     "answer": 3,
+     "explanation": "Atypical presentation.",
+     "chapter": 36
+    },
+    {
+     "q": "Taking many medications at once is:",
+     "options": [
+      "Polypharmacy",
+      "Pharmacokinetics",
+      "Overdose always",
+      "Tolerance"
+     ],
+     "answer": 0,
+     "explanation": "Interaction risk.",
+     "chapter": 36
+    },
+    {
+     "q": "The Pediatric Assessment Triangle includes appearance, work of breathing, and:",
+     "options": [
+      "Temperature",
+      "Blood pressure",
+      "Circulation to the skin",
+      "Pupils"
+     ],
+     "answer": 2,
+     "explanation": "Quick look.",
+     "chapter": 35
+    },
+    {
+     "q": "Newborns are assessed with the:",
+     "options": [
+      "APGAR score",
+      "Rule of nines",
+      "AVPU",
+      "GCS"
+     ],
+     "answer": 0,
+     "explanation": "At 1 and 5 minutes.",
+     "chapter": 34
+    },
+    {
+     "q": "After delivery, the newborn should be:",
+     "options": [
+      "Fed immediately",
+      "Left uncovered",
+      "Dried and kept warm",
+      "Bathed in cold water"
+     ],
+     "answer": 2,
+     "explanation": "Prevent hypothermia.",
+     "chapter": 34
+    },
+    {
+     "q": "Injuries inconsistent with the story may indicate:",
+     "options": [
+      "Child abuse",
+      "Allergies",
+      "Clumsiness only",
+      "Normal play"
+     ],
+     "answer": 0,
+     "explanation": "Report as required.",
+     "chapter": 35
+    },
+    {
+     "q": "A leading cause of injury in older adults is:",
+     "options": [
+      "Sports",
+      "Falls",
+      "Drowning",
+      "Burns"
+     ],
+     "answer": 1,
+     "explanation": "Assess why they fell.",
+     "chapter": 36
+    },
+    {
+     "q": "With a prolapsed cord, the EMT should:",
+     "options": [
+      "Push it back",
+      "Ignore it",
+      "Cut it",
+      "Relieve pressure on the cord"
+     ],
+     "answer": 3,
+     "explanation": "Keep it moist.",
+     "chapter": 34
+    },
+    {
+     "q": "The leading cause of cardiac arrest in children is:",
+     "options": [
+      "Heart attack",
+      "Respiratory failure",
+      "Stroke",
+      "Diabetes"
+     ],
+     "answer": 1,
+     "explanation": "Support breathing.",
+     "chapter": 35
+    }
+   ]
+  },
+  {
+   "chapters": [
+    37,
+    38,
+    39
+   ],
+   "questions": [
+    {
+     "q": "Driving with lights and sirens still requires:",
+     "options": [
+      "Due regard for others",
+      "Maximum speed always",
+      "No caution",
+      "Ignoring signals"
+     ],
+     "answer": 0,
+     "explanation": "Sirens don't guarantee right of way.",
+     "chapter": 38
+    },
+    {
+     "q": "Water, trench, and confined space rescues require:",
+     "options": [
+      "Specially trained teams",
+      "No equipment",
+      "Any bystander",
+      "Only the EMT"
+     ],
+     "answer": 0,
+     "explanation": "Don't become a victim.",
+     "chapter": 39
+    },
+    {
+     "q": "During extrication, the patient should be:",
+     "options": [
+      "Left uncovered",
+      "Moved first",
+      "Protected from glass and debris",
+      "Ignored"
+     ],
+     "answer": 2,
+     "explanation": "Cover with a blanket.",
+     "chapter": 39
+    },
+    {
+     "q": "A tube through the neck into the trachea is a:",
+     "options": [
+      "Central line",
+      "Tracheostomy",
+      "Feeding tube",
+      "Shunt"
+     ],
+     "answer": 1,
+     "explanation": "Suction as needed.",
+     "chapter": 37
+    },
+    {
+     "q": "After a call, the ambulance should be:",
+     "options": [
+      "Left as is",
+      "Cleaned and restocked",
+      "Parked dirty",
+      "Sold"
+     ],
+     "answer": 1,
+     "explanation": "Ready for next call.",
+     "chapter": 38
+    },
+    {
+     "q": "For patients with home medical devices, a key resource is the:",
+     "options": [
+      "Dispatcher",
+      "Bystander",
+      "Caregiver",
+      "Neighbor"
+     ],
+     "answer": 2,
+     "explanation": "Knows the equipment.",
+     "chapter": 37
+    },
+    {
+     "q": "Patients with disabilities should be treated with:",
+     "options": [
+      "Rushed care",
+      "Less attention",
+      "Talking only to caregivers",
+      "Respect and adapted communication"
+     ],
+     "answer": 3,
+     "explanation": "Dignity.",
+     "chapter": 37
+    },
+    {
+     "q": "A helicopter landing zone must be:",
+     "options": [
+      "Unmarked",
+      "Near wires",
+      "On a busy road",
+      "Secured and free of hazards"
+     ],
+     "answer": 3,
+     "explanation": "About 100 × 100 feet.",
+     "chapter": 38
+    },
+    {
+     "q": "Before gaining access to a crash patient, first:",
+     "options": [
+      "Stabilize the vehicle",
+      "Remove the patient",
+      "Break glass",
+      "Cut the roof"
+     ],
+     "answer": 0,
+     "explanation": "Prevent movement.",
+     "chapter": 39
+    }
+   ]
+  },
+  {
+   "chapters": [
+    40,
+    41
+   ],
+   "questions": [
+    {
+     "q": "CBRNE stands for chemical, biological, radiological, nuclear, and:",
+     "options": [
+      "Emergency",
+      "Environmental",
+      "Electrical",
+      "Explosive"
+     ],
+     "answer": 3,
+     "explanation": "Terrorism weapons.",
+     "chapter": 41
+    },
+    {
+     "q": "At a hazmat scene, EMTs usually work in the:",
+     "options": [
+      "Hot zone",
+      "Warm zone",
+      "Any zone",
+      "Cold zone"
+     ],
+     "answer": 3,
+     "explanation": "Safe area.",
+     "chapter": 40
+    },
+    {
+     "q": "START triage sorts patients by:",
+     "options": [
+      "Priority of care",
+      "Age",
+      "Insurance",
+      "Name"
+     ],
+     "answer": 0,
+     "explanation": "Walking wounded are green.",
+     "chapter": 40
+    },
+    {
+     "q": "A large-scale event that overwhelms local resources is a:",
+     "options": [
+      "Transfer",
+      "Routine call",
+      "Disaster",
+      "Standby"
+     ],
+     "answer": 2,
+     "explanation": "Mutual aid needed.",
+     "chapter": 41
+    },
+    {
+     "q": "Radiation protection uses time, distance, and:",
+     "options": [
+      "Water",
+      "Shielding",
+      "Gloves only",
+      "Speed"
+     ],
+     "answer": 1,
+     "explanation": "Limit exposure.",
+     "chapter": 41
+    },
+    {
+     "q": "At a terrorist incident, be alert for:",
+     "options": [
+      "Insurance cards",
+      "Weather",
+      "Secondary devices",
+      "Traffic only"
+     ],
+     "answer": 2,
+     "explanation": "Target responders.",
+     "chapter": 41
+    },
+    {
+     "q": "The system that organizes emergency responses is the:",
+     "options": [
+      "Incident Command System",
+      "AVPU",
+      "SAMPLE",
+      "START"
+     ],
+     "answer": 0,
+     "explanation": "Clear chain of command.",
+     "chapter": 40
+    },
+    {
+     "q": "SLUDGEM signs suggest exposure to:",
+     "options": [
+      "Anthrax",
+      "Nerve agents",
+      "Explosives",
+      "Radiation"
+     ],
+     "answer": 1,
+     "explanation": "Excess secretions.",
+     "chapter": 41
+    },
+    {
+     "q": "A system for national incident management is:",
+     "options": [
+      "NIMS",
+      "OSHA",
+      "HIPAA",
+      "CODIS"
+     ],
+     "answer": 0,
+     "explanation": "National Incident Management System.",
+     "chapter": 40
+    }
+   ]
+  }
+ ],
  "2": [
   {
    "chapters": [
@@ -2180,6 +4354,12 @@ window.CONTENT["emergency-medical-technician"].quizzes = {
  ]
 };
 window.CONTENT["emergency-medical-technician"].bookInfo = {
+ "0": {
+  "edition": "12th edition outline (section list supplied by the site owner; numbering matches library catalog records)",
+  "source": "Section outline supplied by the site owner",
+  "chapters": 41,
+  "unit": "Chapter"
+ },
  "2": {
   "edition": "15th edition (2026)",
   "source": "Pearson table of contents",
