@@ -387,5 +387,67 @@ window.CONTENT["dental-terminology"].flashcards = [
     "back": "Store in milk; see the dentist fast"
    }
   ]
+ },
+ {
+  "section": "More Dental Terms",
+  "description": "Additional word parts and terms.",
+  "cards": [
+   {
+    "front": "Odont/o",
+    "back": "Tooth (e.g., odontalgia = toothache)."
+   },
+   {
+    "front": "Gingiv/o",
+    "back": "Gums (e.g., gingivectomy)."
+   },
+   {
+    "front": "Stomat/o",
+    "back": "Mouth (e.g., stomatitis = mouth inflammation)."
+   },
+   {
+    "front": "Gloss/o; lingu/o",
+    "back": "Tongue (e.g., glossitis, lingual)."
+   },
+   {
+    "front": "Cheil/o",
+    "back": "Lip (e.g., cheilitis)."
+   },
+   {
+    "front": "Ankyloglossia",
+    "back": "Tongue-tie: short lingual frenum limiting tongue movement."
+   },
+   {
+    "front": "Edentulous",
+    "back": "Without teeth."
+   },
+   {
+    "front": "Diastema",
+    "back": "Space between two adjacent teeth, often the central incisors."
+   },
+   {
+    "front": "Attrition",
+    "back": "Wear of teeth from tooth-to-tooth contact."
+   },
+   {
+    "front": "Abrasion",
+    "back": "Wear of teeth from external causes like hard brushing."
+   },
+   {
+    "front": "Erosion",
+    "back": "Chemical loss of tooth structure from acids (not bacteria)."
+   },
+   {
+    "front": "Torus",
+    "back": "Benign bony growth, e.g., torus palatinus on the palate."
+   },
+   {
+    "front": "Frenectomy",
+    "back": "Surgical removal or release of a frenum."
+   },
+   {
+    "front": "Apicoectomy",
+    "back": "Surgical removal of a root tip."
+   }
+  ]
  }
 ];

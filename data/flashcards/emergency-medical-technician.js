@@ -317,5 +317,137 @@ window.CONTENT["emergency-medical-technician"].flashcards = [
     "back": "Organizes large incidents"
    }
   ]
+ },
+ {
+  "section": "Operations, Legal & Medications",
+  "description": "EMS system, legal issues, and EMT drugs.",
+  "cards": [
+   {
+    "front": "Scope of practice",
+    "back": "Care an EMT is legally allowed to provide, set by state law and protocols."
+   },
+   {
+    "front": "Medical direction (online/offline)",
+    "back": "Online = direct physician contact; offline = written protocols and standing orders."
+   },
+   {
+    "front": "Implied consent",
+    "back": "Assumed for unresponsive patients who would want care."
+   },
+   {
+    "front": "Refusal of care",
+    "back": "Patient must be competent and informed of risks; document thoroughly."
+   },
+   {
+    "front": "Abandonment",
+    "back": "Ending care without transferring to equal or higher-level provider."
+   },
+   {
+    "front": "Negligence elements",
+    "back": "Duty, breach of duty, damages, and causation."
+   },
+   {
+    "front": "HIPAA (EMS)",
+    "back": "Protects patient information; share only with those involved in care."
+   },
+   {
+    "front": "Oral glucose",
+    "back": "Given to conscious patients with low blood sugar who can swallow."
+   },
+   {
+    "front": "Aspirin (EMS)",
+    "back": "Chewable 162–324 mg for suspected cardiac chest pain if no allergy or contraindications."
+   },
+   {
+    "front": "Epinephrine auto-injector",
+    "back": "Lateral thigh injection for anaphylaxis."
+   },
+   {
+    "front": "Albuterol",
+    "back": "Bronchodilator for asthma; may cause tachycardia and tremor."
+   },
+   {
+    "front": "Activated charcoal",
+    "back": "Binds some ingested poisons; not for unresponsive patients or corrosives."
+   },
+   {
+    "front": "Six rights",
+    "back": "Right patient, medication, dose, route, time, and documentation."
+   },
+   {
+    "front": "PCR",
+    "back": "Prehospital care report: legal record of the call."
+   },
+   {
+    "front": "Radio report",
+    "back": "Unit ID, age/sex, chief complaint, vital signs, treatment, ETA."
+   },
+   {
+    "front": "Due regard",
+    "back": "Driving with lights and sirens still requires caution for others' safety."
+   }
+  ]
+ },
+ {
+  "section": "More Assessment & Care",
+  "description": "Additional conditions and procedures.",
+  "cards": [
+   {
+    "front": "Pulse oximetry limits",
+    "back": "Inaccurate with carbon monoxide, poor perfusion, cold fingers, or nail polish."
+   },
+   {
+    "front": "Pupils (PEARRL)",
+    "back": "Pupils equal and round, reactive to light."
+   },
+   {
+    "front": "Orthostatic vital signs",
+    "back": "BP drop or HR rise when standing suggests volume loss."
+   },
+   {
+    "front": "Angina vs. MI",
+    "back": "Angina is relieved by rest and nitro; MI pain persists."
+   },
+   {
+    "front": "Pulmonary edema",
+    "back": "Crackles, pink frothy sputum, severe dyspnea; consider CPAP."
+   },
+   {
+    "front": "Asthma silent chest",
+    "back": "Absent wheezing in severe asthma signals very little air movement—ominous."
+   },
+   {
+    "front": "Hyperventilation",
+    "back": "Rapid breathing causing tingling and dizziness; rule out medical causes."
+   },
+   {
+    "front": "Hemorrhagic shock signs",
+    "back": "Rising pulse, pale cool skin, anxiety; low BP is late."
+   },
+   {
+    "front": "Burn classification",
+    "back": "Superficial, partial-thickness, full-thickness."
+   },
+   {
+    "front": "Spinal motion restriction",
+    "back": "Limit spinal movement in patients at risk for spine injury."
+   },
+   {
+    "front": "Behavioral emergency safety",
+    "back": "Ensure scene safety, speak calmly, and request police if needed."
+   },
+   {
+    "front": "Elder abuse signs",
+    "back": "Unexplained injuries, poor hygiene, fearfulness; report as required."
+   },
+   {
+    "front": "Triage tag colors",
+    "back": "Red immediate, yellow delayed, green minor, black deceased/expectant."
+   },
+   {
+    "front": "Ambulance cleaning",
+    "back": "Clean and disinfect equipment and surfaces after each call."
+   }
+  ]
  }
 ];

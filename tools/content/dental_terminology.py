@@ -273,3 +273,22 @@ FLASHCARDS = [
         ("Avulsed tooth", "Store in milk; see the dentist fast"),
     ]),
 ]
+
+FLASHCARDS += [
+    ("More Dental Terms", "Additional word parts and terms.", [
+        ("Odont/o", "Tooth (e.g., odontalgia = toothache)."),
+        ("Gingiv/o", "Gums (e.g., gingivectomy)."),
+        ("Stomat/o", "Mouth (e.g., stomatitis = mouth inflammation)."),
+        ("Gloss/o; lingu/o", "Tongue (e.g., glossitis, lingual)."),
+        ("Cheil/o", "Lip (e.g., cheilitis)."),
+        ("Ankyloglossia", "Tongue-tie: short lingual frenum limiting tongue movement."),
+        ("Edentulous", "Without teeth."),
+        ("Diastema", "Space between two adjacent teeth, often the central incisors."),
+        ("Attrition", "Wear of teeth from tooth-to-tooth contact."),
+        ("Abrasion", "Wear of teeth from external causes like hard brushing."),
+        ("Erosion", "Chemical loss of tooth structure from acids (not bacteria)."),
+        ("Torus", "Benign bony growth, e.g., torus palatinus on the palate."),
+        ("Frenectomy", "Surgical removal or release of a frenum."),
+        ("Apicoectomy", "Surgical removal of a root tip."),
+    ]),
+]

@@ -295,5 +295,147 @@ window.CONTENT["dental-science"].flashcards = [
     "back": "Give sugar"
    }
   ]
+ },
+ {
+  "section": "More Dental Science",
+  "description": "Additional anatomy, procedures, and prevention.",
+  "cards": [
+   {
+    "front": "Periodontal ligament",
+    "back": "Connective tissue fibers attaching the tooth root to alveolar bone."
+   },
+   {
+    "front": "Alveolar bone",
+    "back": "Bone of the jaws that holds the teeth."
+   },
+   {
+    "front": "Gingival sulcus",
+    "back": "Space between tooth and gum; healthy depth 1–3 mm."
+   },
+   {
+    "front": "Apex",
+    "back": "Tip of the root where nerves and vessels enter the tooth."
+   },
+   {
+    "front": "Furcation",
+    "back": "Area where roots of a multirooted tooth divide."
+   },
+   {
+    "front": "Maxillary canine",
+    "back": "Tooth with the longest root; cornerstone of the arch."
+   },
+   {
+    "front": "Mandibular first molar",
+    "back": "Usually first permanent tooth to erupt (around age 6); five cusps."
+   },
+   {
+    "front": "Mixed dentition",
+    "back": "Period (about ages 6–12) when both primary and permanent teeth are present."
+   },
+   {
+    "front": "Root canal therapy",
+    "back": "Removes infected pulp, cleans and shapes canals, fills with gutta-percha."
+   },
+   {
+    "front": "Pulpotomy",
+    "back": "Removal of the coronal pulp, often in primary teeth."
+   },
+   {
+    "front": "Scaling and root planing",
+    "back": "Deep cleaning that removes calculus below the gumline."
+   },
+   {
+    "front": "Sealant",
+    "back": "Resin coating placed in pits and fissures to prevent decay."
+   },
+   {
+    "front": "Fluoride varnish",
+    "back": "Concentrated topical fluoride painted on teeth to prevent caries."
+   },
+   {
+    "front": "Community water fluoridation",
+    "back": "Adjusting fluoride in public water (about 0.7 ppm) to prevent decay."
+   },
+   {
+    "front": "Coronal polishing",
+    "back": "Removing plaque and stains from crowns of teeth using a prophy angle."
+   },
+   {
+    "front": "Impacted tooth",
+    "back": "Tooth blocked from erupting, often a third molar."
+   },
+   {
+    "front": "Dry socket",
+    "back": "Alveolar osteitis: painful loss of the blood clot after extraction."
+   },
+   {
+    "front": "Malocclusion classes",
+    "back": "Angle Class I (normal molars, crowding), II (overbite), III (underbite)."
+   },
+   {
+    "front": "Bruxism",
+    "back": "Grinding or clenching teeth, often at night; treated with a night guard."
+   },
+   {
+    "front": "Oral cancer screening",
+    "back": "Exam of lips, tongue, floor of mouth, and neck for lesions."
+   },
+   {
+    "front": "Nutrition and caries",
+    "back": "Frequent sugar intake feeds acid-producing bacteria; frequency matters more than amount."
+   },
+   {
+    "front": "Saliva functions",
+    "back": "Buffers acids, remineralizes enamel, lubricates, and begins digestion."
+   },
+   {
+    "front": "Dental implant",
+    "back": "Titanium post placed in bone that fuses (osseointegration) to support a crown."
+   },
+   {
+    "front": "Fixed bridge",
+    "back": "Replaces missing teeth with a pontic attached to crowns on abutment teeth."
+   },
+   {
+    "front": "Complete denture",
+    "back": "Removable prosthesis replacing all teeth in an arch."
+   },
+   {
+    "front": "Local anesthetic",
+    "back": "Lidocaine is most common; vasoconstrictor (epinephrine) prolongs effect."
+   },
+   {
+    "front": "Nitrous oxide sedation",
+    "back": "Inhaled gas that reduces anxiety; delivered with oxygen through a nasal hood."
+   },
+   {
+    "front": "HIPAA in dentistry",
+    "back": "Patient information must be kept private and secure."
+   },
+   {
+    "front": "Bloodborne Pathogens Standard",
+    "back": "OSHA rule requiring exposure control plans and free hepatitis B vaccine."
+   },
+   {
+    "front": "Sharps injury",
+    "back": "Wash the site, report immediately, and follow the post-exposure plan."
+   },
+   {
+    "front": "Dental unit waterlines",
+    "back": "Flush at the start of the day and between patients to reduce biofilm."
+   },
+   {
+    "front": "Thyroid collar",
+    "back": "Lead shield protecting the thyroid during radiographs."
+   },
+   {
+    "front": "Paralleling technique",
+    "back": "Receptor parallel to the tooth's long axis; preferred for accuracy."
+   },
+   {
+    "front": "Medical history update",
+    "back": "Review at every visit for allergies, medications, and conditions."
+   }
+  ]
  }
 ];
