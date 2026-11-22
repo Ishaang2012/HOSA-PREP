@@ -2,6 +2,190 @@
 window.CONTENT = window.CONTENT || {};
 window.CONTENT["human-growth-development"] = window.CONTENT["human-growth-development"] || {};
 window.CONTENT["human-growth-development"].summaries = {
+ "0": [
+  {
+   "number": 1,
+   "title": "Healthy Lifestyles",
+   "summary": [
+    "Health is physical, mental, and social well-being. Healthy lifestyles include balanced nutrition, physical activity, sleep, stress management, and avoiding tobacco and substance misuse. Health promotion and disease prevention occur at primary, secondary, and tertiary levels; Healthy People sets national goals."
+   ],
+   "keyPoints": [
+    "Wellness dimensions",
+    "Levels of prevention",
+    "Healthy People goals",
+    "Lifestyle risk factors"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Communication",
+   "summary": [
+    "Communication can be verbal or nonverbal. Therapeutic communication uses active listening, open-ended questions, empathy, and clarification. Barriers include jargon, distractions, language differences, and sensory impairments. Communication is adapted to each age group."
+   ],
+   "keyPoints": [
+    "Verbal and nonverbal",
+    "Active listening",
+    "Open-ended questions",
+    "Barriers to communication"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Culture",
+   "summary": [
+    "Culture is shared beliefs, values, and practices that shape health behaviors. Cultural competence means respecting differences, avoiding stereotyping and ethnocentrism, and using interpreters. Diet, religion, family roles, and views of illness vary by culture."
+   ],
+   "keyPoints": [
+    "Cultural competence",
+    "Ethnocentrism",
+    "Stereotyping",
+    "Interpreters"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "The Family",
+   "summary": [
+    "Family structures include nuclear, extended, single-parent, blended, and others. Families provide support, socialization, and care. The family life cycle moves through stages, and stress such as illness affects the whole family."
+   ],
+   "keyPoints": [
+    "Family structures",
+    "Family functions",
+    "Family life cycle",
+    "Family stress"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Theories of Growth and Development",
+   "summary": [
+    "Growth is physical change; development is increasing skill. Major theories: Freud (psychosexual), Erikson (psychosocial), Piaget (cognitive), Kohlberg (moral), Maslow (needs). Development is orderly, proceeds head to toe (cephalocaudal) and center outward (proximodistal)."
+   ],
+   "keyPoints": [
+    "Growth vs. development",
+    "Erikson's stages",
+    "Piaget's stages",
+    "Cephalocaudal and proximodistal"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Prenatal Period to 1 Year",
+   "summary": [
+    "Prenatal development includes germinal, embryonic, and fetal periods; teratogens can cause defects. Infants double birth weight by about 5–6 months and triple it by 1 year. Reflexes (rooting, Moro), motor milestones, trust vs. mistrust, immunizations, and safe sleep are key."
+   ],
+   "keyPoints": [
+    "Prenatal periods",
+    "Triple birth weight by 1 year",
+    "Newborn reflexes",
+    "Trust vs. mistrust"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Toddlerhood",
+   "summary": [
+    "Toddlers (1–3 years) walk, run, and develop language rapidly. Erikson's stage is autonomy vs. shame and doubt. Tantrums, toilet training, and safety (falls, poisoning, drowning) are major concerns."
+   ],
+   "keyPoints": [
+    "Autonomy vs. shame",
+    "Language explosion",
+    "Toilet training",
+    "Childproofing"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Preschool",
+   "summary": [
+    "Preschoolers (3–6 years) refine motor skills and are in Piaget's preoperational stage (egocentrism, magical thinking). Erikson's stage is initiative vs. guilt. Play, imagination, and school readiness develop."
+   ],
+   "keyPoints": [
+    "Initiative vs. guilt",
+    "Preoperational thinking",
+    "Play",
+    "School readiness"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "School Age",
+   "summary": [
+    "School-age children (6–12) grow steadily and reach concrete operations (logic, conservation). Erikson's stage is industry vs. inferiority. Peers, school achievement, and self-esteem matter; concerns include bullying, obesity, and injuries."
+   ],
+   "keyPoints": [
+    "Industry vs. inferiority",
+    "Concrete operations",
+    "Peer relationships",
+    "Bullying and obesity"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Puberty and Adolescence",
+   "summary": [
+    "Puberty brings rapid physical and sexual maturation. Adolescents reach formal operations and seek identity (identity vs. role confusion). Risks include accidents, substance use, depression, and sexual health issues."
+   ],
+   "keyPoints": [
+    "Puberty",
+    "Identity vs. role confusion",
+    "Formal operations",
+    "Risk behaviors"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Early Adulthood",
+   "summary": [
+    "Young adults (about 20–40) are at peak physical health and focus on careers, relationships, and families. Erikson's stage is intimacy vs. isolation. Healthy habits now reduce later disease."
+   ],
+   "keyPoints": [
+    "Intimacy vs. isolation",
+    "Peak physical health",
+    "Career and family",
+    "Preventive habits"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Middle Adulthood",
+   "summary": [
+    "Middle adults (about 40–65) experience gradual physical changes, menopause, and increased chronic disease risk. Erikson's stage is generativity vs. stagnation. Many care for children and aging parents."
+   ],
+   "keyPoints": [
+    "Generativity vs. stagnation",
+    "Menopause",
+    "Chronic disease screening",
+    "Sandwich generation"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Late Adulthood",
+   "summary": [
+    "Older adults (65+) face changes in senses, bones, and organs; falls, polypharmacy, and dementia are concerns, though confusion isn't normal aging. Erikson's stage is integrity vs. despair. Theories of aging and promoting independence are emphasized."
+   ],
+   "keyPoints": [
+    "Integrity vs. despair",
+    "Fall prevention",
+    "Polypharmacy",
+    "Dementia is not normal aging"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Death and Dying",
+   "summary": [
+    "Responses to death vary by age and culture. Kübler-Ross described denial, anger, bargaining, depression, and acceptance. Hospice and palliative care focus on comfort; advance directives guide end-of-life wishes. Signs of approaching death and grief support are covered."
+   ],
+   "keyPoints": [
+    "Stages of grief",
+    "Hospice and palliative care",
+    "Advance directives",
+    "Grief support"
+   ]
+  }
+ ],
  "1": [
   {
    "number": 1,
@@ -613,6 +797,592 @@ window.CONTENT["human-growth-development"].summaries = {
  ]
 };
 window.CONTENT["human-growth-development"].quizzes = {
+ "0": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Body language and facial expressions are:",
+     "options": [
+      "Verbal communication",
+      "Written communication",
+      "Jargon",
+      "Nonverbal communication"
+     ],
+     "answer": 3,
+     "explanation": "Often louder than words.",
+     "chapter": 2
+    },
+    {
+     "q": "Screening tests like mammograms are:",
+     "options": [
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Treatment",
+      "Primary prevention"
+     ],
+     "answer": 0,
+     "explanation": "Early detection.",
+     "chapter": 1
+    },
+    {
+     "q": "Vaccines are an example of:",
+     "options": [
+      "Secondary prevention",
+      "Rehabilitation",
+      "Tertiary prevention",
+      "Primary prevention"
+     ],
+     "answer": 3,
+     "explanation": "Prevent disease before it starts.",
+     "chapter": 1
+    },
+    {
+     "q": "For a patient who speaks another language, use a:",
+     "options": [
+      "Louder voice",
+      "Trained interpreter",
+      "Family child",
+      "Gestures only"
+     ],
+     "answer": 1,
+     "explanation": "Ensures accuracy.",
+     "chapter": 3
+    },
+    {
+     "q": "The U.S. program setting national health goals is:",
+     "options": [
+      "Healthy People",
+      "MyPlate",
+      "Medicare",
+      "HIPAA"
+     ],
+     "answer": 0,
+     "explanation": "Updated every decade.",
+     "chapter": 1
+    },
+    {
+     "q": "Assuming all members of a group behave alike is:",
+     "options": [
+      "Cultural competence",
+      "Empathy",
+      "Stereotyping",
+      "Respect"
+     ],
+     "answer": 2,
+     "explanation": "Avoid it.",
+     "chapter": 3
+    },
+    {
+     "q": "Believing one's own culture is superior is:",
+     "options": [
+      "Ethnocentrism",
+      "Cultural competence",
+      "Diversity",
+      "Acculturation"
+     ],
+     "answer": 0,
+     "explanation": "A barrier to care.",
+     "chapter": 3
+    },
+    {
+     "q": "'How are you feeling about your surgery?' is an:",
+     "options": [
+      "Closed question",
+      "Open-ended question",
+      "Yes/no question",
+      "Leading question"
+     ],
+     "answer": 1,
+     "explanation": "Invites discussion.",
+     "chapter": 2
+    },
+    {
+     "q": "A barrier to communication is:",
+     "options": [
+      "Eye contact",
+      "Active listening",
+      "Medical jargon",
+      "Clarifying"
+     ],
+     "answer": 2,
+     "explanation": "Use plain language.",
+     "chapter": 2
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "Piaget's theory describes:",
+     "options": [
+      "Moral reasoning",
+      "Cognitive development",
+      "Needs hierarchy",
+      "Psychosexual stages"
+     ],
+     "answer": 1,
+     "explanation": "How thinking develops.",
+     "chapter": 5
+    },
+    {
+     "q": "Kohlberg's theory addresses:",
+     "options": [
+      "Attachment",
+      "Cognitive development",
+      "Physical growth",
+      "Moral development"
+     ],
+     "answer": 3,
+     "explanation": "Levels of moral reasoning.",
+     "chapter": 5
+    },
+    {
+     "q": "The startle reflex is the:",
+     "options": [
+      "Moro reflex",
+      "Rooting reflex",
+      "Babinski reflex",
+      "Grasp reflex"
+     ],
+     "answer": 0,
+     "explanation": "Disappears by about 4–6 months.",
+     "chapter": 6
+    },
+    {
+     "q": "Development that proceeds from head to toe is:",
+     "options": [
+      "Cephalocaudal",
+      "Random",
+      "Distal-proximal",
+      "Proximodistal"
+     ],
+     "answer": 0,
+     "explanation": "Head control comes first.",
+     "chapter": 5
+    },
+    {
+     "q": "Infants usually triple their birth weight by:",
+     "options": [
+      "3 months",
+      "2 years",
+      "1 year",
+      "6 months"
+     ],
+     "answer": 2,
+     "explanation": "Double by 5–6 months.",
+     "chapter": 6
+    },
+    {
+     "q": "Families teach children values and norms through:",
+     "options": [
+      "Socialization",
+      "Regression",
+      "Segregation",
+      "Isolation"
+     ],
+     "answer": 0,
+     "explanation": "A core family function.",
+     "chapter": 4
+    },
+    {
+     "q": "Major organs form during the:",
+     "options": [
+      "Neonatal period",
+      "Germinal period",
+      "Fetal period",
+      "Embryonic period"
+     ],
+     "answer": 3,
+     "explanation": "Weeks 3–8.",
+     "chapter": 6
+    },
+    {
+     "q": "A family that includes a stepparent is:",
+     "options": [
+      "Extended",
+      "Blended",
+      "Single-parent",
+      "Nuclear"
+     ],
+     "answer": 1,
+     "explanation": "Combines families.",
+     "chapter": 4
+    },
+    {
+     "q": "When one member is ill, it:",
+     "options": [
+      "Always strengthens the family",
+      "Affects only the patient",
+      "Affects the whole family",
+      "Has no effect"
+     ],
+     "answer": 2,
+     "explanation": "Family-centered care.",
+     "chapter": 4
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "Erikson's stage for preschoolers is:",
+     "options": [
+      "Identity vs. role confusion",
+      "Autonomy vs. shame",
+      "Industry vs. inferiority",
+      "Initiative vs. guilt"
+     ],
+     "answer": 3,
+     "explanation": "Taking initiative in play.",
+     "chapter": 8
+    },
+    {
+     "q": "Erikson's stage for school-age children is:",
+     "options": [
+      "Industry vs. inferiority",
+      "Intimacy vs. isolation",
+      "Identity vs. role confusion",
+      "Initiative vs. guilt"
+     ],
+     "answer": 0,
+     "explanation": "Building competence.",
+     "chapter": 9
+    },
+    {
+     "q": "A common concern in school-age children is:",
+     "options": [
+      "Menopause",
+      "Bullying",
+      "Retirement",
+      "Teething"
+     ],
+     "answer": 1,
+     "explanation": "Affects self-esteem.",
+     "chapter": 9
+    },
+    {
+     "q": "Understanding that quantity doesn't change with shape is:",
+     "options": [
+      "Conservation",
+      "Magical thinking",
+      "Egocentrism",
+      "Object permanence"
+     ],
+     "answer": 0,
+     "explanation": "Concrete operations.",
+     "chapter": 9
+    },
+    {
+     "q": "Erikson's stage for toddlers is:",
+     "options": [
+      "Industry vs. inferiority",
+      "Autonomy vs. shame and doubt",
+      "Initiative vs. guilt",
+      "Trust vs. mistrust"
+     ],
+     "answer": 1,
+     "explanation": "Toddlers seek independence.",
+     "chapter": 7
+    },
+    {
+     "q": "Preschoolers mainly learn through:",
+     "options": [
+      "Play",
+      "Reading only",
+      "Lectures",
+      "Work"
+     ],
+     "answer": 0,
+     "explanation": "Play is a child's work.",
+     "chapter": 8
+    },
+    {
+     "q": "Temper tantrums in toddlers are:",
+     "options": [
+      "Signs of poor parenting always",
+      "Rare",
+      "A normal part of seeking independence",
+      "Always a sign of illness"
+     ],
+     "answer": 2,
+     "explanation": "Respond calmly and consistently.",
+     "chapter": 7
+    },
+    {
+     "q": "Preschoolers believing the moon follows them shows:",
+     "options": [
+      "Formal operations",
+      "Abstract thinking",
+      "Magical thinking",
+      "Conservation"
+     ],
+     "answer": 2,
+     "explanation": "Preoperational stage.",
+     "chapter": 8
+    },
+    {
+     "q": "A top safety concern for toddlers is:",
+     "options": [
+      "Retirement",
+      "Peer pressure",
+      "Driving",
+      "Poisoning and drowning"
+     ],
+     "answer": 3,
+     "explanation": "Childproof the home.",
+     "chapter": 7
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "Erikson's stage for early adulthood is:",
+     "options": [
+      "Generativity vs. stagnation",
+      "Intimacy vs. isolation",
+      "Integrity vs. despair",
+      "Identity vs. role confusion"
+     ],
+     "answer": 1,
+     "explanation": "Close relationships.",
+     "chapter": 11
+    },
+    {
+     "q": "Erikson's stage for middle adulthood is:",
+     "options": [
+      "Generativity vs. stagnation",
+      "Trust vs. mistrust",
+      "Integrity vs. despair",
+      "Intimacy vs. isolation"
+     ],
+     "answer": 0,
+     "explanation": "Contributing to others.",
+     "chapter": 12
+    },
+    {
+     "q": "Adults caring for both children and aging parents are the:",
+     "options": [
+      "Lost generation",
+      "Baby boomers",
+      "Silent generation",
+      "Sandwich generation"
+     ],
+     "answer": 3,
+     "explanation": "High stress.",
+     "chapter": 12
+    },
+    {
+     "q": "A leading cause of death among adolescents is:",
+     "options": [
+      "Heart disease",
+      "Unintentional injuries",
+      "Diabetes",
+      "Cancer"
+     ],
+     "answer": 1,
+     "explanation": "Especially motor vehicle crashes.",
+     "chapter": 10
+    },
+    {
+     "q": "The end of menstrual periods in middle age is:",
+     "options": [
+      "Menopause",
+      "Puberty",
+      "Ovulation",
+      "Menarche"
+     ],
+     "answer": 0,
+     "explanation": "Around age 50.",
+     "chapter": 12
+    },
+    {
+     "q": "Erikson's stage for adolescents is:",
+     "options": [
+      "Industry vs. inferiority",
+      "Integrity vs. despair",
+      "Identity vs. role confusion",
+      "Intimacy vs. isolation"
+     ],
+     "answer": 2,
+     "explanation": "Who am I?",
+     "chapter": 10
+    },
+    {
+     "q": "Physical abilities usually peak in:",
+     "options": [
+      "Late adulthood",
+      "Middle adulthood",
+      "Adolescence only",
+      "Early adulthood"
+     ],
+     "answer": 3,
+     "explanation": "Healthy habits pay off later.",
+     "chapter": 11
+    },
+    {
+     "q": "A major focus of early adulthood is:",
+     "options": [
+      "Careers and relationships",
+      "Retirement",
+      "Puberty",
+      "Toilet training"
+     ],
+     "answer": 0,
+     "explanation": "Many start families.",
+     "chapter": 11
+    },
+    {
+     "q": "Abstract thinking develops in Piaget's:",
+     "options": [
+      "Concrete operational stage",
+      "Preoperational stage",
+      "Formal operational stage",
+      "Sensorimotor stage"
+     ],
+     "answer": 2,
+     "explanation": "Adolescence.",
+     "chapter": 10
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14
+   ],
+   "questions": [
+    {
+     "q": "Erikson's final stage is:",
+     "options": [
+      "Trust vs. mistrust",
+      "Generativity vs. stagnation",
+      "Integrity vs. despair",
+      "Intimacy vs. isolation"
+     ],
+     "answer": 2,
+     "explanation": "Life review.",
+     "chapter": 13
+    },
+    {
+     "q": "A major safety concern for older adults is:",
+     "options": [
+      "Sports injuries",
+      "Falls",
+      "Sunburn only",
+      "Peer pressure"
+     ],
+     "answer": 1,
+     "explanation": "Leading cause of injury.",
+     "chapter": 13
+    },
+    {
+     "q": "The first stage of grief (Kübler-Ross) is:",
+     "options": [
+      "Anger",
+      "Bargaining",
+      "Acceptance",
+      "Denial"
+     ],
+     "answer": 3,
+     "explanation": "Then anger, bargaining, depression, acceptance.",
+     "chapter": 14
+    },
+    {
+     "q": "Taking many medications at once is:",
+     "options": [
+      "Tolerance",
+      "Pharmacology",
+      "Polypharmacy",
+      "Adherence"
+     ],
+     "answer": 2,
+     "explanation": "Raises risk of interactions.",
+     "chapter": 13
+    },
+    {
+     "q": "A document stating end-of-life wishes is an:",
+     "options": [
+      "Advance directive",
+      "Care plan",
+      "Will for property",
+      "Incident report"
+     ],
+     "answer": 0,
+     "explanation": "Includes living wills.",
+     "chapter": 14
+    },
+    {
+     "q": "Which is NOT a normal part of aging?",
+     "options": [
+      "Thinner skin",
+      "Slower reaction time",
+      "Presbyopia",
+      "Dementia"
+     ],
+     "answer": 3,
+     "explanation": "Confusion needs evaluation.",
+     "chapter": 13
+    },
+    {
+     "q": "Support for people after a loss is:",
+     "options": [
+      "Bereavement support",
+      "Triage",
+      "Acute care",
+      "Rehabilitation"
+     ],
+     "answer": 0,
+     "explanation": "Helps with grief.",
+     "chapter": 14
+    },
+    {
+     "q": "Care focused on comfort for the terminally ill is:",
+     "options": [
+      "Hospice",
+      "Rehabilitation",
+      "Acute care",
+      "Surgery"
+     ],
+     "answer": 0,
+     "explanation": "Includes family support.",
+     "chapter": 14
+    },
+    {
+     "q": "Young children often think death is:",
+     "options": [
+      "Impossible",
+      "Temporary or reversible",
+      "Permanent and universal",
+      "Only for animals"
+     ],
+     "answer": 1,
+     "explanation": "Understanding grows with age.",
+     "chapter": 14
+    }
+   ]
+  }
+ ],
  "1": [
   {
    "chapters": [
@@ -2832,6 +3602,12 @@ window.CONTENT["human-growth-development"].quizzes = {
  ]
 };
 window.CONTENT["human-growth-development"].bookInfo = {
+ "0": {
+  "edition": "Edition not verified; chapter list supplied by the site owner",
+  "source": "Chapter list supplied by the site owner",
+  "chapters": 14,
+  "unit": "Chapter"
+ },
  "1": {
   "edition": "10th edition (2026)",
   "source": "Cengage / National Geographic Learning table of contents",

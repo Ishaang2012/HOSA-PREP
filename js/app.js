@@ -169,14 +169,14 @@
         text: "Chapter-by-chapter summaries of each official reference for this event.",
         meta: s.books ? `${s.books} official reference${s.books === 1 ? "" : "s"}` : "",
         off: (!s.books && "This event has no reference textbooks.") ||
-          (guide && !s.booksSummarized && "These books aren't summarized here. See the Study Guide for how to prepare."),
+          (guide && !s.booksSummarized && "Book summaries coming soon. Until then, see the Study Guide for how to prepare."),
       },
       {
         href: "quizzes", title: "Chapter Quizzes", icon: icon.quiz, color: "#0ea5e9",
         text: "Short quizzes that each cover three chapters of a book, so you can check yourself as you read.",
         meta: s.quizzes ? `${s.quizzes} quiz${s.quizzes === 1 ? "" : "zes"}` : "Coming soon",
         off: (!s.books && "This event has no reference textbooks.") ||
-          (guide && !s.quizzes && "No chapter quizzes for this event. See the Study Guide for how to prepare."),
+          (guide && !s.quizzes && "Chapter quizzes coming soon. Until then, see the Study Guide for how to prepare."),
       },
       {
         href: "tests", title: "Practice Tests", icon: icon.test, color: "#6366f1",
@@ -185,13 +185,13 @@
           : "",
         meta: ev.hasTest ? `${s.tests} of 3 ready` : "",
         off: (!ev.hasTest && "This event has no written test.") ||
-          (guide && !s.tests && "No practice tests for this event. See the Study Guide for how to prepare."),
+          (guide && !s.tests && "Practice tests coming soon. Until then, see the Study Guide for how to prepare."),
       },
       {
         href: "flashcards", title: "Flashcards", icon: icon.cards, color: "#f59e0b",
         text: "Key terms and concepts, split into focused sections so you can study in short sets.",
         meta: s.cards ? `${s.cards} cards` : "Coming soon",
-        off: guide && ev.hasTest && !s.cards && "No flashcards for this event. See the Study Guide for how to prepare.",
+        off: guide && ev.hasTest && !s.cards && "Flashcards coming soon. Until then, see the Study Guide for how to prepare.",
       },
     ];
     // Events judged without a written test only show what applies to them.

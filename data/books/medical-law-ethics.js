@@ -2,6 +2,151 @@
 window.CONTENT = window.CONTENT || {};
 window.CONTENT["medical-law-ethics"] = window.CONTENT["medical-law-ethics"] || {};
 window.CONTENT["medical-law-ethics"].summaries = {
+ "0": [
+  {
+   "number": 1,
+   "title": "The Need for Law, Ethics, and Bioethics in Health Care",
+   "summary": [
+    "Law sets enforceable rules; ethics are moral principles; bioethics addresses issues from medical advances like genetic testing and life support. Core principles are autonomy, beneficence, nonmaleficence, and justice. Ethical decision-making models help resolve dilemmas."
+   ],
+   "keyPoints": [
+    "Law vs. ethics vs. bioethics",
+    "Four core principles",
+    "Ethical dilemmas",
+    "Decision-making models"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "The Legal System and Current Issues in Health Care",
+   "summary": [
+    "Sources of law include constitutions, statutes, regulations, and case law. Law is criminal or civil (torts, contracts). Courts are federal and state. Current issues include health reform, access to care, and telehealth."
+   ],
+   "keyPoints": [
+    "Sources of law",
+    "Criminal vs. civil",
+    "Torts and contracts",
+    "Court systems"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "The Health Care Professional's Role and Responsibilities",
+   "summary": [
+    "Professionals are credentialed through licensure (mandatory, state), certification, and registration, and must work within their scope of practice. Duties include public reporting (births, deaths, communicable diseases, abuse) and following Good Samaritan principles."
+   ],
+   "keyPoints": [
+    "Licensure vs. certification",
+    "Scope of practice",
+    "Mandatory reporting",
+    "Good Samaritan laws"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Workplace Law and Ethics",
+   "summary": [
+    "Employment laws include Title VII, the ADA, ADEA, FMLA, OSHA, and wage laws. Sexual harassment can be quid pro quo or hostile environment. Employment-at-will and workplace ethics shape employer-employee relationships."
+   ],
+   "keyPoints": [
+    "Title VII",
+    "ADA and FMLA",
+    "OSHA",
+    "Sexual harassment"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "The Medical Record",
+   "summary": [
+    "The medical record is a legal document. Entries must be accurate, timely, and complete; errors are corrected with a single line, date, and initials. Records belong to the provider, but patients can access their information. Retention and electronic records rules apply."
+   ],
+   "keyPoints": [
+    "Legal document",
+    "Correcting errors",
+    "Patient access",
+    "Electronic records"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Informed Consent",
+   "summary": [
+    "Informed consent requires explaining the diagnosis, procedure, risks, benefits, and alternatives in understandable language. Consent can be expressed or implied. Special cases include minors, emancipated minors, emergencies, and patients lacking capacity."
+   ],
+   "keyPoints": [
+    "Elements of informed consent",
+    "Expressed vs. implied",
+    "Minors and capacity",
+    "Emergency exception"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Privacy, Confidentiality, and Privileged Communication",
+   "summary": [
+    "HIPAA protects identifiable health information. Confidentiality means not sharing information without authorization; privileged communication protects certain patient-provider communications in court. Exceptions include mandatory reporting and duty to warn."
+   ],
+   "keyPoints": [
+    "HIPAA",
+    "Confidentiality",
+    "Privileged communication",
+    "Duty to warn"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Professional Liability and Medical Malpractice",
+   "summary": [
+    "Malpractice is professional negligence. Plaintiffs must prove duty, dereliction, direct cause, and damages. Doctrines include res ipsa loquitur and respondeat superior. Defenses include contributory and comparative negligence and statutes of limitations. Risk management reduces liability."
+   ],
+   "keyPoints": [
+    "Four Ds",
+    "Res ipsa loquitur",
+    "Respondeat superior",
+    "Defenses"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Birth and the Beginning of Life",
+   "summary": [
+    "Issues include contraception, sterilization, abortion, assisted reproduction (IVF, surrogacy), genetic testing and counseling, and the rights of parents and fetuses."
+   ],
+   "keyPoints": [
+    "Contraception",
+    "IVF and surrogacy",
+    "Genetic counseling",
+    "Reproductive rights"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Death and Dying",
+   "summary": [
+    "End-of-life issues include defining death (brain death), advance directives (living will, durable power of attorney for health care), DNR orders, hospice and palliative care, organ donation, and physician-assisted death."
+   ],
+   "keyPoints": [
+    "Brain death",
+    "Advance directives",
+    "DNR orders",
+    "Organ donation"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Bioethical Issues in Health Care",
+   "summary": [
+    "Bioethical topics include allocation of scarce resources, organ transplantation, research ethics and informed consent, genetic engineering, stem cells, and access to care."
+   ],
+   "keyPoints": [
+    "Resource allocation",
+    "Research ethics",
+    "Genetic engineering",
+    "Stem cells"
+   ]
+  }
+ ],
  "1": [
   {
    "number": 1,
@@ -398,6 +543,475 @@ window.CONTENT["medical-law-ethics"].summaries = {
  ]
 };
 window.CONTENT["medical-law-ethics"].quizzes = {
+ "0": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Issues arising from medical advances are studied in:",
+     "options": [
+      "Bioethics",
+      "Criminal law",
+      "Etiquette",
+      "Accounting"
+     ],
+     "answer": 0,
+     "explanation": "E.g., life support decisions.",
+     "chapter": 1
+    },
+    {
+     "q": "A mandatory, state-granted credential is:",
+     "options": [
+      "Accreditation",
+      "Certification",
+      "Licensure",
+      "Registration"
+     ],
+     "answer": 2,
+     "explanation": "Required to practice.",
+     "chapter": 3
+    },
+    {
+     "q": "Moral principles guiding right and wrong are:",
+     "options": [
+      "Ethics",
+      "Statutes",
+      "Regulations",
+      "Laws"
+     ],
+     "answer": 0,
+     "explanation": "Laws are enforceable.",
+     "chapter": 1
+    },
+    {
+     "q": "'Do no harm' is the principle of:",
+     "options": [
+      "Beneficence",
+      "Autonomy",
+      "Justice",
+      "Nonmaleficence"
+     ],
+     "answer": 3,
+     "explanation": "Beneficence means doing good.",
+     "chapter": 1
+    },
+    {
+     "q": "Laws made by legislatures are:",
+     "options": [
+      "Statutes",
+      "Case law",
+      "Constitutions",
+      "Regulations"
+     ],
+     "answer": 0,
+     "explanation": "Agencies make regulations.",
+     "chapter": 2
+    },
+    {
+     "q": "Laws protecting people who help in emergencies in good faith are:",
+     "options": [
+      "OSHA",
+      "Good Samaritan laws",
+      "HIPAA",
+      "Stark laws"
+     ],
+     "answer": 1,
+     "explanation": "Encourage bystander help.",
+     "chapter": 3
+    },
+    {
+     "q": "Law based on court decisions is:",
+     "options": [
+      "Constitutional law",
+      "Statutory law",
+      "Administrative law",
+      "Case (common) law"
+     ],
+     "answer": 3,
+     "explanation": "Precedent.",
+     "chapter": 2
+    },
+    {
+     "q": "Health professionals must report:",
+     "options": [
+      "Insurance type",
+      "Political views",
+      "Suspected child abuse",
+      "Patient hobbies"
+     ],
+     "answer": 2,
+     "explanation": "Mandatory reporting.",
+     "chapter": 3
+    },
+    {
+     "q": "A civil wrong causing harm is a:",
+     "options": [
+      "Misdemeanor",
+      "Tort",
+      "Felony",
+      "Contract"
+     ],
+     "answer": 1,
+     "explanation": "Negligence is a tort.",
+     "chapter": 2
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "Informed consent requires explaining:",
+     "options": [
+      "Nothing",
+      "Only the procedure name",
+      "Risks, benefits, and alternatives",
+      "Only the cost"
+     ],
+     "answer": 2,
+     "explanation": "Plus the diagnosis.",
+     "chapter": 6
+    },
+    {
+     "q": "A workplace made offensive by harassment is a:",
+     "options": [
+      "At-will job",
+      "Quid pro quo",
+      "Hostile work environment",
+      "Safe harbor"
+     ],
+     "answer": 2,
+     "explanation": "Type of harassment.",
+     "chapter": 4
+    },
+    {
+     "q": "Consent isn't needed when:",
+     "options": [
+      "A true emergency threatens life and the patient can't consent",
+      "The doctor is in a hurry",
+      "The patient is an adult",
+      "The patient is busy"
+     ],
+     "answer": 0,
+     "explanation": "Emergency exception.",
+     "chapter": 6
+    },
+    {
+     "q": "Rolling up a sleeve for a vaccine shows:",
+     "options": [
+      "Informed refusal",
+      "Expressed consent",
+      "Refusal",
+      "Implied consent"
+     ],
+     "answer": 3,
+     "explanation": "Consent by action.",
+     "chapter": 6
+    },
+    {
+     "q": "Workplace safety standards are set by:",
+     "options": [
+      "DEA",
+      "OSHA",
+      "FDA",
+      "CDC"
+     ],
+     "answer": 1,
+     "explanation": "Includes bloodborne pathogens.",
+     "chapter": 4
+    },
+    {
+     "q": "Unpaid job-protected leave for medical reasons is provided by:",
+     "options": [
+      "ADA",
+      "Title VII",
+      "OSHA",
+      "FMLA"
+     ],
+     "answer": 3,
+     "explanation": "Family and Medical Leave Act.",
+     "chapter": 4
+    },
+    {
+     "q": "To correct a paper record error:",
+     "options": [
+      "Erase it",
+      "Draw one line, date, and initial",
+      "Tear out the page",
+      "Use correction fluid"
+     ],
+     "answer": 1,
+     "explanation": "Keep it readable.",
+     "chapter": 5
+    },
+    {
+     "q": "Who owns the physical medical record?",
+     "options": [
+      "The provider or facility",
+      "The patient",
+      "The government",
+      "The insurer"
+     ],
+     "answer": 0,
+     "explanation": "Patients own the information.",
+     "chapter": 5
+    },
+    {
+     "q": "The medical record is a:",
+     "options": [
+      "Legal document",
+      "Billing form only",
+      "Personal diary",
+      "Optional note"
+     ],
+     "answer": 0,
+     "explanation": "Used in court.",
+     "chapter": 5
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "Warning a threatened person about a dangerous patient reflects the:",
+     "options": [
+      "Right to privacy",
+      "Statute of limitations",
+      "Duty to warn",
+      "Good Samaritan law"
+     ],
+     "answer": 2,
+     "explanation": "Tarasoff case.",
+     "chapter": 7
+    },
+    {
+     "q": "Fertilizing an egg outside the body is:",
+     "options": [
+      "Sterilization",
+      "Cloning",
+      "In vitro fertilization",
+      "Contraception"
+     ],
+     "answer": 2,
+     "explanation": "IVF.",
+     "chapter": 9
+    },
+    {
+     "q": "Communications protected from being disclosed in court are:",
+     "options": [
+      "Hearsay",
+      "Public records",
+      "Testimony",
+      "Privileged communication"
+     ],
+     "answer": 3,
+     "explanation": "E.g., patient-physician.",
+     "chapter": 7
+    },
+    {
+     "q": "Employers being responsible for employees' acts is:",
+     "options": [
+      "Res ipsa loquitur",
+      "Respondeat superior",
+      "Assumption of risk",
+      "Comparative negligence"
+     ],
+     "answer": 1,
+     "explanation": "'Let the master answer.'",
+     "chapter": 8
+    },
+    {
+     "q": "A woman carrying a baby for another couple is a:",
+     "options": [
+      "Surrogate",
+      "Guardian",
+      "Proxy",
+      "Donor"
+     ],
+     "answer": 0,
+     "explanation": "Surrogacy.",
+     "chapter": 9
+    },
+    {
+     "q": "'The thing speaks for itself' is:",
+     "options": [
+      "Res ipsa loquitur",
+      "Respondeat superior",
+      "Quid pro quo",
+      "Stare decisis"
+     ],
+     "answer": 0,
+     "explanation": "E.g., an instrument left inside.",
+     "chapter": 8
+    },
+    {
+     "q": "Counseling families about inherited disease risk is:",
+     "options": [
+      "Genetic counseling",
+      "Psychotherapy",
+      "Triage",
+      "Physical therapy"
+     ],
+     "answer": 0,
+     "explanation": "Helps informed decisions.",
+     "chapter": 9
+    },
+    {
+     "q": "Health information privacy is protected by:",
+     "options": [
+      "OSHA",
+      "HIPAA",
+      "EMTALA",
+      "ADA"
+     ],
+     "answer": 1,
+     "explanation": "Privacy Rule.",
+     "chapter": 7
+    },
+    {
+     "q": "The four Ds of negligence are duty, dereliction, direct cause, and:",
+     "options": [
+      "Deposition",
+      "Diagnosis",
+      "Defense",
+      "Damages"
+     ],
+     "answer": 3,
+     "explanation": "All must be proven.",
+     "chapter": 8
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11
+   ],
+   "questions": [
+    {
+     "q": "Organ donation is governed by the:",
+     "options": [
+      "HIPAA",
+      "Uniform Anatomical Gift Act",
+      "FMLA",
+      "ADA"
+     ],
+     "answer": 1,
+     "explanation": "Allows donation.",
+     "chapter": 10
+    },
+    {
+     "q": "A DNR order means:",
+     "options": [
+      "Do not resuscitate",
+      "Do not report",
+      "Do not release",
+      "Do not refer"
+     ],
+     "answer": 0,
+     "explanation": "No CPR.",
+     "chapter": 10
+    },
+    {
+     "q": "Irreversible loss of all brain function is:",
+     "options": [
+      "Persistent vegetative state",
+      "Brain death",
+      "Coma",
+      "Syncope"
+     ],
+     "answer": 1,
+     "explanation": "Legal death.",
+     "chapter": 10
+    },
+    {
+     "q": "Changing an organism's DNA for medical purposes is:",
+     "options": [
+      "Triage",
+      "Vaccination",
+      "Sterilization",
+      "Genetic engineering"
+     ],
+     "answer": 3,
+     "explanation": "Includes gene therapy.",
+     "chapter": 11
+    },
+    {
+     "q": "Comfort-focused care for terminal illness is:",
+     "options": [
+      "Acute care",
+      "Rehabilitation",
+      "Hospice",
+      "Surgery"
+     ],
+     "answer": 2,
+     "explanation": "Includes family support.",
+     "chapter": 10
+    },
+    {
+     "q": "Deciding who gets scarce organs raises issues of:",
+     "options": [
+      "Billing",
+      "Etiquette",
+      "Resource allocation",
+      "Licensing"
+     ],
+     "answer": 2,
+     "explanation": "Justice.",
+     "chapter": 11
+    },
+    {
+     "q": "Unspecialized cells that can become many cell types are:",
+     "options": [
+      "Stem cells",
+      "Red blood cells",
+      "Neurons",
+      "Platelets"
+     ],
+     "answer": 0,
+     "explanation": "Ethical debate in research.",
+     "chapter": 11
+    },
+    {
+     "q": "Research involving people must have:",
+     "options": [
+      "Informed consent and ethics review",
+      "Payment only",
+      "No oversight",
+      "Secret methods"
+     ],
+     "answer": 0,
+     "explanation": "IRB approval.",
+     "chapter": 11
+    },
+    {
+     "q": "A document naming someone to make health decisions is a:",
+     "options": [
+      "DNR",
+      "Will",
+      "Living will",
+      "Durable power of attorney for health care"
+     ],
+     "answer": 3,
+     "explanation": "Health care proxy.",
+     "chapter": 10
+    }
+   ]
+  }
+ ],
  "1": [
   {
    "chapters": [
@@ -1574,6 +2188,12 @@ window.CONTENT["medical-law-ethics"].quizzes = {
  ]
 };
 window.CONTENT["medical-law-ethics"].bookInfo = {
+ "0": {
+  "edition": "Edition not verified; chapter list supplied by the site owner",
+  "source": "Chapter list supplied by the site owner",
+  "chapters": 11,
+  "unit": "Chapter"
+ },
  "1": {
   "edition": "7th edition",
   "source": "Pearson table of contents",
