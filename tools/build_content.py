@@ -91,8 +91,11 @@ def write_js(rel, event_id, key, value, comment):
 def build(event_id):
     ev = load_events()[event_id]
     m = load_module(event_id)
+    # An event may have flashcards only (no practice tests), e.g. when its test is written
+    # from page-level details of books this site can't reproduce.
+    has_tests = hasattr(m, "EASY")
     tests = {lvl: build_level(getattr(m, lvl.upper()), ev, m.TOPICS, zlib.crc32(f"{event_id}:{lvl}".encode()), lvl)
-             for lvl in ["easy", "medium", "hard"]}
+             for lvl in ["easy", "medium", "hard"]} if has_tests else {}
     qs = [q["q"] for t in tests.values() for q in t]
     dupes = {q for q in qs if qs.count(q) > 1}
     assert not dupes, f"duplicate questions: {dupes}"
@@ -109,12 +112,16 @@ def build(event_id):
     assert total >= 100, f"{event_id}: only {total} flashcards; every event needs at least 100"
     for section, desc, cards in m.FLASHCARDS:
         decks.append({"section": section, "description": desc, "cards": [{"front": f, "back": b} for f, b in cards]})
-    scripts = [f"data/tests/{event_id}.js", f"data/flashcards/{event_id}.js"]
-    write_js(scripts[0], event_id, "tests", tests,
-             f"{ev['name']} practice tests: {ev['testQuestions']} questions each, weighted by the 2026-27 test plan. Built by tools/build_content.py")
-    write_js(scripts[1], event_id, "flashcards", decks,
+    scripts = ([f"data/tests/{event_id}.js"] if has_tests else []) + [f"data/flashcards/{event_id}.js"]
+    if has_tests:
+        write_js(scripts[0], event_id, "tests", tests,
+                 f"{ev['name']} practice tests: {ev['testQuestions']} questions each, weighted by the 2026-27 test plan. Built by tools/build_content.py")
+    write_js(scripts[-1], event_id, "flashcards", decks,
              f"{ev['name']} flashcards. Built by tools/build_content.py")
     register_scripts(scripts)
+    if not has_tests:
+        print(f"{ev['name']}: flashcards only, {sum(len(d['cards']) for d in decks)} flashcards in {len(decks)} sections")
+        return
     pos = {lvl: "".join("ABCD"[q["answer"]] for q in t).count for lvl, t in tests.items()}
     print(f"{ev['name']}: 3 x {ev['testQuestions']} questions, {sum(len(d['cards']) for d in decks)} flashcards in {len(decks)} sections;",
           "answer spread", {lvl: [f(c) for c in "ABCD"] for lvl, f in pos.items()})
