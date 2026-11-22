@@ -321,5 +321,127 @@ window.CONTENT["pharmacology"].flashcards = [
     "back": "Accurate liquid dosing for kids"
    }
   ]
+ },
+ {
+  "section": "More Drug Classes & Effects",
+  "description": "Additional classes, actions, and warnings.",
+  "cards": [
+   {
+    "front": "-tidine",
+    "back": "H2 blockers (e.g., famotidine) reduce stomach acid."
+   },
+   {
+    "front": "-oxetine / -aline (examples)",
+    "back": "Fluoxetine, duloxetine, sertraline: antidepressants acting on serotonin (and norepinephrine for SNRIs)."
+   },
+   {
+    "front": "-triptan",
+    "back": "Migraine drugs (e.g., sumatriptan)."
+   },
+   {
+    "front": "-xaban",
+    "back": "Factor Xa inhibitor anticoagulants (e.g., apixaban, rivaroxaban)."
+   },
+   {
+    "front": "-gliptin",
+    "back": "DPP-4 inhibitors for type 2 diabetes (e.g., sitagliptin)."
+   },
+   {
+    "front": "-tinib",
+    "back": "Tyrosine kinase inhibitors for cancer (e.g., imatinib)."
+   },
+   {
+    "front": "-mab",
+    "back": "Monoclonal antibodies (e.g., adalimumab)."
+   },
+   {
+    "front": "SSRIs",
+    "back": "Antidepressants such as fluoxetine and sertraline; take 2–4 weeks to work."
+   },
+   {
+    "front": "Serotonin syndrome",
+    "back": "Agitation, fever, rigidity, and tachycardia from too much serotonin."
+   },
+   {
+    "front": "NSAIDs",
+    "back": "Ibuprofen and naproxen; risks include GI bleeding and kidney injury."
+   },
+   {
+    "front": "Acetaminophen toxicity",
+    "back": "Liver damage; antidote is acetylcysteine."
+   },
+   {
+    "front": "Opioid side effects",
+    "back": "Respiratory depression, constipation, sedation, nausea."
+   },
+   {
+    "front": "Insulin types",
+    "back": "Rapid (lispro), short (regular), intermediate (NPH), long (glargine)."
+   },
+   {
+    "front": "Hypoglycemia treatment",
+    "back": "Fast-acting sugar (15 g) if awake; glucagon or IV dextrose if not."
+   },
+   {
+    "front": "Corticosteroid effects",
+    "back": "Raise blood sugar, suppress immunity, cause bone loss; taper, don't stop suddenly."
+   },
+   {
+    "front": "Levothyroxine",
+    "back": "Thyroid hormone replacement; take on an empty stomach."
+   },
+   {
+    "front": "Bronchodilators",
+    "back": "Albuterol (rescue) relaxes airway smooth muscle; may cause tachycardia."
+   },
+   {
+    "front": "Inhaled corticosteroids",
+    "back": "Control asthma inflammation; rinse mouth to prevent thrush."
+   },
+   {
+    "front": "Antibiotic resistance",
+    "back": "Overuse lets resistant bacteria survive; finish the full course as prescribed."
+   },
+   {
+    "front": "Penicillin allergy",
+    "back": "Risk of anaphylaxis; some cross-sensitivity with cephalosporins."
+   },
+   {
+    "front": "Vancomycin",
+    "back": "Used for MRSA; monitor kidney function and trough levels."
+   },
+   {
+    "front": "Grapefruit juice",
+    "back": "Inhibits liver enzymes (CYP3A4), raising levels of some drugs like certain statins."
+   },
+   {
+    "front": "Adverse drug reaction",
+    "back": "Unintended, harmful response to a drug at normal doses."
+   },
+   {
+    "front": "Idiosyncratic reaction",
+    "back": "Unusual, unexpected response to a drug."
+   },
+   {
+    "front": "Placebo",
+    "back": "Inactive substance used as a comparison in drug studies."
+   },
+   {
+    "front": "Generic vs. brand name",
+    "back": "Generic is the official drug name; brand is the company's trademark."
+   },
+   {
+    "front": "OTC",
+    "back": "Over-the-counter drugs available without a prescription."
+   },
+   {
+    "front": "Pregnancy and drugs",
+    "back": "Some drugs are teratogens (e.g., isotretinoin, warfarin); check safety before use."
+   },
+   {
+    "front": "Drug-food interaction (warfarin)",
+    "back": "Keep vitamin K intake consistent."
+   }
+  ]
  }
 ];

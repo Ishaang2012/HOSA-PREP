@@ -263,5 +263,179 @@ window.CONTENT["physician-assistant"].flashcards = [
     "back": "Yawning, dilated pupils, diarrhea"
    }
   ]
+ },
+ {
+  "section": "More Clinical Reasoning",
+  "description": "Additional presentations, tests, and treatments.",
+  "cards": [
+   {
+    "front": "PA profession",
+    "back": "Physician assistants diagnose and treat patients in collaboration with physicians."
+   },
+   {
+    "front": "PANCE",
+    "back": "Certification exam PAs pass after graduating."
+   },
+   {
+    "front": "Differential diagnosis",
+    "back": "List of possible conditions that could explain the symptoms."
+   },
+   {
+    "front": "Chief complaint",
+    "back": "Main reason for the visit, in the patient's words."
+   },
+   {
+    "front": "Review of systems",
+    "back": "Head-to-toe series of questions about symptoms in each body system."
+   },
+   {
+    "front": "Red flag back pain",
+    "back": "Fever, weight loss, history of cancer, saddle anesthesia, or incontinence."
+   },
+   {
+    "front": "Cauda equina syndrome",
+    "back": "Saddle anesthesia, urinary retention, leg weakness; surgical emergency."
+   },
+   {
+    "front": "Appendicitis exam",
+    "back": "McBurney's point tenderness, Rovsing's sign, psoas sign."
+   },
+   {
+    "front": "Gout flare",
+    "back": "Sudden red, hot, swollen big-toe joint; needle-shaped crystals on joint aspiration."
+   },
+   {
+    "front": "Pyelonephritis",
+    "back": "Fever, flank pain, costovertebral angle tenderness, UTI symptoms."
+   },
+   {
+    "front": "Kidney stones",
+    "back": "Severe colicky flank pain radiating to the groin; hematuria."
+   },
+   {
+    "front": "Pneumonia exam",
+    "back": "Fever, cough, crackles, dullness to percussion, egophony."
+   },
+   {
+    "front": "Asthma exacerbation",
+    "back": "Wheezing, chest tightness; treat with albuterol and steroids."
+   },
+   {
+    "front": "COPD exacerbation",
+    "back": "Increased dyspnea and sputum; bronchodilators, steroids, antibiotics if indicated."
+   },
+   {
+    "front": "Pulmonary embolism risk",
+    "back": "Recent surgery, immobility, cancer, estrogen, prior DVT."
+   },
+   {
+    "front": "Heart failure signs",
+    "back": "Dyspnea, orthopnea, edema, JVD, crackles."
+   },
+   {
+    "front": "Atrial fibrillation treatment",
+    "back": "Rate control, rhythm control, and anticoagulation based on stroke risk."
+   },
+   {
+    "front": "Hypertension stage 2",
+    "back": "BP ≥ 140/90 mm Hg."
+   },
+   {
+    "front": "Stroke symptoms",
+    "back": "Sudden face droop, arm weakness, speech trouble; time is critical."
+   },
+   {
+    "front": "Migraine",
+    "back": "Unilateral throbbing headache with nausea and light sensitivity."
+   },
+   {
+    "front": "Meningitis signs",
+    "back": "Kernig and Brudzinski signs; get lumbar puncture."
+   },
+   {
+    "front": "Diabetic ketoacidosis",
+    "back": "High glucose, ketones, metabolic acidosis; fluids and insulin."
+   },
+   {
+    "front": "Hypothyroidism symptoms",
+    "back": "Fatigue, weight gain, cold intolerance, constipation."
+   },
+   {
+    "front": "Hyperthyroidism symptoms",
+    "back": "Weight loss, heat intolerance, tremor, palpitations."
+   },
+   {
+    "front": "Anemia (iron deficiency)",
+    "back": "Low hemoglobin and MCV, low ferritin."
+   },
+   {
+    "front": "Strep pharyngitis",
+    "back": "Fever, tonsillar exudates, tender anterior nodes, no cough (Centor criteria)."
+   },
+   {
+    "front": "Otitis media",
+    "back": "Bulging, red tympanic membrane; common in children."
+   },
+   {
+    "front": "Cellulitis",
+    "back": "Warm, red, tender, spreading skin infection."
+   },
+   {
+    "front": "Lyme disease",
+    "back": "Erythema migrans (bullseye rash) after tick bite; treat with doxycycline."
+   },
+   {
+    "front": "Anaphylaxis treatment",
+    "back": "IM epinephrine first, then airway support and adjuncts."
+   },
+   {
+    "front": "Sepsis",
+    "back": "Life-threatening organ dysfunction from infection; early antibiotics and fluids."
+   },
+   {
+    "front": "Shock types",
+    "back": "Hypovolemic, cardiogenic, distributive (septic, anaphylactic, neurogenic), obstructive."
+   },
+   {
+    "front": "Pregnancy test",
+    "back": "Check hCG in women of childbearing age with abdominal pain."
+   },
+   {
+    "front": "Ectopic pregnancy",
+    "back": "Abdominal pain and vaginal bleeding with positive pregnancy test; emergency."
+   },
+   {
+    "front": "Preventive care",
+    "back": "Screenings and vaccines based on age and risk."
+   },
+   {
+    "front": "Colorectal cancer screening",
+    "back": "Starts at age 45 for average-risk adults."
+   },
+   {
+    "front": "Mammography",
+    "back": "Screening for breast cancer; commonly every 1–2 years starting at age 40."
+   },
+   {
+    "front": "Informed consent",
+    "back": "Explain risks, benefits, and alternatives before procedures."
+   },
+   {
+    "front": "Evidence-based medicine",
+    "back": "Combining best research, clinical expertise, and patient values."
+   },
+   {
+    "front": "Sensitivity vs. specificity mnemonic",
+    "back": "SpPIn: a highly specific positive test rules in disease."
+   },
+   {
+    "front": "Positive predictive value",
+    "back": "Probability that a positive test is a true positive; rises with prevalence."
+   },
+   {
+    "front": "Suicide risk assessment",
+    "back": "Ask directly about thoughts, plan, means, and intent."
+   }
+  ]
  }
 ];

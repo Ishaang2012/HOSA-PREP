@@ -291,5 +291,157 @@ window.CONTENT["pharmacy-science"].flashcards = [
     "back": "Parkinson disease"
    }
   ]
+ },
+ {
+  "section": "Pharmacy Practice & Operations",
+  "description": "Day-to-day pharmacy work.",
+  "cards": [
+   {
+    "front": "Pharmacy technician role",
+    "back": "Prepares and dispenses medications under a pharmacist's supervision."
+   },
+   {
+    "front": "PTCB / NHA",
+    "back": "Organizations that certify pharmacy technicians (CPhT)."
+   },
+   {
+    "front": "Prescription parts",
+    "back": "Patient info, date, drug, strength, dose, directions (Sig), quantity, refills, prescriber signature."
+   },
+   {
+    "front": "Sig",
+    "back": "Directions for the patient on the label."
+   },
+   {
+    "front": "DEA number check",
+    "back": "Add 1st, 3rd, 5th digits; add 2nd, 4th, 6th and double; sum's last digit = check digit."
+   },
+   {
+    "front": "NDC",
+    "back": "National Drug Code: 10-digit labeler-product-package number."
+   },
+   {
+    "front": "Formulary",
+    "back": "List of drugs covered by an insurance plan or stocked by a hospital."
+   },
+   {
+    "front": "Prior authorization",
+    "back": "Insurance approval needed before covering certain drugs."
+   },
+   {
+    "front": "Generic substitution",
+    "back": "Pharmacist may dispense an AB-rated generic unless 'dispense as written' is indicated."
+   },
+   {
+    "front": "Inventory turnover",
+    "back": "How often stock is used and replaced; first in, first out for expiration."
+   },
+   {
+    "front": "Expired drugs",
+    "back": "Remove from stock and return or dispose of properly."
+   },
+   {
+    "front": "Unit dose",
+    "back": "Single dose packaged for one administration, common in hospitals."
+   },
+   {
+    "front": "Automated dispensing cabinet",
+    "back": "Secure machine (e.g., Pyxis) that stores and tracks drugs on units."
+   },
+   {
+    "front": "Medication reconciliation",
+    "back": "Comparing a patient's medication lists at transitions of care."
+   },
+   {
+    "front": "Counseling",
+    "back": "Only a pharmacist counsels patients; technicians offer counseling."
+   },
+   {
+    "front": "Look-alike, sound-alike drugs",
+    "back": "Drugs with similar names (e.g., hydroxyzine/hydralazine) that cause errors."
+   },
+   {
+    "front": "Refrigerated storage",
+    "back": "2–8°C (36–46°F) for drugs like insulin and many vaccines."
+   }
+  ]
+ },
+ {
+  "section": "More Calculations & Products",
+  "description": "Additional math and product knowledge.",
+  "cards": [
+   {
+    "front": "Weight-based dose",
+    "back": "Dose (mg/kg) × weight (kg)."
+   },
+   {
+    "front": "lb to kg",
+    "back": "Divide pounds by 2.2."
+   },
+   {
+    "front": "mL/hr",
+    "back": "Total volume ÷ total hours."
+   },
+   {
+    "front": "gtt/min",
+    "back": "(Volume × drop factor) ÷ time in minutes."
+   },
+   {
+    "front": "Milliequivalents",
+    "back": "Unit for electrolytes such as KCl."
+   },
+   {
+    "front": "Specific gravity",
+    "back": "Weight of a liquid compared with water; used to convert between volume and weight."
+   },
+   {
+    "front": "Markup",
+    "back": "Selling price − cost."
+   },
+   {
+    "front": "Average wholesale price",
+    "back": "Benchmark price used in drug reimbursement."
+   },
+   {
+    "front": "Transdermal patch",
+    "back": "Delivers drug through the skin over time; rotate sites."
+   },
+   {
+    "front": "Suppository",
+    "back": "Solid dose form inserted rectally or vaginally that melts at body temperature."
+   },
+   {
+    "front": "Ointment vs. cream",
+    "back": "Ointment is greasier (oil base); cream is water-based and absorbs faster."
+   },
+   {
+    "front": "Inhaler with spacer",
+    "back": "Spacer helps more medicine reach the lungs."
+   },
+   {
+    "front": "Reconstitution",
+    "back": "Adding diluent to a powder; follow the label volume."
+   },
+   {
+    "front": "IV piggyback",
+    "back": "Small volume of IV medication hung with a primary IV line."
+   },
+   {
+    "front": "TPN",
+    "back": "Total parenteral nutrition: complete IV nutrition, compounded under sterile conditions."
+   },
+   {
+    "front": "Hazardous drugs",
+    "back": "Drugs like chemotherapy that need special handling under USP 800."
+   },
+   {
+    "front": "Gloving for sterile compounding",
+    "back": "Sterile gloves; sanitize with sterile 70% isopropyl alcohol."
+   },
+   {
+    "front": "Garbing order",
+    "back": "Shoe covers, hair cover, face mask, hand washing, gown, then sterile gloves."
+   }
+  ]
  }
 ];

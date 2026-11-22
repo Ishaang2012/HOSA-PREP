@@ -279,5 +279,169 @@ window.CONTENT["patient-care-technician"].flashcards = [
     "back": "Chaotic; defibrillate"
    }
   ]
+ },
+ {
+  "section": "More PCT Skills",
+  "description": "Additional procedures and patient care knowledge.",
+  "cards": [
+   {
+    "front": "PCT role",
+    "back": "Provides direct patient care, phlebotomy, and EKGs under nursing supervision."
+   },
+   {
+    "front": "Delegation",
+    "back": "Nurse assigns tasks within the PCT's training and scope; PCT reports back."
+   },
+   {
+    "front": "SBAR",
+    "back": "Situation, background, assessment, recommendation; structured report to the nurse."
+   },
+   {
+    "front": "Height and weight",
+    "back": "Use the same scale and time of day; weigh before breakfast when ordered daily."
+   },
+   {
+    "front": "Blood glucose (fingerstick)",
+    "back": "Wipe away the first drop if policy requires; normal fasting 70–99 mg/dL."
+   },
+   {
+    "front": "Pain scale",
+    "back": "0–10 numeric scale; FACES scale for children or those who can't use numbers."
+   },
+   {
+    "front": "Incentive spirometer",
+    "back": "Encourages deep breathing after surgery to prevent atelectasis and pneumonia."
+   },
+   {
+    "front": "TED / compression stockings",
+    "back": "Promote venous return and help prevent DVT; apply before getting out of bed."
+   },
+   {
+    "front": "SCDs",
+    "back": "Sequential compression devices that inflate around the legs to prevent clots."
+   },
+   {
+    "front": "Ostomy care",
+    "back": "Empty pouch when one-third to half full; healthy stoma is red and moist."
+   },
+   {
+    "front": "Enema position",
+    "back": "Left Sims' position."
+   },
+   {
+    "front": "Postmortem care",
+    "back": "Respectful cleaning and positioning of the body per facility policy."
+   },
+   {
+    "front": "Admission tasks",
+    "back": "Orient to room and call light, take vitals, inventory belongings."
+   },
+   {
+    "front": "Discharge tasks",
+    "back": "Help gather belongings and transport per policy, usually by wheelchair."
+   },
+   {
+    "front": "Restorative care",
+    "back": "Helping patients maintain or regain independence in ADLs."
+   },
+   {
+    "front": "Passive range of motion",
+    "back": "PCT moves the joints when the patient can't; stop at pain."
+   },
+   {
+    "front": "Ambulation with walker",
+    "back": "Move the walker forward, then step into it."
+   },
+   {
+    "front": "Mechanical lift",
+    "back": "Used for patients who can't bear weight; follow policy on number of staff."
+   },
+   {
+    "front": "Comfort measures",
+    "back": "Positioning, back rubs, clean linens, a calm environment."
+   }
+  ]
+ },
+ {
+  "section": "More EKG & Phlebotomy",
+  "description": "Additional technical knowledge.",
+  "cards": [
+   {
+    "front": "Limb lead placement",
+    "back": "RA, LA, RL, LL on limbs (or torso near limbs); white right, smoke over fire on left."
+   },
+   {
+    "front": "V4 placement",
+    "back": "5th intercostal space, midclavicular line."
+   },
+   {
+    "front": "Normal sinus rhythm",
+    "back": "Regular rhythm, 60–100 bpm, a P wave before every QRS."
+   },
+   {
+    "front": "Sinus bradycardia",
+    "back": "Sinus rhythm under 60 bpm."
+   },
+   {
+    "front": "Sinus tachycardia",
+    "back": "Sinus rhythm over 100 bpm."
+   },
+   {
+    "front": "Atrial fibrillation (EKG)",
+    "back": "Irregularly irregular rhythm with no clear P waves."
+   },
+   {
+    "front": "Asystole",
+    "back": "Flat line; check leads and the patient, start CPR."
+   },
+   {
+    "front": "Artifact causes",
+    "back": "Patient movement, shivering, loose electrodes, electrical interference."
+   },
+   {
+    "front": "PR interval",
+    "back": "Normal 0.12–0.20 seconds."
+   },
+   {
+    "front": "QRS duration",
+    "back": "Normal less than 0.12 seconds."
+   },
+   {
+    "front": "Holter monitor",
+    "back": "Records the heart rhythm for 24–48 hours."
+   },
+   {
+    "front": "Venipuncture site",
+    "back": "Median cubital vein in the antecubital area is first choice."
+   },
+   {
+    "front": "Fasting specimen",
+    "back": "Patient has nothing but water for 8–12 hours before the draw, e.g., fasting glucose or lipids."
+   },
+   {
+    "front": "Blood culture prep",
+    "back": "Clean the site per protocol and draw blood cultures first."
+   },
+   {
+    "front": "Hematoma prevention",
+    "back": "Apply pressure after removing the needle; don't bend the arm."
+   },
+   {
+    "front": "Fainting during draw",
+    "back": "Remove needle, lower head, apply pressure, get help."
+   },
+   {
+    "front": "Labeling at bedside",
+    "back": "Label tubes in front of the patient after the draw."
+   },
+   {
+    "front": "Specimen rejection",
+    "back": "Unlabeled, mislabeled, hemolyzed, or clotted specimens may be rejected."
+   },
+   {
+    "front": "Capillary puncture site (adult)",
+    "back": "Middle or ring finger, side of the fingertip pad."
+   }
+  ]
  }
 ];
