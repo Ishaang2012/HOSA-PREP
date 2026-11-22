@@ -688,6 +688,216 @@ window.CONTENT["hosa-bowl"].summaries = {
     "X-linked hemophilia"
    ]
   }
+ ],
+ "5": [
+  {
+   "number": 1,
+   "title": "Basic Word Structure (Prefixes, Suffixes, Combining Forms)",
+   "summary": [
+    "Medical terms are built from a word root (core meaning), combining vowel (usually o), prefix (beginning), and suffix (ending). Analyze terms by reading the suffix first, then the prefix, then the root. Example: gastr/o/enter/itis = inflammation of the stomach and intestines."
+   ],
+   "keyPoints": [
+    "Root, prefix, suffix",
+    "Combining vowel o",
+    "Read suffix first",
+    "Combining forms"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Body Structure, Color, and Oncology",
+   "summary": [
+    "Body organization goes from cells to tissues, organs, and systems. Color prefixes include erythr/o (red), leuk/o (white), cyan/o (blue), melan/o (black), and xanth/o (yellow). Oncology terms include -oma (tumor), carcin/o (cancer), benign, malignant, and metastasis."
+   ],
+   "keyPoints": [
+    "Cells to systems",
+    "Color word parts",
+    "-oma = tumor",
+    "Benign vs. malignant"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Directional Terms, Anatomic Planes, Regions, and Quadrants",
+   "summary": [
+    "Directional terms include superior/inferior, anterior/posterior, medial/lateral, and proximal/distal. Planes divide the body: sagittal (left/right), frontal or coronal (front/back), transverse (top/bottom). The abdomen is divided into 4 quadrants or 9 regions."
+   ],
+   "keyPoints": [
+    "Directional terms",
+    "Body planes",
+    "Four quadrants",
+    "Nine regions"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Integumentary System",
+   "summary": [
+    "Skin word parts include derm/o and dermat/o (skin), cutane/o (skin), onych/o (nail), trich/o (hair), and kerat/o (hard). Terms include dermatitis, onychomycosis, alopecia, and burns classified by depth."
+   ],
+   "keyPoints": [
+    "derm/o, cutane/o",
+    "onych/o = nail",
+    "trich/o = hair",
+    "Burn depth"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Respiratory System",
+   "summary": [
+    "Word parts include pneum/o and pulmon/o (lung), bronch/o (bronchus), trache/o (trachea), laryng/o (larynx), rhin/o and nas/o (nose), and -pnea (breathing). Terms include dyspnea, apnea, bronchitis, and tracheostomy."
+   ],
+   "keyPoints": [
+    "pneum/o, pulmon/o",
+    "-pnea = breathing",
+    "bronch/o, trache/o",
+    "rhin/o = nose"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Urinary System",
+   "summary": [
+    "Word parts include nephr/o and ren/o (kidney), cyst/o and vesic/o (bladder), ur/o (urine), and ureter/o and urethr/o. Terms include nephritis, cystitis, hematuria, dysuria, and lithotripsy."
+   ],
+   "keyPoints": [
+    "nephr/o, ren/o",
+    "cyst/o = bladder",
+    "-uria = urine condition",
+    "Lithotripsy"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Male Reproductive System",
+   "summary": [
+    "Word parts include orchi/o and testicul/o (testis), prostat/o (prostate), vas/o (vessel/duct), and andr/o (male). Terms include orchitis, vasectomy, BPH, and prostatectomy."
+   ],
+   "keyPoints": [
+    "orchi/o = testis",
+    "prostat/o",
+    "Vasectomy",
+    "BPH"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Female Reproductive System",
+   "summary": [
+    "Word parts include gynec/o (woman), hyster/o and uter/o (uterus), oophor/o and ovari/o (ovary), salping/o (fallopian tube), mamm/o and mast/o (breast), and men/o (menstruation). Terms include hysterectomy, mammogram, and dysmenorrhea."
+   ],
+   "keyPoints": [
+    "hyster/o = uterus",
+    "oophor/o = ovary",
+    "mamm/o, mast/o",
+    "men/o = menstruation"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Obstetrics and Neonatology",
+   "summary": [
+    "Word parts include gravid/o (pregnancy), -para (to bear), nat/o (birth), and fet/o (fetus). Terms include gravida, para, prenatal, postpartum, neonate, and cesarean section."
+   ],
+   "keyPoints": [
+    "Gravida vs. para",
+    "nat/o = birth",
+    "Prenatal and postpartum",
+    "Neonate"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Cardiovascular, Immune, and Lymphatic Systems and Blood",
+   "summary": [
+    "Word parts include cardi/o (heart), angi/o and vas/o (vessel), arteri/o, phleb/o and ven/o (vein), hem/o and hemat/o (blood), lymph/o, and immun/o. Terms include tachycardia, anemia, leukemia, and lymphadenopathy."
+   ],
+   "keyPoints": [
+    "cardi/o = heart",
+    "angi/o = vessel",
+    "hem/o = blood",
+    "lymph/o, immun/o"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Digestive System",
+   "summary": [
+    "Word parts include gastr/o (stomach), enter/o (small intestine), col/o (colon), hepat/o (liver), cholecyst/o (gallbladder), and -emesis (vomiting). Terms include gastritis, hepatomegaly, cholecystectomy, and colonoscopy."
+   ],
+   "keyPoints": [
+    "gastr/o = stomach",
+    "hepat/o = liver",
+    "col/o = colon",
+    "-emesis = vomiting"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Eye",
+   "summary": [
+    "Word parts include ophthalm/o and ocul/o (eye), opt/o (vision), retin/o (retina), kerat/o (cornea), blephar/o (eyelid), and -opia (vision condition). Terms include myopia, presbyopia, cataract, and glaucoma."
+   ],
+   "keyPoints": [
+    "ophthalm/o = eye",
+    "blephar/o = eyelid",
+    "-opia = vision",
+    "Myopia and presbyopia"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Ear",
+   "summary": [
+    "Word parts include ot/o and aur/o (ear), audi/o (hearing), tympan/o and myring/o (eardrum), and -cusis (hearing). Terms include otitis media, presbycusis, tinnitus, and myringotomy."
+   ],
+   "keyPoints": [
+    "ot/o = ear",
+    "audi/o = hearing",
+    "myring/o = eardrum",
+    "Presbycusis"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Musculoskeletal System",
+   "summary": [
+    "Word parts include oste/o (bone), arthr/o (joint), my/o (muscle), chondr/o (cartilage), ten/o and tendin/o (tendon), and -malacia (softening). Terms include osteoporosis, arthritis, myalgia, and arthroscopy."
+   ],
+   "keyPoints": [
+    "oste/o = bone",
+    "arthr/o = joint",
+    "my/o = muscle",
+    "chondr/o = cartilage"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Nervous System and Behavioral Health",
+   "summary": [
+    "Word parts include neur/o (nerve), encephal/o (brain), cerebr/o (cerebrum), mening/o (meninges), myel/o (spinal cord), and psych/o (mind). Terms include meningitis, encephalopathy, hemiplegia, and psychosis."
+   ],
+   "keyPoints": [
+    "neur/o = nerve",
+    "encephal/o = brain",
+    "myel/o = spinal cord",
+    "psych/o = mind"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Endocrine System",
+   "summary": [
+    "Word parts include aden/o (gland), thyr/o (thyroid), adren/o (adrenal), pancreat/o (pancreas), gluc/o and glyc/o (sugar), and crin/o (secrete). Terms include hyperthyroidism, hypoglycemia, and diabetes mellitus."
+   ],
+   "keyPoints": [
+    "aden/o = gland",
+    "thyr/o = thyroid",
+    "glyc/o = sugar",
+    "crin/o = secrete"
+   ]
+  }
  ]
 };
 window.CONTENT["hosa-bowl"].quizzes = {
@@ -3141,6 +3351,708 @@ window.CONTENT["hosa-bowl"].quizzes = {
     }
    ]
   }
+ ],
+ "5": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Farther from the point of attachment is:",
+     "options": [
+      "Proximal",
+      "Superior",
+      "Medial",
+      "Distal"
+     ],
+     "answer": 3,
+     "explanation": "Fingers are distal to the elbow.",
+     "chapter": 3
+    },
+    {
+     "q": "The abdomen can be divided into how many quadrants?",
+     "options": [
+      "Four",
+      "Two",
+      "Six",
+      "Nine"
+     ],
+     "answer": 0,
+     "explanation": "Or nine regions.",
+     "chapter": 3
+    },
+    {
+     "q": "erythr/o means:",
+     "options": [
+      "Blue",
+      "White",
+      "Black",
+      "Red"
+     ],
+     "answer": 3,
+     "explanation": "Erythrocyte = red blood cell.",
+     "chapter": 2
+    },
+    {
+     "q": "When analyzing a term, start with the:",
+     "options": [
+      "Prefix",
+      "Middle",
+      "Suffix",
+      "Root"
+     ],
+     "answer": 2,
+     "explanation": "Then prefix, then root.",
+     "chapter": 1
+    },
+    {
+     "q": "The most common combining vowel is:",
+     "options": [
+      "o",
+      "a",
+      "i",
+      "e"
+     ],
+     "answer": 0,
+     "explanation": "E.g., cardi/o.",
+     "chapter": 1
+    },
+    {
+     "q": "The suffix -oma means:",
+     "options": [
+      "Inflammation",
+      "Tumor",
+      "Pain",
+      "Removal"
+     ],
+     "answer": 1,
+     "explanation": "E.g., carcinoma.",
+     "chapter": 2
+    },
+    {
+     "q": "The plane dividing the body into left and right is:",
+     "options": [
+      "Sagittal",
+      "Transverse",
+      "Frontal",
+      "Coronal"
+     ],
+     "answer": 0,
+     "explanation": "Midsagittal = equal halves.",
+     "chapter": 3
+    },
+    {
+     "q": "The core meaning of a medical term is the:",
+     "options": [
+      "Combining vowel",
+      "Suffix",
+      "Word root",
+      "Prefix"
+     ],
+     "answer": 2,
+     "explanation": "Foundation of the term.",
+     "chapter": 1
+    },
+    {
+     "q": "Spread of cancer to distant sites is:",
+     "options": [
+      "Benign growth",
+      "Metastasis",
+      "Remission",
+      "Biopsy"
+     ],
+     "answer": 1,
+     "explanation": "Malignant tumors spread.",
+     "chapter": 2
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "onych/o refers to the:",
+     "options": [
+      "Hair",
+      "Nail",
+      "Sweat gland",
+      "Skin"
+     ],
+     "answer": 1,
+     "explanation": "Onychomycosis = nail fungus.",
+     "chapter": 4
+    },
+    {
+     "q": "Hair loss is:",
+     "options": [
+      "Pruritus",
+      "Erythema",
+      "Alopecia",
+      "Urticaria"
+     ],
+     "answer": 2,
+     "explanation": "Pruritus = itching.",
+     "chapter": 4
+    },
+    {
+     "q": "-pnea means:",
+     "options": [
+      "Breathing",
+      "Air sac",
+      "Voice",
+      "Lung"
+     ],
+     "answer": 0,
+     "explanation": "Dyspnea, apnea.",
+     "chapter": 5
+    },
+    {
+     "q": "nephr/o means:",
+     "options": [
+      "Kidney",
+      "Ureter",
+      "Urethra",
+      "Bladder"
+     ],
+     "answer": 0,
+     "explanation": "Nephritis.",
+     "chapter": 6
+    },
+    {
+     "q": "trich/o refers to:",
+     "options": [
+      "Hair",
+      "Fat",
+      "Nail",
+      "Skin"
+     ],
+     "answer": 0,
+     "explanation": "Trichology.",
+     "chapter": 4
+    },
+    {
+     "q": "An incision into the trachea is a:",
+     "options": [
+      "Bronchoscopy",
+      "Tracheitis",
+      "Laryngectomy",
+      "Tracheotomy"
+     ],
+     "answer": 3,
+     "explanation": "-otomy = cutting into.",
+     "chapter": 5
+    },
+    {
+     "q": "Blood in the urine is:",
+     "options": [
+      "Dysuria",
+      "Anuria",
+      "Hematuria",
+      "Polyuria"
+     ],
+     "answer": 2,
+     "explanation": "-uria = urine condition.",
+     "chapter": 6
+    },
+    {
+     "q": "rhin/o refers to the:",
+     "options": [
+      "Larynx",
+      "Throat",
+      "Lung",
+      "Nose"
+     ],
+     "answer": 3,
+     "explanation": "Rhinitis.",
+     "chapter": 5
+    },
+    {
+     "q": "Crushing kidney stones is:",
+     "options": [
+      "Nephrectomy",
+      "Lithotripsy",
+      "Cystoscopy",
+      "Lithotomy"
+     ],
+     "answer": 1,
+     "explanation": "-tripsy = crushing.",
+     "chapter": 6
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "A woman's number of pregnancies is her:",
+     "options": [
+      "Para",
+      "Parity only",
+      "Gravida",
+      "Natal"
+     ],
+     "answer": 2,
+     "explanation": "Para = births.",
+     "chapter": 9
+    },
+    {
+     "q": "Painful menstruation is:",
+     "options": [
+      "Dysmenorrhea",
+      "Menarche",
+      "Amenorrhea",
+      "Menorrhagia"
+     ],
+     "answer": 0,
+     "explanation": "dys- = painful.",
+     "chapter": 8
+    },
+    {
+     "q": "oophor/o refers to the:",
+     "options": [
+      "Ovary",
+      "Fallopian tube",
+      "Breast",
+      "Uterus"
+     ],
+     "answer": 0,
+     "explanation": "Oophorectomy.",
+     "chapter": 8
+    },
+    {
+     "q": "hyster/o refers to the:",
+     "options": [
+      "Uterus",
+      "Ovary",
+      "Breast",
+      "Vagina"
+     ],
+     "answer": 0,
+     "explanation": "Hysterectomy.",
+     "chapter": 8
+    },
+    {
+     "q": "orchi/o refers to the:",
+     "options": [
+      "Prostate",
+      "Bladder",
+      "Testis",
+      "Penis"
+     ],
+     "answer": 2,
+     "explanation": "Orchitis.",
+     "chapter": 7
+    },
+    {
+     "q": "Cutting and sealing the vas deferens is a:",
+     "options": [
+      "Prostatectomy",
+      "Circumcision",
+      "Orchiectomy",
+      "Vasectomy"
+     ],
+     "answer": 3,
+     "explanation": "Male sterilization.",
+     "chapter": 7
+    },
+    {
+     "q": "BPH stands for:",
+     "options": [
+      "Blood pressure high",
+      "Benign penile hyperplasia",
+      "Bilateral prostate hernia",
+      "Benign prostatic hyperplasia"
+     ],
+     "answer": 3,
+     "explanation": "Enlarged prostate.",
+     "chapter": 7
+    },
+    {
+     "q": "A newborn up to 4 weeks old is a:",
+     "options": [
+      "Toddler",
+      "Neonate",
+      "Fetus",
+      "Infant only"
+     ],
+     "answer": 1,
+     "explanation": "neo- = new.",
+     "chapter": 9
+    },
+    {
+     "q": "After childbirth is:",
+     "options": [
+      "Antepartum",
+      "Postpartum",
+      "Prenatal",
+      "Intrapartum"
+     ],
+     "answer": 1,
+     "explanation": "post- = after.",
+     "chapter": 9
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "hepat/o refers to the:",
+     "options": [
+      "Stomach",
+      "Liver",
+      "Pancreas",
+      "Gallbladder"
+     ],
+     "answer": 1,
+     "explanation": "Hepatitis.",
+     "chapter": 11
+    },
+    {
+     "q": "angi/o means:",
+     "options": [
+      "Lymph",
+      "Heart",
+      "Vessel",
+      "Blood"
+     ],
+     "answer": 2,
+     "explanation": "Angiogram.",
+     "chapter": 10
+    },
+    {
+     "q": "Age-related loss of near vision is:",
+     "options": [
+      "Presbyopia",
+      "Glaucoma",
+      "Myopia",
+      "Cataract"
+     ],
+     "answer": 0,
+     "explanation": "presby- = old age.",
+     "chapter": 12
+    },
+    {
+     "q": "-emesis means:",
+     "options": [
+      "Digestion",
+      "Swallowing",
+      "Bleeding",
+      "Vomiting"
+     ],
+     "answer": 3,
+     "explanation": "Hematemesis.",
+     "chapter": 11
+    },
+    {
+     "q": "Cancer of white blood cells is:",
+     "options": [
+      "Anemia",
+      "Lymphoma only",
+      "Leukemia",
+      "Hemophilia"
+     ],
+     "answer": 2,
+     "explanation": "leuk/o = white.",
+     "chapter": 10
+    },
+    {
+     "q": "A fast heart rate is:",
+     "options": [
+      "Tachycardia",
+      "Cardiomegaly",
+      "Bradycardia",
+      "Arrhythmia"
+     ],
+     "answer": 0,
+     "explanation": "tachy- = fast.",
+     "chapter": 10
+    },
+    {
+     "q": "Removal of the gallbladder is:",
+     "options": [
+      "Colectomy",
+      "Appendectomy",
+      "Gastrectomy",
+      "Cholecystectomy"
+     ],
+     "answer": 3,
+     "explanation": "cholecyst/o = gallbladder.",
+     "chapter": 11
+    },
+    {
+     "q": "blephar/o refers to the:",
+     "options": [
+      "Eyelid",
+      "Retina",
+      "Iris",
+      "Cornea"
+     ],
+     "answer": 0,
+     "explanation": "Blepharitis.",
+     "chapter": 12
+    },
+    {
+     "q": "Nearsightedness is:",
+     "options": [
+      "Presbyopia",
+      "Myopia",
+      "Diplopia",
+      "Hyperopia"
+     ],
+     "answer": 1,
+     "explanation": "-opia = vision.",
+     "chapter": 12
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14
+   ],
+   "questions": [
+    {
+     "q": "Softening of bone is:",
+     "options": [
+      "Osteitis",
+      "Osteoma",
+      "Osteoporosis",
+      "Osteomalacia"
+     ],
+     "answer": 3,
+     "explanation": "-malacia = softening.",
+     "chapter": 14
+    },
+    {
+     "q": "Ringing in the ears is:",
+     "options": [
+      "Vertigo",
+      "Otalgia",
+      "Tinnitus",
+      "Otorrhea"
+     ],
+     "answer": 2,
+     "explanation": "Common symptom.",
+     "chapter": 13
+    },
+    {
+     "q": "Incision into the eardrum is a:",
+     "options": [
+      "Myringotomy",
+      "Otoplasty",
+      "Audiometry",
+      "Tympanitis"
+     ],
+     "answer": 0,
+     "explanation": "myring/o = eardrum.",
+     "chapter": 13
+    },
+    {
+     "q": "Muscle pain is:",
+     "options": [
+      "Ostealgia",
+      "Neuralgia",
+      "Myalgia",
+      "Arthralgia"
+     ],
+     "answer": 2,
+     "explanation": "my/o = muscle.",
+     "chapter": 14
+    },
+    {
+     "q": "arthr/o means:",
+     "options": [
+      "Joint",
+      "Tendon",
+      "Bone",
+      "Muscle"
+     ],
+     "answer": 0,
+     "explanation": "Arthritis.",
+     "chapter": 14
+    },
+    {
+     "q": "chondr/o refers to:",
+     "options": [
+      "Tendon",
+      "Cartilage",
+      "Bone",
+      "Ligament"
+     ],
+     "answer": 1,
+     "explanation": "Chondromalacia.",
+     "chapter": 14
+    },
+    {
+     "q": "ot/o refers to the:",
+     "options": [
+      "Eye",
+      "Ear",
+      "Nose",
+      "Throat"
+     ],
+     "answer": 1,
+     "explanation": "Otitis.",
+     "chapter": 13
+    },
+    {
+     "q": "oste/o means:",
+     "options": [
+      "Joint",
+      "Cartilage",
+      "Muscle",
+      "Bone"
+     ],
+     "answer": 3,
+     "explanation": "Osteoporosis.",
+     "chapter": 14
+    },
+    {
+     "q": "Age-related hearing loss is:",
+     "options": [
+      "Presbycusis",
+      "Otitis",
+      "Vertigo",
+      "Tinnitus"
+     ],
+     "answer": 0,
+     "explanation": "-cusis = hearing.",
+     "chapter": 13
+    }
+   ]
+  },
+  {
+   "chapters": [
+    15,
+    16
+   ],
+   "questions": [
+    {
+     "q": "Paralysis of one side of the body is:",
+     "options": [
+      "Paresis",
+      "Hemiplegia",
+      "Paraplegia",
+      "Quadriplegia"
+     ],
+     "answer": 1,
+     "explanation": "hemi- = half.",
+     "chapter": 15
+    },
+    {
+     "q": "Inflammation of the meninges is:",
+     "options": [
+      "Encephalitis",
+      "Neuritis",
+      "Myelitis",
+      "Meningitis"
+     ],
+     "answer": 3,
+     "explanation": "Membranes around brain and cord.",
+     "chapter": 15
+    },
+    {
+     "q": "aden/o means:",
+     "options": [
+      "Gland",
+      "Kidney",
+      "Thyroid",
+      "Sugar"
+     ],
+     "answer": 0,
+     "explanation": "Adenoma.",
+     "chapter": 16
+    },
+    {
+     "q": "encephal/o refers to the:",
+     "options": [
+      "Spinal cord",
+      "Nerve",
+      "Brain",
+      "Skull"
+     ],
+     "answer": 2,
+     "explanation": "Encephalitis.",
+     "chapter": 15
+    },
+    {
+     "q": "Low blood sugar is:",
+     "options": [
+      "Polydipsia",
+      "Hyperglycemia",
+      "Glycosuria",
+      "Hypoglycemia"
+     ],
+     "answer": 3,
+     "explanation": "glyc/o = sugar.",
+     "chapter": 16
+    },
+    {
+     "q": "psych/o refers to the:",
+     "options": [
+      "Mind",
+      "Skull",
+      "Nerve",
+      "Brain tissue"
+     ],
+     "answer": 0,
+     "explanation": "Psychology.",
+     "chapter": 15
+    },
+    {
+     "q": "myel/o can refer to the:",
+     "options": [
+      "Nerve",
+      "Spinal cord (or bone marrow)",
+      "Muscle",
+      "Brain"
+     ],
+     "answer": 1,
+     "explanation": "Myelitis.",
+     "chapter": 15
+    },
+    {
+     "q": "crin/o means:",
+     "options": [
+      "Gland",
+      "Blood",
+      "To secrete",
+      "Sugar"
+     ],
+     "answer": 2,
+     "explanation": "Endocrine = secrete within.",
+     "chapter": 16
+    },
+    {
+     "q": "An overactive thyroid is:",
+     "options": [
+      "Hyperthyroidism",
+      "Hypothyroidism",
+      "Thyroiditis",
+      "Goiter only"
+     ],
+     "answer": 0,
+     "explanation": "hyper- = excessive.",
+     "chapter": 16
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["hosa-bowl"].bookInfo = {
@@ -3154,6 +4066,12 @@ window.CONTENT["hosa-bowl"].bookInfo = {
   "edition": "14th edition",
   "source": "Cengage table of contents",
   "chapters": 23,
+  "unit": "Chapter"
+ },
+ "5": {
+  "edition": "Edition not verified; chapter list supplied by the site owner",
+  "source": "Chapter list supplied by the site owner",
+  "chapters": 16,
   "unit": "Chapter"
  }
 };

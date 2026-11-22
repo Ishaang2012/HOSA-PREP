@@ -467,6 +467,151 @@ window.CONTENT["medical-math"].summaries = {
     "Multiple conversions"
    ]
   }
+ ],
+ "2": [
+  {
+   "number": 1,
+   "title": "Fundamentals of Math",
+   "summary": [
+    "Core skills: place value, rounding, order of operations, and estimation. Always use a leading zero (0.5) and never a trailing zero (5, not 5.0). Estimating first helps catch errors."
+   ],
+   "keyPoints": [
+    "Place value",
+    "Rounding",
+    "Leading zero",
+    "No trailing zero"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Fractions and Decimals",
+   "summary": [
+    "Work with proper and improper fractions, mixed numbers, and decimals: reduce, add, subtract, multiply, divide, and convert between forms (3/4 = 0.75)."
+   ],
+   "keyPoints": [
+    "Reduce fractions",
+    "Mixed numbers",
+    "Fraction to decimal",
+    "Operations"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Ratios, Proportions, and Percents",
+   "summary": [
+    "A ratio compares two quantities (1:4); a proportion sets two ratios equal and is solved by cross-multiplying. Percent means per 100; convert among percents, decimals, and fractions."
+   ],
+   "keyPoints": [
+    "Ratios",
+    "Cross-multiplication",
+    "Percent = per 100",
+    "Conversions among forms"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Systems of Measurement",
+   "summary": [
+    "Pharmacy uses the metric system (grams, liters, meters), with household (teaspoon, tablespoon, ounce) and older apothecary units occasionally seen. Metric prefixes: kilo = 1,000, milli = 1/1,000, micro = 1/1,000,000."
+   ],
+   "keyPoints": [
+    "Metric system",
+    "Metric prefixes",
+    "Household units",
+    "Apothecary units"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Conversions",
+   "summary": [
+    "Common conversions: 1 kg = 2.2 lb; 1 g = 1,000 mg; 1 mg = 1,000 mcg; 1 L = 1,000 mL; 1 tsp = 5 mL; 1 tbsp = 15 mL; 1 fl oz ≈ 30 mL; 1 in = 2.54 cm; °C = (°F − 32) ÷ 1.8."
+   ],
+   "keyPoints": [
+    "1 kg = 2.2 lb",
+    "1 g = 1,000 mg",
+    "1 tsp = 5 mL",
+    "Temperature conversion"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Interpretation of Prescriptions and Medication Orders",
+   "summary": [
+    "Read prescriptions for patient, drug, strength, dose, route, frequency, quantity, and refills. Know abbreviations (bid, tid, qid, q6h, prn, po) and avoid error-prone ones (U, QD, trailing zeros)."
+   ],
+   "keyPoints": [
+    "Prescription parts",
+    "Sig abbreviations",
+    "Error-prone abbreviations",
+    "Refills"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Dosage Calculations",
+   "summary": [
+    "Calculate amount to dispense with (desired ÷ have) × quantity or dimensional analysis; compute days' supply, quantity to dispense, and weight-based (mg/kg) and BSA-based doses."
+   ],
+   "keyPoints": [
+    "D/H × Q",
+    "Days' supply",
+    "mg/kg dosing",
+    "Quantity to dispense"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Concentrations and Dilutions",
+   "summary": [
+    "Concentrations are expressed as percent (w/v = g/100 mL), ratio strength (1:1,000), or mg/mL. Dilutions use C1V1 = C2V2. Reconstitution adds diluent to powders."
+   ],
+   "keyPoints": [
+    "% w/v",
+    "Ratio strength",
+    "C1V1 = C2V2",
+    "Reconstitution"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Alligation",
+   "summary": [
+    "Alligation finds how much of a higher and lower strength to mix to get a desired strength. Subtract across a grid to find parts of each component."
+   ],
+   "keyPoints": [
+    "Higher and lower strengths",
+    "Parts of each",
+    "Alligation grid",
+    "Check the answer"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Parenteral and Intravenous Calculations",
+   "summary": [
+    "IV calculations include flow rates (mL/hr), drip rates (gtt/min = volume × drop factor ÷ minutes), infusion time, and dose-based rates (mcg/kg/min). Electrolytes may be in mEq."
+   ],
+   "keyPoints": [
+    "mL/hr",
+    "gtt/min formula",
+    "Infusion time",
+    "mEq"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Business Math in Pharmacy",
+   "summary": [
+    "Business math includes markup, gross and net profit, discounts, average wholesale price, dispensing fees, inventory turnover, and insurance reimbursement calculations."
+   ],
+   "keyPoints": [
+    "Markup",
+    "Gross vs. net profit",
+    "AWP",
+    "Inventory turnover"
+   ]
+  }
  ]
 };
 window.CONTENT["medical-math"].quizzes = {
@@ -2219,6 +2364,475 @@ window.CONTENT["medical-math"].quizzes = {
     }
    ]
   }
+ ],
+ "2": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Solve x/10 = 3/5:",
+     "options": [
+      "5",
+      "15",
+      "6",
+      "3"
+     ],
+     "answer": 2,
+     "explanation": "Cross-multiply.",
+     "chapter": 3
+    },
+    {
+     "q": "25% as a decimal is:",
+     "options": [
+      "0.025",
+      "25",
+      "2.5",
+      "0.25"
+     ],
+     "answer": 3,
+     "explanation": "Divide by 100.",
+     "chapter": 3
+    },
+    {
+     "q": "3/4 as a decimal is:",
+     "options": [
+      "1.33",
+      "0.43",
+      "0.34",
+      "0.75"
+     ],
+     "answer": 3,
+     "explanation": "3 ÷ 4.",
+     "chapter": 2
+    },
+    {
+     "q": "If 2 tablets contain 500 mg, 6 tablets contain:",
+     "options": [
+      "1,500 mg",
+      "750 mg",
+      "1,000 mg",
+      "3,000 mg"
+     ],
+     "answer": 0,
+     "explanation": "Proportion.",
+     "chapter": 3
+    },
+    {
+     "q": "5.0 mg could be misread as:",
+     "options": [
+      "0.5 mg",
+      "50 mg",
+      "5 mcg",
+      "500 mg"
+     ],
+     "answer": 1,
+     "explanation": "Avoid trailing zeros.",
+     "chapter": 1
+    },
+    {
+     "q": "Which is written correctly?",
+     "options": [
+      ".5 mg",
+      "0.50 mg",
+      "0.5 mg",
+      "5.0 mg"
+     ],
+     "answer": 2,
+     "explanation": "Leading zero, no trailing zero.",
+     "chapter": 1
+    },
+    {
+     "q": "2 1/2 as an improper fraction is:",
+     "options": [
+      "7/2",
+      "5/2",
+      "2/5",
+      "3/2"
+     ],
+     "answer": 1,
+     "explanation": "2 × 2 + 1.",
+     "chapter": 2
+    },
+    {
+     "q": "6/8 reduced is:",
+     "options": [
+      "3/4",
+      "1/2",
+      "6/4",
+      "2/3"
+     ],
+     "answer": 0,
+     "explanation": "Divide by 2.",
+     "chapter": 2
+    },
+    {
+     "q": "Rounding 2.46 to the nearest tenth gives:",
+     "options": [
+      "2.5",
+      "2.4",
+      "2.0",
+      "3.0"
+     ],
+     "answer": 0,
+     "explanation": "6 rounds up.",
+     "chapter": 1
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "1 kg equals:",
+     "options": [
+      "2.2 lb",
+      "0.45 lb",
+      "1 lb",
+      "10 lb"
+     ],
+     "answer": 0,
+     "explanation": "Divide lb by 2.2.",
+     "chapter": 5
+    },
+    {
+     "q": "98.6°F in Celsius is:",
+     "options": [
+      "37°C",
+      "100°C",
+      "32°C",
+      "40°C"
+     ],
+     "answer": 0,
+     "explanation": "(98.6 − 32) ÷ 1.8.",
+     "chapter": 5
+    },
+    {
+     "q": "The prefix micro- means:",
+     "options": [
+      "One-hundredth",
+      "One-thousandth",
+      "One-millionth",
+      "One thousand"
+     ],
+     "answer": 2,
+     "explanation": "mcg.",
+     "chapter": 4
+    },
+    {
+     "q": "'prn' means:",
+     "options": [
+      "At bedtime",
+      "As needed",
+      "Before meals",
+      "By mouth"
+     ],
+     "answer": 1,
+     "explanation": "Pro re nata.",
+     "chapter": 6
+    },
+    {
+     "q": "1 tablespoon equals:",
+     "options": [
+      "5 mL",
+      "15 mL",
+      "10 mL",
+      "30 mL"
+     ],
+     "answer": 1,
+     "explanation": "3 teaspoons.",
+     "chapter": 5
+    },
+    {
+     "q": "The standard system of measurement in pharmacy is:",
+     "options": [
+      "Metric",
+      "Household",
+      "Apothecary",
+      "Avoirdupois only"
+     ],
+     "answer": 0,
+     "explanation": "Most accurate.",
+     "chapter": 4
+    },
+    {
+     "q": "Writing 'U' for units is avoided because it can be misread as:",
+     "options": [
+      "mL",
+      "mg",
+      "IU",
+      "0 or 4"
+     ],
+     "answer": 3,
+     "explanation": "Write 'units.'",
+     "chapter": 6
+    },
+    {
+     "q": "'tid' means:",
+     "options": [
+      "Every 3 hours",
+      "Four times a day",
+      "Twice a day",
+      "Three times a day"
+     ],
+     "answer": 3,
+     "explanation": "Latin ter in die.",
+     "chapter": 6
+    },
+    {
+     "q": "The prefix milli- means:",
+     "options": [
+      "One thousand",
+      "One hundred",
+      "One-thousandth",
+      "One-millionth"
+     ],
+     "answer": 2,
+     "explanation": "1 mL = 0.001 L.",
+     "chapter": 4
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "A 5% w/v solution contains:",
+     "options": [
+      "5 g per 100 mL",
+      "5 g per L",
+      "50 g per 100 mL",
+      "5 mg per mL"
+     ],
+     "answer": 0,
+     "explanation": "Percent w/v.",
+     "chapter": 8
+    },
+    {
+     "q": "To make 15% from 20% and 10%, you need parts in ratio:",
+     "options": [
+      "10:5",
+      "15:5",
+      "5:10",
+      "5 parts 20% : 5 parts 10%"
+     ],
+     "answer": 3,
+     "explanation": "Differences: 15−10=5, 20−15=5.",
+     "chapter": 9
+    },
+    {
+     "q": "60 tablets taken 2 daily last:",
+     "options": [
+      "15 days",
+      "60 days",
+      "30 days",
+      "120 days"
+     ],
+     "answer": 2,
+     "explanation": "Days' supply.",
+     "chapter": 7
+    },
+    {
+     "q": "Order: 500 mg; have 250 mg tablets. Give:",
+     "options": [
+      "2 tablets",
+      "1 tablet",
+      "4 tablets",
+      "0.5 tablet"
+     ],
+     "answer": 0,
+     "explanation": "500 ÷ 250.",
+     "chapter": 7
+    },
+    {
+     "q": "Order: 5 mg/kg for a 30-kg child. Dose =",
+     "options": [
+      "35 mg",
+      "6 mg",
+      "300 mg",
+      "150 mg"
+     ],
+     "answer": 3,
+     "explanation": "5 × 30.",
+     "chapter": 7
+    },
+    {
+     "q": "In alligation, the desired strength must be:",
+     "options": [
+      "Equal to one",
+      "Between the two available strengths",
+      "Higher than both",
+      "Lower than both"
+     ],
+     "answer": 1,
+     "explanation": "Otherwise impossible.",
+     "chapter": 9
+    },
+    {
+     "q": "Ratio strength 1:1,000 equals:",
+     "options": [
+      "10 g in 100 mL",
+      "1 mg in 1,000 mL",
+      "1 g in 1,000 mL",
+      "1 g in 100 mL"
+     ],
+     "answer": 2,
+     "explanation": "= 0.1%.",
+     "chapter": 8
+    },
+    {
+     "q": "Alligation is used to:",
+     "options": [
+      "Calculate IV rates",
+      "Mix two strengths to reach a desired strength",
+      "Convert units",
+      "Find profit"
+     ],
+     "answer": 1,
+     "explanation": "Grid method.",
+     "chapter": 9
+    },
+    {
+     "q": "How much 10% stock makes 100 mL of 2%?",
+     "options": [
+      "20 mL",
+      "50 mL",
+      "10 mL",
+      "2 mL"
+     ],
+     "answer": 0,
+     "explanation": "C1V1 = C2V2.",
+     "chapter": 8
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11
+   ],
+   "questions": [
+    {
+     "q": "Electrolytes such as potassium are often measured in:",
+     "options": [
+      "gtt",
+      "mg only",
+      "mEq",
+      "Units"
+     ],
+     "answer": 2,
+     "explanation": "Milliequivalents.",
+     "chapter": 10
+    },
+    {
+     "q": "Net profit is gross profit minus:",
+     "options": [
+      "Cost of goods only",
+      "AWP",
+      "Markup",
+      "Operating expenses"
+     ],
+     "answer": 3,
+     "explanation": "True profit.",
+     "chapter": 11
+    },
+    {
+     "q": "A 10% discount on a $50 item makes it:",
+     "options": [
+      "$45",
+      "$40",
+      "$55",
+      "$49"
+     ],
+     "answer": 0,
+     "explanation": "50 × 0.9.",
+     "chapter": 11
+    },
+    {
+     "q": "100 mL over 1 hour with a 15 gtt/mL set is:",
+     "options": [
+      "100 gtt/min",
+      "60 gtt/min",
+      "25 gtt/min",
+      "15 gtt/min"
+     ],
+     "answer": 2,
+     "explanation": "100 × 15 ÷ 60.",
+     "chapter": 10
+    },
+    {
+     "q": "500 mL at 100 mL/hr takes:",
+     "options": [
+      "2 hours",
+      "5 hours",
+      "10 hours",
+      "50 hours"
+     ],
+     "answer": 1,
+     "explanation": "500 ÷ 100.",
+     "chapter": 10
+    },
+    {
+     "q": "Selling price minus cost is the:",
+     "options": [
+      "Discount",
+      "Markup (gross profit)",
+      "AWP",
+      "Net profit"
+     ],
+     "answer": 1,
+     "explanation": "Before expenses.",
+     "chapter": 11
+    },
+    {
+     "q": "A benchmark price used in drug reimbursement is the:",
+     "options": [
+      "Average wholesale price",
+      "Markup",
+      "Deductible",
+      "Copay"
+     ],
+     "answer": 0,
+     "explanation": "AWP.",
+     "chapter": 11
+    },
+    {
+     "q": "1,000 mL over 8 hours runs at:",
+     "options": [
+      "100 mL/hr",
+      "80 mL/hr",
+      "250 mL/hr",
+      "125 mL/hr"
+     ],
+     "answer": 3,
+     "explanation": "1,000 ÷ 8.",
+     "chapter": 10
+    },
+    {
+     "q": "How often inventory is sold and replaced is:",
+     "options": [
+      "Inventory turnover",
+      "Days' supply",
+      "Gross profit",
+      "Markup"
+     ],
+     "answer": 0,
+     "explanation": "Higher is efficient.",
+     "chapter": 11
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["medical-math"].bookInfo = {
@@ -2232,6 +2846,12 @@ window.CONTENT["medical-math"].bookInfo = {
   "edition": "8th edition (2024)",
   "source": "Wolters Kluwer table of contents",
   "chapters": 6,
+  "unit": "Chapter"
+ },
+ "2": {
+  "edition": "Edition not verified; chapter list supplied by the site owner",
+  "source": "Chapter list supplied by the site owner",
+  "chapters": 11,
   "unit": "Chapter"
  }
 };

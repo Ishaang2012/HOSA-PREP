@@ -263,6 +263,294 @@ window.CONTENT["occupational-therapy"].summaries = {
     "Guides decisions"
    ]
   }
+ ],
+ "1": [
+  {
+   "number": 1,
+   "title": "Neurodevelopmental Disorders (Autism Spectrum Disorder, Intellectual Disability)",
+   "summary": [
+    "Autism spectrum disorder involves differences in social communication and restricted, repetitive behaviors, often with sensory processing differences. Intellectual disability involves limits in intellectual and adaptive functioning beginning in childhood. OT supports play, self-care, sensory regulation, and participation."
+   ],
+   "keyPoints": [
+    "Social communication",
+    "Sensory processing",
+    "Adaptive functioning",
+    "Participation"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+   "summary": [
+    "ADHD involves inattention and/or hyperactivity-impulsivity that affect school, home, and social life. OT uses routines, organization strategies, environmental changes, and sensory strategies to improve function."
+   ],
+   "keyPoints": [
+    "Inattention",
+    "Hyperactivity-impulsivity",
+    "Organization strategies",
+    "Routines"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Cerebral Palsy",
+   "summary": [
+    "Cerebral palsy is a non-progressive movement disorder from early brain injury; types include spastic (most common), dyskinetic, and ataxic. OT focuses on positioning, motor skills, adaptive equipment, and ADL independence."
+   ],
+   "keyPoints": [
+    "Non-progressive",
+    "Spastic type most common",
+    "Positioning",
+    "Adaptive equipment"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Muscular Dystrophy",
+   "summary": [
+    "Muscular dystrophies are genetic disorders causing progressive muscle weakness; Duchenne (X-linked) is most common in boys and shows Gowers sign. OT addresses energy conservation, mobility, and adaptive equipment as abilities change."
+   ],
+   "keyPoints": [
+    "Progressive weakness",
+    "Duchenne (X-linked)",
+    "Gowers sign",
+    "Energy conservation"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Cerebrovascular Accident (Stroke)",
+   "summary": [
+    "A stroke interrupts blood flow to the brain (ischemic or hemorrhagic), causing hemiplegia, aphasia, neglect, and cognitive changes. OT includes retraining ADLs, one-handed techniques, constraint-induced movement therapy, and addressing unilateral neglect."
+   ],
+   "keyPoints": [
+    "Hemiplegia",
+    "Unilateral neglect",
+    "Constraint-induced therapy",
+    "One-handed techniques"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Traumatic Brain Injury (TBI)",
+   "summary": [
+    "TBI ranges from concussion to severe injury and affects cognition, behavior, and motor skills. The Rancho Los Amigos scale describes recovery levels. OT addresses cognition, safety, and daily routines."
+   ],
+   "keyPoints": [
+    "Rancho Los Amigos scale",
+    "Cognitive deficits",
+    "Behavior changes",
+    "Safety"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Spinal Cord Injury (SCI)",
+   "summary": [
+    "SCI causes loss of function below the injury level: tetraplegia (cervical) or paraplegia (thoracic and below), complete or incomplete. Autonomic dysreflexia is an emergency in injuries at T6 and above. OT uses adaptive equipment and tenodesis grasp training."
+   ],
+   "keyPoints": [
+    "Tetraplegia vs. paraplegia",
+    "Complete vs. incomplete",
+    "Autonomic dysreflexia",
+    "Tenodesis grasp"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Multiple Sclerosis",
+   "summary": [
+    "MS is an autoimmune disease damaging myelin in the central nervous system, with relapsing or progressive courses. Symptoms include fatigue, weakness, vision changes, and heat sensitivity. OT teaches energy conservation and heat avoidance."
+   ],
+   "keyPoints": [
+    "Demyelination",
+    "Fatigue",
+    "Heat sensitivity",
+    "Energy conservation"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Parkinson's Disease",
+   "summary": [
+    "Parkinson's results from loss of dopamine-producing neurons, causing tremor, rigidity, bradykinesia, and postural instability. OT uses large-amplitude movements, cueing for freezing, and fall prevention."
+   ],
+   "keyPoints": [
+    "Dopamine loss",
+    "Tremor, rigidity, bradykinesia",
+    "Cueing",
+    "Fall prevention"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Amyotrophic Lateral Sclerosis (ALS) and Guillain-Barré Syndrome",
+   "summary": [
+    "ALS is a progressive disease of motor neurons leading to paralysis; OT focuses on adaptive equipment and communication devices. Guillain-Barré is an acute autoimmune neuropathy with ascending weakness; most people recover with rehabilitation."
+   ],
+   "keyPoints": [
+    "ALS progressive",
+    "Guillain-Barré ascending weakness",
+    "Communication devices",
+    "Recovery in GBS"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Neurocognitive Disorders (Alzheimer's Disease and Dementia)",
+   "summary": [
+    "Dementia causes progressive decline in memory and thinking; Alzheimer's is most common. OT simplifies tasks, uses cues and routines, modifies the environment for safety, and supports caregivers. Allen Cognitive Levels guide interventions."
+   ],
+   "keyPoints": [
+    "Progressive decline",
+    "Simplify tasks",
+    "Environmental safety",
+    "Caregiver support"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Mood and Anxiety Disorders",
+   "summary": [
+    "Depression and bipolar disorder affect mood, energy, and motivation; anxiety disorders cause excessive worry and avoidance. OT uses meaningful activity, routines, coping skills, and graded participation."
+   ],
+   "keyPoints": [
+    "Depression",
+    "Bipolar disorder",
+    "Anxiety",
+    "Meaningful routines"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Schizophrenia and Psychotic Disorders",
+   "summary": [
+    "Schizophrenia involves positive symptoms (hallucinations, delusions) and negative symptoms (flat affect, low motivation). OT supports life skills, social skills, routines, and community living."
+   ],
+   "keyPoints": [
+    "Positive vs. negative symptoms",
+    "Life skills",
+    "Social skills",
+    "Community living"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Substance-Related and Addictive Disorders",
+   "summary": [
+    "Substance use disorders involve compulsive use despite harm. OT helps build healthy routines, leisure, coping skills, and vocational skills that support recovery."
+   ],
+   "keyPoints": [
+    "Compulsive use",
+    "Healthy routines",
+    "Leisure exploration",
+    "Recovery support"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Orthopedic Conditions (Fractures, Joint Replacements, Amputations)",
+   "summary": [
+    "Fractures, joint replacements (hip precautions), and amputations affect mobility and ADLs. OT teaches adaptive techniques, uses assistive devices (reachers, sock aids), and supports prosthetic training."
+   ],
+   "keyPoints": [
+    "Hip precautions",
+    "Assistive devices",
+    "Prosthetic training",
+    "ADL retraining"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Arthritis (Osteoarthritis and Rheumatoid Arthritis)",
+   "summary": [
+    "Osteoarthritis is degenerative wear; rheumatoid arthritis is autoimmune with symmetrical joint inflammation and deformities (ulnar drift, swan neck, boutonnière). OT uses joint protection, splints, and energy conservation."
+   ],
+   "keyPoints": [
+    "OA vs. RA",
+    "Joint deformities",
+    "Joint protection",
+    "Splinting"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Burns",
+   "summary": [
+    "Burns are classified by depth (superficial, partial-thickness, full-thickness) and extent (rule of nines). OT focuses on positioning and splinting to prevent contractures, scar management with pressure garments, and ADLs."
+   ],
+   "keyPoints": [
+    "Burn depth",
+    "Rule of nines",
+    "Prevent contractures",
+    "Pressure garments"
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Cardiac and Pulmonary Conditions",
+   "summary": [
+    "Heart disease and COPD limit endurance. OT monitors vital signs and exertion, teaches energy conservation, pursed-lip breathing, and work simplification, and supports cardiac and pulmonary rehab."
+   ],
+   "keyPoints": [
+    "Monitor vitals",
+    "Energy conservation",
+    "Pursed-lip breathing",
+    "Work simplification"
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Diabetes Mellitus",
+   "summary": [
+    "Diabetes affects blood sugar regulation and can cause neuropathy, vision loss, and amputations. OT supports self-management routines, foot care, low-vision adaptations, and safe activity."
+   ],
+   "keyPoints": [
+    "Self-management",
+    "Neuropathy",
+    "Foot care",
+    "Low vision"
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Oncology (Cancer)",
+   "summary": [
+    "Cancer and its treatment cause fatigue, pain, lymphedema, and cognitive changes ('chemo brain'). OT addresses energy conservation, lymphedema management, and returning to valued roles."
+   ],
+   "keyPoints": [
+    "Cancer-related fatigue",
+    "Lymphedema",
+    "Chemo brain",
+    "Return to roles"
+   ]
+  },
+  {
+   "number": 21,
+   "title": "HIV/AIDS",
+   "summary": [
+    "HIV attacks the immune system; with treatment, people live long lives but may experience fatigue, neuropathy, and cognitive changes. OT supports energy management, routines, and participation; standard precautions apply."
+   ],
+   "keyPoints": [
+    "Immune suppression",
+    "Fatigue",
+    "Neuropathy",
+    "Standard precautions"
+   ]
+  },
+  {
+   "number": 22,
+   "title": "Low Vision and Hearing Loss",
+   "summary": [
+    "Low vision (e.g., macular degeneration, glaucoma) and hearing loss affect safety and communication. OT uses magnifiers, lighting, contrast, organization, and communication strategies."
+   ],
+   "keyPoints": [
+    "Magnifiers and lighting",
+    "Contrast",
+    "Communication strategies",
+    "Home safety"
+   ]
+  }
  ]
 };
 window.CONTENT["occupational-therapy"].quizzes = {
@@ -1157,6 +1445,942 @@ window.CONTENT["occupational-therapy"].quizzes = {
     }
    ]
   }
+ ],
+ "1": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "Breaking tasks into steps helps children with ADHD by:",
+     "options": [
+      "Reducing overwhelm",
+      "Increasing distraction",
+      "Removing support",
+      "Eliminating play"
+     ],
+     "answer": 0,
+     "explanation": "Improves completion.",
+     "chapter": 2
+    },
+    {
+     "q": "ADHD involves inattention and/or:",
+     "options": [
+      "Hyperactivity-impulsivity",
+      "Paralysis",
+      "Memory loss",
+      "Hallucinations"
+     ],
+     "answer": 0,
+     "explanation": "Affects school and home.",
+     "chapter": 2
+    },
+    {
+     "q": "OT for children with autism often addresses:",
+     "options": [
+      "Sensory regulation",
+      "Vaccines",
+      "Medication dosing",
+      "Surgery"
+     ],
+     "answer": 0,
+     "explanation": "Helps participation.",
+     "chapter": 1
+    },
+    {
+     "q": "OT strategies for ADHD include:",
+     "options": [
+      "Bed rest",
+      "Surgery",
+      "Routines and organization tools",
+      "Casting"
+     ],
+     "answer": 2,
+     "explanation": "Structure helps.",
+     "chapter": 2
+    },
+    {
+     "q": "The most common type of cerebral palsy is:",
+     "options": [
+      "Mixed only",
+      "Dyskinetic",
+      "Ataxic",
+      "Spastic"
+     ],
+     "answer": 3,
+     "explanation": "Increased muscle tone.",
+     "chapter": 3
+    },
+    {
+     "q": "Proper positioning in CP helps:",
+     "options": [
+      "Cause pain",
+      "Nothing",
+      "Function and prevent deformities",
+      "Increase spasticity"
+     ],
+     "answer": 2,
+     "explanation": "Supports participation.",
+     "chapter": 3
+    },
+    {
+     "q": "Autism spectrum disorder involves differences in social communication and:",
+     "options": [
+      "Seizures only",
+      "Vision loss",
+      "Muscle weakness",
+      "Restricted, repetitive behaviors"
+     ],
+     "answer": 3,
+     "explanation": "Plus sensory differences.",
+     "chapter": 1
+    },
+    {
+     "q": "Intellectual disability involves limits in intellectual and:",
+     "options": [
+      "Muscle strength",
+      "Adaptive functioning",
+      "Vision",
+      "Hearing"
+     ],
+     "answer": 1,
+     "explanation": "Begins in childhood.",
+     "chapter": 1
+    },
+    {
+     "q": "Cerebral palsy is:",
+     "options": [
+      "Contagious",
+      "Non-progressive",
+      "Always genetic",
+      "Progressive"
+     ],
+     "answer": 1,
+     "explanation": "From early brain injury.",
+     "chapter": 3
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "Paralysis on one side of the body is:",
+     "options": [
+      "Tetraplegia",
+      "Paraplegia",
+      "Ataxia",
+      "Hemiplegia"
+     ],
+     "answer": 3,
+     "explanation": "Common after stroke.",
+     "chapter": 5
+    },
+    {
+     "q": "Ignoring one side of space after stroke is:",
+     "options": [
+      "Ataxia",
+      "Apraxia",
+      "Unilateral neglect",
+      "Aphasia"
+     ],
+     "answer": 2,
+     "explanation": "Usually left side.",
+     "chapter": 5
+    },
+    {
+     "q": "TBI commonly affects:",
+     "options": [
+      "Cognition and behavior",
+      "Only hearing",
+      "Only teeth",
+      "Only skin"
+     ],
+     "answer": 0,
+     "explanation": "Plus motor skills.",
+     "chapter": 6
+    },
+    {
+     "q": "Duchenne muscular dystrophy is inherited as:",
+     "options": [
+      "X-linked recessive",
+      "Autosomal dominant",
+      "Y-linked",
+      "Mitochondrial"
+     ],
+     "answer": 0,
+     "explanation": "Mostly boys.",
+     "chapter": 4
+    },
+    {
+     "q": "The mildest form of TBI is a:",
+     "options": [
+      "Fracture",
+      "Hemorrhage",
+      "Coma",
+      "Concussion"
+     ],
+     "answer": 3,
+     "explanation": "Still needs care.",
+     "chapter": 6
+    },
+    {
+     "q": "Using the hands to 'walk up' the legs to stand is:",
+     "options": [
+      "Romberg sign",
+      "Gowers sign",
+      "Babinski sign",
+      "Kernig sign"
+     ],
+     "answer": 1,
+     "explanation": "Proximal weakness.",
+     "chapter": 4
+    },
+    {
+     "q": "Restricting the stronger arm to force use of the weaker one is:",
+     "options": [
+      "Mirror therapy only",
+      "Constraint-induced movement therapy",
+      "Passive ROM",
+      "Splinting"
+     ],
+     "answer": 1,
+     "explanation": "Promotes recovery.",
+     "chapter": 5
+    },
+    {
+     "q": "Recovery after TBI is often described with the:",
+     "options": [
+      "Rancho Los Amigos scale",
+      "Apgar scale",
+      "Borg scale",
+      "Braden scale"
+     ],
+     "answer": 0,
+     "explanation": "Cognitive levels.",
+     "chapter": 6
+    },
+    {
+     "q": "Muscular dystrophies cause:",
+     "options": [
+      "Improving strength",
+      "Skin rashes",
+      "Progressive muscle weakness",
+      "Hearing loss only"
+     ],
+     "answer": 2,
+     "explanation": "Genetic.",
+     "chapter": 4
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "Cues like rhythmic counting help Parkinson's patients with:",
+     "options": [
+      "Vision",
+      "Hearing",
+      "Memory only",
+      "Freezing"
+     ],
+     "answer": 3,
+     "explanation": "Initiating movement.",
+     "chapter": 9
+    },
+    {
+     "q": "A cervical spinal cord injury causes:",
+     "options": [
+      "Monoplegia",
+      "Hemiplegia",
+      "Paraplegia",
+      "Tetraplegia"
+     ],
+     "answer": 3,
+     "explanation": "All four limbs.",
+     "chapter": 7
+    },
+    {
+     "q": "MS damages the:",
+     "options": [
+      "Myelin in the CNS",
+      "Muscles directly",
+      "Bones",
+      "Skin"
+     ],
+     "answer": 0,
+     "explanation": "Autoimmune.",
+     "chapter": 8
+    },
+    {
+     "q": "Autonomic dysreflexia is an emergency in injuries at:",
+     "options": [
+      "L5 and below",
+      "T6 and above",
+      "Sacral only",
+      "Any level equally"
+     ],
+     "answer": 1,
+     "explanation": "Sudden high BP.",
+     "chapter": 7
+    },
+    {
+     "q": "OT for MS emphasizes:",
+     "options": [
+      "Bed rest only",
+      "Exhausting exercise",
+      "Energy conservation",
+      "High-heat activities"
+     ],
+     "answer": 2,
+     "explanation": "Plan and pace.",
+     "chapter": 8
+    },
+    {
+     "q": "Wrist extension causing finger flexion is:",
+     "options": [
+      "Lateral pinch only",
+      "Tenodesis grasp",
+      "Power grip",
+      "Pincer grasp"
+     ],
+     "answer": 1,
+     "explanation": "Used in C6 SCI.",
+     "chapter": 7
+    },
+    {
+     "q": "Slowness of movement is:",
+     "options": [
+      "Bradykinesia",
+      "Tachycardia",
+      "Dyskinesia",
+      "Ataxia"
+     ],
+     "answer": 0,
+     "explanation": "Cardinal sign.",
+     "chapter": 9
+    },
+    {
+     "q": "A common MS symptom that worsens with heat is:",
+     "options": [
+      "Fatigue",
+      "Rash",
+      "Hearing loss",
+      "Hair loss"
+     ],
+     "answer": 0,
+     "explanation": "Avoid overheating.",
+     "chapter": 8
+    },
+    {
+     "q": "Parkinson's is caused by loss of:",
+     "options": [
+      "Insulin",
+      "Serotonin only",
+      "Dopamine-producing neurons",
+      "Myelin"
+     ],
+     "answer": 2,
+     "explanation": "Substantia nigra.",
+     "chapter": 9
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "Guillain-Barré syndrome causes:",
+     "options": [
+      "Hearing loss",
+      "Ascending weakness",
+      "Descending rash",
+      "Joint pain only"
+     ],
+     "answer": 1,
+     "explanation": "Often after infection.",
+     "chapter": 10
+    },
+    {
+     "q": "Excessive worry that interferes with life is an:",
+     "options": [
+      "Neurocognitive disorder",
+      "Movement disorder",
+      "Psychotic disorder",
+      "Anxiety disorder"
+     ],
+     "answer": 3,
+     "explanation": "Common.",
+     "chapter": 12
+    },
+    {
+     "q": "Most people with Guillain-Barré:",
+     "options": [
+      "Recover with rehabilitation",
+      "Worsen permanently",
+      "Never recover",
+      "Need amputation"
+     ],
+     "answer": 0,
+     "explanation": "Unlike ALS.",
+     "chapter": 10
+    },
+    {
+     "q": "Allen Cognitive Levels are used to:",
+     "options": [
+      "Grade burns",
+      "Guide cognitive interventions",
+      "Measure strength",
+      "Test hearing"
+     ],
+     "answer": 1,
+     "explanation": "Cognitive function.",
+     "chapter": 11
+    },
+    {
+     "q": "For dementia, OT often:",
+     "options": [
+      "Adds complexity",
+      "Removes routines",
+      "Avoids caregivers",
+      "Simplifies tasks and uses cues"
+     ],
+     "answer": 3,
+     "explanation": "Supports function.",
+     "chapter": 11
+    },
+    {
+     "q": "The most common type of dementia is:",
+     "options": [
+      "Alzheimer's disease",
+      "Vascular dementia",
+      "Parkinson's",
+      "Delirium"
+     ],
+     "answer": 0,
+     "explanation": "Progressive.",
+     "chapter": 11
+    },
+    {
+     "q": "OT for depression often uses:",
+     "options": [
+      "Meaningful activities and routines",
+      "Isolation",
+      "Surgery",
+      "Bed rest only"
+     ],
+     "answer": 0,
+     "explanation": "Rebuilds engagement.",
+     "chapter": 12
+    },
+    {
+     "q": "ALS affects the:",
+     "options": [
+      "Sensory nerves only",
+      "Skin",
+      "Motor neurons",
+      "Bones"
+     ],
+     "answer": 2,
+     "explanation": "Progressive paralysis.",
+     "chapter": 10
+    },
+    {
+     "q": "Bipolar disorder involves episodes of:",
+     "options": [
+      "Paralysis",
+      "Hallucinations only",
+      "Mania and depression",
+      "Seizures"
+     ],
+     "answer": 2,
+     "explanation": "Mood disorder.",
+     "chapter": 12
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "OT after amputation includes:",
+     "options": [
+      "Prosthetic training",
+      "Bed rest only",
+      "Splinting the stump only",
+      "Ignoring the limb"
+     ],
+     "answer": 0,
+     "explanation": "Plus ADLs.",
+     "chapter": 15
+    },
+    {
+     "q": "OT for schizophrenia supports:",
+     "options": [
+      "Life and social skills",
+      "Surgery",
+      "Casting",
+      "Vision correction"
+     ],
+     "answer": 0,
+     "explanation": "Community living.",
+     "chapter": 13
+    },
+    {
+     "q": "Developing job skills in recovery is:",
+     "options": [
+      "Palliative care",
+      "Detox",
+      "Triage",
+      "Vocational rehabilitation"
+     ],
+     "answer": 3,
+     "explanation": "Return to work.",
+     "chapter": 14
+    },
+    {
+     "q": "Hallucinations and delusions are:",
+     "options": [
+      "Cognitive symptoms only",
+      "Negative symptoms",
+      "Positive symptoms",
+      "Side effects"
+     ],
+     "answer": 2,
+     "explanation": "Added experiences.",
+     "chapter": 13
+    },
+    {
+     "q": "After posterior hip replacement, patients avoid:",
+     "options": [
+      "Hip flexion past 90°, crossing legs, and internal rotation",
+      "Breathing exercises",
+      "Walking",
+      "Drinking water"
+     ],
+     "answer": 0,
+     "explanation": "Hip precautions.",
+     "chapter": 15
+    },
+    {
+     "q": "OT supports recovery by building:",
+     "options": [
+      "Isolation",
+      "Unstructured time only",
+      "Healthy routines and leisure",
+      "More stress"
+     ],
+     "answer": 2,
+     "explanation": "Replaces substance-related habits.",
+     "chapter": 14
+    },
+    {
+     "q": "Substance use disorder involves:",
+     "options": [
+      "No consequences",
+      "Compulsive use despite harm",
+      "Occasional social use only",
+      "Prescription use as directed"
+     ],
+     "answer": 1,
+     "explanation": "Addiction.",
+     "chapter": 14
+    },
+    {
+     "q": "A device for putting on socks without bending is a:",
+     "options": [
+      "Splint",
+      "Reacher",
+      "Walker",
+      "Sock aid"
+     ],
+     "answer": 3,
+     "explanation": "Assistive device.",
+     "chapter": 15
+    },
+    {
+     "q": "Flat affect and low motivation are:",
+     "options": [
+      "Delusions",
+      "Negative symptoms",
+      "Hallucinations",
+      "Positive symptoms"
+     ],
+     "answer": 1,
+     "explanation": "Loss of normal function.",
+     "chapter": 13
+    }
+   ]
+  },
+  {
+   "chapters": [
+    16,
+    17,
+    18
+   ],
+   "questions": [
+    {
+     "q": "Pressure garments after burns help:",
+     "options": [
+      "Warm the skin",
+      "Control scarring",
+      "Increase swelling",
+      "Prevent infection only"
+     ],
+     "answer": 1,
+     "explanation": "Hypertrophic scars.",
+     "chapter": 17
+    },
+    {
+     "q": "A burn involving all skin layers is:",
+     "options": [
+      "Full-thickness",
+      "First-degree",
+      "Superficial partial-thickness",
+      "Superficial"
+     ],
+     "answer": 0,
+     "explanation": "Needs grafting.",
+     "chapter": 17
+    },
+    {
+     "q": "Burn size is estimated with the:",
+     "options": [
+      "Glasgow scale",
+      "Apgar",
+      "Rule of nines",
+      "Braden scale"
+     ],
+     "answer": 2,
+     "explanation": "Body surface area.",
+     "chapter": 17
+    },
+    {
+     "q": "Making tasks easier to save energy is:",
+     "options": [
+      "Grading up",
+      "Overload",
+      "Work simplification",
+      "Work hardening"
+     ],
+     "answer": 2,
+     "explanation": "E.g., sitting to cook.",
+     "chapter": 18
+    },
+    {
+     "q": "Autoimmune, symmetrical joint inflammation is:",
+     "options": [
+      "Rheumatoid arthritis",
+      "Gout",
+      "Osteoporosis",
+      "Osteoarthritis"
+     ],
+     "answer": 0,
+     "explanation": "OA is wear and tear.",
+     "chapter": 16
+    },
+    {
+     "q": "Using larger, stronger joints to reduce stress is:",
+     "options": [
+      "Joint protection",
+      "Immobilization",
+      "Strengthening only",
+      "Splinting only"
+     ],
+     "answer": 0,
+     "explanation": "Arthritis strategy.",
+     "chapter": 16
+    },
+    {
+     "q": "During activity, OT monitors cardiac patients':",
+     "options": [
+      "Hair growth",
+      "Hearing",
+      "Vision only",
+      "Vital signs and exertion"
+     ],
+     "answer": 3,
+     "explanation": "Safety.",
+     "chapter": 18
+    },
+    {
+     "q": "Fingers drifting toward the little-finger side is:",
+     "options": [
+      "Swan neck",
+      "Ulnar drift",
+      "Mallet finger",
+      "Boutonnière"
+     ],
+     "answer": 1,
+     "explanation": "RA deformity.",
+     "chapter": 16
+    },
+    {
+     "q": "A breathing technique that helps COPD patients is:",
+     "options": [
+      "Breath holding",
+      "Valsalva",
+      "Rapid shallow breathing",
+      "Pursed-lip breathing"
+     ],
+     "answer": 3,
+     "explanation": "Slows exhalation.",
+     "chapter": 18
+    }
+   ]
+  },
+  {
+   "chapters": [
+    19,
+    20
+   ],
+   "questions": [
+    {
+     "q": "Diabetes can lead to vision loss called:",
+     "options": [
+      "Presbyopia",
+      "Astigmatism",
+      "Myopia",
+      "Diabetic retinopathy"
+     ],
+     "answer": 3,
+     "explanation": "Low-vision adaptations.",
+     "chapter": 19
+    },
+    {
+     "q": "Diabetes can cause nerve damage called:",
+     "options": [
+      "Neuroplasticity",
+      "Neuralgia",
+      "Myopathy",
+      "Neuropathy"
+     ],
+     "answer": 3,
+     "explanation": "Feet are at risk.",
+     "chapter": 19
+    },
+    {
+     "q": "The most common symptom during cancer treatment is:",
+     "options": [
+      "Fatigue",
+      "Increased energy",
+      "Weight gain only",
+      "Hair growth"
+     ],
+     "answer": 0,
+     "explanation": "Energy conservation helps.",
+     "chapter": 20
+    },
+    {
+     "q": "OT supports diabetes self-management through:",
+     "options": [
+      "Bed rest",
+      "Avoiding all food",
+      "Routines for glucose checks, meals, and medication",
+      "Skipping medications"
+     ],
+     "answer": 2,
+     "explanation": "Daily habits.",
+     "chapter": 19
+    },
+    {
+     "q": "Insulin is produced by the:",
+     "options": [
+      "Pancreas",
+      "Liver",
+      "Kidneys",
+      "Thyroid"
+     ],
+     "answer": 0,
+     "explanation": "Type 1 makes none.",
+     "chapter": 19
+    },
+    {
+     "q": "OT helps cancer survivors:",
+     "options": [
+      "Return to valued roles",
+      "Stop working forever",
+      "Avoid all activity",
+      "Ignore fatigue"
+     ],
+     "answer": 0,
+     "explanation": "Participation.",
+     "chapter": 20
+    },
+    {
+     "q": "Cognitive changes after chemotherapy are called:",
+     "options": [
+      "Delirium",
+      "Chemo brain",
+      "Aphasia",
+      "Dementia"
+     ],
+     "answer": 1,
+     "explanation": "Memory and attention.",
+     "chapter": 20
+    },
+    {
+     "q": "Swelling from lymph fluid buildup after cancer treatment is:",
+     "options": [
+      "Neuropathy",
+      "Cellulitis",
+      "Lymphedema",
+      "Edema from heart failure only"
+     ],
+     "answer": 2,
+     "explanation": "OT may treat it.",
+     "chapter": 20
+    },
+    {
+     "q": "People with diabetic neuropathy need daily:",
+     "options": [
+      "Eye drops",
+      "Foot checks",
+      "Hair care",
+      "Ear cleaning"
+     ],
+     "answer": 1,
+     "explanation": "Prevent ulcers.",
+     "chapter": 19
+    }
+   ]
+  },
+  {
+   "chapters": [
+    21,
+    22
+   ],
+   "questions": [
+    {
+     "q": "Macular degeneration affects:",
+     "options": [
+      "Central vision",
+      "Hearing",
+      "Balance",
+      "Peripheral vision only"
+     ],
+     "answer": 0,
+     "explanation": "Reading is hard.",
+     "chapter": 22
+    },
+    {
+     "q": "When speaking to someone with hearing loss, you should:",
+     "options": [
+      "Shout from behind",
+      "Cover your mouth",
+      "Face them and speak clearly",
+      "Talk quickly"
+     ],
+     "answer": 2,
+     "explanation": "Lipreading helps.",
+     "chapter": 22
+    },
+    {
+     "q": "A device that enlarges print for low vision is a:",
+     "options": [
+      "Hearing aid",
+      "Magnifier",
+      "Reacher",
+      "Splint"
+     ],
+     "answer": 1,
+     "explanation": "Low-vision aid.",
+     "chapter": 22
+    },
+    {
+     "q": "HIV attacks the:",
+     "options": [
+      "Immune system",
+      "Teeth",
+      "Bones",
+      "Skin only"
+     ],
+     "answer": 0,
+     "explanation": "CD4 T cells.",
+     "chapter": 21
+    },
+    {
+     "q": "High contrast (e.g., dark plate on light table) helps people with:",
+     "options": [
+      "Hearing loss",
+      "ADHD",
+      "Arthritis",
+      "Low vision"
+     ],
+     "answer": 3,
+     "explanation": "Easier to see.",
+     "chapter": 22
+    },
+    {
+     "q": "When caring for any client, OT practitioners use:",
+     "options": [
+      "Airborne isolation always",
+      "Standard precautions",
+      "No precautions",
+      "Bare hands"
+     ],
+     "answer": 1,
+     "explanation": "Treat all fluids as infectious.",
+     "chapter": 21
+    },
+    {
+     "q": "Good lighting at home helps people with low vision by:",
+     "options": [
+      "Improving safety and reading",
+      "Causing glare only",
+      "Reducing contrast",
+      "Nothing"
+     ],
+     "answer": 0,
+     "explanation": "Reduce glare too.",
+     "chapter": 22
+    },
+    {
+     "q": "HIV-related neuropathy often causes:",
+     "options": [
+      "Weight gain",
+      "Hearing gain",
+      "Pain or numbness in the feet",
+      "Hair loss"
+     ],
+     "answer": 2,
+     "explanation": "Affects mobility.",
+     "chapter": 21
+    },
+    {
+     "q": "With treatment, people with HIV:",
+     "options": [
+      "Can't exercise",
+      "Can't work",
+      "Live only months",
+      "Can live long lives"
+     ],
+     "answer": 3,
+     "explanation": "Antiretroviral therapy.",
+     "chapter": 21
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["occupational-therapy"].bookInfo = {
@@ -1164,6 +2388,12 @@ window.CONTENT["occupational-therapy"].bookInfo = {
   "edition": "6th edition",
   "source": "Elsevier table of contents",
   "chapters": 20,
+  "unit": "Chapter"
+ },
+ "1": {
+  "edition": "Edition not verified; chapter list supplied by the site owner",
+  "source": "Chapter list supplied by the site owner",
+  "chapters": 22,
   "unit": "Chapter"
  }
 };

@@ -255,6 +255,229 @@ window.CONTENT["forensic-science"].summaries = {
     "Gunshot residue shows recent firing"
    ]
   }
+ ],
+ "1": [
+  {
+   "number": 1,
+   "title": "Justice and Science",
+   "summary": [
+    "Forensic science applies science to legal questions. Forensic scientists must be objective and follow the scientific method. Courts decide admissibility of expert testimony using standards such as Frye (general acceptance) and Daubert (reliability, peer review, error rate)."
+   ],
+   "keyPoints": [
+    "Science in law",
+    "Objectivity",
+    "Frye standard",
+    "Daubert standard"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Evidence: Origins, Types, and Admissibility",
+   "summary": [
+    "Evidence can be physical, biological, trace, or testimonial. Class evidence links to a group; individual evidence links to one source. Locard's exchange principle says every contact leaves a trace. Chain of custody documents evidence handling."
+   ],
+   "keyPoints": [
+    "Class vs. individual evidence",
+    "Locard's exchange principle",
+    "Chain of custody",
+    "Admissibility"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Crime Scene Investigation",
+   "summary": [
+    "Steps: secure the scene, document (notes, photos, sketches), search (spiral, grid, line, zone patterns), collect and package evidence properly (paper for biological items), and maintain chain of custody."
+   ],
+   "keyPoints": [
+    "Secure the scene",
+    "Photograph and sketch",
+    "Search patterns",
+    "Proper packaging"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Bloodstain Pattern Analysis",
+   "summary": [
+    "Bloodstain patterns reveal events. Passive drops, spatter (impact patterns), cast-off, transfer, and void patterns are analyzed. The angle of impact is estimated from stain shape (width ÷ length = sine of angle), and strings or software find the area of origin."
+   ],
+   "keyPoints": [
+    "Spatter and cast-off",
+    "Angle of impact",
+    "Area of origin",
+    "Transfer and void patterns"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Death Investigation (Forensic Pathology)",
+   "summary": [
+    "Forensic pathologists perform autopsies to determine cause, mechanism, and manner of death (natural, accident, suicide, homicide, undetermined). Time-of-death clues include rigor, livor, and algor mortis."
+   ],
+   "keyPoints": [
+    "Cause vs. manner",
+    "Autopsy",
+    "Rigor, livor, algor mortis",
+    "Medical examiner"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Forensic Anthropology",
+   "summary": [
+    "Forensic anthropologists analyze skeletal remains to estimate sex (pelvis, skull), age (growth plates, pubic symphysis), stature (long bones like the femur), and ancestry, and to identify trauma."
+   ],
+   "keyPoints": [
+    "Sex from pelvis",
+    "Age from growth plates",
+    "Stature from femur",
+    "Skeletal trauma"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Forensic Entomology",
+   "summary": [
+    "Insects colonize bodies in a predictable order. Blowfly life stages (egg, larva/maggot, pupa, adult) help estimate the postmortem interval, adjusted for temperature (accumulated degree hours)."
+   ],
+   "keyPoints": [
+    "Blowflies first",
+    "Insect life cycle",
+    "Postmortem interval",
+    "Temperature effects"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Forensic Odontology",
+   "summary": [
+    "Forensic dentists identify people by comparing dental records and X-rays, estimate age from teeth, and analyze bite marks, though bite-mark evidence is now considered unreliable."
+   ],
+   "keyPoints": [
+    "Dental records",
+    "Age from teeth",
+    "Bite marks",
+    "Identification in disasters"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Forensic Toxicology",
+   "summary": [
+    "Toxicologists detect drugs, alcohol, and poisons in body fluids and tissues. Screening tests (immunoassays, color tests) are confirmed with GC-MS. Blood alcohol concentration and common poisons (cyanide, arsenic, carbon monoxide) are covered."
+   ],
+   "keyPoints": [
+    "Screening vs. confirmation",
+    "GC-MS",
+    "Blood alcohol",
+    "Common poisons"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Forensic Serology and DNA Typing",
+   "summary": [
+    "Serology identifies body fluids (presumptive tests like Kastle-Meyer and luminol for blood). DNA typing uses STRs and PCR; CODIS stores profiles. Mitochondrial DNA (maternal) and Y-STRs (paternal) help in special cases."
+   ],
+   "keyPoints": [
+    "Presumptive vs. confirmatory",
+    "STR and PCR",
+    "CODIS",
+    "mtDNA and Y-STR"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Fingerprints and Other Friction Ridge Impressions",
+   "summary": [
+    "Fingerprints are unique and permanent. Patterns are loops (most common), whorls, and arches; minutiae are used for matching. Prints are latent, patent, or plastic and developed with powders, ninhydrin, or superglue fuming. AFIS searches databases."
+   ],
+   "keyPoints": [
+    "Loops, whorls, arches",
+    "Minutiae",
+    "Latent, patent, plastic",
+    "AFIS"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Firearms and Tool Marks",
+   "summary": [
+    "Rifling in barrels leaves lands and grooves on bullets; firing pins and breech faces mark cartridge cases. Comparison microscopes match marks; NIBIN links cases. Gunshot residue and distance determination are also examined. Tools leave comparable marks too."
+   ],
+   "keyPoints": [
+    "Rifling marks",
+    "Comparison microscope",
+    "NIBIN",
+    "Gunshot residue"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Trace Evidence: Hair, Fibers, Paint, and Glass",
+   "summary": [
+    "Trace evidence transfers on contact. Hair (medulla, cuticle) can be compared and may yield DNA from roots; fibers are natural or synthetic; paint layers and glass refractive index and fracture patterns are compared."
+   ],
+   "keyPoints": [
+    "Hair structure",
+    "Natural vs. synthetic fibers",
+    "Paint layers",
+    "Glass refractive index"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Questioned Documents",
+   "summary": [
+    "Document examiners analyze handwriting, signatures, ink, paper, and printing to detect forgery, alteration, or authorship. Exemplars (known samples) are compared with questioned items."
+   ],
+   "keyPoints": [
+    "Handwriting comparison",
+    "Exemplars",
+    "Ink and paper",
+    "Alterations"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Arson and Explosives Investigation",
+   "summary": [
+    "Fire investigators find the origin (often the lowest point of burning with V-patterns) and cause, and detect accelerants with GC-MS. Explosives are low (burn) or high (detonate); residues are analyzed."
+   ],
+   "keyPoints": [
+    "Point of origin",
+    "V-patterns",
+    "Accelerants",
+    "Low vs. high explosives"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Digital Forensics",
+   "summary": [
+    "Digital forensics recovers data from computers, phones, and networks while preserving integrity with write blockers and hash values. Metadata and deleted files can be key evidence."
+   ],
+   "keyPoints": [
+    "Write blockers",
+    "Hash values",
+    "Metadata",
+    "Deleted file recovery"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Forensic Psychology and Psychiatry",
+   "summary": [
+    "Forensic psychologists evaluate competency to stand trial, insanity (M'Naghten rule), risk, and malingering, and study eyewitness memory, interrogation, and criminal profiling."
+   ],
+   "keyPoints": [
+    "Competency to stand trial",
+    "Insanity defense",
+    "Eyewitness memory",
+    "Criminal profiling"
+   ]
+  }
  ]
 };
 window.CONTENT["forensic-science"].quizzes = {
@@ -1033,6 +1256,709 @@ window.CONTENT["forensic-science"].quizzes = {
     }
    ]
   }
+ ],
+ "1": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "The standard requiring general acceptance in the scientific community is:",
+     "options": [
+      "Miranda",
+      "Daubert",
+      "Locard",
+      "Frye"
+     ],
+     "answer": 3,
+     "explanation": "Older standard.",
+     "chapter": 1
+    },
+    {
+     "q": "The first priority at a crime scene is to:",
+     "options": [
+      "Secure the scene",
+      "Leave",
+      "Collect evidence",
+      "Interview witnesses"
+     ],
+     "answer": 0,
+     "explanation": "Prevent contamination.",
+     "chapter": 3
+    },
+    {
+     "q": "A search moving in widening circles is a:",
+     "options": [
+      "Zone search",
+      "Grid search",
+      "Line search",
+      "Spiral search"
+     ],
+     "answer": 3,
+     "explanation": "Good for small scenes.",
+     "chapter": 3
+    },
+    {
+     "q": "Forensic scientists must remain:",
+     "options": [
+      "On the defense's side",
+      "Objective",
+      "On the prosecution's side",
+      "Silent"
+     ],
+     "answer": 1,
+     "explanation": "Follow the evidence.",
+     "chapter": 1
+    },
+    {
+     "q": "'Every contact leaves a trace' is:",
+     "options": [
+      "Frye standard",
+      "Chain of custody",
+      "Locard's exchange principle",
+      "Daubert rule"
+     ],
+     "answer": 2,
+     "explanation": "Basis of trace evidence.",
+     "chapter": 2
+    },
+    {
+     "q": "Evidence that can be linked to a single source is:",
+     "options": [
+      "Testimonial evidence",
+      "Class evidence",
+      "Individual evidence",
+      "Circumstantial evidence"
+     ],
+     "answer": 2,
+     "explanation": "E.g., DNA.",
+     "chapter": 2
+    },
+    {
+     "q": "Wet biological evidence should be packaged in:",
+     "options": [
+      "Glass jars sealed",
+      "Paper",
+      "Metal cans",
+      "Plastic"
+     ],
+     "answer": 1,
+     "explanation": "Prevents mold.",
+     "chapter": 3
+    },
+    {
+     "q": "The Daubert standard considers testing, peer review, and:",
+     "options": [
+      "Known error rates",
+      "Speed",
+      "Popularity",
+      "Cost"
+     ],
+     "answer": 0,
+     "explanation": "Judge as gatekeeper.",
+     "chapter": 1
+    },
+    {
+     "q": "Documenting everyone who handled evidence is the:",
+     "options": [
+      "Chain of custody",
+      "Autopsy report",
+      "Exemplar",
+      "Search warrant"
+     ],
+     "answer": 0,
+     "explanation": "Keeps it admissible.",
+     "chapter": 2
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "Unfused growth plates indicate a:",
+     "options": [
+      "Younger person",
+      "Female",
+      "Male",
+      "Older adult"
+     ],
+     "answer": 0,
+     "explanation": "Fuse with age.",
+     "chapter": 6
+    },
+    {
+     "q": "The best bone for determining sex is the:",
+     "options": [
+      "Rib",
+      "Femur",
+      "Pelvis",
+      "Skull only"
+     ],
+     "answer": 2,
+     "explanation": "Wider subpubic angle in females.",
+     "chapter": 6
+    },
+    {
+     "q": "The five manners of death include natural, accident, suicide, homicide, and:",
+     "options": [
+      "Poisoning",
+      "Undetermined",
+      "Disease",
+      "Trauma"
+     ],
+     "answer": 1,
+     "explanation": "Manner vs. cause.",
+     "chapter": 5
+    },
+    {
+     "q": "The angle of impact is estimated from a stain's:",
+     "options": [
+      "Smell",
+      "Temperature",
+      "Color",
+      "Width-to-length ratio"
+     ],
+     "answer": 3,
+     "explanation": "Sine of the angle.",
+     "chapter": 4
+    },
+    {
+     "q": "Pooling of blood after death is:",
+     "options": [
+      "Adipocere",
+      "Livor mortis",
+      "Algor mortis",
+      "Rigor mortis"
+     ],
+     "answer": 1,
+     "explanation": "Lividity.",
+     "chapter": 5
+    },
+    {
+     "q": "An empty area in a spatter pattern is a:",
+     "options": [
+      "Cast-off",
+      "Transfer",
+      "Void",
+      "Pool"
+     ],
+     "answer": 2,
+     "explanation": "Something blocked the blood.",
+     "chapter": 4
+    },
+    {
+     "q": "Stature is estimated from long bones such as the:",
+     "options": [
+      "Femur",
+      "Vertebra",
+      "Skull",
+      "Pelvis"
+     ],
+     "answer": 0,
+     "explanation": "Regression formulas.",
+     "chapter": 6
+    },
+    {
+     "q": "Blood flung from a swinging object creates:",
+     "options": [
+      "Cast-off",
+      "Transfer",
+      "Void",
+      "Passive drops"
+     ],
+     "answer": 0,
+     "explanation": "Shows motion.",
+     "chapter": 4
+    },
+    {
+     "q": "Stiffening of muscles after death is:",
+     "options": [
+      "Livor mortis",
+      "Putrefaction",
+      "Algor mortis",
+      "Rigor mortis"
+     ],
+     "answer": 3,
+     "explanation": "Peaks ~12 hours.",
+     "chapter": 5
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "Cherry-red lividity suggests poisoning by:",
+     "options": [
+      "Cyanide only",
+      "Arsenic",
+      "Lead",
+      "Carbon monoxide"
+     ],
+     "answer": 3,
+     "explanation": "Carboxyhemoglobin.",
+     "chapter": 9
+    },
+    {
+     "q": "Forensic odontologists identify people by comparing:",
+     "options": [
+      "Dental records and X-rays",
+      "Fingerprints",
+      "Handwriting",
+      "Shoe prints"
+     ],
+     "answer": 0,
+     "explanation": "Useful in disasters.",
+     "chapter": 8
+    },
+    {
+     "q": "Insects help estimate the:",
+     "options": [
+      "Cause of death",
+      "Postmortem interval",
+      "Manner of death",
+      "Identity"
+     ],
+     "answer": 1,
+     "explanation": "Time since death.",
+     "chapter": 7
+    },
+    {
+     "q": "Insect development speed depends mainly on:",
+     "options": [
+      "Temperature",
+      "Body size",
+      "Light only",
+      "Humidity only"
+     ],
+     "answer": 0,
+     "explanation": "Accumulated degree hours.",
+     "chapter": 7
+    },
+    {
+     "q": "Bite-mark evidence is now considered:",
+     "options": [
+      "Better than DNA",
+      "Unreliable for individual identification",
+      "Always admissible",
+      "Perfectly accurate"
+     ],
+     "answer": 1,
+     "explanation": "Many wrongful convictions.",
+     "chapter": 8
+    },
+    {
+     "q": "A bitter almond odor suggests:",
+     "options": [
+      "Arsenic",
+      "Carbon monoxide",
+      "Cyanide",
+      "Strychnine"
+     ],
+     "answer": 2,
+     "explanation": "Not everyone can smell it.",
+     "chapter": 9
+    },
+    {
+     "q": "The first insects to arrive at a body are usually:",
+     "options": [
+      "Blowflies",
+      "Ants",
+      "Beetles",
+      "Moths"
+     ],
+     "answer": 0,
+     "explanation": "Within minutes to hours.",
+     "chapter": 7
+    },
+    {
+     "q": "Preliminary drug screens are confirmed with:",
+     "options": [
+      "Smell",
+      "Color tests",
+      "GC-MS",
+      "Visual inspection"
+     ],
+     "answer": 2,
+     "explanation": "Gold standard.",
+     "chapter": 9
+    },
+    {
+     "q": "Teeth can estimate a person's:",
+     "options": [
+      "Height",
+      "Eye color",
+      "Blood type",
+      "Age"
+     ],
+     "answer": 3,
+     "explanation": "Development and wear.",
+     "chapter": 8
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "Invisible prints that must be developed are:",
+     "options": [
+      "Partial prints",
+      "Plastic prints",
+      "Patent prints",
+      "Latent prints"
+     ],
+     "answer": 3,
+     "explanation": "Powder, ninhydrin, superglue.",
+     "chapter": 11
+    },
+    {
+     "q": "The national DNA database is:",
+     "options": [
+      "CODIS",
+      "NIBIN",
+      "AFIS",
+      "IAFIS only"
+     ],
+     "answer": 0,
+     "explanation": "Stores STR profiles.",
+     "chapter": 10
+    },
+    {
+     "q": "The national ballistic imaging network is:",
+     "options": [
+      "CODIS",
+      "NIBIN",
+      "NCIC",
+      "AFIS"
+     ],
+     "answer": 1,
+     "explanation": "Links firearm cases.",
+     "chapter": 12
+    },
+    {
+     "q": "Bullets are compared using a:",
+     "options": [
+      "Comparison microscope",
+      "Thermocycler",
+      "Centrifuge",
+      "Spectrophotometer"
+     ],
+     "answer": 0,
+     "explanation": "Side-by-side view.",
+     "chapter": 12
+    },
+    {
+     "q": "The most common fingerprint pattern is the:",
+     "options": [
+      "Whorl",
+      "Arch",
+      "Loop",
+      "Tented arch"
+     ],
+     "answer": 2,
+     "explanation": "About 60–65%.",
+     "chapter": 11
+    },
+    {
+     "q": "A presumptive test for blood is:",
+     "options": [
+      "Kastle-Meyer",
+      "Duquenois-Levine",
+      "Marquis",
+      "Scott test"
+     ],
+     "answer": 0,
+     "explanation": "Phenolphthalein turns pink.",
+     "chapter": 10
+    },
+    {
+     "q": "The fingerprint database search system is:",
+     "options": [
+      "NCIC",
+      "NIBIN",
+      "AFIS",
+      "CODIS"
+     ],
+     "answer": 2,
+     "explanation": "Automated Fingerprint Identification System.",
+     "chapter": 11
+    },
+    {
+     "q": "DNA passed only from mother to child is:",
+     "options": [
+      "Y-STR DNA",
+      "Nuclear DNA",
+      "Autosomal STRs",
+      "Mitochondrial DNA"
+     ],
+     "answer": 3,
+     "explanation": "Useful for degraded remains.",
+     "chapter": 10
+    },
+    {
+     "q": "Spiral grooves in a gun barrel are:",
+     "options": [
+      "Firing pins",
+      "Rifling",
+      "Breech marks",
+      "Striations only"
+     ],
+     "answer": 1,
+     "explanation": "Leave lands and grooves on bullets.",
+     "chapter": 12
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "Fire investigators often find the point of origin at the:",
+     "options": [
+      "Roof",
+      "Highest point",
+      "Lowest point of burning with V-patterns",
+      "Doorway always"
+     ],
+     "answer": 2,
+     "explanation": "Fire rises.",
+     "chapter": 15
+    },
+    {
+     "q": "Comparing ink can reveal:",
+     "options": [
+      "The writer's blood type",
+      "The writer's height",
+      "Additions or alterations",
+      "Nothing"
+     ],
+     "answer": 2,
+     "explanation": "Different inks.",
+     "chapter": 14
+    },
+    {
+     "q": "Polyester and nylon are:",
+     "options": [
+      "Synthetic fibers",
+      "Plant fibers",
+      "Natural fibers",
+      "Animal fibers"
+     ],
+     "answer": 0,
+     "explanation": "Man-made.",
+     "chapter": 13
+    },
+    {
+     "q": "Explosives that detonate with a shock wave are:",
+     "options": [
+      "High explosives",
+      "Propellants only",
+      "Accelerants",
+      "Low explosives"
+     ],
+     "answer": 0,
+     "explanation": "E.g., TNT.",
+     "chapter": 15
+    },
+    {
+     "q": "Glass samples are compared using:",
+     "options": [
+      "Smell",
+      "Refractive index",
+      "Color only",
+      "Weight only"
+     ],
+     "answer": 1,
+     "explanation": "How light bends.",
+     "chapter": 13
+    },
+    {
+     "q": "Accelerants are identified using:",
+     "options": [
+      "GC-MS",
+      "Ninhydrin",
+      "Luminol",
+      "Kastle-Meyer"
+     ],
+     "answer": 0,
+     "explanation": "Detects hydrocarbons.",
+     "chapter": 15
+    },
+    {
+     "q": "Known writing samples used for comparison are:",
+     "options": [
+      "Forgeries",
+      "Indentations",
+      "Questioned documents",
+      "Exemplars"
+     ],
+     "answer": 3,
+     "explanation": "Collected or requested.",
+     "chapter": 14
+    },
+    {
+     "q": "Document examiners look for:",
+     "options": [
+      "DNA only",
+      "Forgery or alteration",
+      "Gunshot residue",
+      "Fingerprints only"
+     ],
+     "answer": 1,
+     "explanation": "Handwriting, ink, paper.",
+     "chapter": 14
+    },
+    {
+     "q": "The central core of a hair is the:",
+     "options": [
+      "Cuticle",
+      "Root",
+      "Cortex",
+      "Medulla"
+     ],
+     "answer": 3,
+     "explanation": "Pattern helps identify species.",
+     "chapter": 13
+    }
+   ]
+  },
+  {
+   "chapters": [
+    16,
+    17
+   ],
+   "questions": [
+    {
+     "q": "Eyewitness memory can be altered by:",
+     "options": [
+      "Misleading information after the event",
+      "Nothing",
+      "Sleep only",
+      "DNA testing"
+     ],
+     "answer": 0,
+     "explanation": "Misinformation effect.",
+     "chapter": 17
+    },
+    {
+     "q": "Whether a defendant understands the trial is:",
+     "options": [
+      "Insanity",
+      "Malingering",
+      "Profiling",
+      "Competency to stand trial"
+     ],
+     "answer": 3,
+     "explanation": "About the present.",
+     "chapter": 17
+    },
+    {
+     "q": "Inferring offender traits from crime scene behavior is:",
+     "options": [
+      "DNA typing",
+      "Ballistics",
+      "Serology",
+      "Criminal profiling"
+     ],
+     "answer": 3,
+     "explanation": "Behavioral analysis.",
+     "chapter": 17
+    },
+    {
+     "q": "Data about data, like creation dates, is:",
+     "options": [
+      "Malware",
+      "Metadata",
+      "Encryption",
+      "Cache"
+     ],
+     "answer": 1,
+     "explanation": "Often key evidence.",
+     "chapter": 16
+    },
+    {
+     "q": "A device that prevents changes to digital evidence is a:",
+     "options": [
+      "Write blocker",
+      "Hash value",
+      "Firewall",
+      "Router"
+     ],
+     "answer": 0,
+     "explanation": "Preserves integrity.",
+     "chapter": 16
+    },
+    {
+     "q": "Deleted files can often be:",
+     "options": [
+      "Recovered",
+      "Only printed",
+      "Only emailed",
+      "Never recovered"
+     ],
+     "answer": 0,
+     "explanation": "Data remains until overwritten.",
+     "chapter": 16
+    },
+    {
+     "q": "Faking symptoms for gain is:",
+     "options": [
+      "Psychosis",
+      "Competency",
+      "Malingering",
+      "Profiling"
+     ],
+     "answer": 2,
+     "explanation": "Forensic psychologists assess it.",
+     "chapter": 17
+    },
+    {
+     "q": "A unique digital fingerprint of data is a:",
+     "options": [
+      "Cookie",
+      "IP address",
+      "Hash value",
+      "Metadata"
+     ],
+     "answer": 2,
+     "explanation": "Proves data unchanged.",
+     "chapter": 16
+    },
+    {
+     "q": "The rule asking if a defendant knew right from wrong is:",
+     "options": [
+      "Miranda",
+      "M'Naghten",
+      "Daubert",
+      "Frye"
+     ],
+     "answer": 1,
+     "explanation": "Insanity defense.",
+     "chapter": 17
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["forensic-science"].bookInfo = {
@@ -1040,6 +1966,12 @@ window.CONTENT["forensic-science"].bookInfo = {
   "edition": "3rd edition (2021)",
   "source": "National Geographic Learning table of contents; the 4th edition's list wasn't available",
   "chapters": 18,
+  "unit": "Chapter"
+ },
+ "1": {
+  "edition": "Edition not verified; chapter list supplied by the site owner (numbering may differ in the 6th edition)",
+  "source": "Chapter list supplied by the site owner",
+  "chapters": 17,
   "unit": "Chapter"
  }
 };
