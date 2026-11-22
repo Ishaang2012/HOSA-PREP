@@ -213,6 +213,242 @@ window.CONTENT["healthcare-administration"].summaries = {
     "Countries learn from each other"
    ]
   }
+ ],
+ "1": [
+  {
+   "number": 1,
+   "title": "An Overview of Health Care Management",
+   "summary": [
+    "Health care managers plan, organize, lead, and control resources to deliver care. They work at senior, middle, and first-line levels and focus on themselves, their teams, and the organization. Key roles include building culture, managing talent, strategic planning, ensuring high performance and patient experience, developing leaders, leading change, and engaging in policy."
+   ],
+   "keyPoints": [
+    "Plan, organize, lead, control",
+    "Levels of management",
+    "Culture and talent",
+    "Patient experience"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Leadership",
+   "summary": [
+    "Leadership is influencing others toward goals; management focuses on planning and control. Models include trait, behavioral, situational, transactional, transformational, and servant leadership. Leaders build trust, communicate vision, and develop others."
+   ],
+   "keyPoints": [
+    "Leadership vs. management",
+    "Transformational leadership",
+    "Situational leadership",
+    "Servant leadership"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Management and Motivation",
+   "summary": [
+    "Motivation theories include Maslow's hierarchy, Herzberg's two-factor theory (hygiene factors and motivators), McClelland's needs, expectancy theory, and equity theory. Managers motivate through recognition, growth opportunities, and fair treatment."
+   ],
+   "keyPoints": [
+    "Maslow",
+    "Herzberg hygiene vs. motivators",
+    "Expectancy theory",
+    "Equity theory"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Organizational Behavior and Management Thinking",
+   "summary": [
+    "Organizational behavior studies how people act in organizations. Management thought evolved from scientific management (Taylor) and bureaucracy (Weber) to human relations (Hawthorne studies) and systems thinking."
+   ],
+   "keyPoints": [
+    "Scientific management",
+    "Hawthorne studies",
+    "Systems thinking",
+    "Organizational culture"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Strategic Planning",
+   "summary": [
+    "Strategic planning sets an organization's mission, vision, values, and goals. Tools include SWOT analysis, environmental scanning, and setting measurable objectives, followed by implementation and evaluation."
+   ],
+   "keyPoints": [
+    "Mission and vision",
+    "SWOT analysis",
+    "Environmental scanning",
+    "Measurable goals"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Health Care Marketing",
+   "summary": [
+    "Marketing identifies and meets customer needs. The marketing mix (4 Ps) is product, price, place, and promotion. Health care marketing uses market research, segmentation, and branding while following ethical rules."
+   ],
+   "keyPoints": [
+    "4 Ps",
+    "Market research",
+    "Segmentation",
+    "Branding"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Quality and Performance Improvement Basics",
+   "summary": [
+    "Quality improvement uses data to make care safer and more effective. Methods include PDSA cycles, Lean, Six Sigma, and root cause analysis. Donabedian's model measures structure, process, and outcomes."
+   ],
+   "keyPoints": [
+    "PDSA",
+    "Lean and Six Sigma",
+    "Root cause analysis",
+    "Structure, process, outcome"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Health Information Systems and Technologies",
+   "summary": [
+    "Health information systems include EHRs, CPOE, clinical decision support, and health information exchange. Benefits include better coordination; challenges include cost, interoperability, and security."
+   ],
+   "keyPoints": [
+    "EHRs",
+    "CPOE",
+    "Interoperability",
+    "Cybersecurity"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Financing Health Care and Health Insurance",
+   "summary": [
+    "Health care is paid for by private insurance, Medicare, Medicaid, and out of pocket. Insurance terms include premiums, deductibles, copays, and coinsurance. Payment methods include fee-for-service, capitation, DRGs, and value-based payment."
+   ],
+   "keyPoints": [
+    "Medicare and Medicaid",
+    "Premiums and deductibles",
+    "Capitation",
+    "DRGs"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Managing Costs and Revenues",
+   "summary": [
+    "Managers prepare budgets (operating and capital), monitor variances, and manage the revenue cycle from registration to collection. Fixed and variable costs and break-even analysis guide decisions."
+   ],
+   "keyPoints": [
+    "Operating vs. capital budget",
+    "Variance analysis",
+    "Revenue cycle",
+    "Break-even"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Managing Health Care Professionals",
+   "summary": [
+    "Managing clinicians requires understanding professional autonomy, credentialing, licensure, scope of practice, and collaboration across disciplines. Burnout and workforce shortages are key challenges."
+   ],
+   "keyPoints": [
+    "Credentialing",
+    "Scope of practice",
+    "Professional autonomy",
+    "Burnout"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Strategic Management of Human Resources",
+   "summary": [
+    "HR functions include workforce planning, recruitment, selection, orientation, training, performance appraisal, compensation, and retention, while complying with employment laws."
+   ],
+   "keyPoints": [
+    "Recruitment and selection",
+    "Performance appraisal",
+    "Compensation",
+    "Employment law"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Teamwork",
+   "summary": [
+    "Effective teams have shared goals, clear roles, trust, and communication. Team development follows forming, storming, norming, and performing (Tuckman). TeamSTEPPS improves teamwork and patient safety."
+   ],
+   "keyPoints": [
+    "Tuckman's stages",
+    "Clear roles",
+    "TeamSTEPPS",
+    "Trust and communication"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Addressing Health Disparities: Cultural Proficiency",
+   "summary": [
+    "Health disparities are preventable differences in health among groups. Cultural proficiency means organizations value diversity, adapt services, use interpreters, and work to eliminate bias."
+   ],
+   "keyPoints": [
+    "Health disparities",
+    "Cultural proficiency",
+    "Interpreters",
+    "Bias reduction"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Law and Ethics",
+   "summary": [
+    "Managers must understand contracts, torts, negligence, malpractice, consent, and confidentiality, along with ethical principles: autonomy, beneficence, nonmaleficence, and justice. Ethics committees help resolve dilemmas."
+   ],
+   "keyPoints": [
+    "Negligence and malpractice",
+    "Consent and confidentiality",
+    "Ethical principles",
+    "Ethics committees"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Health Care Regulation and Compliance",
+   "summary": [
+    "Health organizations follow regulations from CMS, OSHA, and state agencies and seek accreditation (The Joint Commission). Compliance programs address HIPAA, fraud and abuse laws (Stark, Anti-Kickback, False Claims Act), and EMTALA."
+   ],
+   "keyPoints": [
+    "Accreditation",
+    "HIPAA",
+    "Fraud and abuse laws",
+    "Compliance programs"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Special Topics and Emerging Issues in Health Care Management",
+   "summary": [
+    "Emerging issues include population health, telehealth, consumerism, workforce shortages, emergency preparedness, and the shift to value-based care."
+   ],
+   "keyPoints": [
+    "Population health",
+    "Telehealth",
+    "Value-based care",
+    "Emergency preparedness"
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Health Care Management Case Studies and Guidelines",
+   "summary": [
+    "Case studies let students practice analyzing real management problems: define the issue, gather facts, consider options, choose a solution, and plan implementation."
+   ],
+   "keyPoints": [
+    "Define the problem",
+    "Analyze options",
+    "Choose and justify",
+    "Plan implementation"
+   ]
+  }
  ]
 };
 window.CONTENT["healthcare-administration"].quizzes = {
@@ -862,6 +1098,710 @@ window.CONTENT["healthcare-administration"].quizzes = {
     }
    ]
   }
+ ],
+ "1": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "A leader who inspires followers with a shared vision is:",
+     "options": [
+      "Transformational",
+      "Transactional",
+      "Laissez-faire",
+      "Autocratic"
+     ],
+     "answer": 0,
+     "explanation": "Inspires change.",
+     "chapter": 2
+    },
+    {
+     "q": "Theory that people compare their rewards with others' is:",
+     "options": [
+      "Maslow's hierarchy",
+      "Equity theory",
+      "Two-factor theory",
+      "Expectancy theory"
+     ],
+     "answer": 1,
+     "explanation": "Adams.",
+     "chapter": 3
+    },
+    {
+     "q": "In Herzberg's theory, salary and working conditions are:",
+     "options": [
+      "Hygiene factors",
+      "Expectancies",
+      "Self-actualization needs",
+      "Motivators"
+     ],
+     "answer": 0,
+     "explanation": "Prevent dissatisfaction.",
+     "chapter": 3
+    },
+    {
+     "q": "The four management functions are planning, organizing, leading, and:",
+     "options": [
+      "Billing",
+      "Controlling",
+      "Marketing",
+      "Hiring"
+     ],
+     "answer": 1,
+     "explanation": "Classic management functions.",
+     "chapter": 1
+    },
+    {
+     "q": "A leader who adapts style to followers' readiness uses:",
+     "options": [
+      "Trait theory",
+      "Servant leadership",
+      "Situational leadership",
+      "Scientific management"
+     ],
+     "answer": 2,
+     "explanation": "Hersey and Blanchard.",
+     "chapter": 2
+    },
+    {
+     "q": "Developing future leaders to replace current ones is:",
+     "options": [
+      "Capitation",
+      "Credentialing",
+      "Downsizing",
+      "Succession planning"
+     ],
+     "answer": 3,
+     "explanation": "Ensures continuity.",
+     "chapter": 1
+    },
+    {
+     "q": "In Maslow's hierarchy, the highest need is:",
+     "options": [
+      "Esteem",
+      "Belonging",
+      "Self-actualization",
+      "Safety"
+     ],
+     "answer": 2,
+     "explanation": "Reaching potential.",
+     "chapter": 3
+    },
+    {
+     "q": "A manager who supervises front-line staff is a:",
+     "options": [
+      "First-line manager",
+      "Senior executive",
+      "Consultant",
+      "Board member"
+     ],
+     "answer": 0,
+     "explanation": "Lowest management level.",
+     "chapter": 1
+    },
+    {
+     "q": "A leader who focuses on serving and developing others practices:",
+     "options": [
+      "Autocratic leadership",
+      "Transactional leadership",
+      "Bureaucracy",
+      "Servant leadership"
+     ],
+     "answer": 3,
+     "explanation": "Robert Greenleaf.",
+     "chapter": 2
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "Gathering data on customer needs is:",
+     "options": [
+      "Accreditation",
+      "Capitation",
+      "Market research",
+      "Compliance"
+     ],
+     "answer": 2,
+     "explanation": "Guides marketing.",
+     "chapter": 6
+    },
+    {
+     "q": "Scanning the outside world for trends is:",
+     "options": [
+      "Environmental scanning",
+      "Recruiting",
+      "Auditing",
+      "Credentialing"
+     ],
+     "answer": 0,
+     "explanation": "Informs strategy.",
+     "chapter": 5
+    },
+    {
+     "q": "Dividing a market into groups with similar needs is:",
+     "options": [
+      "Pricing",
+      "Segmentation",
+      "Branding",
+      "Positioning only"
+     ],
+     "answer": 1,
+     "explanation": "Targets messages.",
+     "chapter": 6
+    },
+    {
+     "q": "Frederick Taylor is associated with:",
+     "options": [
+      "Human relations",
+      "Bureaucracy",
+      "Scientific management",
+      "Servant leadership"
+     ],
+     "answer": 2,
+     "explanation": "Efficiency studies.",
+     "chapter": 4
+    },
+    {
+     "q": "The 4 Ps of marketing are product, price, place, and:",
+     "options": [
+      "Profit",
+      "Policy",
+      "People",
+      "Promotion"
+     ],
+     "answer": 3,
+     "explanation": "Marketing mix.",
+     "chapter": 6
+    },
+    {
+     "q": "SWOT stands for strengths, weaknesses, opportunities, and:",
+     "options": [
+      "Tasks",
+      "Teams",
+      "Targets",
+      "Threats"
+     ],
+     "answer": 3,
+     "explanation": "Strategic analysis.",
+     "chapter": 5
+    },
+    {
+     "q": "An organization's statement of its purpose is its:",
+     "options": [
+      "Vision",
+      "Mission",
+      "Bylaws",
+      "Budget"
+     ],
+     "answer": 1,
+     "explanation": "Vision is the future goal.",
+     "chapter": 5
+    },
+    {
+     "q": "Max Weber described the ideal:",
+     "options": [
+      "Bureaucracy",
+      "Flat organization",
+      "Startup",
+      "Matrix structure"
+     ],
+     "answer": 0,
+     "explanation": "Rules and hierarchy.",
+     "chapter": 4
+    },
+    {
+     "q": "The Hawthorne studies showed that productivity is influenced by:",
+     "options": [
+      "Attention and social factors",
+      "Only lighting",
+      "Only pay",
+      "Only machines"
+     ],
+     "answer": 0,
+     "explanation": "Human relations movement.",
+     "chapter": 4
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "The amount paid before insurance begins paying is the:",
+     "options": [
+      "Copay",
+      "Deductible",
+      "Premium",
+      "Coinsurance"
+     ],
+     "answer": 1,
+     "explanation": "Annual amount.",
+     "chapter": 9
+    },
+    {
+     "q": "Medicare pays hospitals using:",
+     "options": [
+      "DRGs",
+      "Capitation only",
+      "Tips",
+      "Patient choice"
+     ],
+     "answer": 0,
+     "explanation": "Diagnosis-related groups.",
+     "chapter": 9
+    },
+    {
+     "q": "Electronic entry of provider orders is:",
+     "options": [
+      "CPOE",
+      "PACS",
+      "EHR",
+      "HIE"
+     ],
+     "answer": 0,
+     "explanation": "Reduces errors.",
+     "chapter": 8
+    },
+    {
+     "q": "Finding the underlying cause of an error is:",
+     "options": [
+      "Budgeting",
+      "Root cause analysis",
+      "Branding",
+      "Benchmarking"
+     ],
+     "answer": 1,
+     "explanation": "Prevents recurrence.",
+     "chapter": 7
+    },
+    {
+     "q": "Fixed payment per patient per month is:",
+     "options": [
+      "Copay",
+      "Fee-for-service",
+      "Capitation",
+      "DRG"
+     ],
+     "answer": 2,
+     "explanation": "Managed care.",
+     "chapter": 9
+    },
+    {
+     "q": "Electronic sharing of records between organizations is:",
+     "options": [
+      "DRG",
+      "CPOE",
+      "Health information exchange",
+      "Telehealth only"
+     ],
+     "answer": 2,
+     "explanation": "HIE.",
+     "chapter": 8
+    },
+    {
+     "q": "PDSA stands for Plan, Do, Study, and:",
+     "options": [
+      "Assess",
+      "Analyze",
+      "Audit",
+      "Act"
+     ],
+     "answer": 3,
+     "explanation": "Improvement cycle.",
+     "chapter": 7
+    },
+    {
+     "q": "The ability of systems to share data is:",
+     "options": [
+      "Interoperability",
+      "Credentialing",
+      "Usability",
+      "Capitation"
+     ],
+     "answer": 0,
+     "explanation": "Key IT challenge.",
+     "chapter": 8
+    },
+    {
+     "q": "Donabedian's model measures structure, process, and:",
+     "options": [
+      "Marketing",
+      "Profits",
+      "Staffing only",
+      "Outcomes"
+     ],
+     "answer": 3,
+     "explanation": "Quality framework.",
+     "chapter": 7
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "Verifying a clinician's qualifications is:",
+     "options": [
+      "Benchmarking",
+      "Capitation",
+      "Marketing",
+      "Credentialing"
+     ],
+     "answer": 3,
+     "explanation": "Protects patients.",
+     "chapter": 11
+    },
+    {
+     "q": "The legal limits on what a professional can do is:",
+     "options": [
+      "Budget",
+      "Seniority",
+      "Scope of practice",
+      "Job satisfaction"
+     ],
+     "answer": 2,
+     "explanation": "Set by state law.",
+     "chapter": 11
+    },
+    {
+     "q": "Formal evaluation of an employee's work is a:",
+     "options": [
+      "Orientation",
+      "Performance appraisal",
+      "Termination",
+      "Recruitment"
+     ],
+     "answer": 1,
+     "explanation": "Usually yearly.",
+     "chapter": 12
+    },
+    {
+     "q": "Keeping good employees is:",
+     "options": [
+      "Selection",
+      "Recruitment",
+      "Turnover",
+      "Retention"
+     ],
+     "answer": 3,
+     "explanation": "Reduces costs.",
+     "chapter": 12
+    },
+    {
+     "q": "Emotional exhaustion from work stress is:",
+     "options": [
+      "Retention",
+      "Burnout",
+      "Engagement",
+      "Motivation"
+     ],
+     "answer": 1,
+     "explanation": "Common in health care.",
+     "chapter": 11
+    },
+    {
+     "q": "A budget for major equipment and buildings is the:",
+     "options": [
+      "Capital budget",
+      "Revenue cycle",
+      "Cash budget",
+      "Operating budget"
+     ],
+     "answer": 0,
+     "explanation": "Long-term purchases.",
+     "chapter": 10
+    },
+    {
+     "q": "Introducing new employees to the organization is:",
+     "options": [
+      "Appraisal",
+      "Compensation",
+      "Orientation",
+      "Promotion"
+     ],
+     "answer": 2,
+     "explanation": "Onboarding.",
+     "chapter": 12
+    },
+    {
+     "q": "The difference between budgeted and actual amounts is a:",
+     "options": [
+      "Variance",
+      "Premium",
+      "Margin",
+      "Deductible"
+     ],
+     "answer": 0,
+     "explanation": "Managers explain variances.",
+     "chapter": 10
+    },
+    {
+     "q": "Costs that stay the same regardless of volume are:",
+     "options": [
+      "Fixed costs",
+      "Revenue",
+      "Marginal costs",
+      "Variable costs"
+     ],
+     "answer": 0,
+     "explanation": "E.g., rent.",
+     "chapter": 10
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14,
+    15
+   ],
+   "questions": [
+    {
+     "q": "Failure to provide reasonable care that causes harm is:",
+     "options": [
+      "Fraud",
+      "Libel",
+      "Negligence",
+      "Battery"
+     ],
+     "answer": 2,
+     "explanation": "Malpractice is professional negligence.",
+     "chapter": 15
+    },
+    {
+     "q": "Preventable differences in health among groups are:",
+     "options": [
+      "Capitation",
+      "Health disparities",
+      "Credentialing",
+      "Health equity"
+     ],
+     "answer": 1,
+     "explanation": "Linked to social factors.",
+     "chapter": 14
+    },
+    {
+     "q": "Cultural proficiency means an organization:",
+     "options": [
+      "Values diversity and adapts services",
+      "Avoids interpreters",
+      "Treats everyone identically regardless of need",
+      "Ignores culture"
+     ],
+     "answer": 0,
+     "explanation": "Highest level of cultural competence.",
+     "chapter": 14
+    },
+    {
+     "q": "A program for improving teamwork in health care is:",
+     "options": [
+      "HIPAA",
+      "SWOT",
+      "TeamSTEPPS",
+      "Six Sigma"
+     ],
+     "answer": 2,
+     "explanation": "AHRQ and DoD.",
+     "chapter": 13
+    },
+    {
+     "q": "Respecting a patient's right to choose is:",
+     "options": [
+      "Autonomy",
+      "Justice",
+      "Beneficence",
+      "Fidelity"
+     ],
+     "answer": 0,
+     "explanation": "Ethical principle.",
+     "chapter": 15
+    },
+    {
+     "q": "Groups that advise on difficult ethical cases are:",
+     "options": [
+      "Marketing teams",
+      "Ethics committees",
+      "Billing offices",
+      "HR departments"
+     ],
+     "answer": 1,
+     "explanation": "In most hospitals.",
+     "chapter": 15
+    },
+    {
+     "q": "Effective teams have shared goals and:",
+     "options": [
+      "Constant conflict",
+      "One decision-maker always",
+      "No communication",
+      "Clear roles"
+     ],
+     "answer": 3,
+     "explanation": "Clarity builds trust.",
+     "chapter": 13
+    },
+    {
+     "q": "Using trained interpreters for patients with limited English supports:",
+     "options": [
+      "Cultural proficiency",
+      "Capitation",
+      "Downsizing",
+      "Upcoding"
+     ],
+     "answer": 0,
+     "explanation": "Improves care.",
+     "chapter": 14
+    },
+    {
+     "q": "Tuckman's stages are forming, storming, norming, and:",
+     "options": [
+      "Leading",
+      "Closing",
+      "Reforming",
+      "Performing"
+     ],
+     "answer": 3,
+     "explanation": "Team development.",
+     "chapter": 13
+    }
+   ]
+  },
+  {
+   "chapters": [
+    16,
+    17,
+    18
+   ],
+   "questions": [
+    {
+     "q": "The main hospital accrediting body is:",
+     "options": [
+      "OSHA",
+      "The DEA",
+      "The FDA",
+      "The Joint Commission"
+     ],
+     "answer": 3,
+     "explanation": "Voluntary but important.",
+     "chapter": 16
+    },
+    {
+     "q": "The law banning physician self-referral is the:",
+     "options": [
+      "Stark Law",
+      "EMTALA",
+      "ADA",
+      "HIPAA"
+     ],
+     "answer": 0,
+     "explanation": "Fraud and abuse.",
+     "chapter": 16
+    },
+    {
+     "q": "Paying providers for quality rather than volume is:",
+     "options": [
+      "Self-pay",
+      "Value-based care",
+      "Fee-for-service",
+      "Charity care"
+     ],
+     "answer": 1,
+     "explanation": "Major trend.",
+     "chapter": 17
+    },
+    {
+     "q": "Improving outcomes for a defined group of people is:",
+     "options": [
+      "Fee-for-service",
+      "Bureaucracy",
+      "Marketing",
+      "Population health"
+     ],
+     "answer": 3,
+     "explanation": "Focus on groups.",
+     "chapter": 17
+    },
+    {
+     "q": "After choosing a solution, managers should:",
+     "options": [
+      "Stop",
+      "Plan implementation and evaluation",
+      "Ignore stakeholders",
+      "Restart the case"
+     ],
+     "answer": 1,
+     "explanation": "Follow through.",
+     "chapter": 18
+    },
+    {
+     "q": "The first step in analyzing a management case is to:",
+     "options": [
+      "Define the problem",
+      "Implement",
+      "Evaluate results",
+      "Choose a solution"
+     ],
+     "answer": 0,
+     "explanation": "Clarify the issue.",
+     "chapter": 18
+    },
+    {
+     "q": "Delivering care remotely using technology is:",
+     "options": [
+      "Telehealth",
+      "Credentialing",
+      "Accreditation",
+      "Capitation"
+     ],
+     "answer": 0,
+     "explanation": "Growing rapidly.",
+     "chapter": 17
+    },
+    {
+     "q": "Hospitals must screen and stabilize emergency patients under:",
+     "options": [
+      "Stark",
+      "OSHA",
+      "EMTALA",
+      "HIPAA"
+     ],
+     "answer": 2,
+     "explanation": "Regardless of ability to pay.",
+     "chapter": 16
+    },
+    {
+     "q": "Considering several options before deciding helps:",
+     "options": [
+      "Delay forever",
+      "Confuse staff",
+      "Find the best solution",
+      "Avoid data"
+     ],
+     "answer": 2,
+     "explanation": "Compare alternatives.",
+     "chapter": 18
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["healthcare-administration"].bookInfo = {
@@ -869,6 +1809,12 @@ window.CONTENT["healthcare-administration"].bookInfo = {
   "edition": "7th edition (2020)",
   "source": "Cengage table of contents",
   "chapters": 15,
+  "unit": "Chapter"
+ },
+ "1": {
+  "edition": "4th edition (2021); a 5th edition was published in 2025",
+  "source": "Jones & Bartlett sample front matter",
+  "chapters": 18,
   "unit": "Chapter"
  }
 };

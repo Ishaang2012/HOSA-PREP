@@ -211,6 +211,190 @@ window.CONTENT["phlebotomy"].summaries = {
     "Continuing education"
    ]
   }
+ ],
+ "1": [
+  {
+   "number": 1,
+   "title": "Phlebotomy: Past and Present and the Healthcare Setting",
+   "summary": [
+    "Phlebotomy began with ancient bloodletting; today phlebotomists collect blood for testing. The healthcare setting includes hospitals, clinics, and labs; the clinical laboratory has areas like hematology, chemistry, microbiology, and blood bank. Phlebotomists need professionalism, communication skills, and certification (e.g., CPT, PBT)."
+   ],
+   "keyPoints": [
+    "Bloodletting history",
+    "Clinical lab departments",
+    "Professionalism",
+    "Certification"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Quality Assurance and Legal Issues in Healthcare",
+   "summary": [
+    "Quality assurance ensures accurate results through standards, quality control, and documentation. Legal issues include informed consent, patient confidentiality (HIPAA), negligence, malpractice, and assault and battery. Organizations like CLSI and The Joint Commission set standards."
+   ],
+   "keyPoints": [
+    "Quality control",
+    "Informed consent",
+    "HIPAA",
+    "Negligence and malpractice"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Infection Control, Safety, First Aid, and Personal Wellness",
+   "summary": [
+    "Infection control breaks the chain of infection with hand hygiene, standard precautions, and PPE. Safety includes biohazard, electrical, fire, radiation, and chemical safety. Phlebotomists must know first aid for fainting and how to handle needlestick exposures."
+   ],
+   "keyPoints": [
+    "Chain of infection",
+    "Hand hygiene",
+    "PPE",
+    "Needlestick protocol"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Medical Terminology",
+   "summary": [
+    "Medical terms are built from prefixes, roots, combining vowels, and suffixes. Phlebotomists use common lab abbreviations and terms like hematology (blood study) and venipuncture (vein puncture)."
+   ],
+   "keyPoints": [
+    "Word parts",
+    "Lab abbreviations",
+    "phleb/o = vein",
+    "-tomy = cutting"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Human Anatomy and Physiology Review",
+   "summary": [
+    "A review of body systems, organization, and planes, with attention to how each system relates to laboratory tests."
+   ],
+   "keyPoints": [
+    "Body systems",
+    "Anatomical position",
+    "Homeostasis",
+    "Tests by system"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "The Circulatory System",
+   "summary": [
+    "The circulatory system includes the heart, blood vessels, and blood. Antecubital veins (median cubital, cephalic, basilic) are used for venipuncture. Blood contains plasma and formed elements; hemostasis stops bleeding. Serum lacks fibrinogen; plasma contains it."
+   ],
+   "keyPoints": [
+    "Antecubital veins",
+    "Median cubital first choice",
+    "Serum vs. plasma",
+    "Hemostasis"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Blood Collection Equipment, Additives, and Order of Draw",
+   "summary": [
+    "Equipment includes needles (gauge), tube holders, evacuated tubes, tourniquets, and antiseptics. Tube color indicates additive: light blue (citrate), red/gold (clot activator/gel), green (heparin), lavender (EDTA), gray (fluoride/oxalate). The order of draw prevents additive carryover."
+   ],
+   "keyPoints": [
+    "Tube colors and additives",
+    "Order of draw",
+    "Needle gauge",
+    "Additive carryover"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Venipuncture Procedures",
+   "summary": [
+    "Steps: review the requisition, identify the patient with two identifiers, hand hygiene, apply the tourniquet (no more than 1 minute), select and clean the site, anchor the vein, insert bevel up at 30° or less, fill tubes in order, release the tourniquet, remove the needle, apply pressure, and label at the bedside."
+   ],
+   "keyPoints": [
+    "Two patient identifiers",
+    "Tourniquet ≤ 1 minute",
+    "Bevel up, ≤ 30°",
+    "Label at bedside"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Preexamination/Preanalytical Considerations",
+   "summary": [
+    "Most lab errors occur before testing. Factors include patient preparation (fasting), posture, exercise, diurnal variation, hemolysis, hemoconcentration, and drawing above an IV. Complications include hematoma, nerve injury, and syncope."
+   ],
+   "keyPoints": [
+    "Most errors are preanalytical",
+    "Hemolysis",
+    "Hemoconcentration",
+    "Avoid drawing above an IV"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Capillary Puncture Equipment, Principles and Procedures",
+   "summary": [
+    "Capillary (skin) puncture uses lancets and microcollection tubes. Sites are the fingertip in adults and the heel in infants (medial or lateral plantar surface). Wipe away the first drop, avoid squeezing, and follow the capillary order of draw."
+   ],
+   "keyPoints": [
+    "Heel stick in infants",
+    "Wipe first drop",
+    "Don't milk the site",
+    "Capillary order of draw"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Special Collections and Point-of-Care Testing",
+   "summary": [
+    "Special collections include blood cultures, glucose tolerance tests, therapeutic drug monitoring (peak and trough), blood alcohol, and chain-of-custody specimens. Point-of-care testing (glucose, coagulation) happens at the bedside."
+   ],
+   "keyPoints": [
+    "Blood cultures",
+    "Peak and trough",
+    "Chain of custody",
+    "Point-of-care testing"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Computers and Specimen Handling and Processing",
+   "summary": [
+    "Lab information systems track orders and results. Specimens may need to be kept warm, chilled, or protected from light, and transported promptly. Processing includes centrifuging and aliquoting."
+   ],
+   "keyPoints": [
+    "Lab information system",
+    "Chill, warm, or protect from light",
+    "Centrifuging",
+    "Prompt transport"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Urine and Other Nonblood Specimens and Tests",
+   "summary": [
+    "Nonblood specimens include urine (random, first morning, midstream clean-catch, 24-hour), stool, throat swabs, sputum, semen, and cerebrospinal fluid. Proper collection and labeling are essential."
+   ],
+   "keyPoints": [
+    "Clean-catch urine",
+    "24-hour urine",
+    "Throat swab",
+    "Proper labeling"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Arterial Puncture Procedures",
+   "summary": [
+    "Arterial blood gases measure oxygen, carbon dioxide, and pH. The radial artery is preferred; perform the modified Allen test first to check collateral circulation. Specimens are collected anaerobically in heparinized syringes and need firm pressure afterward."
+   ],
+   "keyPoints": [
+    "ABGs",
+    "Radial artery preferred",
+    "Modified Allen test",
+    "Anaerobic collection"
+   ]
+  }
  ]
 };
 window.CONTENT["phlebotomy"].quizzes = {
@@ -975,6 +1159,592 @@ window.CONTENT["phlebotomy"].quizzes = {
     }
    ]
   }
+ ],
+ "1": [
+  {
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "questions": [
+    {
+     "q": "After a needlestick, you should first:",
+     "options": [
+      "Wash the site and report it",
+      "Squeeze it and wait",
+      "Ignore it",
+      "Finish the shift"
+     ],
+     "answer": 0,
+     "explanation": "Follow exposure protocol.",
+     "chapter": 3
+    },
+    {
+     "q": "Testing known samples to check accuracy is:",
+     "options": [
+      "Chain of custody",
+      "Phlebotomy",
+      "Quality control",
+      "Hemostasis"
+     ],
+     "answer": 2,
+     "explanation": "Part of quality assurance.",
+     "chapter": 2
+    },
+    {
+     "q": "Historically, bloodletting was used to:",
+     "options": [
+      "Type blood",
+      "Grow bacteria",
+      "Test blood sugar",
+      "Treat illness by removing blood"
+     ],
+     "answer": 3,
+     "explanation": "Phlebotomy's roots.",
+     "chapter": 1
+    },
+    {
+     "q": "Drawing blood without consent could be:",
+     "options": [
+      "Quality control",
+      "Assault and battery",
+      "Malpractice insurance",
+      "Delegation"
+     ],
+     "answer": 1,
+     "explanation": "Always get consent.",
+     "chapter": 2
+    },
+    {
+     "q": "If a patient faints during a draw, you should:",
+     "options": [
+      "Keep drawing",
+      "Give food",
+      "Leave the room",
+      "Remove the needle and tourniquet, lower the head"
+     ],
+     "answer": 3,
+     "explanation": "Protect the patient.",
+     "chapter": 3
+    },
+    {
+     "q": "The lab department that studies blood cells is:",
+     "options": [
+      "Urinalysis",
+      "Hematology",
+      "Chemistry",
+      "Microbiology"
+     ],
+     "answer": 1,
+     "explanation": "CBCs are done here.",
+     "chapter": 1
+    },
+    {
+     "q": "A common phlebotomy certification is the:",
+     "options": [
+      "CPT or PBT",
+      "RN",
+      "MD",
+      "CNA only"
+     ],
+     "answer": 0,
+     "explanation": "From NHA or ASCP.",
+     "chapter": 1
+    },
+    {
+     "q": "The most important infection control measure is:",
+     "options": [
+      "Masks",
+      "Gloves",
+      "Hand hygiene",
+      "Gowns"
+     ],
+     "answer": 2,
+     "explanation": "Before and after each patient.",
+     "chapter": 3
+    },
+    {
+     "q": "Keeping patient information private is required by:",
+     "options": [
+      "HIPAA",
+      "OSHA",
+      "CLIA",
+      "EMTALA"
+     ],
+     "answer": 0,
+     "explanation": "Health privacy law.",
+     "chapter": 2
+    }
+   ]
+  },
+  {
+   "chapters": [
+    4,
+    5,
+    6
+   ],
+   "questions": [
+    {
+     "q": "The body's stable internal balance is:",
+     "options": [
+      "Homeostasis",
+      "Anabolism",
+      "Metabolism",
+      "Hemostasis"
+     ],
+     "answer": 0,
+     "explanation": "Lab tests reflect it.",
+     "chapter": 5
+    },
+    {
+     "q": "Standing upright facing forward, palms forward, is:",
+     "options": [
+      "Supine",
+      "Fowler's",
+      "Prone",
+      "Anatomical position"
+     ],
+     "answer": 3,
+     "explanation": "Reference position.",
+     "chapter": 5
+    },
+    {
+     "q": "Kidney function is assessed with tests like:",
+     "options": [
+      "Troponin",
+      "BUN and creatinine",
+      "A1c",
+      "TSH"
+     ],
+     "answer": 1,
+     "explanation": "Urinary system.",
+     "chapter": 5
+    },
+    {
+     "q": "The combining form phleb/o means:",
+     "options": [
+      "Heart",
+      "Vein",
+      "Artery",
+      "Blood"
+     ],
+     "answer": 1,
+     "explanation": "Phlebotomy = vein incision.",
+     "chapter": 4
+    },
+    {
+     "q": "The prefix hyper- means:",
+     "options": [
+      "Excessive",
+      "Slow",
+      "Below",
+      "Within"
+     ],
+     "answer": 0,
+     "explanation": "E.g., hyperglycemia.",
+     "chapter": 4
+    },
+    {
+     "q": "The suffix -emia means:",
+     "options": [
+      "Removal",
+      "Pain",
+      "Blood condition",
+      "Inflammation"
+     ],
+     "answer": 2,
+     "explanation": "E.g., anemia.",
+     "chapter": 4
+    },
+    {
+     "q": "The process that stops bleeding is:",
+     "options": [
+      "Hemolysis",
+      "Hematopoiesis",
+      "Hemostasis",
+      "Homeostasis"
+     ],
+     "answer": 2,
+     "explanation": "Vessel spasm, platelets, clotting.",
+     "chapter": 6
+    },
+    {
+     "q": "The first-choice vein for venipuncture is the:",
+     "options": [
+      "Median cubital",
+      "Cephalic",
+      "Basilic",
+      "Femoral"
+     ],
+     "answer": 0,
+     "explanation": "Large and well anchored.",
+     "chapter": 6
+    },
+    {
+     "q": "The liquid from clotted blood is:",
+     "options": [
+      "Whole blood",
+      "Plasma",
+      "Buffy coat",
+      "Serum"
+     ],
+     "answer": 3,
+     "explanation": "No fibrinogen.",
+     "chapter": 6
+    }
+   ]
+  },
+  {
+   "chapters": [
+    7,
+    8,
+    9
+   ],
+   "questions": [
+    {
+     "q": "The tourniquet should stay on no longer than:",
+     "options": [
+      "3 minutes",
+      "10 minutes",
+      "5 minutes",
+      "1 minute"
+     ],
+     "answer": 3,
+     "explanation": "Prevents hemoconcentration.",
+     "chapter": 8
+    },
+    {
+     "q": "A light blue tube is used for:",
+     "options": [
+      "CBC",
+      "Glucose",
+      "Coagulation tests",
+      "Chemistry panels"
+     ],
+     "answer": 2,
+     "explanation": "Contains citrate.",
+     "chapter": 7
+    },
+    {
+     "q": "Blood should not be drawn:",
+     "options": [
+      "From the median cubital",
+      "With a tourniquet",
+      "Above an IV site",
+      "From the nondominant arm"
+     ],
+     "answer": 2,
+     "explanation": "IV fluid dilutes the sample.",
+     "chapter": 9
+    },
+    {
+     "q": "Tubes should be labeled:",
+     "options": [
+      "At the bedside after the draw",
+      "By the patient",
+      "In the lab later",
+      "Before seeing the patient"
+     ],
+     "answer": 0,
+     "explanation": "Prevents mix-ups.",
+     "chapter": 8
+    },
+    {
+     "q": "The needle is inserted:",
+     "options": [
+      "Bevel down",
+      "Bevel up at 30 degrees or less",
+      "At 90 degrees",
+      "At 60 degrees"
+     ],
+     "answer": 1,
+     "explanation": "Shallow angle.",
+     "chapter": 8
+    },
+    {
+     "q": "Most laboratory errors occur in the:",
+     "options": [
+      "Postanalytical phase",
+      "Preanalytical phase",
+      "Billing phase",
+      "Analytical phase"
+     ],
+     "answer": 1,
+     "explanation": "Before testing.",
+     "chapter": 9
+    },
+    {
+     "q": "Breakdown of red blood cells in a sample is:",
+     "options": [
+      "Hemolysis",
+      "Hemostasis",
+      "Hemoconcentration",
+      "Lipemia"
+     ],
+     "answer": 0,
+     "explanation": "Can alter results.",
+     "chapter": 9
+    },
+    {
+     "q": "The order of draw prevents:",
+     "options": [
+      "Hemolysis",
+      "Fainting",
+      "Bruising",
+      "Additive carryover"
+     ],
+     "answer": 3,
+     "explanation": "Contamination between tubes.",
+     "chapter": 7
+    },
+    {
+     "q": "A lavender tube contains:",
+     "options": [
+      "EDTA",
+      "Sodium fluoride",
+      "Sodium citrate",
+      "Heparin"
+     ],
+     "answer": 0,
+     "explanation": "Used for CBCs.",
+     "chapter": 7
+    }
+   ]
+  },
+  {
+   "chapters": [
+    10,
+    11,
+    12
+   ],
+   "questions": [
+    {
+     "q": "Documented handling of a legal specimen is:",
+     "options": [
+      "Chain of custody",
+      "Requisition",
+      "Quality control",
+      "Aliquoting"
+     ],
+     "answer": 0,
+     "explanation": "For drug or alcohol testing.",
+     "chapter": 11
+    },
+    {
+     "q": "The first drop of blood in a capillary puncture is usually:",
+     "options": [
+      "Collected first",
+      "Used for glucose only",
+      "Squeezed out hard",
+      "Wiped away"
+     ],
+     "answer": 3,
+     "explanation": "May contain tissue fluid.",
+     "chapter": 10
+    },
+    {
+     "q": "A portion of a specimen transferred to another tube is an:",
+     "options": [
+      "Additive",
+      "Artifact",
+      "Aliquot",
+      "Requisition"
+     ],
+     "answer": 2,
+     "explanation": "For separate tests.",
+     "chapter": 12
+    },
+    {
+     "q": "Drug levels drawn at the highest and lowest points are:",
+     "options": [
+      "Serum and plasma",
+      "Peak and trough",
+      "Arterial and venous",
+      "Fasting and random"
+     ],
+     "answer": 1,
+     "explanation": "Therapeutic drug monitoring.",
+     "chapter": 11
+    },
+    {
+     "q": "Blood cultures are collected to detect:",
+     "options": [
+      "Glucose levels",
+      "Bacteria in the blood",
+      "Hormones",
+      "Blood type"
+     ],
+     "answer": 1,
+     "explanation": "Strict skin antisepsis.",
+     "chapter": 11
+    },
+    {
+     "q": "Some specimens, like bilirubin, must be:",
+     "options": [
+      "Protected from light",
+      "Left uncapped",
+      "Shaken",
+      "Frozen immediately"
+     ],
+     "answer": 0,
+     "explanation": "Light breaks it down.",
+     "chapter": 12
+    },
+    {
+     "q": "In infants, capillary puncture is usually done on the:",
+     "options": [
+      "Earlobe",
+      "Toe",
+      "Finger",
+      "Heel"
+     ],
+     "answer": 3,
+     "explanation": "Medial or lateral plantar surface.",
+     "chapter": 10
+    },
+    {
+     "q": "Spinning samples to separate serum or plasma is:",
+     "options": [
+      "Aliquoting",
+      "Labeling",
+      "Centrifuging",
+      "Accessioning"
+     ],
+     "answer": 2,
+     "explanation": "Balance the centrifuge.",
+     "chapter": 12
+    },
+    {
+     "q": "Squeezing (milking) a capillary site can cause:",
+     "options": [
+      "Hemolysis and tissue fluid contamination",
+      "Faster clotting only",
+      "Better results",
+      "No effect"
+     ],
+     "answer": 0,
+     "explanation": "Use gentle pressure.",
+     "chapter": 10
+    }
+   ]
+  },
+  {
+   "chapters": [
+    13,
+    14
+   ],
+   "questions": [
+    {
+     "q": "The preferred site for arterial puncture is the:",
+     "options": [
+      "Brachial vein",
+      "Femoral artery",
+      "Carotid artery",
+      "Radial artery"
+     ],
+     "answer": 3,
+     "explanation": "Collateral circulation.",
+     "chapter": 14
+    },
+    {
+     "q": "The most concentrated urine sample is the:",
+     "options": [
+      "First morning specimen",
+      "Random specimen",
+      "Afternoon specimen",
+      "Post-meal specimen"
+     ],
+     "answer": 0,
+     "explanation": "Good for pregnancy tests.",
+     "chapter": 13
+    },
+    {
+     "q": "A midstream urine specimen after cleaning is a:",
+     "options": [
+      "24-hour specimen",
+      "Clean-catch specimen",
+      "First morning specimen",
+      "Random specimen"
+     ],
+     "answer": 1,
+     "explanation": "Used for cultures.",
+     "chapter": 13
+    },
+    {
+     "q": "Before a radial puncture, perform the:",
+     "options": [
+      "Modified Allen test",
+      "Lachman test",
+      "Tourniquet test",
+      "Romberg test"
+     ],
+     "answer": 0,
+     "explanation": "Checks ulnar circulation.",
+     "chapter": 14
+    },
+    {
+     "q": "ABG samples must be collected:",
+     "options": [
+      "In an open tube",
+      "Anaerobically, without air bubbles",
+      "Into a red tube",
+      "With a tourniquet for 3 minutes"
+     ],
+     "answer": 1,
+     "explanation": "Air changes results.",
+     "chapter": 14
+    },
+    {
+     "q": "Arterial blood gases measure oxygen, carbon dioxide, and:",
+     "options": [
+      "pH",
+      "Cholesterol",
+      "Glucose",
+      "Hemoglobin A1c"
+     ],
+     "answer": 0,
+     "explanation": "ABGs.",
+     "chapter": 14
+    },
+    {
+     "q": "For a 24-hour urine collection, the first morning void is:",
+     "options": [
+      "Kept",
+      "Frozen",
+      "Sent separately",
+      "Discarded"
+     ],
+     "answer": 3,
+     "explanation": "Collection starts after.",
+     "chapter": 13
+    },
+    {
+     "q": "After an arterial puncture, apply firm pressure for at least:",
+     "options": [
+      "None",
+      "30 seconds",
+      "3–5 minutes",
+      "10 seconds"
+     ],
+     "answer": 2,
+     "explanation": "Longer if on blood thinners.",
+     "chapter": 14
+    },
+    {
+     "q": "A throat swab is often collected to test for:",
+     "options": [
+      "Anemia",
+      "Diabetes",
+      "Strep throat",
+      "Kidney stones"
+     ],
+     "answer": 2,
+     "explanation": "Swab tonsils and the back of the throat.",
+     "chapter": 13
+    }
+   ]
+  }
  ]
 };
 window.CONTENT["phlebotomy"].bookInfo = {
@@ -982,6 +1752,12 @@ window.CONTENT["phlebotomy"].bookInfo = {
   "edition": "current edition",
   "source": "McGraw Hill product page table of contents",
   "chapters": 16,
+  "unit": "Chapter"
+ },
+ "1": {
+  "edition": "7th edition (enhanced); the 8th edition also has 14 chapters",
+  "source": "Jones & Bartlett sample front matter",
+  "chapters": 14,
   "unit": "Chapter"
  }
 };
