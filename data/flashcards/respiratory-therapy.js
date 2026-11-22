@@ -287,5 +287,155 @@ window.CONTENT["respiratory-therapy"].flashcards = [
     "back": "Mucolytic"
    }
   ]
+ },
+ {
+  "section": "More Respiratory Care",
+  "description": "Additional assessment, equipment, and disease knowledge.",
+  "cards": [
+   {
+    "front": "Normal adult respiratory rate",
+    "back": "12–20 breaths per minute."
+   },
+   {
+    "front": "Normal SpO2",
+    "back": "95–100% on room air (88–92% target for some COPD patients)."
+   },
+   {
+    "front": "Pulse oximetry limits",
+    "back": "Falsely normal in carbon monoxide poisoning; poor signal with cold hands."
+   },
+   {
+    "front": "Capnography (EtCO2)",
+    "back": "Measures exhaled CO2; normal 35–45 mm Hg; confirms ET tube placement."
+   },
+   {
+    "front": "Inspection signs of distress",
+    "back": "Accessory muscle use, nasal flaring, retractions, tripod position."
+   },
+   {
+    "front": "Percussion note: hyperresonant",
+    "back": "Too much air, as in pneumothorax or emphysema."
+   },
+   {
+    "front": "Tactile fremitus decreased",
+    "back": "Air or fluid between lung and chest wall (pneumothorax, effusion)."
+   },
+   {
+    "front": "Pleural effusion",
+    "back": "Fluid in the pleural space; dullness and decreased breath sounds."
+   },
+   {
+    "front": "Chest X-ray: radiolucent",
+    "back": "Dark areas, such as air in the lungs."
+   },
+   {
+    "front": "Peak flow meter",
+    "back": "Measures peak expiratory flow; used to monitor asthma."
+   },
+   {
+    "front": "Spirometry",
+    "back": "Measures lung volumes and flows like FEV1 and FVC."
+   },
+   {
+    "front": "Restrictive disease examples",
+    "back": "Pulmonary fibrosis, obesity, neuromuscular disease."
+   },
+   {
+    "front": "Obstructive disease examples",
+    "back": "Asthma, COPD, cystic fibrosis, bronchiectasis."
+   },
+   {
+    "front": "Cystic fibrosis",
+    "back": "Genetic disease causing thick mucus; airway clearance is key."
+   },
+   {
+    "front": "Pneumonia",
+    "back": "Lung infection causing consolidation, fever, cough, and crackles."
+   },
+   {
+    "front": "Tuberculosis precautions",
+    "back": "Airborne precautions: N95 and negative-pressure room."
+   },
+   {
+    "front": "Pulmonary embolism",
+    "back": "Clot blocking a pulmonary artery; sudden dyspnea and hypoxemia."
+   },
+   {
+    "front": "Pneumothorax treatment",
+    "back": "Chest tube; needle decompression for tension pneumothorax."
+   },
+   {
+    "front": "Carbon monoxide poisoning",
+    "back": "Treat with 100% oxygen (or hyperbaric oxygen)."
+   },
+   {
+    "front": "Incentive spirometry",
+    "back": "Encourages sustained deep breaths to prevent atelectasis."
+   },
+   {
+    "front": "Chest physiotherapy",
+    "back": "Percussion, vibration, and postural drainage to clear secretions."
+   },
+   {
+    "front": "PEP / flutter devices",
+    "back": "Positive expiratory pressure devices that help move mucus."
+   },
+   {
+    "front": "Small-volume nebulizer",
+    "back": "Turns liquid medication into an aerosol for inhalation."
+   },
+   {
+    "front": "MDI with spacer",
+    "back": "Spacer improves medication delivery to the lungs."
+   },
+   {
+    "front": "Humidity therapy",
+    "back": "Adds moisture to inspired gas, especially with artificial airways."
+   },
+   {
+    "front": "Endotracheal tube",
+    "back": "Tube through the mouth into the trachea to secure the airway."
+   },
+   {
+    "front": "Tracheostomy",
+    "back": "Surgical opening in the neck for a long-term airway."
+   },
+   {
+    "front": "Ventilator modes",
+    "back": "Assist-control, SIMV, pressure support, and others."
+   },
+   {
+    "front": "Noninvasive ventilation candidates",
+    "back": "COPD exacerbation and cardiogenic pulmonary edema; patient must protect airway."
+   },
+   {
+    "front": "Weaning trial",
+    "back": "Spontaneous breathing trial to see if a patient can come off the ventilator."
+   },
+   {
+    "front": "Pulmonary rehabilitation",
+    "back": "Exercise, education, and breathing training for chronic lung disease."
+   },
+   {
+    "front": "Smoking cessation",
+    "back": "Most effective way to slow COPD progression."
+   },
+   {
+    "front": "Home oxygen safety",
+    "back": "No smoking or open flames; keep tanks upright and secured."
+   },
+   {
+    "front": "Oxygen concentrator",
+    "back": "Home device that separates oxygen from room air."
+   },
+   {
+    "front": "Bronchoscopy",
+    "back": "Camera inserted into airways for diagnosis or removing secretions."
+   },
+   {
+    "front": "Pleural chest tube system",
+    "back": "Collection, water-seal, and suction chambers."
+   }
+  ]
  }
 ];

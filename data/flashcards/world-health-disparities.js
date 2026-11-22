@@ -275,5 +275,167 @@ window.CONTENT["world-health-disparities"].flashcards = [
     "back": "Universal programs scaled to need"
    }
   ]
+ },
+ {
+  "section": "More Global & U.S. Health Equity",
+  "description": "Additional measures, causes, and solutions.",
+  "cards": [
+   {
+    "front": "Under-5 mortality rate",
+    "back": "Deaths of children before age 5 per 1,000 live births."
+   },
+   {
+    "front": "Neonatal mortality",
+    "back": "Deaths in the first 28 days of life."
+   },
+   {
+    "front": "Low birth weight",
+    "back": "Under 2,500 grams (5.5 lb); higher risk of death and disability."
+   },
+   {
+    "front": "Stunting",
+    "back": "Low height for age from chronic undernutrition."
+   },
+   {
+    "front": "Wasting",
+    "back": "Low weight for height from acute undernutrition."
+   },
+   {
+    "front": "Neglected tropical diseases",
+    "back": "Group of infections common in poor tropical areas, e.g., schistosomiasis."
+   },
+   {
+    "front": "Malaria",
+    "back": "Mosquito-borne parasite; prevented with bed nets and treated with antimalarials."
+   },
+   {
+    "front": "Tuberculosis burden",
+    "back": "One of the leading infectious killers worldwide; linked to poverty and HIV."
+   },
+   {
+    "front": "Oral rehydration solution",
+    "back": "Low-cost sugar-salt solution that treats dehydration from diarrhea."
+   },
+   {
+    "front": "WASH",
+    "back": "Water, sanitation, and hygiene programs."
+   },
+   {
+    "front": "Noncommunicable diseases",
+    "back": "Heart disease, cancer, diabetes, and chronic lung disease; leading causes of death worldwide."
+   },
+   {
+    "front": "Brain drain",
+    "back": "Health workers leaving low-income countries for higher-paying ones."
+   },
+   {
+    "front": "Health literacy",
+    "back": "Ability to find, understand, and use health information."
+   },
+   {
+    "front": "Limited English proficiency",
+    "back": "Barrier to care addressed with professional interpreters."
+   },
+   {
+    "front": "Rural health disparities",
+    "back": "Fewer providers and hospitals, longer travel, and higher death rates."
+   },
+   {
+    "front": "Insurance status",
+    "back": "Uninsured people are less likely to get preventive care."
+   },
+   {
+    "front": "Maternal mortality disparity (U.S.)",
+    "back": "Black women die from pregnancy-related causes at about three times the rate of White women."
+   },
+   {
+    "front": "Life expectancy gap",
+    "back": "Varies widely by income, race, and neighborhood."
+   },
+   {
+    "front": "Social vulnerability",
+    "back": "Community factors that affect ability to withstand disasters and disease."
+   },
+   {
+    "front": "Housing instability",
+    "back": "Unstable housing is linked to worse health outcomes."
+   },
+   {
+    "front": "Education and health",
+    "back": "More education is linked to longer life and better health."
+   },
+   {
+    "front": "Language access plan",
+    "back": "Organization's plan for providing interpreters and translated materials."
+   },
+   {
+    "front": "Transportation barriers",
+    "back": "Lack of transport causes missed appointments."
+   },
+   {
+    "front": "Broadband access",
+    "back": "Needed for telehealth; gaps worsen rural and low-income disparities."
+   },
+   {
+    "front": "Cultural humility",
+    "back": "Lifelong self-reflection and learning about others' cultures and one's own biases."
+   },
+   {
+    "front": "Patient navigator",
+    "back": "Helps patients get through the health system and overcome barriers."
+   },
+   {
+    "front": "Mobile health clinics",
+    "back": "Bring care directly to underserved communities."
+   },
+   {
+    "front": "Telehealth equity",
+    "back": "Can improve access but requires devices, internet, and digital skills."
+   },
+   {
+    "front": "Data disaggregation",
+    "back": "Breaking data into subgroups to reveal hidden disparities."
+   },
+   {
+    "front": "Health impact assessment",
+    "back": "Evaluates how a policy or project could affect health."
+   },
+   {
+    "front": "Social needs screening",
+    "back": "Asking patients about food, housing, and transportation needs in clinical care."
+   },
+   {
+    "front": "Food pharmacies / produce prescriptions",
+    "back": "Programs giving healthy food to patients with diet-related disease."
+   },
+   {
+    "front": "Global health security",
+    "back": "Preventing, detecting, and responding to disease threats worldwide."
+   },
+   {
+    "front": "COVID-19 disparities",
+    "back": "Higher infection and death rates among some racial, ethnic, and low-income groups."
+   },
+   {
+    "front": "Vaccine equity",
+    "back": "Fair global distribution of vaccines."
+   },
+   {
+    "front": "Mental health disparities",
+    "back": "Unequal access to mental health care and higher unmet need in some groups."
+   },
+   {
+    "front": "Disability and health",
+    "back": "People with disabilities face barriers to accessible care."
+   },
+   {
+    "front": "LGBTQ+ health disparities",
+    "back": "Higher rates of some conditions linked to stigma and access barriers."
+   },
+   {
+    "front": "Indian Health Service",
+    "back": "Federal agency providing care to American Indians and Alaska Natives."
+   }
+  ]
  }
 ];

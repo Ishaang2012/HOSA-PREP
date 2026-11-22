@@ -299,5 +299,143 @@ window.CONTENT["veterinary-science"].flashcards = [
     "back": "Lead aprons, dosimeters"
    }
   ]
+ },
+ {
+  "section": "More Veterinary Science",
+  "description": "Careers, species, care, and procedures.",
+  "cards": [
+   {
+    "front": "DVM",
+    "back": "Doctor of Veterinary Medicine degree."
+   },
+   {
+    "front": "Veterinary technician",
+    "back": "Credentialed professional (e.g., RVT, CVT) who assists veterinarians."
+   },
+   {
+    "front": "Normal cat temperature",
+    "back": "About 100.5–102.5°F."
+   },
+   {
+    "front": "Normal dog heart rate",
+    "back": "About 60–140 bpm depending on size."
+   },
+   {
+    "front": "Normal cat heart rate",
+    "back": "About 140–220 bpm."
+   },
+   {
+    "front": "Body condition score",
+    "back": "Rates an animal's fat level, usually on a 1–9 scale."
+   },
+   {
+    "front": "Dog vaccines (core)",
+    "back": "Rabies, distemper, adenovirus, and parvovirus."
+   },
+   {
+    "front": "Cat vaccines (core)",
+    "back": "Rabies, panleukopenia, herpesvirus, calicivirus."
+   },
+   {
+    "front": "Feline leukemia virus",
+    "back": "Spread through saliva and close contact; causes immune suppression."
+   },
+   {
+    "front": "FIV",
+    "back": "Feline immunodeficiency virus; spread mainly through bite wounds."
+   },
+   {
+    "front": "Canine distemper",
+    "back": "Viral disease affecting respiratory, GI, and nervous systems."
+   },
+   {
+    "front": "Equine influenza",
+    "back": "Contagious respiratory disease in horses."
+   },
+   {
+    "front": "West Nile virus (horses)",
+    "back": "Mosquito-borne virus causing neurologic disease."
+   },
+   {
+    "front": "Mastitis",
+    "back": "Inflammation of the udder in dairy animals."
+   },
+   {
+    "front": "Foot-and-mouth disease",
+    "back": "Highly contagious viral disease of cloven-hoofed animals; reportable."
+   },
+   {
+    "front": "Internal parasites",
+    "back": "Roundworms, hookworms, tapeworms, whipworms."
+   },
+   {
+    "front": "Ticks",
+    "back": "Spread diseases like Lyme disease and ehrlichiosis."
+   },
+   {
+    "front": "Ear mites",
+    "back": "Common in cats; dark, crumbly ear debris."
+   },
+   {
+    "front": "Microchip",
+    "back": "Permanent ID implanted under the skin."
+   },
+   {
+    "front": "Restraint principle",
+    "back": "Use the least restraint needed to keep animal and people safe."
+   },
+   {
+    "front": "Jugular vein",
+    "back": "Common site for large blood draws in many species."
+   },
+   {
+    "front": "Urinalysis",
+    "back": "Tests urine for specific gravity, chemistry, and sediment."
+   },
+   {
+    "front": "Radiographs",
+    "back": "X-rays to view bones and organs; wear lead protection."
+   },
+   {
+    "front": "Ultrasound",
+    "back": "Uses sound waves to image soft tissues and pregnancy."
+   },
+   {
+    "front": "Dental disease",
+    "back": "Very common in pets; plaque and tartar lead to periodontal disease."
+   },
+   {
+    "front": "Euthanasia",
+    "back": "Humane ending of life, usually by barbiturate overdose."
+   },
+   {
+    "front": "Herd health",
+    "back": "Preventive programs for groups of livestock."
+   },
+   {
+    "front": "Biosecurity",
+    "back": "Measures that prevent disease entering or spreading on a farm."
+   },
+   {
+    "front": "Quarantine",
+    "back": "Isolating new or sick animals to prevent disease spread."
+   },
+   {
+    "front": "Reportable disease",
+    "back": "Disease that must be reported to state or federal authorities."
+   },
+   {
+    "front": "One Health",
+    "back": "Recognizes the connection between human, animal, and environmental health."
+   },
+   {
+    "front": "Hoof care",
+    "back": "Regular trimming and cleaning prevents lameness."
+   },
+   {
+    "front": "Avian species care",
+    "back": "Birds hide illness; watch for fluffed feathers and changes in droppings."
+   }
+  ]
  }
 ];

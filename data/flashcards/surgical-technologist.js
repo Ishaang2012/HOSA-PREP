@@ -295,5 +295,147 @@ window.CONTENT["surgical-technologist"].flashcards = [
     "back": "Largest artery"
    }
   ]
+ },
+ {
+  "section": "More Surgical Technology",
+  "description": "Additional practice, safety, and procedures.",
+  "cards": [
+   {
+    "front": "Surgical count",
+    "back": "Sponges, sharps, and instruments counted before, during, and at closure."
+   },
+   {
+    "front": "Retained surgical item",
+    "back": "Object left in a patient; prevented by counts."
+   },
+   {
+    "front": "Universal Protocol",
+    "back": "Pre-procedure verification, site marking, and time out."
+   },
+   {
+    "front": "Informed consent (surgery)",
+    "back": "Surgeon explains risks; consent must be signed before sedation."
+   },
+   {
+    "front": "Surgical scrub",
+    "back": "Timed or counted brush-stroke method of cleaning hands and arms."
+   },
+   {
+    "front": "Gowning and gloving",
+    "back": "Closed gloving technique is used when gowning yourself."
+   },
+   {
+    "front": "Facing the sterile field",
+    "back": "Scrubbed team members face the field and pass each other back to back or front to front."
+   },
+   {
+    "front": "Contaminated item",
+    "back": "Remove or replace immediately and notify the team."
+   },
+   {
+    "front": "Back table",
+    "back": "Large table holding instruments and supplies for the procedure."
+   },
+   {
+    "front": "Mayo stand",
+    "back": "Tray over the patient holding the instruments used most often."
+   },
+   {
+    "front": "Specimen handling",
+    "back": "Keep specimens moist or in the correct solution and label correctly."
+   },
+   {
+    "front": "Positioning: supine",
+    "back": "Most common; patient lies on the back."
+   },
+   {
+    "front": "Positioning: lithotomy",
+    "back": "Legs in stirrups; used for gynecologic and urologic procedures."
+   },
+   {
+    "front": "Positioning: Trendelenburg",
+    "back": "Head lower than feet; used for pelvic surgery."
+   },
+   {
+    "front": "Positioning: lateral",
+    "back": "Side-lying; used for kidney and some chest surgeries."
+   },
+   {
+    "front": "Pressure injury prevention (OR)",
+    "back": "Pad bony areas and avoid stretching nerves."
+   },
+   {
+    "front": "Electrosurgery safety",
+    "back": "Ground pad placed on a large, well-vascularized muscle; avoid alcohol pooling."
+   },
+   {
+    "front": "Laser safety",
+    "back": "Wear protective eyewear and use laser-specific precautions."
+   },
+   {
+    "front": "Anesthesia types",
+    "back": "General, regional (spinal, epidural, nerve blocks), local, and sedation."
+   },
+   {
+    "front": "Triggering agents",
+    "back": "Inhaled anesthetics and succinylcholine can trigger malignant hyperthermia."
+   },
+   {
+    "front": "Hemostasis methods",
+    "back": "Clamps, ties, cautery, and topical agents."
+   },
+   {
+    "front": "Stapler types",
+    "back": "Skin, linear, and circular staplers."
+   },
+   {
+    "front": "Suture needle types",
+    "back": "Cutting needles for skin; taper needles for soft tissue."
+   },
+   {
+    "front": "Laparoscopy",
+    "back": "Minimally invasive surgery using a camera and trocars."
+   },
+   {
+    "front": "Pneumoperitoneum",
+    "back": "Inflating the abdomen with CO2 for laparoscopy."
+   },
+   {
+    "front": "Cholecystectomy",
+    "back": "Removal of the gallbladder, often laparoscopically."
+   },
+   {
+    "front": "Mastectomy",
+    "back": "Removal of breast tissue, often for cancer."
+   },
+   {
+    "front": "Hernia repair",
+    "back": "Repairing a weakness in the abdominal wall, often with mesh."
+   },
+   {
+    "front": "Cesarean section",
+    "back": "Delivery of a baby through an abdominal incision."
+   },
+   {
+    "front": "Total joint arthroplasty",
+    "back": "Replacement of a joint, such as the hip or knee."
+   },
+   {
+    "front": "Craniotomy",
+    "back": "Opening of the skull for brain surgery."
+   },
+   {
+    "front": "Postoperative complications",
+    "back": "Infection, bleeding, DVT, pneumonia, and dehiscence."
+   },
+   {
+    "front": "Surgical site infection prevention",
+    "back": "Proper skin prep, sterile technique, and timely antibiotics."
+   },
+   {
+    "front": "Terminal cleaning",
+    "back": "Thorough cleaning of the OR at the end of the day."
+   }
+  ]
  }
 ];

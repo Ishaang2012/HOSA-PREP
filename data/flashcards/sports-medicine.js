@@ -295,5 +295,147 @@ window.CONTENT["sports-medicine"].flashcards = [
     "back": "Subjective, Objective, Assessment, Plan"
    }
   ]
+ },
+ {
+  "section": "More Sports Medicine",
+  "description": "Anatomy, injuries, emergencies, and professional practice.",
+  "cards": [
+   {
+    "front": "Sports medicine team",
+    "back": "Team physician, athletic trainer, coach, physical therapist, and others."
+   },
+   {
+    "front": "Team physician",
+    "back": "Has final authority on return-to-play decisions."
+   },
+   {
+    "front": "NATA",
+    "back": "National Athletic Trainers' Association, the professional association."
+   },
+   {
+    "front": "Pre-participation physical exam",
+    "back": "Screens athletes before sports; medical history is most important."
+   },
+   {
+    "front": "ACL",
+    "back": "Prevents the tibia from sliding forward; often torn in non-contact cutting."
+   },
+   {
+    "front": "MCL",
+    "back": "Medial knee ligament; injured by a valgus force."
+   },
+   {
+    "front": "Meniscus",
+    "back": "C-shaped knee cartilage that cushions the joint."
+   },
+   {
+    "front": "Rotator cuff muscles",
+    "back": "Supraspinatus, infraspinatus, teres minor, subscapularis."
+   },
+   {
+    "front": "Anterior shoulder dislocation",
+    "back": "Most common shoulder dislocation; arm abducted and externally rotated."
+   },
+   {
+    "front": "AC joint sprain",
+    "back": "Separated shoulder from a fall on the point of the shoulder."
+   },
+   {
+    "front": "Tennis elbow",
+    "back": "Lateral epicondylitis from overuse of wrist extensors."
+   },
+   {
+    "front": "Golfer's elbow",
+    "back": "Medial epicondylitis."
+   },
+   {
+    "front": "Hamstring strain",
+    "back": "Common in sprinters; back of thigh."
+   },
+   {
+    "front": "Hip pointer",
+    "back": "Bruise to the iliac crest."
+   },
+   {
+    "front": "Turf toe",
+    "back": "Sprain of the big toe joint from hyperextension, common on artificial turf."
+   },
+   {
+    "front": "Stress fracture",
+    "back": "Overuse bone injury, often in the tibia or metatarsals."
+   },
+   {
+    "front": "Compartment syndrome",
+    "back": "Pressure buildup in a muscle compartment; an emergency."
+   },
+   {
+    "front": "Patellofemoral pain",
+    "back": "Pain around the kneecap with squatting and stairs."
+   },
+   {
+    "front": "Patellar tendinitis",
+    "back": "'Jumper's knee': pain below the kneecap from repetitive jumping."
+   },
+   {
+    "front": "Helmet removal",
+    "back": "Leave the helmet and pads on unless necessary; remove equipment together."
+   },
+   {
+    "front": "Asthma in athletes",
+    "back": "Exercise-induced bronchospasm; use an inhaler before activity."
+   },
+   {
+    "front": "Sudden cardiac arrest",
+    "back": "Start CPR and use an AED immediately."
+   },
+   {
+    "front": "Diabetic athlete",
+    "back": "Monitor glucose; have fast-acting sugar available."
+   },
+   {
+    "front": "Heat exhaustion",
+    "back": "Heavy sweating, fatigue, dizziness; core temperature below 104°F."
+   },
+   {
+    "front": "Rectal temperature",
+    "back": "Only accurate way to measure core temperature in suspected exertional heat stroke."
+   },
+   {
+    "front": "Taping (ankle)",
+    "back": "Closed basket weave supports against inversion."
+   },
+   {
+    "front": "Bracing",
+    "back": "Supports or protects a joint during return to play."
+   },
+   {
+    "front": "Return to play",
+    "back": "Pain-free full range of motion, strength, and functional testing."
+   },
+   {
+    "front": "Concussion return-to-play",
+    "back": "Graduated, step-by-step progression after symptoms resolve and medical clearance."
+   },
+   {
+    "front": "Nutrition for athletes",
+    "back": "Carbohydrates fuel exercise; protein supports repair; hydrate well."
+   },
+   {
+    "front": "Anabolic steroids",
+    "back": "Banned performance enhancers; cause liver damage, acne, and aggression."
+   },
+   {
+    "front": "Creatine",
+    "back": "Legal supplement that may improve short bursts of power."
+   },
+   {
+    "front": "Flexibility training",
+    "back": "Static stretching after activity; dynamic warm-up before."
+   },
+   {
+    "front": "Medical records (HIPAA/FERPA)",
+    "back": "Athletes' health information must be kept confidential."
+   }
+  ]
  }
 ];
