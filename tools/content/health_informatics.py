@@ -270,3 +270,27 @@ FLASHCARDS = [
         ("Precision medicine", "Care tailored to genes, environment, and lifestyle"),
     ]),
 ]
+
+FLASHCARDS += [
+    ("More Informatics Concepts", "Additional systems, standards, and data terms.", [
+        ("Meaningful Use / Promoting Interoperability", "CMS program giving incentives for using certified EHRs effectively."),
+        ("Patient portal", "Secure website where patients view records, results, and message providers."),
+        ("Telehealth", "Delivering health care remotely using technology."),
+        ("Remote patient monitoring", "Collecting patient data (e.g., BP, glucose) at home and sending it to providers."),
+        ("DICOM", "Standard for storing and transmitting medical images."),
+        ("API", "Application programming interface: allows software systems to exchange data."),
+        ("Cloud computing", "Storing and processing data on remote servers over the internet."),
+        ("Big data", "Very large data sets analyzed to find patterns, trends, and associations."),
+        ("Dashboard", "Visual display of key metrics for quick decision-making."),
+        ("Information blocking", "Practices that interfere with access or exchange of EHI; prohibited under the Cures Act."),
+        ("Disaster recovery plan", "Procedures to restore systems and data after an outage or disaster."),
+        ("Backup", "Copy of data stored separately to restore after loss."),
+        ("Downtime procedures", "Paper or backup processes used when the EHR is unavailable."),
+        ("Usability", "How easily and efficiently users can use a system; poor usability causes errors."),
+        ("Clinical documentation improvement", "Programs that make records more accurate and complete for care and coding."),
+        ("Registry", "Database tracking patients with a specific condition (e.g., cancer registry)."),
+        ("Data mining", "Discovering patterns in large data sets."),
+        ("Population health management", "Using data to improve outcomes for a defined group of patients."),
+        ("Social engineering", "Manipulating people into revealing confidential information."),
+    ]),
+]

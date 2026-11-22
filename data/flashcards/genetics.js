@@ -305,5 +305,143 @@ window.CONTENT["genetics"].flashcards = [
     "back": "Explains risks and tests"
    }
   ]
+ },
+ {
+  "section": "More Genetics Concepts",
+  "description": "Additional terms, disorders, and patterns.",
+  "cards": [
+   {
+    "front": "Gene",
+    "back": "Segment of DNA that codes for a protein or functional RNA."
+   },
+   {
+    "front": "Allele",
+    "back": "Alternative form of a gene."
+   },
+   {
+    "front": "Genotype vs. phenotype",
+    "back": "Genotype = genetic makeup; phenotype = observable traits."
+   },
+   {
+    "front": "Homozygous vs. heterozygous",
+    "back": "Two identical alleles vs. two different alleles."
+   },
+   {
+    "front": "Carrier",
+    "back": "Heterozygous person with one recessive disease allele and no symptoms."
+   },
+   {
+    "front": "Karyotype",
+    "back": "Picture of chromosomes arranged by size to detect number and structure changes."
+   },
+   {
+    "front": "Autosomal dominant pattern",
+    "back": "Affects every generation; affected parent has 50% chance to pass it on."
+   },
+   {
+    "front": "Autosomal recessive pattern",
+    "back": "Can skip generations; two carrier parents have a 25% chance of an affected child."
+   },
+   {
+    "front": "X-linked dominant",
+    "back": "Affected fathers pass the trait to all daughters and no sons."
+   },
+   {
+    "front": "Y-linked",
+    "back": "Passed only father to son."
+   },
+   {
+    "front": "Sickle cell disease",
+    "back": "Autosomal recessive; single base substitution in the hemoglobin beta gene."
+   },
+   {
+    "front": "Tay-Sachs disease",
+    "back": "Autosomal recessive lipid storage disorder causing neurodegeneration."
+   },
+   {
+    "front": "PKU",
+    "back": "Autosomal recessive; can't break down phenylalanine; detected by newborn screening and treated with diet."
+   },
+   {
+    "front": "Hemophilia A",
+    "back": "X-linked recessive clotting factor VIII deficiency."
+   },
+   {
+    "front": "Duchenne muscular dystrophy",
+    "back": "X-linked recessive; lack of dystrophin causing progressive muscle weakness."
+   },
+   {
+    "front": "Fragile X syndrome",
+    "back": "X-linked trinucleotide repeat (CGG) disorder; common inherited cause of intellectual disability."
+   },
+   {
+    "front": "Marfan syndrome",
+    "back": "Autosomal dominant connective tissue disorder; tall stature, long limbs, heart risks."
+   },
+   {
+    "front": "Translocation",
+    "back": "Piece of one chromosome attaches to another."
+   },
+   {
+    "front": "Deletion / duplication",
+    "back": "Loss or extra copy of part of a chromosome."
+   },
+   {
+    "front": "Point mutation",
+    "back": "Change of a single base pair."
+   },
+   {
+    "front": "Silent mutation",
+    "back": "Base change that doesn't change the amino acid."
+   },
+   {
+    "front": "Missense mutation",
+    "back": "Base change that results in a different amino acid."
+   },
+   {
+    "front": "mRNA / tRNA / rRNA",
+    "back": "Messenger carries the code; transfer brings amino acids; ribosomal forms ribosomes."
+   },
+   {
+    "front": "Codon / anticodon",
+    "back": "Three-base mRNA sequence / complementary three-base tRNA sequence."
+   },
+   {
+    "front": "Stop codons",
+    "back": "UAA, UAG, UGA signal the end of translation."
+   },
+   {
+    "front": "RNA polymerase",
+    "back": "Enzyme that builds RNA during transcription."
+   },
+   {
+    "front": "Mendel",
+    "back": "Gregor Mendel: father of genetics; pea plant experiments; laws of segregation and independent assortment."
+   },
+   {
+    "front": "Watson, Crick, and Franklin",
+    "back": "Discovered the double helix (1953) using Franklin's X-ray image (Photo 51)."
+   },
+   {
+    "front": "Human Genome Project",
+    "back": "International project that sequenced the human genome (completed 2003)."
+   },
+   {
+    "front": "Newborn screening",
+    "back": "Blood spot tests for treatable genetic conditions shortly after birth."
+   },
+   {
+    "front": "Genetic testing ethics",
+    "back": "Issues of privacy, consent, discrimination (GINA protects against some), and incidental findings."
+   },
+   {
+    "front": "GINA",
+    "back": "Genetic Information Nondiscrimination Act (2008): bans genetic discrimination in health insurance and employment."
+   },
+   {
+    "front": "Epigenetics",
+    "back": "Heritable changes in gene expression without changes in DNA sequence."
+   }
+  ]
  }
 ];

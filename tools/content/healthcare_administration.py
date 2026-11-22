@@ -267,3 +267,30 @@ FLASHCARDS = [
         ("Advance directive", "Care wishes for the future"),
     ]),
 ]
+
+FLASHCARDS += [
+    ("More Administration Concepts", "Operations, finance, workforce, and policy terms.", [
+        ("Accreditation", "Voluntary review showing an organization meets standards, e.g., The Joint Commission."),
+        ("Licensure (facility)", "State permission required to operate a health care facility."),
+        ("CMS", "Centers for Medicare & Medicaid Services: runs Medicare and Medicaid and sets payment rules."),
+        ("Affordable Care Act", "2010 law expanding coverage through marketplaces, Medicaid expansion, and protections for pre-existing conditions."),
+        ("Fee-for-service", "Providers are paid for each service performed."),
+        ("Value-based purchasing", "Payment tied to quality and outcomes rather than volume."),
+        ("Bundled payment", "Single payment for all services in an episode of care."),
+        ("Revenue cycle", "Process from patient registration and coding to billing and collecting payment."),
+        ("Operating budget", "Plan for day-to-day revenue and expenses."),
+        ("Return on investment", "Gain from an investment relative to its cost."),
+        ("Full-time equivalent (FTE)", "Unit of staffing; 1.0 FTE = one full-time worker (about 2,080 hours/year)."),
+        ("Turnover", "Rate at which employees leave and must be replaced."),
+        ("Job description", "Document listing a position's duties, qualifications, and reporting relationships."),
+        ("Performance appraisal", "Formal evaluation of an employee's work."),
+        ("Strategic planning", "Long-term process of setting direction, goals, and priorities."),
+        ("Change management (Kotter)", "Steps include creating urgency, building a coalition, communicating vision, and anchoring change."),
+        ("Risk management", "Identifying and reducing risks that could harm patients or the organization."),
+        ("Compliance program", "Policies, training, and monitoring to follow laws and regulations."),
+        ("HIPAA (administration)", "Requires privacy and security safeguards for patient information."),
+        ("Patient-centered care", "Care that respects patients' preferences, needs, and values in all decisions."),
+        ("Nonprofit hospital", "Tax-exempt hospital that must provide community benefit."),
+        ("Telehealth expansion", "Growth in virtual care that requires new policies for licensure, billing, and privacy."),
+    ]),
+]

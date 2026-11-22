@@ -291,5 +291,157 @@ window.CONTENT["healthy-living"].flashcards = [
     "back": "Waist, BP, glucose, lipids"
    }
   ]
+ },
+ {
+  "section": "More Nutrition & Fitness",
+  "description": "Additional nutrition and exercise concepts.",
+  "cards": [
+   {
+    "front": "MyPlate",
+    "back": "USDA guide: half the plate fruits and vegetables, plus grains, protein, and dairy."
+   },
+   {
+    "front": "Whole grains",
+    "back": "Contain bran, germ, and endosperm; more fiber than refined grains."
+   },
+   {
+    "front": "Fiber benefits",
+    "back": "Aids digestion, lowers cholesterol, and helps control blood sugar."
+   },
+   {
+    "front": "Complete protein",
+    "back": "Contains all essential amino acids (animal foods, soy, quinoa)."
+   },
+   {
+    "front": "Trans fat",
+    "back": "Most harmful fat; raises LDL and lowers HDL."
+   },
+   {
+    "front": "HDL vs. LDL",
+    "back": "HDL = 'good' cholesterol; LDL = 'bad' cholesterol."
+   },
+   {
+    "front": "Hydration",
+    "back": "Water regulates temperature and transports nutrients; drink before, during, and after exercise."
+   },
+   {
+    "front": "Nutrition Facts label",
+    "back": "Check serving size and %DV: 5% or less is low, 20% or more is high."
+   },
+   {
+    "front": "Calories per gram",
+    "back": "Carbohydrate 4, protein 4, fat 9, alcohol 7."
+   },
+   {
+    "front": "Energy balance",
+    "back": "Weight is stable when calories in equal calories out."
+   },
+   {
+    "front": "Warm-up and cool-down",
+    "back": "Prepare muscles and raise heart rate before exercise; lower it gradually after."
+   },
+   {
+    "front": "Static vs. dynamic stretching",
+    "back": "Static holds a position (best after exercise); dynamic moves through motion (best before)."
+   },
+   {
+    "front": "Cardiorespiratory endurance",
+    "back": "Ability of heart and lungs to supply oxygen during sustained activity."
+   },
+   {
+    "front": "Muscular endurance vs. strength",
+    "back": "Endurance = repeated contractions over time; strength = maximum force."
+   },
+   {
+    "front": "Flexibility",
+    "back": "Range of motion around a joint."
+   },
+   {
+    "front": "Body composition",
+    "back": "Proportion of fat to lean mass in the body."
+   },
+   {
+    "front": "Resting heart rate",
+    "back": "Lower resting heart rate usually reflects better fitness (adults 60–100)."
+   },
+   {
+    "front": "Overtraining",
+    "back": "Too much exercise without rest; causes fatigue, injury, and decreased performance."
+   }
+  ]
+ },
+ {
+  "section": "More Wellness & Prevention",
+  "description": "Mental health, substance use, and safety.",
+  "cards": [
+   {
+    "front": "Sleep hygiene",
+    "back": "Consistent schedule, dark cool room, limit screens and caffeine before bed."
+   },
+   {
+    "front": "Screen time effects",
+    "back": "Too much can harm sleep, activity levels, and mood."
+   },
+   {
+    "front": "Vaping risks",
+    "back": "Nicotine addiction, lung injury, and harm to the developing brain."
+   },
+   {
+    "front": "Alcohol effects",
+    "back": "Depresses the central nervous system; impairs judgment and coordination."
+   },
+   {
+    "front": "Binge drinking",
+    "back": "About 4+ drinks (women) or 5+ drinks (men) in about 2 hours."
+   },
+   {
+    "front": "Addiction",
+    "back": "Compulsive substance use despite harm, with changes in brain reward pathways."
+   },
+   {
+    "front": "Signs of depression",
+    "back": "Persistent sadness, loss of interest, sleep and appetite changes for 2+ weeks."
+   },
+   {
+    "front": "Healthy coping",
+    "back": "Exercise, talking to someone, journaling, relaxation techniques."
+   },
+   {
+    "front": "Unhealthy coping",
+    "back": "Avoidance, substance use, self-harm."
+   },
+   {
+    "front": "Bullying",
+    "back": "Repeated aggressive behavior with a power imbalance; includes cyberbullying."
+   },
+   {
+    "front": "Sunscreen",
+    "back": "Broad-spectrum SPF 30+, reapplied every 2 hours."
+   },
+   {
+    "front": "Seat belts",
+    "back": "Reduce risk of death in crashes by about half for front-seat occupants."
+   },
+   {
+    "front": "Hand hygiene duration",
+    "back": "Scrub with soap for at least 20 seconds."
+   },
+   {
+    "front": "Vaccines across life",
+    "back": "Childhood series, adolescent boosters (Tdap, HPV, meningococcal), yearly flu."
+   },
+   {
+    "front": "Blood pressure screening",
+    "back": "Normal is under 120/80; check regularly starting in childhood."
+   },
+   {
+    "front": "Type 2 diabetes prevention",
+    "back": "Healthy weight, activity, and diet reduce risk."
+   },
+   {
+    "front": "Chronic disease risk factors",
+    "back": "Tobacco, poor diet, inactivity, and excessive alcohol."
+   }
+  ]
  }
 ];

@@ -259,8 +259,188 @@ window.CONTENT["home-health-aide"].flashcards = [
     "back": "Thickened liquids"
    },
    {
-    "front": "Falls",
+    "front": "If a client falls",
     "back": "Don't move; call for help"
+   }
+  ]
+ },
+ {
+  "section": "More Role & Communication",
+  "description": "Professional practice and communication.",
+  "cards": [
+   {
+    "front": "Homebound (Medicare)",
+    "back": "Leaving home takes considerable effort; required for Medicare home health."
+   },
+   {
+    "front": "Scope of HHA work",
+    "back": "Personal care, light housekeeping, observation and reporting; no sterile procedures or giving meds unless allowed."
+   },
+   {
+    "front": "Confidentiality",
+    "back": "Share client information only with the care team; protected by HIPAA."
+   },
+   {
+    "front": "Documentation",
+    "back": "Record care accurately and promptly; if it wasn't documented, it wasn't done."
+   },
+   {
+    "front": "Reporting changes",
+    "back": "Report changes in condition to the supervisor right away."
+   },
+   {
+    "front": "Active listening",
+    "back": "Give full attention, paraphrase, and ask questions."
+   },
+   {
+    "front": "Hearing impairment tips",
+    "back": "Face the client, speak clearly, reduce background noise."
+   },
+   {
+    "front": "Vision impairment tips",
+    "back": "Identify yourself, keep items in the same place, describe surroundings."
+   },
+   {
+    "front": "Cultural respect",
+    "back": "Respect clients' beliefs, food practices, and religious customs."
+   },
+   {
+    "front": "Professional boundaries",
+    "back": "Keep the relationship professional: don't share personal problems or borrow or lend money."
+   },
+   {
+    "front": "Client rights",
+    "back": "Privacy, dignity, choice, and refusal of care."
+   },
+   {
+    "front": "Combative client",
+    "back": "Stay calm, step back, don't argue, and report."
+   },
+   {
+    "front": "Time management",
+    "back": "Plan the visit and prioritize tasks."
+   },
+   {
+    "front": "Conflict with family",
+    "back": "Stay professional and report concerns to the supervisor."
+   }
+  ]
+ },
+ {
+  "section": "More Skills & Home Care",
+  "description": "Additional procedures and household tasks.",
+  "cards": [
+   {
+    "front": "Bed bath order",
+    "back": "Wash cleanest to dirtiest: eyes, face, arms, chest, abdomen, legs, back, perineal area."
+   },
+   {
+    "front": "Back rub",
+    "back": "Promotes circulation and relaxation; check skin for redness."
+   },
+   {
+    "front": "Pressure injury sites",
+    "back": "Heels, sacrum, hips, elbows, shoulder blades, back of head."
+   },
+   {
+    "front": "Range of motion exercises",
+    "back": "Move each joint gently; stop if pain occurs."
+   },
+   {
+    "front": "Ostomy pouch",
+    "back": "Empty when one-third to one-half full; check skin around the stoma."
+   },
+   {
+    "front": "Cane use",
+    "back": "Held on the strong side; moves with the weak leg."
+   },
+   {
+    "front": "Walker use",
+    "back": "Move the walker forward, then step in with the weak leg first."
+   },
+   {
+    "front": "Mechanical lift",
+    "back": "Use only if trained and per agency policy; check the sling and equipment first."
+   },
+   {
+    "front": "Catheter care",
+    "back": "Keep the bag below the bladder and tubing free of kinks."
+   },
+   {
+    "front": "Intake and output",
+    "back": "Measure all fluids taken in and given off, in mL."
+   },
+   {
+    "front": "Bedpan use",
+    "back": "Place with the wide end under the buttocks; raise head of bed for comfort."
+   },
+   {
+    "front": "Weighing a client",
+    "back": "Same time, same scale, same clothing each time."
+   },
+   {
+    "front": "Respiration count",
+    "back": "Count breaths for a full minute without telling the client."
+   },
+   {
+    "front": "Normal adult blood pressure",
+    "back": "Less than 120/80 mm Hg."
+   },
+   {
+    "front": "Feeding a client",
+    "back": "Sit at eye level, small bites, check for swallowing."
+   },
+   {
+    "front": "Special diets",
+    "back": "Low-sodium, diabetic, soft, or thickened liquids as ordered."
+   },
+   {
+    "front": "Thawing food",
+    "back": "Thaw in the refrigerator, cold water, or microwave, never on the counter."
+   },
+   {
+    "front": "Cleaning the kitchen",
+    "back": "Clean as you go; disinfect counters and cutting boards."
+   },
+   {
+    "front": "Bed making",
+    "back": "Hold linens away from your uniform and never shake them."
+   },
+   {
+    "front": "Budgeting",
+    "back": "Keep receipts and return change when shopping for clients."
+   },
+   {
+    "front": "Pet safety",
+    "back": "Ask that pets be secured during visits if they interfere with care."
+   },
+   {
+    "front": "Hospital bed safety",
+    "back": "Keep the bed in the lowest position with wheels locked when not giving care."
+   },
+   {
+    "front": "Bathroom safety",
+    "back": "Grab bars, nonslip mats, and shower chairs prevent falls."
+   },
+   {
+    "front": "Medication storage",
+    "back": "Keep medicines in original labeled containers, away from children and pets."
+   },
+   {
+    "front": "Postmortem care",
+    "back": "Gentle, respectful care of the body following agency policy."
+   },
+   {
+    "front": "Restorative care",
+    "back": "Helps clients maintain function and independence."
+   },
+   {
+    "front": "Adaptive devices",
+    "back": "Reachers, built-up utensils, and sock aids help with ADLs."
+   },
+   {
+    "front": "ADLs",
+    "back": "Activities of daily living: bathing, dressing, eating, toileting, mobility."
    }
   ]
  }

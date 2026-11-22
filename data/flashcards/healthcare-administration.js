@@ -355,5 +355,99 @@ window.CONTENT["healthcare-administration"].flashcards = [
     "back": "Care wishes for the future"
    }
   ]
+ },
+ {
+  "section": "More Administration Concepts",
+  "description": "Operations, finance, workforce, and policy terms.",
+  "cards": [
+   {
+    "front": "Accreditation",
+    "back": "Voluntary review showing an organization meets standards, e.g., The Joint Commission."
+   },
+   {
+    "front": "Licensure (facility)",
+    "back": "State permission required to operate a health care facility."
+   },
+   {
+    "front": "CMS",
+    "back": "Centers for Medicare & Medicaid Services: runs Medicare and Medicaid and sets payment rules."
+   },
+   {
+    "front": "Affordable Care Act",
+    "back": "2010 law expanding coverage through marketplaces, Medicaid expansion, and protections for pre-existing conditions."
+   },
+   {
+    "front": "Fee-for-service",
+    "back": "Providers are paid for each service performed."
+   },
+   {
+    "front": "Value-based purchasing",
+    "back": "Payment tied to quality and outcomes rather than volume."
+   },
+   {
+    "front": "Bundled payment",
+    "back": "Single payment for all services in an episode of care."
+   },
+   {
+    "front": "Revenue cycle",
+    "back": "Process from patient registration and coding to billing and collecting payment."
+   },
+   {
+    "front": "Operating budget",
+    "back": "Plan for day-to-day revenue and expenses."
+   },
+   {
+    "front": "Return on investment",
+    "back": "Gain from an investment relative to its cost."
+   },
+   {
+    "front": "Full-time equivalent (FTE)",
+    "back": "Unit of staffing; 1.0 FTE = one full-time worker (about 2,080 hours/year)."
+   },
+   {
+    "front": "Turnover",
+    "back": "Rate at which employees leave and must be replaced."
+   },
+   {
+    "front": "Job description",
+    "back": "Document listing a position's duties, qualifications, and reporting relationships."
+   },
+   {
+    "front": "Performance appraisal",
+    "back": "Formal evaluation of an employee's work."
+   },
+   {
+    "front": "Strategic planning",
+    "back": "Long-term process of setting direction, goals, and priorities."
+   },
+   {
+    "front": "Change management (Kotter)",
+    "back": "Steps include creating urgency, building a coalition, communicating vision, and anchoring change."
+   },
+   {
+    "front": "Risk management",
+    "back": "Identifying and reducing risks that could harm patients or the organization."
+   },
+   {
+    "front": "Compliance program",
+    "back": "Policies, training, and monitoring to follow laws and regulations."
+   },
+   {
+    "front": "HIPAA (administration)",
+    "back": "Requires privacy and security safeguards for patient information."
+   },
+   {
+    "front": "Patient-centered care",
+    "back": "Care that respects patients' preferences, needs, and values in all decisions."
+   },
+   {
+    "front": "Nonprofit hospital",
+    "back": "Tax-exempt hospital that must provide community benefit."
+   },
+   {
+    "front": "Telehealth expansion",
+    "back": "Growth in virtual care that requires new policies for licensure, billing, and privacy."
+   }
+  ]
  }
 ];

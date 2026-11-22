@@ -367,5 +367,87 @@ window.CONTENT["health-informatics"].flashcards = [
     "back": "Care tailored to genes, environment, and lifestyle"
    }
   ]
+ },
+ {
+  "section": "More Informatics Concepts",
+  "description": "Additional systems, standards, and data terms.",
+  "cards": [
+   {
+    "front": "Meaningful Use / Promoting Interoperability",
+    "back": "CMS program giving incentives for using certified EHRs effectively."
+   },
+   {
+    "front": "Patient portal",
+    "back": "Secure website where patients view records, results, and message providers."
+   },
+   {
+    "front": "Telehealth",
+    "back": "Delivering health care remotely using technology."
+   },
+   {
+    "front": "Remote patient monitoring",
+    "back": "Collecting patient data (e.g., BP, glucose) at home and sending it to providers."
+   },
+   {
+    "front": "DICOM",
+    "back": "Standard for storing and transmitting medical images."
+   },
+   {
+    "front": "API",
+    "back": "Application programming interface: allows software systems to exchange data."
+   },
+   {
+    "front": "Cloud computing",
+    "back": "Storing and processing data on remote servers over the internet."
+   },
+   {
+    "front": "Big data",
+    "back": "Very large data sets analyzed to find patterns, trends, and associations."
+   },
+   {
+    "front": "Dashboard",
+    "back": "Visual display of key metrics for quick decision-making."
+   },
+   {
+    "front": "Information blocking",
+    "back": "Practices that interfere with access or exchange of EHI; prohibited under the Cures Act."
+   },
+   {
+    "front": "Disaster recovery plan",
+    "back": "Procedures to restore systems and data after an outage or disaster."
+   },
+   {
+    "front": "Backup",
+    "back": "Copy of data stored separately to restore after loss."
+   },
+   {
+    "front": "Downtime procedures",
+    "back": "Paper or backup processes used when the EHR is unavailable."
+   },
+   {
+    "front": "Usability",
+    "back": "How easily and efficiently users can use a system; poor usability causes errors."
+   },
+   {
+    "front": "Clinical documentation improvement",
+    "back": "Programs that make records more accurate and complete for care and coding."
+   },
+   {
+    "front": "Registry",
+    "back": "Database tracking patients with a specific condition (e.g., cancer registry)."
+   },
+   {
+    "front": "Data mining",
+    "back": "Discovering patterns in large data sets."
+   },
+   {
+    "front": "Population health management",
+    "back": "Using data to improve outcomes for a defined group of patients."
+   },
+   {
+    "front": "Social engineering",
+    "back": "Manipulating people into revealing confidential information."
+   }
+  ]
  }
 ];

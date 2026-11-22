@@ -297,5 +297,157 @@ window.CONTENT["forensic-science"].flashcards = [
     "back": "Plans; little evidence"
    }
   ]
+ },
+ {
+  "section": "Crime Scene & Physical Evidence",
+  "description": "Processing scenes and trace evidence.",
+  "cards": [
+   {
+    "front": "Transfer vs. persistence",
+    "back": "Trace evidence transfers on contact but may be lost over time; collect it early."
+   },
+   {
+    "front": "Crime scene search patterns",
+    "back": "Spiral, grid, line (strip), and zone (quadrant) searches."
+   },
+   {
+    "front": "First officer's priorities",
+    "back": "Ensure safety, aid victims, secure the scene, and preserve evidence."
+   },
+   {
+    "front": "Crime scene sketch",
+    "back": "Drawing with measurements, compass direction, and scale to show evidence locations."
+   },
+   {
+    "front": "Photograph before moving",
+    "back": "Evidence is photographed in place, with and without a scale, before collection."
+   },
+   {
+    "front": "Class evidence",
+    "back": "Can be linked to a group but not one source, e.g., blood type, fiber type."
+   },
+   {
+    "front": "Individual evidence",
+    "back": "Can be linked to a single source, e.g., fingerprints, DNA."
+   },
+   {
+    "front": "Trace evidence",
+    "back": "Small materials like hair, fibers, glass, soil, and paint transferred during contact."
+   },
+   {
+    "front": "Hair medulla",
+    "back": "Central core of a hair; patterns help tell human from animal hair."
+   },
+   {
+    "front": "Glass fracture",
+    "back": "Radial cracks form first; concentric cracks form around the impact point."
+   },
+   {
+    "front": "Refractive index",
+    "back": "How much light bends in a material; used to compare glass samples."
+   },
+   {
+    "front": "Latent print",
+    "back": "Invisible fingerprint developed with powder, chemicals, or alternate light."
+   },
+   {
+    "front": "Patent print",
+    "back": "Visible print made in blood, ink, or other substances."
+   },
+   {
+    "front": "Plastic print",
+    "back": "3D impression in soft material like wax or clay."
+   },
+   {
+    "front": "AFIS",
+    "back": "Automated Fingerprint Identification System: searches fingerprint databases."
+   },
+   {
+    "front": "Minutiae",
+    "back": "Ridge details used to match fingerprints: bifurcations, ridge endings, dots."
+   },
+   {
+    "front": "Firearms: rifling",
+    "back": "Spiral grooves in a barrel leave unique marks on bullets."
+   },
+   {
+    "front": "Gunshot residue",
+    "back": "Particles (lead, barium, antimony) left on hands or clothing after firing."
+   },
+   {
+    "front": "Questioned documents",
+    "back": "Analysis of handwriting, ink, and paper to detect forgeries."
+   },
+   {
+    "front": "Tool marks",
+    "back": "Impressions left by tools that can be matched to a specific tool."
+   }
+  ]
+ },
+ {
+  "section": "More Death Investigation & Careers",
+  "description": "Autopsy, injuries, and forensic roles.",
+  "cards": [
+   {
+    "front": "Medical examiner vs. coroner",
+    "back": "ME is a physician (often a pathologist); a coroner may be elected and not a physician."
+   },
+   {
+    "front": "Cause vs. manner of death",
+    "back": "Cause = injury or disease (e.g., gunshot); manner = natural, accident, suicide, homicide, undetermined."
+   },
+   {
+    "front": "Mechanism of death",
+    "back": "Physiological change that causes death, e.g., blood loss."
+   },
+   {
+    "front": "Contact gunshot wound",
+    "back": "Muzzle against skin; soot and burned tissue in the wound."
+   },
+   {
+    "front": "Blunt force trauma",
+    "back": "Injury from a blunt object: bruises, abrasions, lacerations, fractures."
+   },
+   {
+    "front": "Sharp force injury",
+    "back": "Incised wounds (longer than deep) and stab wounds (deeper than long)."
+   },
+   {
+    "front": "Asphyxia",
+    "back": "Lack of oxygen from strangulation, suffocation, drowning, or choking."
+   },
+   {
+    "front": "Vitreous potassium",
+    "back": "Potassium in the eye fluid rises after death, helping estimate time since death."
+   },
+   {
+    "front": "Forensic odontology",
+    "back": "Uses teeth and dental records to identify people and analyze bite marks."
+   },
+   {
+    "front": "Forensic anthropologist",
+    "back": "Examines skeletal remains to estimate sex, age, ancestry, stature, and trauma."
+   },
+   {
+    "front": "Forensic entomologist",
+    "back": "Uses insects to estimate time since death."
+   },
+   {
+    "front": "Forensic toxicologist",
+    "back": "Detects drugs and poisons in body fluids and tissues."
+   },
+   {
+    "front": "Digital forensics",
+    "back": "Recovering and analyzing data from computers and phones."
+   },
+   {
+    "front": "Expert witness",
+    "back": "Gives opinion testimony based on specialized knowledge."
+   },
+   {
+    "front": "Innocence Project",
+    "back": "Uses DNA testing to help exonerate wrongly convicted people."
+   }
+  ]
  }
 ];
