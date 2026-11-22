@@ -349,5 +349,99 @@ window.CONTENT["human-growth-development"].flashcards = [
     "back": "Mutual withdrawal of elders and society"
    }
   ]
+ },
+ {
+  "section": "More Development Concepts",
+  "description": "Additional theories, milestones, and life-span terms.",
+  "cards": [
+   {
+    "front": "Nature vs. nurture",
+    "back": "Debate over the roles of heredity and environment in development."
+   },
+   {
+    "front": "Longitudinal study",
+    "back": "Follows the same people over many years."
+   },
+   {
+    "front": "Cross-sectional study",
+    "back": "Compares people of different ages at one time."
+   },
+   {
+    "front": "Maslow's hierarchy",
+    "back": "Physiological, safety, love/belonging, esteem, self-actualization."
+   },
+   {
+    "front": "Vygotsky's scaffolding",
+    "back": "Support given to a learner that is reduced as skills grow."
+   },
+   {
+    "front": "Bandura's social learning",
+    "back": "People learn by observing and imitating others (Bobo doll study)."
+   },
+   {
+    "front": "Skinner's operant conditioning",
+    "back": "Behavior is shaped by reinforcement and punishment."
+   },
+   {
+    "front": "Temperament",
+    "back": "Inborn behavioral style: easy, difficult, or slow-to-warm-up."
+   },
+   {
+    "front": "Stranger anxiety",
+    "back": "Fear of unfamiliar people, often starting around 8–9 months."
+   },
+   {
+    "front": "Separation anxiety",
+    "back": "Distress when separated from a caregiver; peaks around 10–18 months."
+   },
+   {
+    "front": "Egocentrism (Piaget)",
+    "back": "Preoperational child can't see from another's perspective."
+   },
+   {
+    "front": "Formal operations",
+    "back": "Piaget's final stage (12+): abstract and hypothetical thinking."
+   },
+   {
+    "front": "Puberty",
+    "back": "Period of sexual maturation driven by hormones."
+   },
+   {
+    "front": "Growth spurt",
+    "back": "Rapid increase in height and weight during puberty; earlier in girls."
+   },
+   {
+    "front": "Peer pressure",
+    "back": "Influence from peers to behave in certain ways; strongest in adolescence."
+   },
+   {
+    "front": "Self-esteem",
+    "back": "Overall evaluation of one's own worth."
+   },
+   {
+    "front": "Midlife transition",
+    "back": "Reassessment of goals and priorities during middle adulthood."
+   },
+   {
+    "front": "Empty nest",
+    "back": "Period when children leave home; can bring relief or sadness."
+   },
+   {
+    "front": "Retirement",
+    "back": "Leaving the workforce; adjustment depends on health, finances, and purpose."
+   },
+   {
+    "front": "Ageism",
+    "back": "Stereotyping and discrimination based on age."
+   },
+   {
+    "front": "Life expectancy",
+    "back": "Average number of years a person is expected to live."
+   },
+   {
+    "front": "Bereavement",
+    "back": "State of having lost a loved one to death."
+   }
+  ]
  }
 ];

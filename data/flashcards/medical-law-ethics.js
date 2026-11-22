@@ -375,5 +375,79 @@ window.CONTENT["medical-law-ethics"].flashcards = [
     "back": "Shows why advance directives matter"
    }
   ]
+ },
+ {
+  "section": "More Law & Ethics",
+  "description": "Additional legal and ethical terms.",
+  "cards": [
+   {
+    "front": "Contract (implied vs. expressed)",
+    "back": "Implied by actions; expressed is stated in words or writing."
+   },
+   {
+    "front": "Breach of confidentiality",
+    "back": "Disclosing patient information without authorization."
+   },
+   {
+    "front": "Defamation",
+    "back": "False statements that harm a reputation (libel = written, slander = spoken)."
+   },
+   {
+    "front": "Invasion of privacy",
+    "back": "Unauthorized intrusion or publicizing of private information."
+   },
+   {
+    "front": "Scope of practice",
+    "back": "Duties a professional is legally allowed to perform."
+   },
+   {
+    "front": "Licensure vs. certification",
+    "back": "Licensure is mandatory and state-granted; certification is usually voluntary through a professional body."
+   },
+   {
+    "front": "Medical practice act",
+    "back": "State law defining licensure and practice of medicine."
+   },
+   {
+    "front": "Stark Law",
+    "back": "Bans physician self-referral for certain services to entities with financial ties."
+   },
+   {
+    "front": "Anti-Kickback Statute",
+    "back": "Prohibits paying or receiving anything of value for referrals of federal health program patients."
+   },
+   {
+    "front": "False Claims Act",
+    "back": "Penalizes submitting false bills to the government; allows whistleblower lawsuits."
+   },
+   {
+    "front": "EMTALA",
+    "back": "Hospitals must screen and stabilize emergency patients regardless of ability to pay."
+   },
+   {
+    "front": "Patient Self-Determination Act",
+    "back": "Facilities must inform patients about advance directives."
+   },
+   {
+    "front": "Veracity",
+    "back": "Ethical duty to tell the truth."
+   },
+   {
+    "front": "Fidelity",
+    "back": "Ethical duty to keep promises and be loyal."
+   },
+   {
+    "front": "Code of ethics",
+    "back": "Professional association's standards of conduct (e.g., AMA Code of Medical Ethics)."
+   },
+   {
+    "front": "Conflict of interest",
+    "back": "Personal interests that could improperly influence professional decisions."
+   },
+   {
+    "front": "Whistleblower",
+    "back": "Employee who reports illegal or unethical practices; protected by law."
+   }
+  ]
  }
 ];

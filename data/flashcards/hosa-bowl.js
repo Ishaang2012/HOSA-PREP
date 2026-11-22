@@ -325,5 +325,123 @@ window.CONTENT["hosa-bowl"].flashcards = [
     "back": "15 mL"
    }
   ]
+ },
+ {
+  "section": "More HOSA & Health Knowledge",
+  "description": "Extra facts that show up across HOSA Bowl rounds.",
+  "cards": [
+   {
+    "front": "HOSA divisions",
+    "back": "Middle School, Secondary, and Postsecondary/Collegiate."
+   },
+   {
+    "front": "ILC",
+    "back": "International Leadership Conference: HOSA's annual national/international competition."
+   },
+   {
+    "front": "HOSA Bowl team size",
+    "back": "Teams of 4 members compete in a written test round and buzzer rounds."
+   },
+   {
+    "front": "HOSA Happenings",
+    "back": "HOSA's newsletter/communication for members."
+   },
+   {
+    "front": "Main motion",
+    "back": "Brings new business before the assembly; requires a second, is debatable, needs a majority."
+   },
+   {
+    "front": "Amend",
+    "back": "Subsidiary motion to change a pending motion; debatable, majority vote."
+   },
+   {
+    "front": "Point of order",
+    "back": "Calls attention to a rule violation; no second, decided by the chair."
+   },
+   {
+    "front": "Adjourn",
+    "back": "Privileged motion to end the meeting."
+   },
+   {
+    "front": "Two-thirds vote motions",
+    "back": "Previous question, suspend the rules, limit or extend debate, object to consideration."
+   },
+   {
+    "front": "Hemoglobin",
+    "back": "Iron-containing protein in red blood cells that carries oxygen."
+   },
+   {
+    "front": "Insulin",
+    "back": "Pancreatic hormone that lowers blood glucose."
+   },
+   {
+    "front": "Cerebrum",
+    "back": "Largest part of the brain; thinking, memory, voluntary movement."
+   },
+   {
+    "front": "Femur",
+    "back": "Thigh bone; the longest and strongest bone."
+   },
+   {
+    "front": "Pericardium",
+    "back": "Sac surrounding the heart."
+   },
+   {
+    "front": "-emia",
+    "back": "Suffix meaning blood condition (e.g., anemia)."
+   },
+   {
+    "front": "hemi-",
+    "back": "Prefix meaning half (e.g., hemiplegia)."
+   },
+   {
+    "front": "Measles resurgence",
+    "back": "Outbreaks linked to declining vaccination coverage; MMR is 97% effective after 2 doses."
+   },
+   {
+    "front": "Long COVID",
+    "back": "Symptoms lasting weeks to months after COVID-19 infection."
+   },
+   {
+    "front": "Antimicrobial resistance",
+    "back": "Microbes evolving to survive drugs; a global health threat."
+   },
+   {
+    "front": "Elizabeth Blackwell",
+    "back": "First woman to earn a medical degree in the U.S. (1849)."
+   },
+   {
+    "front": "Charles Drew",
+    "back": "Developed large-scale blood banking and plasma storage."
+   },
+   {
+    "front": "William Harvey",
+    "back": "Described the circulation of blood (1628)."
+   },
+   {
+    "front": "Andreas Vesalius",
+    "back": "Father of modern anatomy; wrote De humani corporis fabrica."
+   },
+   {
+    "front": "Robert Koch",
+    "back": "Identified the bacteria causing tuberculosis and anthrax; Koch's postulates."
+   },
+   {
+    "front": "Informed consent",
+    "back": "Patient agrees after learning the risks, benefits, and alternatives."
+   },
+   {
+    "front": "Negligence",
+    "back": "Failure to provide the expected standard of care, causing harm."
+   },
+   {
+    "front": "1 mL",
+    "back": "Equals 1 cc."
+   },
+   {
+    "front": "98.6°F",
+    "back": "Equals 37°C, normal body temperature."
+   }
+  ]
  }
 ];

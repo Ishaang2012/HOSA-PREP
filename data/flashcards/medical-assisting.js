@@ -321,5 +321,133 @@ window.CONTENT["medical-assisting"].flashcards = [
     "back": "Average glucose over 2–3 months"
    }
   ]
+ },
+ {
+  "section": "More Front Office & Admin",
+  "description": "Additional administrative concepts.",
+  "cards": [
+   {
+    "front": "Practice management software",
+    "back": "Handles scheduling, registration, billing, and reports."
+   },
+   {
+    "front": "Double booking",
+    "back": "Scheduling two patients in the same slot; used carefully for short visits."
+   },
+   {
+    "front": "No-show policy",
+    "back": "Rules for patients who miss appointments; document every no-show."
+   },
+   {
+    "front": "Alphabetic filing",
+    "back": "Filing by last name, first name, then middle initial."
+   },
+   {
+    "front": "Accounts receivable",
+    "back": "Money owed to the practice."
+   },
+   {
+    "front": "Accounts payable",
+    "back": "Money the practice owes to others."
+   },
+   {
+    "front": "Clean claim",
+    "back": "Insurance claim with no errors that can be processed without delay."
+   },
+   {
+    "front": "Medical necessity",
+    "back": "Service must be reasonable and needed for the diagnosis to be covered."
+   },
+   {
+    "front": "Coinsurance",
+    "back": "Percentage of costs the patient pays after the deductible (e.g., 20%)."
+   },
+   {
+    "front": "Workers' compensation",
+    "back": "Insurance covering job-related injuries and illnesses."
+   },
+   {
+    "front": "Professionalism",
+    "back": "Reliability, courtesy, appropriate dress, and ethical behavior."
+   },
+   {
+    "front": "Empathy vs. sympathy",
+    "back": "Empathy is understanding another's feelings; sympathy is feeling sorry for them."
+   }
+  ]
+ },
+ {
+  "section": "More Clinical Skills",
+  "description": "Additional procedures and knowledge.",
+  "cards": [
+   {
+    "front": "Normal adult pulse",
+    "back": "60–100 beats per minute."
+   },
+   {
+    "front": "Normal adult respirations",
+    "back": "12–20 breaths per minute."
+   },
+   {
+    "front": "Normal blood pressure",
+    "back": "Less than 120/80 mm Hg."
+   },
+   {
+    "front": "Orthostatic hypotension",
+    "back": "Blood pressure drop on standing; causes dizziness."
+   },
+   {
+    "front": "Pulse oximetry",
+    "back": "Measures oxygen saturation; normal 95–100%."
+   },
+   {
+    "front": "BMI",
+    "back": "Weight (kg) ÷ height (m)²; 18.5–24.9 is normal."
+   },
+   {
+    "front": "Capillary puncture site (adult)",
+    "back": "Middle or ring finger of the nondominant hand."
+   },
+   {
+    "front": "Tourniquet time",
+    "back": "No longer than 1 minute during venipuncture."
+   },
+   {
+    "front": "Hematoma",
+    "back": "Blood leaking into tissue at a puncture site; apply pressure."
+   },
+   {
+    "front": "Syncope during venipuncture",
+    "back": "Remove needle, lower the patient's head, and get help."
+   },
+   {
+    "front": "Throat culture",
+    "back": "Swab the back of the throat and tonsils to test for strep."
+   },
+   {
+    "front": "Medication rights",
+    "back": "Right patient, drug, dose, route, time, and documentation."
+   },
+   {
+    "front": "Anaphylaxis in the office",
+    "back": "Call for help, give epinephrine per protocol, monitor airway."
+   },
+   {
+    "front": "Sharps disposal",
+    "back": "Immediately in a puncture-resistant sharps container; never recap."
+   },
+   {
+    "front": "Holter monitor",
+    "back": "Portable ECG worn for 24–48 hours."
+   },
+   {
+    "front": "Artifact (ECG)",
+    "back": "Interference from movement, electrical sources, or poor electrode contact."
+   },
+   {
+    "front": "Otoscope",
+    "back": "Instrument for examining the ear canal and eardrum."
+   }
+  ]
  }
 ];

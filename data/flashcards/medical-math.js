@@ -269,5 +269,185 @@ window.CONTENT["medical-math"].flashcards = [
     "back": "Moles per liter"
    }
   ]
+ },
+ {
+  "section": "Basic Math Skills",
+  "description": "Arithmetic used in dosage calculations.",
+  "cards": [
+   {
+    "front": "Leading zero",
+    "back": "Write 0.5 mg, never .5 mg."
+   },
+   {
+    "front": "Trailing zero",
+    "back": "Write 5 mg, never 5.0 mg (could be read as 50)."
+   },
+   {
+    "front": "Rounding (tenths)",
+    "back": "Look at the hundredths digit: 5 or more rounds up."
+   },
+   {
+    "front": "Fraction to decimal",
+    "back": "Divide numerator by denominator: 3/4 = 0.75."
+   },
+   {
+    "front": "Decimal to percent",
+    "back": "Multiply by 100: 0.25 = 25%."
+   },
+   {
+    "front": "Percent to decimal",
+    "back": "Divide by 100: 15% = 0.15."
+   },
+   {
+    "front": "Ratio to fraction",
+    "back": "1:4 = 1/4."
+   },
+   {
+    "front": "Proportion",
+    "back": "Two equal ratios; solve by cross-multiplying."
+   },
+   {
+    "front": "Dimensional analysis",
+    "back": "Set up conversion factors so unwanted units cancel."
+   },
+   {
+    "front": "Roman numeral X",
+    "back": "10."
+   },
+   {
+    "front": "Roman numeral L",
+    "back": "50."
+   },
+   {
+    "front": "Roman numeral C",
+    "back": "100."
+   },
+   {
+    "front": "Roman numerals IV / IX",
+    "back": "4 / 9 (smaller before larger means subtract)."
+   },
+   {
+    "front": "Reducing fractions",
+    "back": "Divide numerator and denominator by the greatest common factor."
+   }
+  ]
+ },
+ {
+  "section": "More Conversions & Calculations",
+  "description": "Additional units and practice facts.",
+  "cards": [
+   {
+    "front": "mEq",
+    "back": "Milliequivalent: unit used for electrolytes such as potassium chloride."
+   },
+   {
+    "front": "1 mL",
+    "back": "1 cc."
+   },
+   {
+    "front": "Mixed number to improper fraction",
+    "back": "Multiply the whole number by the denominator and add the numerator: 2 1/2 = 5/2."
+   },
+   {
+    "front": "1 pint",
+    "back": "About 500 mL (16 fl oz)."
+   },
+   {
+    "front": "1 quart",
+    "back": "About 1,000 mL (32 fl oz)."
+   },
+   {
+    "front": "1 gallon",
+    "back": "About 4 L (128 fl oz)."
+   },
+   {
+    "front": "1 oz (weight)",
+    "back": "About 30 g."
+   },
+   {
+    "front": "1 lb (weight)",
+    "back": "16 oz, about 454 g."
+   },
+   {
+    "front": "1 m",
+    "back": "100 cm or 1,000 mm."
+   },
+   {
+    "front": "1 cm",
+    "back": "10 mm."
+   },
+   {
+    "front": "Mean (average)",
+    "back": "Sum of the values ÷ number of values."
+   },
+   {
+    "front": "Tablet calculation example",
+    "back": "Order 500 mg; have 250 mg tablets → 2 tablets."
+   },
+   {
+    "front": "Liquid example",
+    "back": "Order 250 mg; have 125 mg/5 mL → 10 mL."
+   },
+   {
+    "front": "IV rate example",
+    "back": "1,000 mL over 8 hr = 125 mL/hr."
+   },
+   {
+    "front": "Drip rate example",
+    "back": "100 mL/hr with 20 gtt/mL set = about 33 gtt/min."
+   },
+   {
+    "front": "Pediatric weight example",
+    "back": "44 lb ÷ 2.2 = 20 kg."
+   },
+   {
+    "front": "Percent error",
+    "back": "(Measured − actual) ÷ actual × 100."
+   },
+   {
+    "front": "BMI formula",
+    "back": "kg ÷ m²; or (lb ÷ in²) × 703."
+   },
+   {
+    "front": "Heparin units",
+    "back": "Heparin is ordered in units, not mg."
+   },
+   {
+    "front": "Reconstitution",
+    "back": "Adding diluent to a powdered drug; check the label for volume and resulting concentration."
+   },
+   {
+    "front": "Pharmacy abbreviation 'q'",
+    "back": "Every (e.g., q4h = every 4 hours)."
+   },
+   {
+    "front": "hs (avoid)",
+    "back": "Bedtime; considered error-prone—write 'bedtime.'"
+   },
+   {
+    "front": "ISMP do-not-use list",
+    "back": "Avoid U (units), IU, QD, QOD, MS, and trailing zeros."
+   },
+   {
+    "front": "Celsius fever",
+    "back": "38°C (100.4°F) or higher is generally a fever."
+   },
+   {
+    "front": "Reasonableness check",
+    "back": "If a calculation calls for many tablets or a huge volume, recheck the math before giving it."
+   },
+   {
+    "front": "Military time 11:45 PM",
+    "back": "2345."
+   },
+   {
+    "front": "Body surface area use",
+    "back": "Used for chemotherapy and some pediatric doses."
+   },
+   {
+    "front": "Scientific notation",
+    "back": "Writing numbers as a × 10ⁿ, e.g., 5,000 = 5 × 10³."
+   }
+  ]
  }
 ];

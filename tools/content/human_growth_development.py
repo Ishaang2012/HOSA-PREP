@@ -262,3 +262,30 @@ FLASHCARDS = [
         ("Disengagement theory", "Mutual withdrawal of elders and society"),
     ]),
 ]
+
+FLASHCARDS += [
+    ("More Development Concepts", "Additional theories, milestones, and life-span terms.", [
+        ("Nature vs. nurture", "Debate over the roles of heredity and environment in development."),
+        ("Longitudinal study", "Follows the same people over many years."),
+        ("Cross-sectional study", "Compares people of different ages at one time."),
+        ("Maslow's hierarchy", "Physiological, safety, love/belonging, esteem, self-actualization."),
+        ("Vygotsky's scaffolding", "Support given to a learner that is reduced as skills grow."),
+        ("Bandura's social learning", "People learn by observing and imitating others (Bobo doll study)."),
+        ("Skinner's operant conditioning", "Behavior is shaped by reinforcement and punishment."),
+        ("Temperament", "Inborn behavioral style: easy, difficult, or slow-to-warm-up."),
+        ("Stranger anxiety", "Fear of unfamiliar people, often starting around 8–9 months."),
+        ("Separation anxiety", "Distress when separated from a caregiver; peaks around 10–18 months."),
+        ("Egocentrism (Piaget)", "Preoperational child can't see from another's perspective."),
+        ("Formal operations", "Piaget's final stage (12+): abstract and hypothetical thinking."),
+        ("Puberty", "Period of sexual maturation driven by hormones."),
+        ("Growth spurt", "Rapid increase in height and weight during puberty; earlier in girls."),
+        ("Peer pressure", "Influence from peers to behave in certain ways; strongest in adolescence."),
+        ("Self-esteem", "Overall evaluation of one's own worth."),
+        ("Midlife transition", "Reassessment of goals and priorities during middle adulthood."),
+        ("Empty nest", "Period when children leave home; can bring relief or sadness."),
+        ("Retirement", "Leaving the workforce; adjustment depends on health, finances, and purpose."),
+        ("Ageism", "Stereotyping and discrimination based on age."),
+        ("Life expectancy", "Average number of years a person is expected to live."),
+        ("Bereavement", "State of having lost a loved one to death."),
+    ]),
+]

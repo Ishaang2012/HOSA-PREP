@@ -267,3 +267,25 @@ FLASHCARDS = [
         ("Schiavo", "Shows why advance directives matter"),
     ]),
 ]
+
+FLASHCARDS += [
+    ("More Law & Ethics", "Additional legal and ethical terms.", [
+        ("Contract (implied vs. expressed)", "Implied by actions; expressed is stated in words or writing."),
+        ("Breach of confidentiality", "Disclosing patient information without authorization."),
+        ("Defamation", "False statements that harm a reputation (libel = written, slander = spoken)."),
+        ("Invasion of privacy", "Unauthorized intrusion or publicizing of private information."),
+        ("Scope of practice", "Duties a professional is legally allowed to perform."),
+        ("Licensure vs. certification", "Licensure is mandatory and state-granted; certification is usually voluntary through a professional body."),
+        ("Medical practice act", "State law defining licensure and practice of medicine."),
+        ("Stark Law", "Bans physician self-referral for certain services to entities with financial ties."),
+        ("Anti-Kickback Statute", "Prohibits paying or receiving anything of value for referrals of federal health program patients."),
+        ("False Claims Act", "Penalizes submitting false bills to the government; allows whistleblower lawsuits."),
+        ("EMTALA", "Hospitals must screen and stabilize emergency patients regardless of ability to pay."),
+        ("Patient Self-Determination Act", "Facilities must inform patients about advance directives."),
+        ("Veracity", "Ethical duty to tell the truth."),
+        ("Fidelity", "Ethical duty to keep promises and be loyal."),
+        ("Code of ethics", "Professional association's standards of conduct (e.g., AMA Code of Medical Ethics)."),
+        ("Conflict of interest", "Personal interests that could improperly influence professional decisions."),
+        ("Whistleblower", "Employee who reports illegal or unethical practices; protected by law."),
+    ]),
+]
