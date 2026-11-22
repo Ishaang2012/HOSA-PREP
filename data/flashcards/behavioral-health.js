@@ -391,5 +391,63 @@ window.CONTENT["behavioral-health"].flashcards = [
     "back": "Mental and physical health treated together"
    }
   ]
+ },
+ {
+  "section": "More Concepts to Know",
+  "description": "Extra terms that round out the test plan: development, psychology research, and clinical skills.",
+  "cards": [
+   {
+    "front": "Norepinephrine",
+    "back": "Neurotransmitter for alertness and the fight-or-flight response; low levels are linked to depression."
+   },
+   {
+    "front": "Endorphins",
+    "back": "The body's natural opioids; reduce pain and create pleasure, e.g., during exercise."
+   },
+   {
+    "front": "Hypothalamus",
+    "back": "Brain region controlling hunger, thirst, temperature, and the pituitary gland (links nervous and endocrine systems)."
+   },
+   {
+    "front": "Schemas",
+    "back": "Mental frameworks that organize knowledge; Piaget said we assimilate new info or accommodate schemas to fit it."
+   },
+   {
+    "front": "Confirmation bias",
+    "back": "Tendency to seek and favor information that supports what we already believe."
+   },
+   {
+    "front": "Fundamental attribution error",
+    "back": "Overestimating personality and underestimating the situation when explaining others' behavior."
+   },
+   {
+    "front": "Cognitive dissonance",
+    "back": "Discomfort from holding conflicting beliefs or acting against beliefs; people change attitudes to reduce it."
+   },
+   {
+    "front": "Social anxiety disorder",
+    "back": "Intense fear of being judged or embarrassed in social situations, leading to avoidance."
+   },
+   {
+    "front": "Specific phobia",
+    "back": "Excessive, irrational fear of a specific object or situation (e.g., heights, spiders)."
+   },
+   {
+    "front": "Somatic symptom disorder",
+    "back": "Distressing physical symptoms with excessive thoughts and anxiety about them."
+   },
+   {
+    "front": "Motivational interviewing",
+    "back": "Client-centered counseling that resolves ambivalence and strengthens a person's own motivation to change."
+   },
+   {
+    "front": "Stages of change",
+    "back": "Transtheoretical model: precontemplation, contemplation, preparation, action, maintenance (and relapse)."
+   },
+   {
+    "front": "Protective factors",
+    "back": "Conditions that lower the risk of mental illness or suicide, e.g., strong relationships, coping skills, access to care."
+   }
+  ]
  }
 ];

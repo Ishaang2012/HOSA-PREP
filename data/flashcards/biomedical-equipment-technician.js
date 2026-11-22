@@ -271,5 +271,183 @@ window.CONTENT["biomedical-equipment-technician"].flashcards = [
     "back": "Tracks equipment and work orders"
    }
   ]
+ },
+ {
+  "section": "Biomedical Engineering Basics",
+  "description": "Core BMET knowledge: careers, anatomy links, and measurement.",
+  "cards": [
+   {
+    "front": "BMET",
+    "back": "Biomedical equipment technician: installs, inspects, maintains, calibrates, and repairs medical devices."
+   },
+   {
+    "front": "Clinical engineer",
+    "back": "Engineer who manages medical technology in a hospital, including planning, safety, and integration."
+   },
+   {
+    "front": "CBET",
+    "back": "Certified Biomedical Equipment Technician credential, offered through AAMI."
+   },
+   {
+    "front": "AAMI",
+    "back": "Association for the Advancement of Medical Instrumentation: develops standards and training for medical technology."
+   },
+   {
+    "front": "The Joint Commission (EC standards)",
+    "back": "Accreditor whose Environment of Care standards require medical equipment management programs."
+   },
+   {
+    "front": "Calibration",
+    "back": "Adjusting a device so its readings match a known reference standard."
+   },
+   {
+    "front": "Performance verification",
+    "back": "Testing that a device works within the manufacturer's specifications after service or on schedule."
+   },
+   {
+    "front": "Incoming inspection",
+    "back": "Safety and performance check done before a new device is placed into clinical use."
+   },
+   {
+    "front": "Asset tag",
+    "back": "Unique ID label used to track a device in the equipment inventory."
+   },
+   {
+    "front": "Root cause analysis",
+    "back": "Structured investigation of why an adverse event or failure happened, to prevent recurrence."
+   },
+   {
+    "front": "Service manual",
+    "back": "Manufacturer document with specifications, schematics, troubleshooting, and repair procedures."
+   },
+   {
+    "front": "Electrical safety analyzer",
+    "back": "Test instrument that measures leakage current, ground resistance, and line voltage of devices."
+   },
+   {
+    "front": "Patient simulator",
+    "back": "Device that generates signals (ECG, SpO2, NIBP) to test monitors without a patient."
+   },
+   {
+    "front": "Ground resistance limit",
+    "back": "Protective earth resistance on a hospital-grade power cord is typically ≤ 0.5 Ω (manufacturer limits may differ)."
+   }
+  ]
+ },
+ {
+  "section": "Devices & Physiology",
+  "description": "How common devices measure the body.",
+  "cards": [
+   {
+    "front": "Sphygmomanometer / NIBP",
+    "back": "Measures blood pressure; automated units use the oscillometric method."
+   },
+   {
+    "front": "Capnography",
+    "back": "Measures exhaled CO2 (EtCO2); normal about 35–45 mm Hg."
+   },
+   {
+    "front": "Electrode",
+    "back": "Sensor that converts ionic body signals into electrical signals for devices like ECGs."
+   },
+   {
+    "front": "Lead II",
+    "back": "Common ECG monitoring lead; right arm (−) to left leg (+)."
+   },
+   {
+    "front": "Telemetry",
+    "back": "Wireless transmission of patient monitoring data, such as ECG, to a central station."
+   },
+   {
+    "front": "Syringe pump",
+    "back": "Infusion device that pushes a syringe plunger to deliver small, precise volumes."
+   },
+   {
+    "front": "Free-flow protection",
+    "back": "Infusion pump safety feature that stops uncontrolled flow when the set is removed."
+   },
+   {
+    "front": "Occlusion alarm",
+    "back": "Infusion pump alarm triggered by a blocked line (downstream or upstream)."
+   },
+   {
+    "front": "X-ray tube",
+    "back": "Produces X-rays when high-speed electrons from the cathode strike the anode target."
+   },
+   {
+    "front": "Transducer",
+    "back": "Converts one form of energy into another, e.g., pressure into an electrical signal."
+   },
+   {
+    "front": "Anesthesia machine",
+    "back": "Delivers controlled mixtures of oxygen, air, and anesthetic agents; includes vaporizers and ventilator."
+   },
+   {
+    "front": "Incubator (infant)",
+    "back": "Closed device that controls temperature and humidity for newborns."
+   },
+   {
+    "front": "Centrifuge",
+    "back": "Spins samples at high speed to separate components by density."
+   }
+  ]
+ },
+ {
+  "section": "Troubleshooting & Tools",
+  "description": "Methods and test equipment for repairs.",
+  "cards": [
+   {
+    "front": "Multimeter",
+    "back": "Measures voltage, current, and resistance."
+   },
+   {
+    "front": "Oscilloscope",
+    "back": "Displays electrical signals as waveforms over time."
+   },
+   {
+    "front": "Continuity test",
+    "back": "Checks whether a complete electrical path exists (near 0 Ω)."
+   },
+   {
+    "front": "Half-split troubleshooting",
+    "back": "Testing at a midpoint of a circuit to isolate a fault quickly."
+   },
+   {
+    "front": "ESD",
+    "back": "Electrostatic discharge; can damage electronics, so wear a grounded wrist strap."
+   },
+   {
+    "front": "Firmware",
+    "back": "Software stored on a device's hardware that controls its functions; updated by the manufacturer."
+   },
+   {
+    "front": "Use error",
+    "back": "Device problem caused by how it was used rather than a malfunction; may indicate need for training."
+   },
+   {
+    "front": "Hz",
+    "back": "Unit of frequency: cycles per second."
+   },
+   {
+    "front": "Digital vs. analog",
+    "back": "Digital signals have discrete values; analog signals vary continuously."
+   },
+   {
+    "front": "Binary",
+    "back": "Base-2 number system (0 and 1) used by computers."
+   },
+   {
+    "front": "Battery capacity (mAh)",
+    "back": "How much charge a battery stores; higher mAh means longer run time."
+   },
+   {
+    "front": "Isolation transformer",
+    "back": "Separates a device from ground-referenced power to reduce shock risk."
+   },
+   {
+    "front": "Open circuit",
+    "back": "A break in the path; no current flows (infinite resistance)."
+   }
+  ]
  }
 ];

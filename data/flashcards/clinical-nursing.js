@@ -283,5 +283,171 @@ window.CONTENT["clinical-nursing"].flashcards = [
     "back": "4 mL × kg × %TBSA"
    }
   ]
+ },
+ {
+  "section": "Safety, Skills & Medications",
+  "description": "Core nursing skills and safety rules.",
+  "cards": [
+   {
+    "front": "Rights of medication administration",
+    "back": "Right patient, drug, dose, route, time, documentation (plus reason and response)."
+   },
+   {
+    "front": "Two patient identifiers",
+    "back": "Name and date of birth (never room number) before any care or medication."
+   },
+   {
+    "front": "High-alert medications",
+    "back": "Insulin, heparin, opioids, potassium chloride; require extra checks."
+   },
+   {
+    "front": "IV push potassium",
+    "back": "Never; potassium is always diluted and infused slowly."
+   },
+   {
+    "front": "Z-track injection",
+    "back": "IM technique that seals medication in muscle to prevent leakage into tissue."
+   },
+   {
+    "front": "Contact precautions",
+    "back": "Gown and gloves; e.g., MRSA, C. difficile (use soap and water)."
+   },
+   {
+    "front": "Droplet precautions",
+    "back": "Surgical mask within 3–6 feet; e.g., influenza, pertussis."
+   },
+   {
+    "front": "Airborne precautions",
+    "back": "N95 and negative-pressure room; e.g., TB, measles, varicella."
+   },
+   {
+    "front": "Restraint checks",
+    "back": "Assess at least every 2 hours (often more); need a provider order and least-restrictive alternatives first."
+   },
+   {
+    "front": "Incident report",
+    "back": "Documents unexpected events; not placed in the patient's chart."
+   },
+   {
+    "front": "Informed consent (nurse role)",
+    "back": "Provider explains the procedure; the nurse witnesses the signature and confirms understanding."
+   },
+   {
+    "front": "Pain reassessment",
+    "back": "Recheck pain about 30–60 minutes after a medication, depending on route."
+   }
+  ]
+ },
+ {
+  "section": "More Med-Surg",
+  "description": "Additional disorders and priorities.",
+  "cards": [
+   {
+    "front": "Stroke recognition",
+    "back": "BE FAST: balance, eyes, face, arms, speech, time to call."
+   },
+   {
+    "front": "tPA window",
+    "back": "Clot-busting drug for ischemic stroke, generally within 3–4.5 hours of symptom onset."
+   },
+   {
+    "front": "Pulmonary embolism",
+    "back": "Sudden dyspnea, chest pain, tachycardia, hypoxia; often from DVT."
+   },
+   {
+    "front": "Asthma rescue drug",
+    "back": "Short-acting beta-agonist such as albuterol."
+   },
+   {
+    "front": "Pneumonia care",
+    "back": "Oxygen, antibiotics, fluids, coughing and deep breathing, upright position."
+   },
+   {
+    "front": "Hip fracture signs",
+    "back": "Shortened, externally rotated leg with pain."
+   },
+   {
+    "front": "Compartment syndrome",
+    "back": "Pain out of proportion, pallor, paresthesia, pulselessness; an emergency."
+   },
+   {
+    "front": "Appendicitis",
+    "back": "Right lower quadrant pain at McBurney's point; rebound tenderness."
+   },
+   {
+    "front": "Peritonitis",
+    "back": "Rigid, board-like abdomen; a surgical emergency."
+   },
+   {
+    "front": "UTI in older adults",
+    "back": "May present as new confusion rather than burning."
+   },
+   {
+    "front": "Sepsis",
+    "back": "Life-threatening response to infection; early fluids and antibiotics save lives."
+   },
+   {
+    "front": "Anaphylaxis treatment",
+    "back": "Epinephrine IM first, airway support, then antihistamines and steroids."
+   },
+   {
+    "front": "Seizure care",
+    "back": "Protect the head, turn to side, time it; never put anything in the mouth."
+   }
+  ]
+ },
+ {
+  "section": "Maternal, Pediatric & Mental Health",
+  "description": "Life span priorities.",
+  "cards": [
+   {
+    "front": "Normal fetal heart rate",
+    "back": "110–160 beats/min."
+   },
+   {
+    "front": "Variable decelerations",
+    "back": "Caused by cord compression; reposition the mother."
+   },
+   {
+    "front": "Fundus after delivery",
+    "back": "Should be firm at the umbilicus; massage if boggy."
+   },
+   {
+    "front": "Apgar score",
+    "back": "Heart rate, respiratory effort, muscle tone, reflex irritability, color at 1 and 5 minutes."
+   },
+   {
+    "front": "Epiglottitis",
+    "back": "Drooling, tripod position, high fever; don't examine the throat."
+   },
+   {
+    "front": "Croup",
+    "back": "Barking cough and stridor; cool mist and steroids."
+   },
+   {
+    "front": "Pediatric dehydration signs",
+    "back": "Dry mucous membranes, fewer wet diapers, sunken fontanel."
+   },
+   {
+    "front": "Lithium toxicity",
+    "back": "Tremor, vomiting, confusion; levels above about 1.5 mEq/L."
+   },
+   {
+    "front": "Serotonin syndrome",
+    "back": "Agitation, fever, muscle rigidity after too much serotonergic drug."
+   },
+   {
+    "front": "Alcohol withdrawal",
+    "back": "Tremors, anxiety, seizures; delirium tremens 48–72 hours after last drink."
+   },
+   {
+    "front": "Therapeutic communication",
+    "back": "Open-ended questions, reflection, silence; avoid 'why' questions and false reassurance."
+   },
+   {
+    "front": "Elder abuse",
+    "back": "Physical, emotional, financial, or neglect; nurses are mandatory reporters."
+   }
+  ]
  }
 ];

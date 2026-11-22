@@ -273,3 +273,21 @@ FLASHCARDS = [
         ("Integrated care", "Mental and physical health treated together"),
     ]),
 ]
+
+FLASHCARDS += [
+    ("More Concepts to Know", "Extra terms that round out the test plan: development, psychology research, and clinical skills.", [
+        ("Norepinephrine", "Neurotransmitter for alertness and the fight-or-flight response; low levels are linked to depression."),
+        ("Endorphins", "The body's natural opioids; reduce pain and create pleasure, e.g., during exercise."),
+        ("Hypothalamus", "Brain region controlling hunger, thirst, temperature, and the pituitary gland (links nervous and endocrine systems)."),
+        ("Schemas", "Mental frameworks that organize knowledge; Piaget said we assimilate new info or accommodate schemas to fit it."),
+        ("Confirmation bias", "Tendency to seek and favor information that supports what we already believe."),
+        ("Fundamental attribution error", "Overestimating personality and underestimating the situation when explaining others' behavior."),
+        ("Cognitive dissonance", "Discomfort from holding conflicting beliefs or acting against beliefs; people change attitudes to reduce it."),
+        ("Social anxiety disorder", "Intense fear of being judged or embarrassed in social situations, leading to avoidance."),
+        ("Specific phobia", "Excessive, irrational fear of a specific object or situation (e.g., heights, spiders)."),
+        ("Somatic symptom disorder", "Distressing physical symptoms with excessive thoughts and anxiety about them."),
+        ("Motivational interviewing", "Client-centered counseling that resolves ambivalence and strengthens a person's own motivation to change."),
+        ("Stages of change", "Transtheoretical model: precontemplation, contemplation, preparation, action, maintenance (and relapse)."),
+        ("Protective factors", "Conditions that lower the risk of mental illness or suicide, e.g., strong relationships, coping skills, access to care."),
+    ]),
+]

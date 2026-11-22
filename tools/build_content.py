@@ -97,9 +97,17 @@ def build(event_id):
     dupes = {q for q in qs if qs.count(q) > 1}
     assert not dupes, f"duplicate questions: {dupes}"
     decks = []
+    # Flashcards must be unique across the whole event, not just within a section.
+    norm = lambda t: re.sub(r"[^a-z0-9]+", " ", t.lower()).strip()
+    seen = {}
     for section, desc, cards in m.FLASHCARDS:
-        fronts = [c[0] for c in cards]
-        assert len(fronts) == len(set(fronts)), f"duplicate flashcard in {section}"
+        for f, b in cards:
+            k = norm(f)
+            assert k not in seen, f"duplicate flashcard '{f}' in {section} (also in {seen[k]})"
+            seen[k] = section
+    total = len(seen)
+    assert total >= 100, f"{event_id}: only {total} flashcards; every event needs at least 100"
+    for section, desc, cards in m.FLASHCARDS:
         decks.append({"section": section, "description": desc, "cards": [{"front": f, "back": b} for f, b in cards]})
     scripts = [f"data/tests/{event_id}.js", f"data/flashcards/{event_id}.js"]
     write_js(scripts[0], event_id, "tests", tests,

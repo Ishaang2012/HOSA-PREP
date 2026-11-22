@@ -309,5 +309,145 @@ window.CONTENT["biotechnology"].flashcards = [
     "back": "Sort cells by markers"
    }
   ]
+ },
+ {
+  "section": "Careers, Ethics & Applications",
+  "description": "Where biotechnology is used and the rules around it.",
+  "cards": [
+   {
+    "front": "Biopharmaceutical",
+    "back": "Drug made using living organisms, such as monoclonal antibodies or recombinant proteins."
+   },
+   {
+    "front": "Biosimilar",
+    "back": "Biologic that is highly similar to an approved reference biologic with no meaningful clinical difference."
+   },
+   {
+    "front": "Gene therapy",
+    "back": "Treating disease by adding, replacing, or editing genes in a patient's cells."
+   },
+   {
+    "front": "CRISPR-Cas9",
+    "back": "Gene-editing system where a guide RNA directs Cas9 to cut DNA at a target sequence."
+   },
+   {
+    "front": "GMO",
+    "back": "Genetically modified organism whose DNA has been altered with biotechnology."
+   },
+   {
+    "front": "Bt crops",
+    "back": "Plants engineered with Bacillus thuringiensis genes to produce insecticidal proteins."
+   },
+   {
+    "front": "Bioremediation",
+    "back": "Using organisms to clean up pollutants, e.g., oil-eating bacteria."
+   },
+   {
+    "front": "Informed consent (research)",
+    "back": "Participants must understand the study's risks and benefits and agree voluntarily."
+   },
+   {
+    "front": "Patent",
+    "back": "Legal protection giving an inventor exclusive rights to an invention for a set time."
+   },
+   {
+    "front": "Quality control vs. quality assurance",
+    "back": "QC tests products; QA designs systems and processes that ensure quality."
+   },
+   {
+    "front": "Lab notebook",
+    "back": "Permanent, dated record of procedures and results; never erase—cross out with one line."
+   }
+  ]
+ },
+ {
+  "section": "More Lab Techniques",
+  "description": "Additional methods and calculations.",
+  "cards": [
+   {
+    "front": "Serial dilution",
+    "back": "Stepwise dilutions (e.g., 1:10 each step) used to reach very low concentrations."
+   },
+   {
+    "front": "Dilution factor",
+    "back": "Final volume ÷ sample volume; a 1 mL sample in 10 mL total is a 1:10 dilution."
+   },
+   {
+    "front": "Spectrophotometer",
+    "back": "Measures how much light a sample absorbs at a chosen wavelength."
+   },
+   {
+    "front": "Absorbance at 260 nm",
+    "back": "Used to measure nucleic acid concentration."
+   },
+   {
+    "front": "Micropipette accuracy check",
+    "back": "Weigh dispensed water: 1 mL of water ≈ 1 g."
+   },
+   {
+    "front": "Buffer",
+    "back": "Solution that resists changes in pH, e.g., Tris or phosphate buffer."
+   },
+   {
+    "front": "Electroporation",
+    "back": "Electric pulse opens membrane pores so cells can take up DNA."
+   },
+   {
+    "front": "Restriction mapping",
+    "back": "Using fragment sizes from enzyme digests to locate cut sites on DNA."
+   },
+   {
+    "front": "DNA ladder",
+    "back": "Mix of DNA fragments of known sizes used to estimate band sizes on a gel."
+   },
+   {
+    "front": "Ethidium bromide / SYBR Safe",
+    "back": "Stains that make DNA visible under UV or blue light."
+   },
+   {
+    "front": "Sanger sequencing",
+    "back": "Chain-termination sequencing using labeled ddNTPs."
+   },
+   {
+    "front": "Next-generation sequencing",
+    "back": "High-throughput methods that sequence millions of DNA fragments in parallel."
+   },
+   {
+    "front": "Bioinformatics",
+    "back": "Using computers to store and analyze biological data such as DNA sequences."
+   },
+   {
+    "front": "BLAST",
+    "back": "NCBI tool that compares a sequence to databases to find similar sequences."
+   },
+   {
+    "front": "Fermentation (industrial)",
+    "back": "Growing microbes in large bioreactors to produce products like insulin or enzymes."
+   },
+   {
+    "front": "Bioreactor",
+    "back": "Controlled vessel for growing cells, regulating temperature, pH, oxygen, and mixing."
+   },
+   {
+    "front": "Downstream processing",
+    "back": "Recovering and purifying a product after it's made by cells."
+   },
+   {
+    "front": "Ion exchange chromatography",
+    "back": "Separates proteins by charge."
+   },
+   {
+    "front": "Isoelectric point (pI)",
+    "back": "pH at which a protein has no net charge."
+   },
+   {
+    "front": "Mass spectrometry",
+    "back": "Identifies molecules by measuring their mass-to-charge ratio."
+   },
+   {
+    "front": "Stem cells",
+    "back": "Unspecialized cells that can self-renew and differentiate into specialized cells."
+   }
+  ]
  }
 ];
