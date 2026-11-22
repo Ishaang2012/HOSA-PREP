@@ -195,7 +195,7 @@
       },
     ];
     // Events judged without a written test only show what applies to them.
-    modes = modes.filter((m) => !m.skip && (ev.hasTest || m.href === "guide" || (m.href === "summaries" && s.books)));
+    modes = modes.filter((m) => !m.skip && (ev.hasTest || m.href === "guide" || (m.href === "summaries" && s.books) || (m.href === "flashcards" && s.cards)));
     const plan = ev.testPlan || [];
     app.innerHTML = `
       ${crumbs([{ label: "Events", href: "#/" }, { label: ev.name }])}

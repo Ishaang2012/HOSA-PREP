@@ -109,7 +109,9 @@ def build(event_id):
             assert k not in seen, f"duplicate flashcard '{f}' in {section} (also in {seen[k]})"
             seen[k] = section
     total = len(seen)
-    assert total >= 100, f"{event_id}: only {total} flashcards; every event needs at least 100"
+    # Knowledge events need at least 100 cards; tip-based decks for performance events may set a lower MIN_FLASHCARDS.
+    need = getattr(m, "MIN_FLASHCARDS", 100)
+    assert total >= need, f"{event_id}: only {total} flashcards; this event needs at least {need}"
     for section, desc, cards in m.FLASHCARDS:
         decks.append({"section": section, "description": desc, "cards": [{"front": f, "back": b} for f, b in cards]})
     scripts = ([f"data/tests/{event_id}.js"] if has_tests else []) + [f"data/flashcards/{event_id}.js"]
